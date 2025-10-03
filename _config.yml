@@ -1,0 +1,10 @@
+# Site settings
+title: "Ubuntu Economic Commons – Living Labs"
+description: "Open-source reciprocity labs, prototypes, and documentation."
+# Enable the built-in Cayman theme on GitHub Pages
+theme: jekyll-theme-cayman
+
+# Optional niceties
+show_downloads: false
+github:
+  is_project_page: false   # set true if you want the “View on GitHub” button
