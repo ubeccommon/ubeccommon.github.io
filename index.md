@@ -17,7 +17,7 @@ A lightweight, human-scaled protocol for reciprocity, governance, and regenerati
 - 👉 [Roadmap](#roadmap)
 
 ## About
-UBEC explores practical, post-capital frameworks through open-source tools and place-based experiments.
+UBEC explores practical, alternative economic frameworks through open-source tools and place-based experiments.
 
 ## Get Involved
 - Start a local living lab
