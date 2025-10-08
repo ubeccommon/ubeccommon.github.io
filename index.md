@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Ubuntu Bioregional Economic Commons – Living Labs
+title: Ubuntu Bioregional Economic Commons
 ---
 
-# Ubuntu Bioregional Economic Commons – Living Labs
+# Ubuntu Bioregional Economic Commons
 
 A lightweight, human-scaled protocol for reciprocity, governance, and regenerative economics.
 
