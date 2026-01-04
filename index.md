@@ -29,6 +29,11 @@ UBEC explores practical, alternative economic frameworks through open-source too
 - Q2: Pilot deployments & dashboards  
 - Q3: Metrics, reports, and templates
 
+## 📞 Contact
+
+**Project Lead**: Farmer John  
+**Email**: living-labs@ubec.network  
+**Website**: https://iot.ubec.network  
 ---
 
 *Built with the Cayman theme on GitHub Pages.*
