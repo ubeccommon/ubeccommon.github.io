@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Ubuntu Bioregional Economic Commons
+title: Ubuntu Bioregional Economic Commons DAO
 ---
 
-# Ubuntu Bioregional Economic Commons
+# Ubuntu Bioregional Economic Commons DAO
 
 A lightweight, human-scaled protocol for reciprocity, governance, and regenerative economics.
 
