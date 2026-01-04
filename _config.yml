@@ -1,6 +1,6 @@
 # Site settings
 title: "Ubuntu Bioregional Economic Commons"
-description: "Open-source reciprocity living labs, prototypes, and documentation."
+description: "Open-source reciprocity, living labs, prototypes, and documentation."
 # Enable the built-in Cayman theme on GitHub Pages
 theme: jekyll-theme-cayman
 
