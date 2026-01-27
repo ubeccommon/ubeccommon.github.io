@@ -5,7 +5,7 @@ title: Ubuntu Bioregional Economic Commons DAO
 
 # Ubuntu Bioregional Economic Commons DAO
 
-A lightweight, human-scaled protocol for sustainability literacy, citizen science, Reciprocal Economics and governance.
+A lightweight, human-scaled protocol for sustainability literacy, citizen science, reciprocal economics and governance.
 
 - **Living Labs:** field pilots, school gardens, local tokens, and community markets  
 - **Open Tech:** Stellar/Soroban modules, bots, and analytics  
