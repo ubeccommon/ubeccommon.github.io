@@ -1,3 +1,12 @@
+---
+title: "Pattern Discovery Toolkit"
+subtitle: "Parts 1-5: Theory, Method, and Field Application"
+date: "February 2026"
+lang: en
+version: "1.1"
+license: "CC BY-SA 4.0"
+project: "Erdpuls Müllrose OER Collection"
+---
 # ERDPULS MÜLLROSE
 
 **Center for Sustainability Literacy, Citizen Science & Reciprocal Economics**
@@ -11,13 +20,13 @@
 **Version**: 1.1  
 **Date**: February 2026
 
----
+* * *
 
 ## Changelog
-| Version | Date          | Changes                                      |
+| Version | Date     | Changes                                      |
 |---------|---------------|----------------------------------------------|
-| 1.1     | February 2026 | Institution name updated; license footer added; version updated for OER publication |
-| 1.0     | October 2025  | Initial release                              |
+| 1.1   | February 2026 | Institution name updated; license footer added; version updated for OER publication |
+| 1.0   | October 2025  | Initial release               |
 
 
 ## Preface: Why This Toolkit Exists
@@ -30,7 +39,7 @@ The output of this process is not a report to be filed. It is a collectively aut
 
 This toolkit was prototyped at Erdpuls Müllrose, Brandenburg, Germany, at the gateway to the Naturpark Schlaubetal. But the method is designed to be transferable. Where we describe the specific rings of attention we used in Müllrose, other initiatives should understand these as *examples of the method*, not prescriptions. Your center will be different. Your rings will be different. Your patterns will be your own.
 
----
+* * *
 
 ## Part 1: Foundations
 
@@ -127,7 +136,7 @@ Alexander shows us *what* to observe at each scale. Hall shows us *how* we obser
 
 **Vertical proxemics:** Hall noted that vertical distance communicates power. Looking down on someone asserts dominance; being at the same level communicates equality. This has immediate implications for facilitation across target groups: kneeling with children during soil observation; bringing samples to a seated elder at comfortable height; ensuring that intergenerational pairings have the elder seated (above) while the younger participant does physical ground work (below) — inverting the usual age-power dynamic in which youth tower over elders.
 
----
+* * *
 
 ## Part 2: The Method in Detail
 
@@ -170,7 +179,7 @@ The sequential sensory calibration in Ring 0 — touch/temperature first, then s
 
 When introducing the sensor dialogue at the end of Ring 0, the facilitator is staging a proxemic encounter between the participant's body and the electronic sensor: "Your skin says 'cool but sheltered.' The thermometer says 11°C. These are two perceptions from different proxemic positions — your body at intimate distance, the sensor at its fixed point. Neither is more true. The gap between them is where learning begins."
 
----
+* * *
 
 ### 2.2 Ring 1 — The Site (Der Hof / Podwórze)
 
@@ -225,7 +234,7 @@ Participants should be encouraged to name patterns in their own language first. 
 | "Schwelle" (Threshold) | Indoor workshop vs. outdoor garden | The covered passage between buildings creates a zone that is neither fully inside nor outside — tools migrate here, conversations start here, rain or shine |
 | "Reparaturpfad" (Repair Path) | Efficiency vs. encounter | Bringing broken objects to the repair workshop creates a walking route through the garden; the detour is where cross-pollination between activities happens |
 
----
+* * *
 
 ### 2.3 Ring 2 — The Garden and Near Landscape (Der Garten / Ogród)
 
@@ -268,7 +277,7 @@ The data generated becomes part of the pattern record and, if contributed to ope
 
 The same format as Ring 1, but now ecological patterns emerge alongside spatial ones. Participants often find that patterns from Ring 1 (the built environment) are connected to patterns in Ring 2 (the garden/landscape) — e.g., the orientation of a wall creates a microclimate that supports particular plant communities. These connections are themselves patterns, and should be named.
 
----
+* * *
 
 ### 2.4 Ring 3 — The Settlement (Die Siedlung / Osiedle)
 
@@ -302,7 +311,7 @@ Where available, historical maps, aerial photographs, land-use records, and cens
 
 At this ring, patterns become more complex and often more contested. A pattern that one participant reads as "village resilience" another might read as "resistance to change." This is not a problem — it is the beginning of genuine dialogue about values, sustainability, and whose patterns count. The facilitator should create space for disagreement without forcing resolution.
 
----
+* * *
 
 ### 2.5 Ring 4 — The Sub-Bioregion (Die Teil-Bioregion / Subbioregion)
 
@@ -348,7 +357,7 @@ The resulting map should include:
 - Sensor locations and data summaries
 - Open questions for further investigation
 
----
+* * *
 
 ## Part 3: The Pattern Record
 
@@ -356,7 +365,7 @@ The resulting map should include:
 
 Each pattern discovered through the process should be documented in a consistent format. The following template is offered as a starting point; initiatives should adapt it to their needs.
 
----
+* * *
 
 **PATTERN CARD**
 
@@ -390,7 +399,7 @@ Each pattern discovered through the process should be documented in a consistent
 
 **Status:** [ ] First observation / [ ] Confirmed across multiple observations / [ ] Contested
 
----
+* * *
 
 ### 3.2 From Cards to Language
 
@@ -408,7 +417,7 @@ Some practical methods for this synthesis:
 
 **Narrative Synthesis:** Finally, the pattern language should be expressible as a story — not a database. "This is a place where [the glacial moraine created sandy soils], which means [the water drains quickly and the forest is dominated by pine], which means [the settlements developed along the lake chain where water was accessible], which means [the building tradition uses brick from local clay rather than stone], which means [the repair culture here is a culture of brickwork, mortar, and slow accumulation]…" This narrative is the pattern language in its most communicable form.
 
----
+* * *
 
 ## Part 4: Adaptation Guide
 
@@ -459,7 +468,7 @@ To maintain honesty about scope:
 - It does not resolve **political or economic conflicts** around land use, though the shared observation process often creates conditions for more productive dialogue.
 - It does not require or assume **high technology**. The simplest version needs only human senses and a notebook. Technology enriches but should never replace direct perception.
 
----
+* * *
 
 ## Part 5: Theoretical Roots and Further Reading
 
@@ -483,7 +492,7 @@ This toolkit stands at the intersection of several intellectual traditions. None
 
 **Education for Sustainable Development (BNE)** — The UNESCO framework and its national implementations (in Germany: Transfer 21, the BNE quality catalogs). The twelve sub-competencies of *Gestaltungskompetenz* provide a useful evaluative framework for the skills this toolkit develops. Proxemic awareness — the capacity to read spatial arrangements, understand cultural differences in spatial behavior, and design sociopetal environments for collaborative learning — is not listed among the twelve competencies but underlies many of them, particularly 4.1.1 (openness to new perspectives), 4.2.1 (collaborative planning and action), and 4.3.3 (empathy).
 
----
+* * *
 
 ## License & Attribution
 © 2025–2026 Erdpuls Müllrose - Center for Sustainability Literacy, Citizen Science and Reciprocal Economics   

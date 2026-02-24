@@ -1,3 +1,12 @@
+---
+title: "Proxemic Integration"
+subtitle: "Edward T. Hall's Proxemics as Spatial Grammar for the Pattern Discovery Toolkit"
+date: "February 2026"
+lang: en
+version: "1.1"
+license: "CC BY-SA 4.0"
+project: "Erdpuls Müllrose OER Collection"
+---
 # Proxemic Integration — The Hidden Dimension of Place-Based Learning
 
 ## Edward T. Hall's Proxemics as Spatial Grammar for the Pattern Discovery Toolkit
@@ -7,13 +16,13 @@
 **Version**: 1.1  
 **Date**: February 2026
 
----
+* * *
 
 ## Changelog
-| Version | Date          | Changes                                      |
+| Version | Date     | Changes                                      |
 |---------|---------------|----------------------------------------------|
-| 1.1     | February 2026 | Institution name updated; license footer added; version updated for OER publication |
-| 1.0     | October 2025  | Initial release                              |
+| 1.1   | February 2026 | Institution name updated; license footer added; version updated for OER publication |
+| 1.0   | October 2025  | Initial release               |
 
 
 ## About This Document
@@ -26,9 +35,9 @@ This document weaves Edward T. Hall's proxemics — the study of how humans use 
 
 **For any facilitator, working with any workshop format:** Part Three is a standalone Proxemic Facilitator's Guide with five principles, practical tools, a diagnostic audit template, campus zone design guidance, and a troubleshooting section. It can be used independently of the rest of the document.
 
----
+* * *
 
----
+* * *
 
 # PART ONE: Revised Theoretical Foundations
 
@@ -36,7 +45,7 @@ This document weaves Edward T. Hall's proxemics — the study of how humans use 
 
 The following sections replace or supplement existing sections of the Pattern Discovery Toolkit. They weave Edward T. Hall's proxemics into the framework alongside Alexander, Goethe, Merleau-Ponty, and the other intellectual traditions.
 
----
+* * *
 
 ### Revision 1: New Section 1.5 — Proxemics as Spatial Grammar
 
@@ -81,7 +90,7 @@ This is directly relevant to the toolkit's cross-border and multicultural applic
 
 **Vertical proxemics:** Hall noted that vertical distance communicates power. Looking down on someone asserts dominance; being at the same level communicates equality. This has immediate implications for facilitation across target groups: kneeling with children during soil observation; bringing samples to a seated elder at comfortable height; ensuring that intergenerational pairings have the elder seated (above) while the younger participant does physical ground work (below) — inverting the usual age-power dynamic in which youth tower over elders. The spatial arrangement communicates respect without words.
 
----
+* * *
 
 ### Revision 2: Expanded Part 5 — Theoretical Roots and Further Reading
 
@@ -109,7 +118,7 @@ This toolkit stands at the intersection of several intellectual traditions. None
 
 **Education for Sustainable Development (BNE)** — The UNESCO framework and its national implementations (in Germany: Transfer 21, the BNE quality catalogs). The twelve sub-competencies of *Gestaltungskompetenz* provide a useful evaluative framework for the skills this toolkit develops. Proxemic awareness — the capacity to read spatial arrangements, understand cultural differences in spatial behavior, and design sociopetal environments for collaborative learning — is not listed among the twelve competencies but underlies many of them, particularly 4.1.1 (openness to new perspectives), 4.2.1 (collaborative planning and action), and 4.3.3 (empathy, which Hall's work reveals to be fundamentally a proxemic capacity — you cannot empathize with what you cannot sense, and you cannot sense what is beyond your proxemic reach).
 
----
+* * *
 
 ### Revision 3: Enrichment to Ring 0 Methodology
 
@@ -123,9 +132,9 @@ The sequential sensory calibration in Ring 0 — touch/temperature first, then s
 
 When introducing the sensor dialogue at the end of Ring 0, the facilitator is staging a proxemic encounter between the participant's body and the electronic sensor: "Your skin says 'cool but sheltered.' The thermometer says 11°C. These are two perceptions from different proxemic positions — your body at intimate distance, the sensor at its fixed point. Neither is more true. The gap between them is where learning begins."
 
----
+* * *
 
----
+* * *
 
 # PART TWO: Proxemic Supplements for All Twenty Living Experience Guides
 
@@ -135,7 +144,7 @@ This supplement provides proxemic facilitation notes, spatial design guidance, a
 
 Each supplement follows a consistent structure: a framing note on the proxemic character of the appendix as a whole, then specific notes for each of the five target groups — Children/Youth, Adults/Families, Elders/Intergenerational, Artists/Researchers, and Cross-Border DE/PL.
 
----
+* * *
 
 ## A. Questions to the Soil — Proxemic Supplements
 
@@ -189,7 +198,7 @@ The protocol's fourteen questions (thirteen original plus the auditory enrichmen
 
 **The shared meal — proxemic peak of the cross-border day:** Shared food from both sides of the border, prepared together if possible, consumed seated in close proximity. This is the most powerful sociopetal intervention available for cross-border work. Hall's research and subsequent studies consistently show that shared meals reduce interpersonal distance, activate all sensory channels (taste, smell, temperature, texture, sight), and create conditions for the kind of informal exchange that formal programs cannot engineer. The facilitator should understand: the meal is not a break from the workshop. It is the proxemic center of the cross-border experience.
 
----
+* * *
 
 ## B. Token Economy — Proxemic Supplements
 
@@ -235,7 +244,7 @@ Add to the critical dialogue: "Hall showed that as proxemic distance increases, 
 
 "The border is a proxemic barrier. On the German side, you can walk up to a neighbor, stand at personal distance, and negotiate an exchange in your own language. Cross the border, and the same action requires social or public distance — a formal arrangement, a translation, an institutional mediation. The cross-border token economy is, in proxemic terms, an attempt to create personal-distance economic relationships across a public-distance political boundary. The workshop itself — by bringing people into physical proximity, shared meals, shared tasks — is the proxemic infrastructure that makes this possible."
 
----
+* * *
 
 ## C. Bioregion Mapping — Proxemic Supplements
 
@@ -301,7 +310,7 @@ Possible proxemically-framed cartographic questions:
 
 The cross-border transect is an exercise in proxemic recovery: walking through the Polish landscape long enough that unfamiliarity fades, that the sounds and smells and textures begin to register as recognizable, that the proxemic distance closes from public back toward personal. This recovery — from stranger to acquaintance to something like belonging — is the bioregional insight in proxemic form: the landscape invites intimacy, regardless of which side of the border you're on."
 
----
+* * *
 
 ## D. BNE Quality Framework — Proxemic Supplements
 
@@ -362,15 +371,15 @@ In the Framework Comparison Matrix, the three blank rows at the bottom (Cross-Cu
 
 This criterion captures something no national framework recognizes: that cross-border learning succeeds when people are physically close enough to share sensory experience across a cultural divide. The soil under their hands, the food on their shared table, the map they lean over together — these are the proxemic mediators of cross-border understanding.
 
----
+* * *
 
----
+* * *
 
 # PART THREE: The Proxemic Facilitator's Guide — A Standalone Reference
 
 *This guide can be used independently by any facilitator working with the Pattern Discovery Toolkit or any place-based educational program. It provides a concise introduction to proxemic principles as they apply to sustainability education, and a set of practical tools.*
 
----
+* * *
 
 ## Why This Guide Exists
 
@@ -380,7 +389,7 @@ Proxemics suggests a different explanation: engagement correlates with sensory p
 
 This guide gives you the vocabulary and tools to diagnose and design the proxemic quality of your workshops.
 
----
+* * *
 
 ## The Five Proxemic Principles for Facilitators
 
@@ -414,7 +423,7 @@ When people from different cultures meet, their proxemic norms may conflict — 
 
 *Practical tool:* In cross-cultural and intergenerational settings, always have a shared object at the center of every interaction. The soil sample, the repair project, the map, the meal — these are not just content. They are proxemic mediators.
 
----
+* * *
 
 ## The Proxemic Audit
 
@@ -445,7 +454,7 @@ Before each workshop, walk through the planned activities and complete this tabl
 
 ☐ Is the facilitator at the same height as participants during intimate/personal phases? → **If not, adjust.** Standing over kneeling participants introduces a power dynamic that undermines participatory learning.
 
----
+* * *
 
 ## Proxemic Design of the Erdpuls Campus Zones
 
@@ -491,7 +500,7 @@ Each of the five campus zones has a proxemic character that shapes what kinds of
 
 **Proxemic profile:** Personal (circle, shared meal) to Intimate (fire, storytelling, object passing). All channels active. This zone should feel like the heart of the campus.
 
----
+* * *
 
 ## Proxemic Troubleshooting
 
@@ -531,7 +540,7 @@ Each of the five campus zones has a proxemic character that shapes what kinds of
 
 *Solution:* Move the token card station to the activity site. Fill in cards while hands are still dirty from the soil, while the repaired toaster is still warm, while the shared meal plates are still on the table. The card becomes a proxemic extension of the activity rather than an administrative afterthought.
 
----
+* * *
 
 ## The Proxemic Structure of the Pattern Language Itself
 
@@ -547,7 +556,7 @@ The tour is the pattern language made spatial. And it is, in proxemic terms, a p
 
 The pattern language does not merely describe the place. It describes the place *as experienced at every proxemic distance*. That is what makes it a language of place rather than a database about place. And that is what proxemics, as the hidden dimension of the toolkit's design, makes possible.
 
----
+* * *
 
 ## Further Reading
 
@@ -568,7 +577,7 @@ The pattern language does not merely describe the place. It describes the place 
 - Bortoft, Henri. *The Wholeness of Nature: Goethe's Way Toward a Science of Conscious Participation in Nature*. Hudson: Lindisfarne Press, 1996.
 - Alexander, Christopher. *A Pattern Language: Towns, Buildings, Construction*. New York: Oxford University Press, 1977.
 
----
+* * *
 
 ## License & Attribution
 © 2025–2026 Erdpuls Müllrose - Center for Sustainability Literacy, Citizen Science and Reciprocal Economics   

@@ -1,3 +1,12 @@
+---
+title: "How to Monitor, Contribute, and Connect"
+subtitle: "Citizen Scientist Handbook (05)"
+date: "February 2026"
+lang: en
+version: "1.1"
+license: "CC BY-SA 4.0"
+project: "Erdpuls Müllrose OER Collection"
+---
 # Erdpuls Citizen Scientist Handbook
 ## How to Monitor, Contribute, and Connect
 ### For Adult Citizen Scientists and Community Observers
@@ -8,17 +17,17 @@
 **Version:** 1.1  
 **Date:** February 2026  
 **Status:** Draft v1.1 — OER Publication Ready (EN)  
-**Translation Status:** 🇩🇪 DE — *pending Phase 3* | 🇵🇱 PL — *pending Phase 3*
+**Translation Status:** [DE] — *pending Phase 3* | [PL] — *pending Phase 3*
 
----
+* * *
 
 ## Changelog
-| Version | Date          | Changes                                      |
+| Version | Date     | Changes                                      |
 |---------|---------------|----------------------------------------------|
-| 1.1     | February 2026 | Initial generation for OER publication; institution name and license applied |
-| 1.0     | —             | Not released                                 |
+| 1.1   | February 2026 | Initial generation for OER publication; institution name and license applied |
+| 1.0   | —             | Not released                 |
 
----
+* * *
 
 ## Welcome
 
@@ -28,7 +37,7 @@ The phrase "citizen science" sometimes suggests a watered-down version of the re
 
 This handbook explains how to participate in that network effectively — from making your first observation, to building your own monitoring station, to understanding where your data goes and what it means.
 
----
+* * *
 
 ## Chapter 1 — Understanding the Global Environmental Monitoring Network
 
@@ -78,7 +87,7 @@ The global biodiversity observation platform. Any species observation — a plan
 
 **Mitmach-Wissenschaft platforms (BürGEr schaffen WISSen, buergerschaffenwissen.de):** The German national platform listing citizen science projects across all scientific disciplines. If you want to find a project specifically relevant to your local ecosystem, species of interest, or skills, this is the directory.
 
----
+* * *
 
 ## Chapter 2 — How to Contribute Meaningful Observations
 
@@ -120,7 +129,7 @@ If you have access to a garden, backyard, balcony planter, or any patch of outdo
 
 **Compare month-over-month.** The differences across seasons are the data. After a year of monthly observations, you have a complete phenological record of your patch that did not exist before you started.
 
----
+* * *
 
 ## Chapter 3 — Reading and Interpreting Environmental Data
 
@@ -157,7 +166,7 @@ Once you have a few months of data from your own station or regular observations
 - **If your readings are consistently higher or lower than official data:** This is not an error — it is a real difference. Your location may be a warmer microclimate (urban heat island, south-facing wall), a cooler one (shade, water proximity), or drier/wetter than the official station's location. This difference is itself scientifically interesting.
 - **If your biodiversity observations differ from regional iNaturalist data:** You may have a microhabitat that supports species not commonly recorded in your area. Or you may be observing at a different season or time of day than most contributors. Either way, your data adds to the picture.
 
----
+* * *
 
 ## Chapter 4 — Blockchain Basics for Non-Technical Users
 
@@ -191,7 +200,7 @@ The reason a blockchain is useful for the token economy — rather than a simple
 
 This is particularly important for **Regeneration tokens** — which recognize ecological improvements that may take years to verify. A Regeneration token earned for planting a hedgerow in 2026 should still be readable in 2036, even if the software platform that issued it has changed. The blockchain record persists.
 
----
+* * *
 
 ## Chapter 5 — Community Science Best Practices
 
@@ -233,7 +242,7 @@ Citizen science is most powerful when it is social. An isolated observer produce
 
 **Contribute, don't only consume.** Open data platforms depend on contribution to remain viable. If you use iNaturalist or openSenseMap to view data, contribute your own observations in return. This is Reciprocity in practice.
 
----
+* * *
 
 ## Chapter 6 — Creating Your Own Monitoring Station
 
@@ -297,7 +306,7 @@ The value of your station depends heavily on where it is placed. Consider:
 | Replace soil moisture probe cable if damaged by garden tools or animals | As needed |
 | Battery check (solar + battery systems) | Before winter; after extended cloudy periods | 
 
----
+* * *
 
 ## Chapter 7 — Connecting Local Observations to Global Patterns
 
@@ -348,7 +357,7 @@ Patterns discovered by citizen observers become part of the collective knowledge
 
 To contribute an observation as a pattern candidate, contact Erdpuls or bring it to an Open Makerspace Day. The Pattern Language Assembly Guide (available at erdpuls.ubec.network) describes the full process for moving from observation to confirmed pattern.
 
----
+* * *
 
 ## Quick Reference: Tools and Platforms
 
@@ -363,7 +372,7 @@ To contribute an observation as a pattern candidate, contact Erdpuls or bring it
 | Bürger schaffen Wissen | German citizen science project directory | buergerschaffenwissen.de |
 | Erdpuls | Campus workshops, Open Makerspace Days, token economy | erdpuls.ubec.network |
 
----
+* * *
 
 ## License & Attribution
 

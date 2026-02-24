@@ -1,3 +1,12 @@
+---
+title: "Ort als Labor: Forschungsmethoden für die lebendige Welt"
+subtitle: "Lernleitfaden 03 — Klassen 9-12"
+date: "Februar 2026"
+lang: de
+version: "1.1"
+license: "CC BY-SA 4.0"
+project: "Erdpuls Müllrose OER Collection"
+---
 # Erdpuls Lernleitfaden 03 — Klassen 9–12
 ## Ort als Labor: Forschungsmethoden für die lebendige Welt
 ### Für Schülerinnen und Schüler zwischen 15 und 18 Jahren | Oberstufe
@@ -8,9 +17,9 @@
 **Version:** 1.1  
 **Datum:** Februar 2026  
 **Status:** Entwurf v1.1 — OER-Veröffentlichung bereit (DE)  
-**Übersetzungsstatus:** 🇩🇪 DE — diese Fassung | 🇵🇱 PL — *ausstehend Phase 3*
+**Übersetzungsstatus:** [DE] — diese Fassung | [PL] — *ausstehend Phase 3*
 
----
+* * *
 
 ## Änderungsnachweis
 
@@ -19,7 +28,7 @@
 | 1.1 | Februar 2026 | Erstveröffentlichung für OER; Übersetzung ins Deutsche |
 | 1.0 | — | Nicht veröffentlicht |
 
----
+* * *
 
 ## Übersichtstabelle
 
@@ -35,9 +44,9 @@
 | **Entwicklungsphase** | Emergenz der dritten Siebenjahresperiode: erwachendes individuelles Urteil, Fähigkeit zu systemischem und ethischem Denken, die Frage „Wer bin ich in der Welt und was schulde ich ihr?" |
 | **Citizen-Science-Ergebnis** | Vollständiger Datensatz, eingetragen in Erdpuls' Langzeitarchiv; iNaturalist-Arteneinträge; openSenseMap-Datenbeitrag; optional: selbstständige Forschungsfrage mit Folgeprotokoll |
 | **Tokenwirtschaftsebene** | Fortgeschritten — vollständiges UBECrc-Engagement; optional: Designübung für eine alternative Tokenwirtschaft, angewendet auf ein von den Schüler/innen identifiziertes Problem |
-| **Verfügbare Sprachen** | DE ✓ &nbsp;&nbsp; EN vorhanden &nbsp;&nbsp; PL ausstehend |
+| **Verfügbare Sprachen** | DE ✓  EN vorhanden  PL ausstehend |
 
----
+* * *
 
 ## Fünf Kompetenzcluster auf dieser Ebene
 
@@ -49,7 +58,7 @@
 | **Wirtschaftliches Verständnis** | Vollständige Vier-Elemente-UBECrc-Tokenwirtschaft; kritische Analyse dessen, was konventionelle Wirtschaft nicht misst; optional: Designübung — Token-Prinzipien auf ein reales Problem anwenden |
 | **Sozial-emotionales Lernen** | Die Handlungsphase (Action) des 4A-Pfades: Was verlangt dieses Wissen von mir? Systemisches Denken über persönliche Handlungsfähigkeit; die Frage intergenerationeller Verantwortung |
 
----
+* * *
 
 ## Pädagogische Begründung
 
@@ -67,7 +76,7 @@ Jeder von Erdpuls generierte Datensatz geht in ein permanentes offenes Archiv ei
 
 Das ist keine Theorie. Das Erdpuls-Langzeit-Bodendatensatz gewinnt über die Zeit an Bedeutung: eine einzelne Tagesablesung ist ein Datenpunkt; zehn Jahre Ablesungen an denselben Koordinaten werden ein Klimaarchiv. Schülerinnen und Schüler auf dieser Ebene lernen nicht nur Umweltwissenschaft — sie tragen aktiv dazu bei.
 
----
+* * *
 
 ## Vorbereitung und Materialien
 
@@ -104,13 +113,13 @@ Das ist keine Theorie. Das Erdpuls-Langzeit-Bodendatensatz gewinnt über die Zei
 - QGIS-Workstation (falls Kartierungssession enthalten)
 - Tokenkarten (alle vier Elemente) + Token-Buchungsblatt
 
----
+* * *
 
 ## Aufbau der Session
 
 Dieser Leitfaden bietet drei modulare Tracks, die unabhängig voneinander oder kombiniert für ein ganztägiges Programm durchgeführt werden können.
 
----
+* * *
 
 ### Track A — Das vollständige Forschungsprotokoll (3,5 Stunden)
 
@@ -167,7 +176,7 @@ Anstatt einzelne Token für spezifische Aktivitäten zu verdienen, führen Obers
 
 Gruppen teilen ihre Entwürfe. Die Lehrkraft stellt Verbindungen zum UBECrc-System und zur breiteren Literatur über Komplementärwährungen, Sorgeökonomien und Commons-Governance her.
 
----
+* * *
 
 ### Track B — GIS und Bioregion-Kartierung (2 Stunden, eigenständig oder im Anschluss an Track A)
 
@@ -202,7 +211,7 @@ Jedes Team schlägt eine bioregionale Grenze für die Naturpark-Schlaubetal-Subr
 
 *„Die offizielle Naturparkgrenze ist eine Verwaltungslinie. Eure Grenze basiert auf dem, was eure Sinne euch beim Gehen gesagt haben. Sie müssen nicht übereinstimmen — tatsächlich sind die Stellen, wo sie nicht übereinstimmen, die interessantesten."*
 
----
+* * *
 
 ### Track C — Qualitätsrahmen-Reflexion (1 Stunde, eigenständig)
 
@@ -216,7 +225,7 @@ Diese Übung erzeugt zwei Ergebnisse:
 
 Schülerische Bewertungen werden gesammelt und dem Erdpuls-Qualitätsnachweis hinzugefügt (BNE-Bereich 5.2.2).
 
----
+* * *
 
 ## Lehrplanbezüge (Brandenburg)
 
@@ -230,7 +239,7 @@ Schülerische Bewertungen werden gesammelt und dem Erdpuls-Qualitätsnachweis hi
 | Ethik/Philosophie | Umweltethik, intergenerationelle Verantwortung | Track A: F13 + Handlungsphase |
 | Projekttage / Facharbeit | Selbstständiges Forschungsdesign | Forschungsfragen-Design-Bogen → potenzielle Facharbeit |
 
----
+* * *
 
 ## Hinweise für die Lehrkraft
 
@@ -240,7 +249,7 @@ Schülerische Bewertungen werden gesammelt und dem Erdpuls-Qualitätsnachweis hi
 
 **Zum UBECrc:** Die Blockchain-Dimension nicht überverkaufen. Schülerinnen und Schüler dieses Alters sind gegenüber Blockchain-Behauptungen oft (zu Recht) skeptisch. Der Wert der Tokenwirtschaft liegt in der wirtschaftlichen Philosophie, die sie ausdrückt — den vier Elementen —, nicht in der technischen Implementierung. Die Blockchain ist lediglich der Transparenzmechanismus. Die Designübung ist wertvoller als ein Vortrag über die Technologie verteilter Buchführung.
 
----
+* * *
 
 ## Sicherheitshinweise
 
@@ -249,7 +258,7 @@ Schülerische Bewertungen werden gesammelt und dem Erdpuls-Qualitätsnachweis hi
 - GPS-Gerät-Protokoll für Transektarbeit: paarweise Minimum, vereinbarter Rückkehrpunkt, Handy aufgeladen
 - GIS-Workstation: Schüler-Daten sollten in einem zugewiesenen Ordner gespeichert werden, nicht systemweit
 
----
+* * *
 
 ## Lizenz & Namensnennung
 

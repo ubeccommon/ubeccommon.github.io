@@ -1,3 +1,12 @@
+---
+title: "Beobachten, Beitragen und Vernetzen"
+subtitle: "Handbuch für Bürgerwissenschaftler*innen (05)"
+date: "Februar 2026"
+lang: de
+version: "1.1"
+license: "CC BY-SA 4.0"
+project: "Erdpuls Müllrose OER Collection"
+---
 # Erdpuls Handbuch für Citizen Scientists
 ## Beobachten, Beitragen und Vernetzen
 ### Für erwachsene Citizen Scientists und Gemeinschaftsbeobachter/innen
@@ -8,18 +17,18 @@
 **Version:** 1.1  
 **Datum:** Februar 2026  
 **Status:** Entwurf v1.1 — OER-Veröffentlichungsreif (DE)  
-**Übersetzungsstatus:** 🇩🇪 DE — vorliegende Übersetzung | 🇵🇱 PL — ausstehend Phase 3
+**Übersetzungsstatus:** [DE] DE — vorliegende Übersetzung | [PL] — ausstehend Phase 3
 
----
+* * *
 
 ## Änderungsprotokoll
-| Version | Datum        | Änderungen                                                            |
+| Version | Datum    | Änderungen                                                            |
 |---------|--------------|-----------------------------------------------------------------------|
-| 1.1 DE  | Februar 2026 | Deutsche Übersetzung der OER-Veröffentlichungsversion                |
-| 1.1     | Februar 2026 | Erstveröffentlichung für OER; Institutionsname und Lizenz eingefügt  |
-| 1.0     | —            | Nicht veröffentlicht                                                  |
+| 1.1 DE | Februar 2026 | Deutsche Übersetzung der OER-Veröffentlichungsversion        |
+| 1.1   | Februar 2026 | Erstveröffentlichung für OER; Institutionsname und Lizenz eingefügt |
+| 1.0   | —            | Nicht veröffentlicht                         |
 
----
+* * *
 
 ## Willkommen
 
@@ -29,7 +38,7 @@ Der Begriff „Citizen Science" legt manchmal eine verwässerte Version des Orig
 
 Dieses Handbuch erklärt, wie Sie effektiv an diesem Netz teilnehmen können — von der ersten Beobachtung über den Aufbau Ihrer eigenen Messstation bis hin zum Verständnis, wohin Ihre Daten gehen und was sie bedeuten.
 
----
+* * *
 
 ## Kapitel 1 — Das globale Umwelt-Beobachtungsnetz verstehen
 
@@ -79,7 +88,7 @@ Die globale Biodiversitätsbeobachtungsplattform. Jede Artenbeobachtung — eine
 
 **Mitmach-Wissenschaft-Plattformen (BürGEr schaffen WISSen, buergerschaffenwissen.de):** Die nationale deutsche Plattform, die Citizen-Science-Projekte aus allen wissenschaftlichen Disziplinen auflistet. Wenn Sie ein Projekt suchen, das speziell auf Ihr lokales Ökosystem, Ihre Lieblingsart oder Ihre Fähigkeiten zugeschnitten ist, finden Sie es hier.
 
----
+* * *
 
 ## Kapitel 2 — Bedeutungsvolle Beobachtungen beitragen
 
@@ -121,7 +130,7 @@ Wenn Sie Zugang zu einem Garten, Hinterhof, Balkonkasten oder irgendeinem Fleck 
 
 **Monatliche Beobachtungen vergleichen.** Die Unterschiede über die Jahreszeiten sind die Daten. Nach einem Jahr monatlicher Beobachtungen haben Sie einen vollständigen phänologischen Datensatz Ihres Flecks, den es vorher nicht gab.
 
----
+* * *
 
 ## Kapitel 3 — Umweltdaten lesen und interpretieren
 
@@ -158,7 +167,7 @@ Sobald Sie einige Monate Daten von Ihrer eigenen Station oder regelmäßige Beob
 - **Wenn Ihre Messwerte konsistent höher oder niedriger als die offiziellen Daten sind:** Das ist kein Fehler — es ist ein realer Unterschied. Ihr Standort ist vielleicht ein wärmeres Mikroklima (städtische Wärmeinsel, südlich ausgerichtete Wand), ein kühleres (Schatten, Wassernähe) oder trockener/feuchter als der Standort der offiziellen Station. Dieser Unterschied ist selbst wissenschaftlich interessant.
 - **Wenn Ihre Biodiversitätsbeobachtungen von regionalen iNaturalist-Daten abweichen:** Vielleicht haben Sie einen Mikrohabitat, der Arten unterstützt, die in Ihrer Gegend selten gemeldet werden. Oder Sie beobachten zu einer anderen Jahreszeit oder Tageszeit als die meisten Beitragenden. In beiden Fällen ergänzen Ihre Daten das Bild.
 
----
+* * *
 
 ## Kapitel 4 — Blockchain-Grundlagen für Nicht-Techniker/innen
 
@@ -192,7 +201,7 @@ Der Grund, warum für die Tokenwirtschaft eine Blockchain nützlich ist — anst
 
 Dies ist besonders wichtig für **Regenerations-Token** — die ökologische Verbesserungen anerkennen, deren Verifizierung Jahre dauern kann. Ein Regenerations-Token, der 2026 für das Pflanzen einer Hecke verdient wurde, sollte noch 2036 lesbar sein, selbst wenn die Software-Plattform, die ihn ausgegeben hat, sich verändert hat. Der Blockchain-Eintrag bleibt erhalten.
 
----
+* * *
 
 ## Kapitel 5 — Best Practices der Gemeinschaftswissenschaft
 
@@ -234,7 +243,7 @@ Citizen Science ist am wirkungsvollsten, wenn sie gemeinschaftlich ist. Isoliert
 
 **Beitragen, nicht nur konsumieren.** Offene Datenplattformen sind auf Beiträge angewiesen, um lebensfähig zu bleiben. Wenn Sie iNaturalist oder openSenseMap zum Betrachten von Daten nutzen, tragen Sie Ihre eigenen Beobachtungen im Gegenzug ein. Das ist Reziprozität in der Praxis.
 
----
+* * *
 
 ## Kapitel 6 — Ihre eigene Messstation aufbauen
 
@@ -295,7 +304,7 @@ Der Wert Ihrer Station hängt wesentlich vom Aufstellungsort ab. Bedenken Sie:
 | Bodenfeuchtigkeitssondenkabel ersetzen, wenn durch Gartengeräte oder Tiere beschädigt | Bei Bedarf |
 | Akkustand prüfen (Solar + Akku-Systeme) | Vor dem Winter; nach längeren Bewölkungsperioden |
 
----
+* * *
 
 ## Kapitel 7 — Lokale Beobachtungen mit globalen Mustern verbinden
 
@@ -346,7 +355,7 @@ Von Bürgerbeobachter/innen entdeckte Muster werden Teil des kollektiven Wissens
 
 Um eine Beobachtung als Musterkandidaten einzureichen, wenden Sie sich an Erdpuls oder bringen Sie sie zu einem Open Makerspace Day. Der Mustersprachen-Montage-Leitfaden (verfügbar unter erdpuls.ubec.network) beschreibt den vollständigen Prozess von der Beobachtung zum bestätigten Muster.
 
----
+* * *
 
 ## Schnellreferenz: Werkzeuge und Plattformen
 
@@ -361,7 +370,7 @@ Um eine Beobachtung als Musterkandidaten einzureichen, wenden Sie sich an Erdpul
 | Bürger schaffen Wissen | Deutsches Citizen-Science-Projektverzeichnis | buergerschaffenwissen.de |
 | Erdpuls | Campus-Workshops, Open Makerspace Days, Tokenwirtschaft | erdpuls.ubec.network |
 
----
+* * *
 
 ## Lizenz und Quellenangabe
 

@@ -1,3 +1,12 @@
+---
+title: "Field Investigators: Measuring the Living World"
+subtitle: "Learning Guide 02 — Grades 5-8"
+date: "February 2026"
+lang: en
+version: "1.1"
+license: "CC BY-SA 4.0"
+project: "Erdpuls Müllrose OER Collection"
+---
 # Erdpuls Learning Guide 02 — Grades 5–8
 ## Field Investigators: Measuring the Living World
 ### For Students Ages 11–14 | Middle School
@@ -8,17 +17,17 @@
 **Version:** 1.1  
 **Date:** February 2026  
 **Status:** Draft v1.1 — OER Publication Ready (EN)  
-**Translation Status:** 🇩🇪 DE — *pending Phase 3* | 🇵🇱 PL — *pending Phase 3*
+**Translation Status:** [DE] — *pending Phase 3* | [PL] — *pending Phase 3*
 
----
+* * *
 
 ## Changelog
-| Version | Date          | Changes                                      |
+| Version | Date     | Changes                                      |
 |---------|---------------|----------------------------------------------|
-| 1.1     | February 2026 | Initial generation for OER publication; institution name and license applied |
-| 1.0     | —             | Not released                                 |
+| 1.1   | February 2026 | Initial generation for OER publication; institution name and license applied |
+| 1.0   | —             | Not released                 |
 
----
+* * *
 
 ## Overview Table
 
@@ -34,9 +43,9 @@
 | **Developmental Stage** | Second seven-year period transition: awakening capacity for causal reasoning, peer social identity, the emergence of independent judgment; abstract thinking beginning but still grounded in observation |
 | **Citizen Science Output** | Complete Field Sheet dataset; iNaturalist species observations; openSenseMap data contribution; entry into Erdpuls longitudinal soil record |
 | **Token Economy Level** | Intermediate — four elements introduced; participants earn real tokens for cooperation, reciprocity, mutualism, and regeneration activities |
-| **Languages Available** | EN ✓ &nbsp;&nbsp; DE pending &nbsp;&nbsp; PL pending |
+| **Languages Available** | EN ✓  DE pending  PL pending |
 
----
+* * *
 
 ## Five Competency Clusters at This Level
 
@@ -48,7 +57,7 @@
 | **Economic Understanding** | Introduction to all four token elements; mapping existing reciprocal exchanges in their own school or neighborhood; recognizing that not all value is monetary |
 | **Social-Emotional Learning** | The 4A-Pathway: from noticing (Awareness) to personal connection (Acknowledgment) to values engagement (Attitude); team data sharing; formulating a question to bring home |
 
----
+* * *
 
 ## Pedagogical Rationale
 
@@ -66,7 +75,7 @@ The senseBox MCU is introduced to this age group as a **co-investigator**, not a
 
 This is the epistemological core of citizen science: the recognition that human sensing and instrumental measurement are complementary data streams, not competitors. The sensor has temporal resolution (it reads every 5 minutes, continuously). The human body has spatial and multi-channel integration (it senses temperature, texture, humidity, and smell simultaneously, across an area). Both are necessary. Neither is complete without the other.
 
----
+* * *
 
 ## Preparation and Materials
 
@@ -104,7 +113,7 @@ This is the epistemological core of citizen science: the recognition that human 
 - Token cards (Green = Cooperation / Blue = Reciprocity / Orange = Mutualism / Gold = Regeneration) — at least 3 per participant
 - Token ledger sheet (brief record of who earned what and why)
 
----
+* * *
 
 ## Session Structure
 
@@ -126,7 +135,7 @@ Introduce the 4A-Pathway briefly:
 
 *"We use a pathway with four stages. Awareness: noticing what's there. Acknowledgment: understanding that it matters and connects to you. Attitude: deciding how you feel about what you found. Action: doing something because of what you found. We won't force any stage — but see if you can catch yourself moving through them today."*
 
----
+* * *
 
 ### Phase 1 — Full Soil Observation Protocol (50 minutes)
 
@@ -159,7 +168,7 @@ For the **Life Count (Q4):** Set a 2-minute timer. Students place soil on the wh
 
 Students write individually for 3 minutes before sharing with their team. This is a personal response; there is no team consensus required. It marks the Attitude stage of the 4A-Pathway.
 
----
+* * *
 
 ### Phase 2 — The Sensor Dialogue (20 minutes)
 
@@ -185,7 +194,7 @@ Discussion questions (facilitator chooses 2–3):
 
 Students note their openSenseMap station ID on their Field Sheet — their permanent contribution record.
 
----
+* * *
 
 ### Phase 3 — Token Economy: Seeing What We Already Have (20 minutes)
 
@@ -212,7 +221,7 @@ Students earn token cards for the session's activities:
 
 Each student should leave with 2–4 token cards. These are real tokens that enter the Erdpuls system and can accumulate toward community threshold rewards.
 
----
+* * *
 
 ### Closing — Bringing it Back (15 minutes)
 
@@ -226,7 +235,7 @@ These are shared briefly around the circle. The facilitator notes them on a visi
 
 *"Scientists spend their careers looking for the questions that nobody has answered yet. You just produced a page full of them. That's not a sign that today wasn't enough — that's the sign that it worked."*
 
----
+* * *
 
 ## Post-Visit Classroom Activities
 
@@ -247,7 +256,7 @@ These are shared briefly around the circle. The facilitator notes them on a visi
 | Mathematics (Gr. 5–8) | Data collection and graphing | Comparative Data Board, correlation analysis |
 | Ethics/Social Studies | Value beyond money | Token economy, reciprocal exchange mapping |
 
----
+* * *
 
 ## Facilitator Notes
 
@@ -257,7 +266,7 @@ These are shared briefly around the circle. The facilitator notes them on a visi
 
 **If the sensor is unavailable:** The Sensor Dialogue becomes a class discussion about what instruments could measure what the body cannot — an equally valid exercise. Students design a "perfect instrument" for one observation they made.
 
----
+* * *
 
 ## Seasonal Variations
 
@@ -268,7 +277,7 @@ These are shared briefly around the circle. The facilitator notes them on a visi
 | **Autumn** | Decomposition focus; fungal threads visible in Q7; Life Count rich with decomposers; Q11 (History) richest with visible leaf layer accumulation. |
 | **Winter** | Frost effects on structure; under-snow temperature measurement (contrast with exposed soil). "Where did the summer life count organisms go?" as driving inquiry question. |
 
----
+* * *
 
 ## License & Attribution
 

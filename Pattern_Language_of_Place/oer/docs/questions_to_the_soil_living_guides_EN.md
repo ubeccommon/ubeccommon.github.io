@@ -1,3 +1,12 @@
+---
+title: "Questions to the Soil — Living Experience Guides"
+subtitle: "Five Target-Group-Specific Workshop Guides — Appendix A"
+date: "February 2026"
+lang: en
+version: "1.1"
+license: "CC BY-SA 4.0"
+project: "Erdpuls Müllrose OER Collection"
+---
 # Questions to the Soil — Living Experience Guides
 
 ## Five Target-Group-Specific Workshop Guides Based on Appendix A
@@ -7,13 +16,13 @@
 **Version**: 1.1  
 **Date**: February 2026
 
----
+* * *
 
 ## Changelog
-| Version | Date          | Changes                                      |
+| Version | Date     | Changes                                      |
 |---------|---------------|----------------------------------------------|
-| 1.1     | February 2026 | Institution name updated; license footer added; version updated for OER publication |
-| 1.0     | October 2025  | Initial release                              |
+| 1.1   | February 2026 | Institution name updated; license footer added; version updated for OER publication |
+| 1.0   | October 2025  | Initial release               |
 
 
 ## How to Use These Guides
@@ -46,15 +55,15 @@ Each guide follows a consistent structure for easy facilitator reference:
 - Risk and Safety Considerations
 - Proxemic Design Notes (spatial arrangement, sensory channels, facilitation positioning)
 
----
+* * *
 
----
+* * *
 
 # Guide 1: Erdreich-Entdecker — The Soil Explorers
 
 ## For Children and Youth (Ages 8–18, School Classes)
 
----
+* * *
 
 ### Overview
 
@@ -341,15 +350,15 @@ Tokens are explained age-appropriately: "When you share your observations with t
 
 **Facilitator height:** During all soil-contact phases, the facilitator should be at the same level as the children — kneeling, squatting, or sitting on the ground. Standing instruction during intimate-phase work introduces a vertical power dynamic that closes the learning space. Save standing height for safety scanning and group transitions.
 
----
+* * *
 
----
+* * *
 
 # Guide 2: Boden-Begegnung — Encountering the Soil
 
 ## For Adults and Families (Open Community Format)
 
----
+* * *
 
 ### Overview
 
@@ -530,15 +539,15 @@ As in Guide 1. Additional for adults: some participants may have mobility limita
 
 **The sensor dialogue as proxemic shift:** The transition from field observation (intimate/personal distance, all channels active) to sensor comparison (social distance, vision-only) risks an engagement drop. Scaffold by passing soil samples during the discussion and keeping the tablet/display low enough that participants can lean in together (personal rather than public distance).
 
----
+* * *
 
----
+* * *
 
 # Guide 3: Boden-Gedächtnis — The Soil's Memory
 
 ## For Elders and Intergenerational Groups
 
----
+* * *
 
 ### Overview
 
@@ -692,15 +701,15 @@ The token economy has a particular significance for elder participants: it forma
 
 **Pacing and proxemic tempo:** This guide runs at a slower proxemic tempo than the others. The transitions between zones (intimate soil encounter → social Kaffee und Kuchen → personal map exercise) should be gradual. Abrupt shifts jar elderly participants who need time to adjust — physically and attentionally — to a new proxemic arrangement. Allow transition time: "Let's put the soil aside now and move inside for coffee" is better than immediate relocation.
 
----
+* * *
 
----
+* * *
 
 # Guide 4: Boden-Tiefe — Soil Depth
 
 ## For Artists and Researchers (Residency-Depth Immersion)
 
----
+* * *
 
 ### Overview
 
@@ -821,15 +830,15 @@ This data is entered into the Erdpuls archive under the resident's name and link
 
 **The open studio as proxemic re-expansion:** When residents present their work at a public event, the proxemic field expands from the intimate (resident-soil) back to the public (resident-audience). The challenge is maintaining the depth of the intimate encounter in the public presentation. Bring the soil into the presentation space. Have the resident demonstrate their daily practice. Let the audience touch, smell, and handle the same materials. This re-grounds the public-distance presentation in intimate-distance experience.
 
----
+* * *
 
----
+* * *
 
 # Guide 5: Boden-Brücke — The Soil Bridge
 
 ## For Cross-Border Groups (DE/PL Trilingual, Intercultural)
 
----
+* * *
 
 ### Overview
 
@@ -993,9 +1002,9 @@ Each participant shares one observation in their own language. No translation re
 | **Autumn** | Harvest: What did the same glacial soil produce on each side? Shared meal as culmination of shared growing season. |
 | **Winter** | Dormancy and memory: The best season for elder participation and oral history. The landscape reveals its structure when vegetation retreats. |
 
----
+* * *
 
----
+* * *
 
 ## Cross-Guide Reference: How the Five Guides Relate
 
@@ -1012,7 +1021,7 @@ This annual cycle mirrors the Erdpuls seasonal rhythm (Frühling: Pflanzen und P
 
 **Proxemic accumulation across the year:** When multiple target groups visit the same soil patches across a year, the proxemic depth of the community's relationship with those patches accumulates. The children's energetic intimate encounter (spring) is followed by the adults' reflective personal encounter (summer), deepened by the resident's sustained daily intimacy (midsummer), layered with the elder's temporal proxemic memory (autumn), and extended across a cultural boundary by the cross-border group (late autumn). By winter synthesis, the soil patches have been encountered at intimate distance by dozens of people across all five target groups, through multiple sensory channels, across multiple seasons. The pattern cards produced in the winter synthesis represent knowledge that was generated through this accumulated proxemic contact — not through research conducted at public distance, but through repeated, multi-sensory, embodied engagement at intimate and personal distance with specific ground.
 
----
+* * *
 
 ## License & Attribution
 © 2025–2026 Erdpuls Müllrose - Center for Sustainability Literacy, Citizen Science and Reciprocal Economics   

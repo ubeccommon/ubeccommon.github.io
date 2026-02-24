@@ -1,3 +1,12 @@
+---
+title: "Pattern Language Assembly Guide"
+subtitle: "How Workshop Outputs Become Collective Knowledge"
+date: "February 2026"
+lang: en
+version: "1.1"
+license: "CC BY-SA 4.0"
+project: "Erdpuls Müllrose OER Collection"
+---
 # Assembling the Pattern Language of Place
 
 ## How Workshop Outputs Become Collective Knowledge
@@ -7,13 +16,13 @@
 **Version**: 1.1  
 **Date**: February 2026
 
----
+* * *
 
 ## Changelog
-| Version | Date          | Changes                                      |
+| Version | Date     | Changes                                      |
 |---------|---------------|----------------------------------------------|
-| 1.1     | February 2026 | Institution name updated; license footer added; version updated for OER publication |
-| 1.0     | October 2025  | Initial release                              |
+| 1.1   | February 2026 | Institution name updated; license footer added; version updated for OER publication |
+| 1.0   | October 2025  | Initial release               |
 
 
 ## Why This Document Exists
@@ -22,7 +31,7 @@ The Pattern Discovery Toolkit describes the *theory* of pattern languages. The t
 
 A pattern language is not a database. It is a web of named relationships, connected across scales, that describes how a specific place works — ecologically, socially, culturally, economically. It is authored collectively by everyone who has participated: children who saw a transition adults missed, elders who remembered a stream that no longer exists, artists who drew a sound-map of the valley, Polish neighbours who mapped the same glacial landscape from the other side of the border. The facilitator is the weaver. This document is the loom.
 
----
+* * *
 
 # PART ONE: What the Workshops Produce
 
@@ -78,7 +87,7 @@ After one full year of programming (all 20 guides conducted once), the following
 
 **Pattern potential:** Quality evaluation data does not directly generate patterns *about the place*, but it generates patterns *about learning in the place*: the seasonal-engagement pattern (which seasons produce deepest learning?), the return-rate-as-quality pattern, the proxemic-depth-engagement pattern (workshops at intimate distance produce higher quality ratings), the intergenerational-knowledge-transfer pattern (what types of knowledge flow most readily between generations?).
 
----
+* * *
 
 # PART TWO: From Observations to Pattern Cards
 
@@ -111,7 +120,7 @@ Four independent observations, from four target groups, across three seasons, al
 
 Using the Pattern Card template (Section 3.1 of the main toolkit):
 
----
+* * *
 
 **PATTERN CARD**
 
@@ -157,7 +166,7 @@ A south-facing masonry wall of sufficient thermal mass (≥40 cm brick or stone)
 
 **Status:** ☒ Confirmed across multiple observations
 
----
+* * *
 
 ### Step 4: Look for Dependency Chains
 
@@ -193,7 +202,7 @@ After mapping the first year's patterns, some rings will be rich and others spar
 
 These gaps become the programming priorities for Year 2: schedule a winter transect, add a sound-mapping workshop, extend Ring 3 observation into the town, run a second cross-border cycle with different participants.
 
----
+* * *
 
 # PART THREE: From Pattern Cards to Pattern Language
 
@@ -240,7 +249,7 @@ The pattern language itself has a proxemic architecture. Patterns at Ring 0 oper
 
 This means the pattern language can be *experienced* as well as read. A guided tour of the campus and its surroundings, following the ring structure, is a walk *through* the pattern language — and a walk through the proxemic gradient. Begin at the Warm Wall (intimate: touch the bricks, feel the heat). Move into the garden (personal: handle soil, smell plants). Walk through the settlement (social: read the building facades, hear the town). Climb the nearest rise and look toward the Schlaubetal (public: see the watershed, the forest edge, the glacial terrain). The tour is the pattern language made spatial — and it is, in proxemic terms, a progressive opening of the sensory field from all-channels-active to vision-dominant.
 
----
+* * *
 
 # PART FOUR: Year-Over-Year Accumulation
 
@@ -272,7 +281,7 @@ Each pattern card carries a status field:
 
 Over years, the proportion of "First observation" cards decreases and "Confirmed" and "Refined" increases. The language matures. But new first observations should never stop — they are the sign that people are still looking, still noticing, still discovering.
 
----
+* * *
 
 # PART FIVE: Outputs and Uses
 
@@ -307,7 +316,7 @@ Over years, the proportion of "First observation" cards decreases and "Confirmed
 - The method (not the content) is transferable. Other places will discover different patterns, but the process — concentric rings, phenomenological observation, citizen science data, collective synthesis — works anywhere
 - The Erdpuls pattern language can be compared with pattern languages from other places — what is unique to Müllrose? What is shared with other glacial landscapes? What is universal?
 
----
+* * *
 
 # PART SIX: The Annual Synthesis Ritual
 
@@ -358,7 +367,7 @@ If the Quality Report is compiled simultaneously:
 - Match quality findings to pattern language gaps: "The children rated 'Did it change how I see things?' lowest in the mapping synthesis — that's the proxemic engagement drop we discussed. Next year we need sensory anchors during the GIS phase."
 - Write the Quality Report section on learning outcomes, using pattern cards as evidence
 
----
+* * *
 
 ## License & Attribution
 © 2025–2026 Erdpuls Müllrose - Center for Sustainability Literacy, Citizen Science and Reciprocal Economics   

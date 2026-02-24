@@ -1,3 +1,12 @@
+---
+title: "Feldforscher: Die lebendige Welt messen"
+subtitle: "Lernleitfaden 02 — Klassen 5-8"
+date: "Februar 2026"
+lang: de
+version: "1.1"
+license: "CC BY-SA 4.0"
+project: "Erdpuls Müllrose OER Collection"
+---
 # Erdpuls Lernleitfaden 02 — Klassen 5–8
 ## Feldforscher: Die lebendige Welt messen
 ### Für Schülerinnen und Schüler zwischen 11 und 14 Jahren | Mittelstufe
@@ -8,9 +17,9 @@
 **Version:** 1.1  
 **Datum:** Februar 2026  
 **Status:** Entwurf v1.1 — OER-Veröffentlichung bereit (DE)  
-**Übersetzungsstatus:** 🇩🇪 DE — diese Fassung | 🇵🇱 PL — *ausstehend Phase 3*
+**Übersetzungsstatus:** [DE] — diese Fassung | [PL] — *ausstehend Phase 3*
 
----
+* * *
 
 ## Änderungsnachweis
 
@@ -19,7 +28,7 @@
 | 1.1 | Februar 2026 | Erstveröffentlichung für OER; Übersetzung ins Deutsche |
 | 1.0 | — | Nicht veröffentlicht |
 
----
+* * *
 
 ## Übersichtstabelle
 
@@ -35,9 +44,9 @@
 | **Entwicklungsphase** | Übergang der zweiten Siebenjahresperiode: erwachendes Kausaldenken, soziale Peer-Identität, entstehende Urteilsfähigkeit; abstraktes Denken beginnt, aber noch beobachtungsgebunden |
 | **Citizen-Science-Ergebnis** | Vollständiger Feldbogen-Datensatz; iNaturalist-Artenbeobachtungen; openSenseMap-Datenbeitrag; Eintrag in Erdpuls' langfristiges Bodendatenarchiv |
 | **Tokenwirtschaftsebene** | Mittelstufe — vier Elemente eingeführt; Teilnehmer/innen verdienen echte Token für Kooperation, Reziprozität, Mutualismus und Regenerationsaktivitäten |
-| **Verfügbare Sprachen** | DE ✓ &nbsp;&nbsp; EN vorhanden &nbsp;&nbsp; PL ausstehend |
+| **Verfügbare Sprachen** | DE ✓  EN vorhanden  PL ausstehend |
 
----
+* * *
 
 ## Fünf Kompetenzcluster auf dieser Ebene
 
@@ -49,7 +58,7 @@
 | **Wirtschaftliches Verständnis** | Einführung aller vier Token-Elemente; Kartierung bestehender reziproker Tausche in der eigenen Schule oder Nachbarschaft; erkennen, dass nicht aller Wert monetär ist |
 | **Sozial-emotionales Lernen** | Der 4A-Pfad: vom Bemerken (Awareness) zur persönlichen Verbindung (Acknowledgment) zur Wertereflexion (Attitude); Teamdatenaustausch; Formulieren einer Frage für zu Hause |
 
----
+* * *
 
 ## Pädagogische Begründung
 
@@ -67,7 +76,7 @@ Die senseBox MCU wird dieser Altersgruppe als **Mitforscherin** vorgestellt, nic
 
 Dies ist der erkenntnistheoretische Kern der Citizen Science: die Erkenntnis, dass menschliche Wahrnehmung und instrumentale Messung komplementäre Datenströme sind, keine Konkurrenten. Der Sensor hat zeitliche Auflösung (er liest alle 5 Minuten, kontinuierlich). Der menschliche Körper hat räumliche und mehrkanalige Integration (er spürt Temperatur, Textur, Feuchtigkeit und Geruch gleichzeitig, über eine Fläche). Beide sind notwendig. Keiner ist vollständig ohne den anderen.
 
----
+* * *
 
 ## Vorbereitung und Materialien
 
@@ -105,7 +114,7 @@ Dies ist der erkenntnistheoretische Kern der Citizen Science: die Erkenntnis, da
 - Tokenkarten (Grün = Kooperation / Blau = Reziprozität / Orange = Mutualismus / Gold = Regeneration) — mindestens 3 pro Teilnehmer/in
 - Token-Buchungsblatt (kurzer Nachweis, wer was wofür verdient hat)
 
----
+* * *
 
 ## Aufbau der Session
 
@@ -127,7 +136,7 @@ Den 4A-Pfad kurz einführen:
 
 *„Wir nutzen einen Pfad mit vier Phasen: Awareness (Bemerken): Was ist hier? Acknowledgment (Anerkennen): Das hat etwas mit mir zu tun. Attitude (Haltung): Wie fühle ich mich angesichts dessen, was ich gefunden habe? Action (Handlung): Ich tue etwas, weil ich das gefunden habe. Wir erzwingen keine Phase — aber achtet darauf, ob ihr euch heute durch diese Phasen bewegt."*
 
----
+* * *
 
 ### Phase 1 — Vollständiges Bodenbeobachtungsprotokoll (50 Minuten)
 
@@ -160,7 +169,7 @@ Für die **Lebenszählung (F4):** 2-Minuten-Timer stellen. Schülerinnen und Sch
 
 Schülerinnen und Schüler schreiben 3 Minuten individuell, bevor sie mit ihrem Team teilen. Dies ist eine persönliche Reaktion; kein Teamkonsens erforderlich. Es markiert die Einstellungsphase (Attitude) des 4A-Pfades.
 
----
+* * *
 
 ### Phase 2 — Der Sensordialog (20 Minuten)
 
@@ -186,7 +195,7 @@ Diskussionsfragen (Lehrkraft wählt 2–3):
 
 Schülerinnen und Schüler notieren ihre openSenseMap-Stations-ID auf dem Feldbogen — ihr permanenter Beitragsnachweis.
 
----
+* * *
 
 ### Phase 3 — Tokenwirtschaft: Sehen, was wir schon haben (20 Minuten)
 
@@ -213,7 +222,7 @@ Schülerinnen und Schüler verdienen Tokenkarten für die Aktivitäten der Sessi
 
 Jede Schülerin und jeder Schüler sollte mit 2–4 Tokenkarten gehen. Diese sind echte Token, die in das Erdpuls-System eingehen und sich zu gemeinschaftlichen Schwellenwertprämien ansammeln können.
 
----
+* * *
 
 ### Abschluss — Zurückbringen (15 Minuten)
 
@@ -227,7 +236,7 @@ Diese werden kurz im Kreis geteilt. Die Lehrkraft notiert sie auf einer sichtbar
 
 *„Wissenschaftlerinnen und Wissenschaftler verbringen ihr gesamtes Berufsleben damit, Fragen zu suchen, die noch niemand beantwortet hat. Ihr habt gerade eine ganze Seite davon erzeugt. Das ist kein Zeichen dafür, dass heute nicht genug war — es ist das Zeichen, dass es funktioniert hat."*
 
----
+* * *
 
 ## Aktivitäten nach dem Besuch im Klassenzimmer
 
@@ -248,7 +257,7 @@ Diese werden kurz im Kreis geteilt. Die Lehrkraft notiert sie auf einer sichtbar
 | Mathematik (Kl. 5–8) | Datenerhebung und grafische Darstellung | Vergleichendes Datenbord, Korrelationsanalyse |
 | Ethik/Gesellschaftskunde | Wert jenseits des Geldes | Tokenwirtschaft, Kartierung reziproker Tausche |
 
----
+* * *
 
 ## Hinweise für die Lehrkraft
 
@@ -258,7 +267,7 @@ Diese werden kurz im Kreis geteilt. Die Lehrkraft notiert sie auf einer sichtbar
 
 **Wenn der Sensor nicht verfügbar ist:** Der Sensordialog wird zu einer Klassendiskussion darüber, was Instrumente messen könnten, was der Körper nicht kann — eine ebenso gültige Übung. Schülerinnen und Schüler entwerfen ein „perfektes Instrument" für eine gemachte Beobachtung.
 
----
+* * *
 
 ## Saisonale Variationen
 
@@ -269,7 +278,7 @@ Diese werden kurz im Kreis geteilt. Die Lehrkraft notiert sie auf einer sichtbar
 | **Herbst** | Fokus auf Zersetzung; Pilzfäden in F7 sichtbar; Lebenszählung reich an Destruenten; F11 (Geschichte) am reichhaltigsten mit sichtbarer Blätterschichtakkumulation. |
 | **Winter** | Frosteffekte auf die Struktur; Temperaturmessung unter dem Schnee (Kontrast mit freiliegendem Boden). „Wohin sind die Sommerorganismen der Lebenszählung gegangen?" als leitende Forschungsfrage. |
 
----
+* * *
 
 ## Lizenz & Namensnennung
 

@@ -1,3 +1,12 @@
+---
+title: "Earth Detectives: First Encounters with Living Ground"
+subtitle: "Learning Guide 01 — Grades 1-4"
+date: "February 2026"
+lang: en
+version: "1.1"
+license: "CC BY-SA 4.0"
+project: "Erdpuls Müllrose OER Collection"
+---
 # Erdpuls Learning Guide 01 — Grades 1–4
 ## Earth Detectives: First Encounters with Living Ground
 ### For Children Ages 6–10 | Lower Primary School
@@ -8,17 +17,17 @@
 **Version:** 1.1  
 **Date:** February 2026  
 **Status:** Draft v1.1 — OER Publication Ready (EN)  
-**Translation Status:** 🇩🇪 DE — *pending Phase 3* | 🇵🇱 PL — *pending Phase 3*
+**Translation Status:** [DE] — *pending Phase 3* | [PL] — *pending Phase 3*
 
----
+* * *
 
 ## Changelog
-| Version | Date          | Changes                                      |
+| Version | Date     | Changes                                      |
 |---------|---------------|----------------------------------------------|
-| 1.1     | February 2026 | Initial generation for OER publication; institution name and license applied |
-| 1.0     | —             | Not released                                 |
+| 1.1   | February 2026 | Initial generation for OER publication; institution name and license applied |
+| 1.0   | —             | Not released                 |
 
----
+* * *
 
 ## Overview Table
 
@@ -34,9 +43,9 @@
 | **Developmental Stage** | Will-forces period (anthroposophical first seven-year period of school life): embodied knowing, imagination, rhythmic learning, direct sensory trust |
 | **Citizen Science Output** | Illustrated field cards; class soil portrait; first iNaturalist observation record |
 | **Token Economy Level** | Introductory — Token Seeds (discovery and sharing recognition) |
-| **Languages Available** | EN ✓ &nbsp;&nbsp; DE pending &nbsp;&nbsp; PL pending |
+| **Languages Available** | EN ✓  DE pending  PL pending |
 
----
+* * *
 
 ## Five Competency Clusters at This Level
 
@@ -48,7 +57,7 @@
 | **Economic Understanding** | Token Seeds introduce the idea that sharing a discovery creates value for the whole group. Each observation is a gift to the community. |
 | **Social-Emotional Learning** | Circle observation; naming what surprised you; recognizing that careful attention is itself a form of care |
 
----
+* * *
 
 ## Pedagogical Rationale
 
@@ -72,7 +81,7 @@ Rudolf Steiner described this period as one in which *"the world is good"* — c
 
 The Token Seed system at this level is deliberately pre-economic. Children do not yet think about exchange ratios or community thresholds. What they understand is: *"I found something amazing, I told everyone, and they were happy I did."* The Token Seed ceremony makes this visible and ritualized. It is the first experience of contributing to a commons — the ground from which all later economic understanding grows.
 
----
+* * *
 
 ## Preparation and Materials
 
@@ -117,7 +126,7 @@ The Token Seed system at this level is deliberately pre-economic. Children do no
 **For opening ritual:**
 - 1 smooth stone per child, collected from the site in advance and placed in a basket
 
----
+* * *
 
 ## Session Structure
 
@@ -139,7 +148,7 @@ The facilitator writes responses on the Community Observation Board as children 
 
 **Proxemic note:** The circle is sociopetal — all children face inward and each other. This spatial arrangement activates social connection before any content is introduced. Every voice is equidistant from the center. The stone is the sensory anchor for the opening personal-distance engagement.
 
----
+* * *
 
 ### Phase 1 — The Questions (40 minutes)
 
@@ -189,7 +198,7 @@ Then stand up: *"What sounds do you hear now? What disappeared when you stood up
 
 This completes the full sensory circuit: touch (Q3), smell (Q2), sight (Q1, Q4, Q5), water observation (Q6), and sound (Q8b).
 
----
+* * *
 
 ### Phase 2 — The senseBox Conversation (15 minutes)
 
@@ -209,7 +218,7 @@ Discussion: *"Where do our feelings and the box's numbers agree? Where do they d
 
 **Citizen Science Output:** The senseBox data is uploaded to openSenseMap by the facilitator. Children receive a small printout of their data point at the end of the session — their first contribution to a global environmental monitoring network. The facilitator reads aloud: *"Right now, someone in Japan or Brazil could look at this number and know what the air is like in Müllrose today. You sent a message to the whole world."*
 
----
+* * *
 
 ### Phase 3 — The Token Seed Ceremony (15 minutes)
 
@@ -223,7 +232,7 @@ The child who made the discovery receives a Token Seed. So does every child who 
 
 **Facilitator note:** The token system must not become competitive. If two children observe the same thing independently, both observations are real, both are contributions, both receive recognition. The question is always *"What did you notice?"* not *"Who noticed first?"*
 
----
+* * *
 
 ### Phase 4 — The Class Soil Portrait (20 minutes)
 
@@ -238,7 +247,7 @@ The facilitator writes the title at the top: *"Soil at Erdpuls Müllrose, [date]
 
 The portrait is photographed and archived. A printed copy returns to the classroom. Any identified species are uploaded to iNaturalist by the facilitator, and children receive their observation IDs.
 
----
+* * *
 
 ### Closing Circle (5 minutes)
 
@@ -248,7 +257,7 @@ Children return to the stone circle. Each child places their stone back where it
 
 One word per child. No response is wrong. No response is repeated — each one is unique and stays on the board.
 
----
+* * *
 
 ## Seasonal Variations
 
@@ -259,7 +268,7 @@ One word per child. No response is wrong. No response is repeated — each one i
 | **Autumn** | Q5 (soil memory) richest — decomposing leaves, seed cases, dying roots. Smell Jars most vivid. |
 | **Winter** | Reduce outdoor phases to 20 minutes. Frost crust observation. "What is sleeping under here?" as narrative frame. Warm indoor reflection extended to 30 minutes with hot cocoa if possible. |
 
----
+* * *
 
 ## Facilitator Notes
 
@@ -271,14 +280,14 @@ One word per child. No response is wrong. No response is repeated — each one i
 
 **On the word "soil" vs. "dirt":** At this age, either is fine — do not correct the word. The goal is relationship with the substance, not correct terminology. Terminology can follow once the relationship is established.
 
----
+* * *
 
 ## Pre-Visit Classroom Activity (1 lesson, teacher-led)
 
 **"What do you already know about soil?"**  
 Children draw their mental model of "what's under the grass." No right answers. These drawings are brought to Erdpuls and compared against what children actually observe. The comparison between prediction and observation is a first experience of the scientific cycle.
 
----
+* * *
 
 ## Post-Visit Classroom Activity (1–2 lessons, teacher-led)
 
@@ -288,7 +297,7 @@ Children write or dictate a short story from the perspective of one organism the
 **The Comparison:**  
 Bring a small jar of school garden soil. Compare it to the Erdpuls soil portrait. What is the same? What is different? Why might it be different?
 
----
+* * *
 
 ## Risk and Safety
 
@@ -298,7 +307,7 @@ Bring a small jar of school garden soil. Compare it to the Erdpuls soil portrait
 - In summer: sun protection and water; in winter: appropriate clothing briefed to school in advance
 - No eating during the soil phases; the closing circle (after handwashing) is the appropriate moment for a snack
 
----
+* * *
 
 ## License & Attribution
 

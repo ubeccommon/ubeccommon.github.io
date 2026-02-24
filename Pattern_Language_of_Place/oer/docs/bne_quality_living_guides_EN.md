@@ -1,3 +1,12 @@
+---
+title: "BNE Quality Framework — Living Experience Guides"
+subtitle: "Five Target-Group-Specific Workshop Guides — Appendix D"
+date: "February 2026"
+lang: en
+version: "1.1"
+license: "CC BY-SA 4.0"
+project: "Erdpuls Müllrose OER Collection"
+---
 # BNE Quality Framework — Living Experience Guides
 
 ## Five Target-Group-Specific Workshop Guides Based on Appendix D
@@ -7,13 +16,13 @@
 **Version**: 1.1  
 **Date**: February 2026
 
----
+* * *
 
 ## Changelog
-| Version | Date          | Changes                                      |
+| Version | Date     | Changes                                      |
 |---------|---------------|----------------------------------------------|
-| 1.1     | February 2026 | Institution name updated; license footer added; version updated for OER publication |
-| 1.0     | October 2025  | Initial release                              |
+| 1.1   | February 2026 | Institution name updated; license footer added; version updated for OER publication |
+| 1.0   | October 2025  | Initial release               |
 
 
 ## How to Use These Guides
@@ -32,15 +41,15 @@ Each guide therefore operates in two registers simultaneously: **reflection** (w
 **Guide 4:** Artists and Researchers — "Wer bestimmt, was gut ist?" / "Who Defines Quality?"
 **Guide 5:** Cross-Border Groups — "Qualität ohne Grenzen" / "Quality Without Borders"
 
----
+* * *
 
----
+* * *
 
 # Guide 1: Was haben wir eigentlich gelernt? — What Did We Actually Learn?
 
 ## For Children and Youth (Ages 8–18, School Classes)
 
----
+* * *
 
 ### Overview
 
@@ -193,15 +202,15 @@ Groups design, present, and receive feedback. The strongest designs are recorded
 
 **Dot-placing as proxemic judgment.** Each child must physically approach the card, stand close enough to read it, and place their dot. This is a personal-distance act of evaluative judgment — the child's body enacts the assessment. If the cards are on the wall and children raise hands from their seats, the proxemic quality is lost; the judgment becomes a vote at social distance rather than a personal evaluation at personal distance.
 
----
+* * *
 
----
+* * *
 
 # Guide 2: Die Qualität des Wandels — The Quality of Change
 
 ## For Adults and Families (Open Community Format)
 
----
+* * *
 
 ### Overview
 
@@ -322,15 +331,15 @@ The shared meal connects to the reflection: "This food came from the bioregion y
 
 **The season's artifacts as proxemic archive.** The photographs, maps, token ledgers, and pattern cards displayed around the room are not decoration. They are a proxemic record of the season's shared experience — each one produced at a specific proxemic distance (hands in soil, bodies around a map, faces across a repair table). Looking at them from the social distance of the seated circle activates a proxemic memory: "I remember how close I was to the soil when I smelled it. I remember the warmth of the repair workshop." This proxemic memory is the embodied substrate that makes the quality reflection authentic rather than abstract.
 
----
+* * *
 
----
+* * *
 
 # Guide 3: Bildung über Generationen — Education Across Generations
 
 ## For Elders and Intergenerational Groups
 
----
+* * *
 
 ### Overview
 
@@ -453,15 +462,15 @@ The facilitator records these unmeasured qualities. They constitute a meta-criti
 
 **The timeline as proxemic expansion across time.** The wall timeline functions like the bioregion maps in Appendix C — it extends the proxemic field from the present moment outward, in this case through time rather than space. When an elder walks to the timeline and places a note at "1965," they are physically locating a memory in temporal space. The younger scribe standing beside them, writing the note, is bridging proxemic distances: their body is in 2026 while the elder's memory is in 1965. The timeline makes this temporal proxemic encounter visible and spatial.
 
----
+* * *
 
----
+* * *
 
 # Guide 4: Wer bestimmt, was gut ist? — Who Defines Quality?
 
 ## For Artists and Researchers (Residency-Depth Immersion)
 
----
+* * *
 
 ### Overview
 
@@ -568,15 +577,15 @@ The critical framework becomes a lens the resident carries:
 
 **The BNE catalog as institutional object.** The physical document — its bureaucratic formatting, its committee authorship, its ministerial imprimatur — carries a proxemic quality: it is a public-distance text, designed to be read at arm's length in an office, not felt in a garden. Placing it at the center of an intimate seminar circle creates a productive proxemic tension between the document's institutional distance and the seminar's personal distance. The critical analysis operates in this tension: the resident reads an institutional text from a personal position, and the gap between positions generates insight.
 
----
+* * *
 
----
+* * *
 
 # Guide 5: Qualität ohne Grenzen — Quality Without Borders
 
 ## For Cross-Border Groups (DE/PL Trilingual, Intercultural)
 
----
+* * *
 
 ### Overview
 
@@ -698,9 +707,9 @@ Sentences are read aloud in the language of the writer's choice. The bilingual f
 
 **Translation as proxemic bridge.** As in all cross-border guides, the act of translation bridges linguistic proxemic boundaries. When a Polish participant explains "edukacja w terenie" (education in the terrain/field) and a German participant recognizes it as "Lernen am anderen Ort" (learning at the other place), the translation creates a moment of proxemic convergence: both reach toward a shared meaning from different linguistic positions. The bilingual facilitator should recognize these convergence moments and pause: "You just said the same thing from two different traditions. That's a shared quality principle."
 
----
+* * *
 
----
+* * *
 
 ## Cross-Guide Reference: Quality Emerges from Many Perspectives
 
@@ -716,7 +725,7 @@ The composite quality assessment — built from felt experience, behavioral chan
 
 **The proxemic quality arc across guides:** Children's quality assessment operates at personal-to-intimate distance (dots on cards, hands reaching for materials from their experience). Adults' assessment spans from intimate (private Values-Action Map) through social (Quality Compass) to institutional (BNE framework encounter). Elders' assessment flows through Kaffeeklatsch intimacy (personal-distance memory harvest) toward temporal-institutional distance (quality-across-time comparison). Artists' assessment operates at seminar intimacy (personal-distance critical dialogue) engaging an institutional-distance text (the BNE catalog). Cross-border assessment operates at social-to-personal distance (mixed groups over shared matrix) engaging national-institutional distance (two countries' frameworks). The composite map of quality, like the composite map of the bioregion, is a portrait of *how educational quality is known at every proxemic distance* — from the child's felt dot to the cross-border institution's quality audit tool.
 
----
+* * *
 
 ## License & Attribution
 © 2025–2026 Erdpuls Müllrose - Center for Sustainability Literacy, Citizen Science and Reciprocal Economics   

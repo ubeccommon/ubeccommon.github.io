@@ -1,3 +1,12 @@
+---
+title: "Facilitator's Implementation Handbook"
+subtitle: "Annual Calendar, Checklists, and Spatial Design Guide"
+date: "February 2026"
+lang: en
+version: "1.1"
+license: "CC BY-SA 4.0"
+project: "Erdpuls Müllrose OER Collection"
+---
 # Erdpuls Facilitator's Implementation Handbook
 
 ## A Practical Guide to Running the Full Workshop Program
@@ -7,13 +16,13 @@
 **Version**: 1.1  
 **Date**: February 2026
 
----
+* * *
 
 ## Changelog
-| Version | Date          | Changes                                      |
+| Version | Date     | Changes                                      |
 |---------|---------------|----------------------------------------------|
-| 1.1     | February 2026 | Institution name updated; license footer added; version updated for OER publication |
-| 1.0     | October 2025  | Initial release                              |
+| 1.1   | February 2026 | Institution name updated; license footer added; version updated for OER publication |
+| 1.0   | October 2025  | Initial release               |
 
 
 ## How to Use This Handbook
@@ -22,7 +31,7 @@ This handbook is for the person who will actually run the workshops. You have re
 
 It is organized as a year — your first year of full programming. By the end of this year, every target group will have been served, all four appendices will have been activated, the pattern language will have its first entries, and the quality framework will have its first evaluation data.
 
----
+* * *
 
 # PART ONE: The Annual Programming Calendar
 
@@ -87,7 +96,7 @@ The calendar below distributes all 20 workshop guides across the year, one imple
 | **Feb W2** | Year-End Quality Report compilation | Facilitator + Quality Ambassadors | — | 2 days | All evaluation data from D.1–D.5 |
 | **Feb W4** | Year 2 planning | Facilitator + core team | — | 1 day | Calendar template, budget review |
 
----
+* * *
 
 ## Sequencing Logic
 
@@ -105,7 +114,7 @@ The calendar follows these principles:
 
 **6. Quality and synthesis in winter.** Reflection and evaluation happen when outdoor programming pauses. The year's accumulated data is synthesized, the Quality Report compiled, and Year 2 planned.
 
----
+* * *
 
 # PART TWO: Workshop Preparation Checklists
 
@@ -145,7 +154,7 @@ The calendar follows these principles:
 - [ ] Write a brief facilitator reflection (15 min): What worked? What didn't? What would I change? What proxemic observations did I make? — This becomes BNE Area 5.2.1 evidence (continuous practice reflection).
 - [ ] Clean and restock equipment. Return Boden-Koffer to its shelf.
 
----
+* * *
 
 ## The Proxemic Audit Template
 
@@ -164,7 +173,7 @@ The calendar follows these principles:
 
 **Check:** Does every Social/Public phase have a Sensory Anchor Object prepared? If no → prepare one (a soil sample, a rock, a tool, a plant, a piece of bread).
 
----
+* * *
 
 # PART THREE: Printable Workshop Materials
 
@@ -279,7 +288,7 @@ The following materials are referenced across the 20 guides. Each is described b
 - Fields: Name (trilingual) / Ring / Location / Discoverers / Date & Season / The Tension / What We Observed / Instrumental Data / The Pattern / Connections to Other Patterns / Questions for Further Investigation / Status (first observation / confirmed / contested)
 - Printed in batches of 50; stored in Zone E card archive
 
----
+* * *
 
 # PART FOUR: Spatial Design Guide for the Five Zones
 
@@ -347,7 +356,7 @@ Each of the five campus zones has a proxemic character that shapes what kinds of
 
 **Proxemic profile:** Personal (circle, shared meal) to Intimate (fire, storytelling, object passing). All channels active. This zone should feel like the heart of the campus — the place where everything converges.
 
----
+* * *
 
 # PART FIVE: The Facilitator's First Season — A Narrative Guide
 
@@ -408,7 +417,7 @@ The Quality Report is your BNE certification evidence and your program improveme
 
 Then: plan Year 2. The calendar repeats, but with new cohorts, accumulated data, and the lessons of experience.
 
----
+* * *
 
 # PART SIX: Troubleshooting
 
@@ -434,7 +443,7 @@ Then: plan Year 2. The calendar repeats, but with new cohorts, accumulated data,
 *Proxemic diagnosis:* The GIS screen creates a sociofugal, public-distance, vision-only environment. It is the most proxemically impoverished phase of any workshop.
 *Solution:* Never run GIS for more than 20 minutes without a proxemic intervention. Toggle a layer, then pass around a physical sample from that layer. Show a watershed boundary, then pour water on a tilted tray and watch it flow. The GIS is powerful for synthesis but lethal for engagement if it monopolizes the sensory field.
 
----
+* * *
 
 ## License & Attribution
 © 2025–2026 Erdpuls Müllrose - Center for Sustainability Literacy, Citizen Science and Reciprocal Economics   

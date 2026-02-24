@@ -1,3 +1,12 @@
+---
+title: "Erddetektive: Erste Begegnungen mit lebendigem Boden"
+subtitle: "Lernleitfaden 01 — Klassen 1-4"
+date: "Februar 2026"
+lang: de
+version: "1.1"
+license: "CC BY-SA 4.0"
+project: "Erdpuls Müllrose OER Collection"
+---
 # Erdpuls Lernleitfaden 01 — Klassen 1–4
 ## Erddetektive: Erste Begegnungen mit lebendigem Boden
 ### Für Kinder zwischen 6 und 10 Jahren | Grundschule
@@ -8,9 +17,9 @@
 **Version:** 1.1  
 **Datum:** Februar 2026  
 **Status:** Entwurf v1.1 — OER-Veröffentlichung bereit (DE)  
-**Übersetzungsstatus:** 🇩🇪 DE — diese Fassung | 🇵🇱 PL — *ausstehend Phase 3*
+**Übersetzungsstatus:** [DE] — diese Fassung | [PL] — *ausstehend Phase 3*
 
----
+* * *
 
 ## Änderungsnachweis
 
@@ -19,7 +28,7 @@
 | 1.1 | Februar 2026 | Erstveröffentlichung für OER; Übersetzung ins Deutsche |
 | 1.0 | — | Nicht veröffentlicht |
 
----
+* * *
 
 ## Übersichtstabelle
 
@@ -35,9 +44,9 @@
 | **Entwicklungsphase** | Willensphase (anthroposophische erste Siebenjahresperiode): verkörpertes Wissen, Imagination, rhythmisches Lernen, direktes sensorisches Vertrauen |
 | **Citizen-Science-Ergebnis** | Illustrierte Feldkarten; Klassen-Bodenportrait; erste iNaturalist-Beobachtungseinträge |
 | **Tokenwirtschaftsebene** | Einführend — Tokensamen (Entdeckungs- und Teilungsanerkennung) |
-| **Verfügbare Sprachen** | DE ✓ &nbsp;&nbsp; EN vorhanden &nbsp;&nbsp; PL ausstehend |
+| **Verfügbare Sprachen** | DE ✓  EN vorhanden  PL ausstehend |
 
----
+* * *
 
 ## Fünf Kompetenzcluster auf dieser Ebene
 
@@ -49,7 +58,7 @@
 | **Wirtschaftliches Verständnis** | Tokensamen vermitteln die Idee, dass das Teilen einer Entdeckung für die gesamte Gruppe Wert schafft. Jede Beobachtung ist ein Geschenk an die Gemeinschaft. |
 | **Sozial-emotionales Lernen** | Kreisbeobachtung; benennen, was überrascht hat; erkennen, dass sorgfältige Aufmerksamkeit selbst eine Form von Fürsorge ist |
 
----
+* * *
 
 ## Pädagogische Begründung
 
@@ -73,7 +82,7 @@ Rudolf Steiner beschrieb diese Phase als eine, in der *„die Welt gut ist"* —
 
 Das Tokensamen-System auf dieser Ebene ist bewusst vor-ökonomisch. Kinder denken noch nicht über Tauschverhältnisse oder Gemeinschaftsschwellen nach. Was sie verstehen, ist: *„Ich habe etwas Tolles gefunden, habe es allen erzählt, und sie haben sich gefreut."* Die Tokensamen-Zeremonie macht dies sichtbar und ritualisiert. Es ist die erste Erfahrung, zu einem Gemeingut beizutragen — der Boden, aus dem später alles wirtschaftliche Verständnis erwächst.
 
----
+* * *
 
 ## Vorbereitung und Materialien
 
@@ -118,7 +127,7 @@ Das Tokensamen-System auf dieser Ebene ist bewusst vor-ökonomisch. Kinder denke
 **Für das Eröffnungsritual:**
 - 1 glatter Stein pro Kind, vorab vom Gelände gesammelt und in einem Korb bereitgelegt
 
----
+* * *
 
 ## Aufbau der Session
 
@@ -140,7 +149,7 @@ Die Lehrkraft schreibt die Antworten auf das Gemeinschafts-Beobachtungsbord, wen
 
 **Proxemische Notiz:** Der Kreis ist soziozentrisch — alle Kinder schauen nach innen aufeinander. Diese räumliche Anordnung aktiviert soziale Verbindung, bevor irgendein Inhalt eingeführt wird. Jede Stimme hat denselben Abstand zur Mitte. Der Stein ist der sensorische Anker für die eröffnende Begegnung im persönlichen Nahbereich.
 
----
+* * *
 
 ### Phase 1 — Die Fragen (40 Minuten)
 
@@ -190,7 +199,7 @@ Dann aufstehen: *„Welche Geräusche hörst du jetzt? Was ist verschwunden, als
 
 Dies vervollständigt den vollständigen sensorischen Kreislauf: Berühren (F3), Riechen (F2), Sehen (F1, F4, F5), Wasserbeobachtung (F6) und Hören (F8b).
 
----
+* * *
 
 ### Phase 2 — Das senseBox-Gespräch (15 Minuten)
 
@@ -210,7 +219,7 @@ Diskussion: *„Wo stimmen unser Gefühl und die Zahlen der Box überein? Wo sti
 
 **Citizen-Science-Ergebnis:** Die senseBox-Daten werden von der Lehrkraft auf openSenseMap hochgeladen. Kinder erhalten am Ende der Session einen kleinen Ausdruck ihrer Datenpunkte — ihren ersten Beitrag zu einem globalen Umweltbeobachtungsnetzwerk. Die Lehrkraft liest vor: *„Gerade jetzt könnte jemand in Japan oder Brasilien diese Zahl ansehen und wissen, wie die Luft heute in Müllrose ist. Ihr habt eine Nachricht an die ganze Welt gesendet."*
 
----
+* * *
 
 ### Phase 3 — Die Tokensamen-Zeremonie (15 Minuten)
 
@@ -224,7 +233,7 @@ Das Kind, das die Entdeckung gemacht hat, erhält einen Tokensamen. Ebenso jedes
 
 **Hinweis für die Lehrkraft:** Das Tokensystem darf nicht wettbewerbsorientiert werden. Wenn zwei Kinder unabhängig voneinander dasselbe beobachten, sind beide Beobachtungen real, beide sind Beiträge, beide erhalten Anerkennung. Die Frage ist immer *„Was hast du bemerkt?"* und nicht *„Wer hat es zuerst bemerkt?"*
 
----
+* * *
 
 ### Phase 4 — Das Klassen-Bodenportrait (20 Minuten)
 
@@ -239,7 +248,7 @@ Die Lehrkraft schreibt den Titel oben: *„Boden bei Erdpuls Müllrose, [Datum],
 
 Das Portrait wird fotografiert und archiviert. Ein gedrucktes Exemplar kommt zurück ins Klassenzimmer. Alle identifizierten Arten werden von der Lehrkraft auf iNaturalist hochgeladen, und Kinder erhalten ihre Beobachtungs-IDs.
 
----
+* * *
 
 ### Abschlusskreis (5 Minuten)
 
@@ -249,7 +258,7 @@ Kinder kehren zum Steinkreis zurück. Jedes Kind legt seinen Stein dahin zurück
 
 Ein Wort pro Kind. Keine Antwort ist falsch. Keine Antwort wird wiederholt — jede ist einzigartig und bleibt auf dem Bord.
 
----
+* * *
 
 ## Saisonale Variationen
 
@@ -260,7 +269,7 @@ Ein Wort pro Kind. Keine Antwort ist falsch. Keine Antwort wird wiederholt — j
 | **Herbst** | F5 (Bodengedächtnis) am reichhaltigsten — abbauende Blätter, Samenhülsen, absterbende Wurzeln. Riechgläser am eindrücklichsten. |
 | **Winter** | Außenphasen auf 20 Minuten reduzieren. Frostbeobachtung an der Oberfläche. „Was schläft hier darunter?" als Erzählrahmen. Warme Innenreflexion auf 30 Minuten mit Kakao ausgedehnt, wenn möglich. |
 
----
+* * *
 
 ## Hinweise für die Lehrkraft
 
@@ -272,14 +281,14 @@ Ein Wort pro Kind. Keine Antwort ist falsch. Keine Antwort wird wiederholt — j
 
 **Zum Wort „Erde" vs. „Boden" vs. „Dreck":** In diesem Alter ist alles richtig — nicht korrigieren. Das Ziel ist die Beziehung zur Substanz, nicht die korrekte Terminologie. Terminologie kann folgen, sobald die Beziehung aufgebaut ist.
 
----
+* * *
 
 ## Aktivität vor dem Besuch im Klassenzimmer (1 Stunde, Lehrkraft-geführt)
 
 **„Was weißt du bereits über Boden?"**  
 Kinder zeichnen ihr mentales Modell von „was unter dem Gras ist". Keine richtigen Antworten. Diese Zeichnungen werden zu Erdpuls mitgebracht und mit dem verglichen, was Kinder tatsächlich beobachten. Der Vergleich zwischen Vorhersage und Beobachtung ist eine erste Erfahrung des wissenschaftlichen Zyklus.
 
----
+* * *
 
 ## Aktivitäten nach dem Besuch im Klassenzimmer (1–2 Stunden, Lehrkraft-geführt)
 
@@ -289,7 +298,7 @@ Kinder schreiben oder diktieren eine kurze Geschichte aus der Perspektive eines 
 **Der Vergleich:**  
 Ein kleines Glas Schulgartenboden mitbringen. Mit dem Erdpuls-Bodenportrait vergleichen. Was ist gleich? Was ist anders? Warum könnte es anders sein?
 
----
+* * *
 
 ## Sicherheitshinweise
 
@@ -299,7 +308,7 @@ Ein kleines Glas Schulgartenboden mitbringen. Mit dem Erdpuls-Bodenportrait verg
 - Im Sommer: Sonnenschutz und Wasser; im Winter: passende Kleidung vorab mit der Schule abgesprochen
 - Kein Essen während der Bodenphasen; der Abschlusskreis (nach dem Händewaschen) ist der geeignete Moment für einen Snack
 
----
+* * *
 
 ## Lizenz & Namensnennung
 

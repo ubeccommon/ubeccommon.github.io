@@ -1,3 +1,12 @@
+---
+title: "Bioregion Mapping — Living Experience Guides"
+subtitle: "Five Target-Group-Specific Workshop Guides — Appendix C"
+date: "February 2026"
+lang: en
+version: "1.1"
+license: "CC BY-SA 4.0"
+project: "Erdpuls Müllrose OER Collection"
+---
 # Bioregion Mapping — Living Experience Guides
 
 ## Five Target-Group-Specific Workshop Guides Based on Appendix C
@@ -7,13 +16,13 @@
 **Version**: 1.1  
 **Date**: February 2026
 
----
+* * *
 
 ## Changelog
-| Version | Date          | Changes                                      |
+| Version | Date     | Changes                                      |
 |---------|---------------|----------------------------------------------|
-| 1.1     | February 2026 | Institution name updated; license footer added; version updated for OER publication |
-| 1.0     | October 2025  | Initial release                              |
+| 1.1   | February 2026 | Institution name updated; license footer added; version updated for OER publication |
+| 1.0   | October 2025  | Initial release               |
 
 
 ## How to Use These Guides
@@ -32,15 +41,15 @@ Each guide therefore balances three modes: **feet** (walking transects, embodied
 **Guide 4:** Artists and Researchers — "Cartographies of Belonging"
 **Guide 5:** Cross-Border Groups — "One Landscape, Two Countries"
 
----
+* * *
 
----
+* * *
 
 # Guide 1: Wo hört unser Ort auf? — Where Does Our Place End?
 
 ## For Children and Youth (Ages 8–18, School Classes)
 
----
+* * *
 
 ### Overview
 
@@ -294,15 +303,15 @@ The facilitator connects to the wider toolkit: "The pattern cards you've made in
 
 **The "boring" middle as proxemic information.** When children report boredom during a uniform stretch of the transect, the Sensory Closure Check provides language: "Check your boxes. Are all five senses still active, or have some closed? If the landscape feels 'boring,' it may be because there's no sensory transition to wake you up — you're in a proxemic plateau. That plateau is itself a landscape unit."
 
----
+* * *
 
----
+* * *
 
 # Guide 2: Die Karte unter der Karte — The Map Beneath the Map
 
 ## For Adults and Families (Open Community Format)
 
----
+* * *
 
 ### Overview
 
@@ -442,15 +451,15 @@ Each participant shares one sentence: "The map beneath my map is ___."
 
 **The closing meal as bioregional proxemic synthesis.** "Every ingredient on this table came from within or near the bioregion you just mapped." The meal brings the bioregion from public distance (mapped territory, projected data layers) to intimate distance (taste, smell, texture, warmth). The bread from the local bakery is a proxemic encounter with the local wheat field. The soup from the campus garden is a proxemic encounter with the soil the participant held in their hands that morning. The meal is not a metaphor — it is the bioregion at intimate proxemic distance, in the body.
 
----
+* * *
 
----
+* * *
 
 # Guide 3: Die Landschaft erinnert sich — The Landscape Remembers
 
 ## For Elders and Intergenerational Groups
 
----
+* * *
 
 ### Overview
 
@@ -581,15 +590,15 @@ The facilitator connects to the broader toolkit: "The boundary proposals from th
 
 **The temporal bioregion as proxemic expansion and contraction.** When elders describe their lived bioregion over time, they often reveal a paradox: the elder's *proxemic* bioregion (the territory they knew at intimate distance — every field, every path, every stream within walking range) was often smaller but *deeper* than today's car-based commuting range. They knew fewer square kilometers, but they knew them with all five senses. Today's adults cover more territory but at public distance (through windshields, on highways). The temporal bioregion discussion is therefore also a discussion about proxemic loss — the trade-off between spatial extent and sensory depth.
 
----
+* * *
 
----
+* * *
 
 # Guide 4: Kartografien der Zugehörigkeit — Cartographies of Belonging
 
 ## For Artists and Researchers (Residency-Depth Immersion)
 
----
+* * *
 
 ### Overview
 
@@ -700,15 +709,15 @@ The combination of scientific rigor and creative freedom is the signature of the
 
 **The "view back" drawing as proxemic orientation.** The drawing or painting at each turnaround point — looking back toward the unseen campus — is a proxemic orientation exercise. The resident paints from the farthest proxemic distance they have walked, looking toward the intimate center (the campus, the soil patch, the garden) that is now invisible. The tension between the intimate knowledge of the center and the public-distance view from the edge is the spatial experience of bioregional belonging: the territory is defined by the relationship between the close-known and the far-seen.
 
----
+* * *
 
----
+* * *
 
 # Guide 5: Eine Landschaft, Zwei Länder — One Landscape, Two Countries
 
 ## For Cross-Border Groups (DE/PL Trilingual, Intercultural)
 
----
+* * *
 
 ### Overview
 
@@ -840,9 +849,9 @@ This guide produces the most geographically ambitious citizen science output in 
 
 **The "Same landscape, different systems" table as proxemic critique.** The comparison table shows that the same ecological features are managed by different institutional systems on each side. These management systems operate at administrative distance — social/public distance, formalized, institutional. The bioregion they manage operates at intimate/personal distance — soil, water, organisms, sensory encounter. The table reveals the proxemic gap between governance and territory: governance operates from the farthest proxemic remove (policy documents, regulatory frameworks), while the territory it governs is most fully known at the closest proxemic distance (hands in soil, feet in stream, nose in forest air). Cross-border citizen science — the toolkit's proposal — bridges this gap by generating intimate-distance data that informs public-distance governance.
 
----
+* * *
 
----
+* * *
 
 ## Cross-Guide Reference: The Bioregion Emerges from Many Eyes
 
@@ -858,7 +867,7 @@ The composite map — built from dozens of transects, hundreds of transition obs
 
 **The proxemic depth of the composite map:** Each target group contributes a different proxemic layer to the bioregion definition. Children contribute the Sensory Closure pattern — the boundary where non-visual channels fade, defining felt belonging through bodily proximity. Adults contribute the Turnaround Moment — the proxemic inventory at the farthest point, defining the edge where embodied connection gives way to intellectual knowledge. Elders contribute the temporal proxemic field — memories that carry intimate-distance sensory information across decades, revealing how the bioregion's proxemic geography has expanded and contracted over time. Artists contribute non-visual boundary maps — acoustic, olfactory, haptic, thermal boundaries that don't coincide with visual ones, revealing that the bioregion has as many edges as it has sensory channels. Cross-border groups contribute the proxemic rupture and recovery — the discovery that the border is real at social distance but irrelevant at intimate distance, and that walking through territory at close range dissolves what administrative maps divide. The composite map, built from all these proxemic layers, is not just a map of territory but a map of *how territory is known at every distance*.
 
----
+* * *
 
 ## License & Attribution
 © 2025–2026 Erdpuls Müllrose - Center for Sustainability Literacy, Citizen Science and Reciprocal Economics   

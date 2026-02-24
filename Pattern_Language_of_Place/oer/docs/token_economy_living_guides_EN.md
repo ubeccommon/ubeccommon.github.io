@@ -1,3 +1,12 @@
+---
+title: "Reciprocal Token Economy — Living Experience Guides"
+subtitle: "Five Target-Group-Specific Workshop Guides — Appendix B"
+date: "February 2026"
+lang: en
+version: "1.1"
+license: "CC BY-SA 4.0"
+project: "Erdpuls Müllrose OER Collection"
+---
 # Reciprocal Token Economy — Living Experience Guides
 
 ## Five Target-Group-Specific Workshop Guides Based on Appendix B
@@ -7,13 +16,13 @@
 **Version**: 1.1  
 **Date**: February 2026
 
----
+* * *
 
 ## Changelog
-| Version | Date          | Changes                                      |
+| Version | Date     | Changes                                      |
 |---------|---------------|----------------------------------------------|
-| 1.1     | February 2026 | Institution name updated; license footer added; version updated for OER publication |
-| 1.0     | October 2025  | Initial release                              |
+| 1.1   | February 2026 | Institution name updated; license footer added; version updated for OER publication |
+| 1.0   | October 2025  | Initial release               |
 
 
 ## How to Use These Guides
@@ -32,15 +41,15 @@ Each guide therefore begins with a concrete, tangible experience (a game, an exc
 **Guide 4:** Artists and Researchers — "Value Beyond Price"
 **Guide 5:** Cross-Border Groups — "One Economy, Two Languages"
 
----
+* * *
 
----
+* * *
 
 # Guide 1: Das Garten-Wirtschaftsspiel — The Garden Economy Game
 
 ## For Children and Youth (Ages 8–18, School Classes)
 
----
+* * *
 
 ### Overview
 
@@ -224,15 +233,15 @@ This guide *is* the token economy integration — participants earn real tokens 
 
 **The closing circle:** Arrange sociopetally — everyone facing inward, holding their favorite token card. The card is a mediating object that gives each child something physical to hold while speaking to the group. This reduces the proxemic vulnerability of speaking in a circle (no empty hands, attention directed at the card as well as the speaker).
 
----
+* * *
 
----
+* * *
 
 # Guide 2: Sehen, was wir schon tauschen — Seeing What We Already Exchange
 
 ## For Adults and Families (Open Community Format)
 
----
+* * *
 
 ### Overview
 
@@ -405,15 +414,15 @@ The facilitator offers the printed Collective Threshold Model summary as a take-
 
 **Token card placement matters.** The "Repair Token Tracker" forms should be filled in at the repair table, not at a separate administrative station. Filling in the card *at the moment of exchange* maintains proxemic connection between the activity and its recognition. Filling in cards later at a desk introduces the public-distance abstraction that the token economy is designed to resist.
 
----
+* * *
 
----
+* * *
 
 # Guide 3: Der Erinnerungsmarkt — The Memory Market
 
 ## For Elders and Intergenerational Groups
 
----
+* * *
 
 ### Overview
 
@@ -570,15 +579,15 @@ Distribute the Collective Threshold summary sheet.
 
 **Pacing as proxemic respect:** Abrupt spatial transitions jar elderly participants. The movement from Exchange Phase (distributed across campus) to Object Memory Circle (gathered in Zone E) to Ledger (focused on the center) should be gradual, with verbal cues: "Let's come back together now. Take your time. Bring your tea." Each transition allows participants to adjust physically and attentionally to the new proxemic arrangement.
 
----
+* * *
 
----
+* * *
 
 # Guide 4: Wert jenseits des Preises — Value Beyond Price
 
 ## For Artists and Researchers (Residency-Depth Immersion)
 
----
+* * *
 
 ### Overview
 
@@ -704,15 +713,15 @@ The initial session is a foundation. The four elements become a lens the residen
 
 **The weekly check-in as ongoing proxemic practice.** The 15-minute weekly check-in between resident and facilitator should be informal — a walk in the garden, a coffee in Zone E, a conversation at the resident's work site. Not a meeting in an office. The check-in's proxemic character (personal distance, casual movement, shared environment) models the relational economy it discusses.
 
----
+* * *
 
----
+* * *
 
 # Guide 5: Eine Wirtschaft, Zwei Sprachen — One Economy, Two Languages
 
 ## For Cross-Border Groups (DE/PL Trilingual, Intercultural)
 
----
+* * *
 
 ### Overview
 
@@ -848,9 +857,9 @@ Each participant takes home:
 
 **The closing map as collective proxemic synthesis.** The cross-border map where pairs mark their exchanges should be large enough and low enough that all participants can lean over it simultaneously — German and Polish participants standing side by side, shoulders touching, marking points on both sides of the drawn border. This physical proximity around a shared representation of the shared landscape is the workshop's final proxemic image: the border was crossed not with euros and złoty, but with bodies standing close enough to share a map.
 
----
+* * *
 
----
+* * *
 
 ## Cross-Guide Reference: How the Five Guides Compose
 
@@ -865,7 +874,7 @@ The five token economy guides, like the soil guides, form a system that deepens 
 
 **The proxemic dimension of the annual cycle:** Every entry in the year-end compilation represents an exchange that happened at personal or intimate proxemic distance — face to face, hand to hand, side by side. The Memory Market Ledger records conversations at Kaffeeklatsch distance. The Repair Token Trackers record diagnoses at intimate distance over a shared workbench. The Cross-Border Exchange Maps record exchanges that crossed a proxemic barrier as well as a political one. The Value Flow Maps record children's first experience of what an economy feels like when participants face each other instead of a counter. The compilation, taken as a whole, is a portrait of a community's proxemic economic life — the economy that happens at close range, through multiple senses, between people who can see each other's faces. It is the economy that no GDP measurement captures, and that the token system makes visible for the first time.
 
----
+* * *
 
 ## License & Attribution
 © 2025–2026 Erdpuls Müllrose - Center for Sustainability Literacy, Citizen Science and Reciprocal Economics   

@@ -1,3 +1,12 @@
+---
+title: "Place as Laboratory: Research Methods for the Living World"
+subtitle: "Learning Guide 03 — Grades 9-12"
+date: "February 2026"
+lang: en
+version: "1.1"
+license: "CC BY-SA 4.0"
+project: "Erdpuls Müllrose OER Collection"
+---
 # Erdpuls Learning Guide 03 — Grades 9–12
 ## Place as Laboratory: Research Methods for the Living World
 ### For Students Ages 15–18 | Upper Secondary
@@ -8,17 +17,17 @@
 **Version:** 1.1  
 **Date:** February 2026  
 **Status:** Draft v1.1 — OER Publication Ready (EN)  
-**Translation Status:** 🇩🇪 DE — *pending Phase 3* | 🇵🇱 PL — *pending Phase 3*
+**Translation Status:** [DE] — *pending Phase 3* | [PL] — *pending Phase 3*
 
----
+* * *
 
 ## Changelog
-| Version | Date          | Changes                                      |
+| Version | Date     | Changes                                      |
 |---------|---------------|----------------------------------------------|
-| 1.1     | February 2026 | Initial generation for OER publication; institution name and license applied |
-| 1.0     | —             | Not released                                 |
+| 1.1   | February 2026 | Initial generation for OER publication; institution name and license applied |
+| 1.0   | —             | Not released                 |
 
----
+* * *
 
 ## Overview Table
 
@@ -34,9 +43,9 @@
 | **Developmental Stage** | Third seven-year period emergence: awakening individual judgment, capacity for systemic and ethical reasoning, the question "Who am I in the world and what do I owe it?" |
 | **Citizen Science Output** | Complete dataset entered into Erdpuls longitudinal record; iNaturalist species uploads; openSenseMap data contribution; optional: independent research question with follow-up protocol |
 | **Token Economy Level** | Advanced — full UBECrc engagement; optional: design exercise for an alternative token economy applied to a problem the student identifies |
-| **Languages Available** | EN ✓ &nbsp;&nbsp; DE pending &nbsp;&nbsp; PL pending |
+| **Languages Available** | EN ✓  DE pending  PL pending |
 
----
+* * *
 
 ## Five Competency Clusters at This Level
 
@@ -48,7 +57,7 @@
 | **Economic Understanding** | Full four-element UBECrc token economy; critical analysis of what conventional economics fails to measure; optional design exercise: apply token principles to a real problem |
 | **Social-Emotional Learning** | The Action stage of the 4A-Pathway: what does knowing this require of me? Systemic thinking about personal agency; the question of intergenerational responsibility |
 
----
+* * *
 
 ## Pedagogical Rationale
 
@@ -66,7 +75,7 @@ Every dataset that Erdpuls generates enters a permanent open record. Every stude
 
 This is not theoretical. The Erdpuls longitudinal soil dataset accumulates meaning over time: a single day's reading is one data point; a decade of readings at the same coordinates becomes a climate record. Students at this level are not just learning environmental science — they are actively contributing to it.
 
----
+* * *
 
 ## Preparation and Materials
 
@@ -103,13 +112,13 @@ This is not theoretical. The Erdpuls longitudinal soil dataset accumulates meani
 - QGIS workstation (if mapping session included)
 - Token cards (all four elements) + token ledger
 
----
+* * *
 
 ## Session Structure
 
 This guide offers three modular tracks that can be run independently or combined for a full-day program.
 
----
+* * *
 
 ### Track A — The Full Research Protocol (3.5 hours)
 
@@ -166,7 +175,7 @@ Rather than earning individual tokens for specific activities, upper secondary s
 
 Groups share designs. Facilitator draws connections to the UBECrc system and the broader literature on complementary currencies, care economies, and commons governance.
 
----
+* * *
 
 ### Track B — GIS and Bioregion Mapping (2 hours, standalone or following Track A)
 
@@ -201,7 +210,7 @@ Each team proposes a bioregional boundary for the Naturpark Schlaubetal sub-regi
 
 *"The official nature park boundary is an administrative line. Your boundary is based on what your senses told you as you walked. They don't have to agree — in fact, the places where they disagree are the most interesting."*
 
----
+* * *
 
 ### Track C — Quality Framework Reflection (1 hour, standalone)
 
@@ -215,7 +224,7 @@ This exercise produces two outcomes:
 
 Student evaluations are collected and added to the Erdpuls quality evidence record (BNE Area 5.2.2).
 
----
+* * *
 
 ## Curriculum Alignment (Brandenburg)
 
@@ -229,7 +238,7 @@ Student evaluations are collected and added to the Erdpuls quality evidence reco
 | Ethik/Philosophie | Environmental ethics, intergenerational responsibility | Track A: Q13 + Action stage |
 | Projekttage / Facharbeit | Independent research design | Research Question Design Sheet → potential Facharbeit topic |
 
----
+* * *
 
 ## Facilitator Notes
 
@@ -239,7 +248,7 @@ Student evaluations are collected and added to the Erdpuls quality evidence reco
 
 **On UBECrc:** Do not oversell the blockchain dimension. Students at this age are often skeptical of blockchain claims (appropriately so). The token economy's value is in the economic philosophy it expresses — the four elements — not in the technical implementation. The blockchain is simply the transparency mechanism. The design exercise is more valuable than a lecture on distributed ledger technology.
 
----
+* * *
 
 ## Risk and Safety
 
@@ -248,7 +257,7 @@ Student evaluations are collected and added to the Erdpuls quality evidence reco
 - GPS device protocol for transect work: pairs minimum, agreed return point, phone charged
 - GIS workstation: student data should be saved to a designated folder, not system-wide
 
----
+* * *
 
 ## License & Attribution
 

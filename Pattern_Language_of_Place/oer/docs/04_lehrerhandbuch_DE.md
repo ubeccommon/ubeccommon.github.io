@@ -1,3 +1,12 @@
+---
+title: "Mit der Klasse ins Lebendige Labor"
+subtitle: "Lehrerhandbuch (04)"
+date: "Februar 2026"
+lang: de
+version: "1.1"
+license: "CC BY-SA 4.0"
+project: "Erdpuls Müllrose OER Collection"
+---
 # Erdpuls Lehrerhandbuch
 ## Mit der Klasse ins Lebendige Labor
 ### Für Lehrerinnen und Lehrer sowie pädagogische Fachkräfte
@@ -8,17 +17,17 @@
 **Version:** 1.1  
 **Datum:** Februar 2026  
 **Status:** Entwurf v1.1 — OER-Veröffentlichungsbereit (DE)  
-**Übersetzungsstatus:** 🇩🇪 DE — ✅ Phase 3 abgeschlossen | 🇵🇱 PL — *ausstehend Phase 3*
+**Übersetzungsstatus:** [DE] DE — (done) Phase 3 abgeschlossen | [PL] — *ausstehend Phase 3*
 
----
+* * *
 
 ## Änderungsprotokoll
-| Version | Datum         | Änderungen                                                        |
+| Version | Datum     | Änderungen                                                        |
 |---------|---------------|-------------------------------------------------------------------|
-| 1.1     | Februar 2026  | Erstveröffentlichung für OER; Institutionsname und Lizenz ergänzt |
-| 1.0     | —             | Nicht veröffentlicht                                              |
+| 1.1   | Februar 2026  | Erstveröffentlichung für OER; Institutionsname und Lizenz ergänzt |
+| 1.0   | —             | Nicht veröffentlicht                       |
 
----
+* * *
 
 ## Für wen dieses Handbuch ist
 
@@ -26,7 +35,7 @@ Dieses Handbuch wurde für die **Klassenlehrer/in** geschrieben, die eine Schulg
 
 Dieses Handbuch gibt Ihnen: den theoretischen Rahmen des Erdpuls-Programms, die Brandenburgischen Lehrplanbezüge, praktische Vor- und Nachbereitungsaktivitäten für den Unterricht, Beurteilungsansätze für ortsbezogenes Lernen sowie eine Vorlage für die Kommunikation mit Eltern und Erziehungsberechtigten.
 
----
+* * *
 
 ## Den Erdpuls-Ansatz verstehen
 
@@ -75,7 +84,7 @@ Erdpuls richtet alle Programminhalte an fünf Kompetenzbereichen aus. Diese ents
 | **Wirtschaftliches Verstehen** | Nicht-monetären Wert erkennen; reziproker Austausch; Commons-Beitrag; UBECrc-Tokenwirtschaft | 4.2.2, 4.2.3, 4.3.1 |
 | **Sozial-emotionales Lernen** | Empathie mit nicht-menschlichem Leben; Team-Beobachtung; Entdeckungen teilen; persönliche Reaktion auf ökologische Bedingungen | 4.2.4, 4.3.3, 4.3.4 |
 
----
+* * *
 
 ## Brandenburgische Lehrplanbezüge
 
@@ -108,7 +117,7 @@ Erdpuls richtet alle Programminhalte an fünf Kompetenzbereichen aus. Diese ents
 | Wirtschaft/Soziales | Alternative Wirtschaft; Commons-Theorie | Track A (UBECrc-Design) |
 | Projekttage / Facharbeit | Eigenständiges Forschungsdesign | Forschungsfrage-Designbogen |
 
----
+* * *
 
 ## Vor dem Besuch: Unterrichtsvorbereitung
 
@@ -132,7 +141,7 @@ Diese Diskussion setzt die epistemologische Grundlage für den Sensordialog.
 
 **Lektüreaufgabe (optional):** Eine kurze Einführung in offene Daten und Citizen Science. Empfehlung: openSenseMap-Über-Seite (opensensemap.org/about) und iNaturalist-Über-Seite. Schülerinnen und Schüler kommen mit einer eigenen Frage: „Was ist an dieser Art, Wissenschaft zu betreiben, anders als an der Wissenschaft, die wir aus dem Unterricht kennen?"
 
----
+* * *
 
 ## Nach dem Besuch: Unterrichtsintegration
 
@@ -159,7 +168,7 @@ Offene Frage: *„Was erinnert ihr am deutlichsten vom Besuch? Worüber denkt ih
 
 **Citizen-Science-Bericht:** Schülerinnen und Schüler schreiben eine kurze (1–2 Absätze) Annotation zu ihrem openSenseMap- oder iNaturalist-Beitrag, die erklärt, was sie beobachtet haben, welche Methode sie verwendet haben und was sie bemerkenswert fanden. Das ist eine naturwissenschaftliche Schreibübung, die einen echten, öffentlich zugänglichen wissenschaftlichen Beitrag erzeugt.
 
----
+* * *
 
 ## Beurteilungsansätze für ortsbezogenes Lernen
 
@@ -183,13 +192,13 @@ Den Forschungsfrage-Designbogen bewerten nach:
 - Durchführbarkeit der vorgeschlagenen Methode
 - Verbindung zu verfügbaren offenen Datenquellen
 
----
+* * *
 
 ## Vorlage für die Kommunikation mit Eltern und Erziehungsberechtigten
 
 *Das Folgende kann als Brief oder E-Mail nach Hause vor dem Besuch angepasst werden.*
 
----
+* * *
 
 Liebe Eltern und Erziehungsberechtigte,
 
@@ -216,7 +225,7 @@ Bitte wenden Sie sich an [Name der Lehrkraft und Kontaktdaten].
 
 Wir freuen uns auf einen produktiven und unvergesslichen Besuch.
 
----
+* * *
 
 ## Wiederholungsbesuche: Der jahreszeitliche Lernzyklus
 
@@ -224,7 +233,7 @@ Das Erdpuls-Programm erzielt seine tiefsten Ergebnisse, wenn Klassen über die J
 
 Wenn Ihre Schule in der Lage ist, zwei oder mehr Besuche pro Jahr am selben Programm zu planen, kontaktieren Sie bitte Erdpuls zur Gestaltung eines Längsschnittprogramms. Der akkumulierte Beobachtungsdatensatz der Klasse wird zu einem echten Beitrag zur Erdpuls-Bodendatenbank und verdient gemeinschaftsweite Anerkennung in der Tokenwirtschaft.
 
----
+* * *
 
 ## Operative Informationen
 
@@ -235,7 +244,7 @@ Wenn Ihre Schule in der Lage ist, zwei oder mehr Besuche pro Jahr am selben Prog
 **Barrierefreiheit:** Kontaktieren Sie Erdpuls im Voraus für Teilnehmende mit Mobilitäts-, Sinnes- oder anderen Zugangsanforderungen — das Programm kann erheblich angepasst werden  
 **Absage:** Bitte mindestens 48 Stunden vorher bei witterungs- oder anderweitig bedingten Absagen benachrichtigen
 
----
+* * *
 
 ## Lizenz und Quellenangabe
 

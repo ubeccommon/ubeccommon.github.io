@@ -1,3 +1,12 @@
+---
+title: "Bringing Your Class to the Living Laboratory"
+subtitle: "Teachers' Comprehensive Guide (04)"
+date: "February 2026"
+lang: en
+version: "1.1"
+license: "CC BY-SA 4.0"
+project: "Erdpuls Müllrose OER Collection"
+---
 # Erdpuls Teachers' Guide
 ## Bringing Your Class to the Living Laboratory
 ### For Classroom Teachers and Educators
@@ -8,17 +17,17 @@
 **Version:** 1.1  
 **Date:** February 2026  
 **Status:** Draft v1.1 — OER Publication Ready (EN)  
-**Translation Status:** 🇩🇪 DE — *pending Phase 3* | 🇵🇱 PL — *pending Phase 3*
+**Translation Status:** [DE] — *pending Phase 3* | [PL] — *pending Phase 3*
 
----
+* * *
 
 ## Changelog
-| Version | Date          | Changes                                      |
+| Version | Date     | Changes                                      |
 |---------|---------------|----------------------------------------------|
-| 1.1     | February 2026 | Initial generation for OER publication; institution name and license applied |
-| 1.0     | —             | Not released                                 |
+| 1.1   | February 2026 | Initial generation for OER publication; institution name and license applied |
+| 1.0   | —             | Not released                 |
 
----
+* * *
 
 ## Who This Guide Is For
 
@@ -26,7 +35,7 @@ This guide is written for the **classroom teacher** accompanying a school group 
 
 This guide gives you: the theoretical framework that underpins the Erdpuls program, the Brandenburg curriculum connections, practical pre-visit and post-visit classroom activities, assessment approaches that work for place-based learning, and a template for communicating with parents and guardians.
 
----
+* * *
 
 ## Understanding the Erdpuls Approach
 
@@ -75,7 +84,7 @@ Erdpuls aligns all program content to five competency clusters. These correspond
 | **Economic Understanding** | Recognizing non-monetary value; reciprocal exchange; commons contribution; UBECrc token economy | 4.2.2, 4.2.3, 4.3.1 |
 | **Social-Emotional Learning** | Empathy with non-human life; team observation; sharing discoveries; personal response to ecological conditions | 4.2.4, 4.3.3, 4.3.4 |
 
----
+* * *
 
 ## Brandenburg Curriculum Alignment
 
@@ -108,7 +117,7 @@ Erdpuls aligns all program content to five competency clusters. These correspond
 | Wirtschaft/Soziales | Alternative economics; commons theory | Track A (UBECrc design) |
 | Projekttage / Facharbeit | Independent research design | Research Question Design Sheet |
 
----
+* * *
 
 ## Before the Visit: Classroom Preparation
 
@@ -132,7 +141,7 @@ Ask students to map the exchanges in their daily life: *"Write down three things
 
 Students explore openSenseMap (opensensemap.org) and iNaturalist (inaturalist.org) for 20 minutes, finding data from near their school or hometown. Discussion: *"Who collected this data? Why? Who can use it? What are the limits of trusting data you didn't collect yourself?"* This activates the data ethics dimension of Track A before the visit.
 
----
+* * *
 
 ## During the Visit: Your Role
 
@@ -147,7 +156,7 @@ Students explore openSenseMap (opensensemap.org) and iNaturalist (inaturalist.or
 - Hurry students away from something they are deeply engaged with; depth of engagement at one observation is worth more than coverage of all observations
 - Evaluate or grade during the session; the session is explicitly an experience-first environment where wrong answers are productive
 
----
+* * *
 
 ## After the Visit: Classroom Integration
 
@@ -174,7 +183,7 @@ Open question: *"What do you remember most clearly from the visit? What are you 
 
 **Citizen Science Reporting:** Students write a brief (1–2 paragraph) annotation to their openSenseMap or iNaturalist contribution explaining what they observed, what method they used, and what they found notable. This is a science writing exercise that produces a real, publicly accessible scientific contribution.
 
----
+* * *
 
 ## Assessment Approaches for Place-Based Learning
 
@@ -198,13 +207,13 @@ Assess the Research Question Design Sheet on:
 - Feasibility of the proposed method
 - Connection to available open data sources
 
----
+* * *
 
 ## Parent and Guardian Communication Template
 
 *The following can be adapted as a letter or email home before the visit.*
 
----
+* * *
 
 Dear Parents and Guardians,
 
@@ -231,7 +240,7 @@ Please contact [teacher name and contact details].
 
 We look forward to a productive and memorable visit.
 
----
+* * *
 
 ## Repeat Visits: The Seasonal Learning Cycle
 
@@ -239,7 +248,7 @@ The Erdpuls program achieves its deepest results when classes return across seas
 
 If your school is able to schedule two or more visits per year to the same program, please contact Erdpuls to discuss a longitudinal program design. The class's accumulated observation record becomes a real contribution to the Erdpuls soil database and earns community-level recognition in the token economy.
 
----
+* * *
 
 ## Operational Information
 
@@ -250,7 +259,7 @@ If your school is able to schedule two or more visits per year to the same progr
 **Accessibility:** Contact Erdpuls in advance for participants with mobility, sensory, or other access requirements — the program can be adapted significantly  
 **Cancellation:** Please notify at least 48 hours in advance for weather-related or other cancellations
 
----
+* * *
 
 ## License & Attribution
 

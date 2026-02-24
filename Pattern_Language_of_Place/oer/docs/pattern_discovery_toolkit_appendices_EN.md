@@ -1,3 +1,12 @@
+---
+title: "Pattern Discovery Toolkit — Appendices A-D"
+subtitle: "Questions to the Soil, Token Economy, Bioregion Mapping, BNE Quality Framework"
+date: "February 2026"
+lang: en
+version: "1.1"
+license: "CC BY-SA 4.0"
+project: "Erdpuls Müllrose OER Collection"
+---
 # Discovering a Pattern Language of Place — Appendices
 
 ## Standalone Appendices to the Transferable Toolkit
@@ -7,16 +16,16 @@
 **Version**: 1.1  
 **Date**: February 2026
 
----
+* * *
 
 ## Changelog
-| Version | Date          | Changes                                      |
+| Version | Date     | Changes                                      |
 |---------|---------------|----------------------------------------------|
-| 1.1     | February 2026 | Institution name updated; license footer added; version updated for OER publication |
-| 1.0     | October 2025  | Initial release                              |
+| 1.1   | February 2026 | Institution name updated; license footer added; version updated for OER publication |
+| 1.0   | October 2025  | Initial release               |
 
 
----
+* * *
 
 ## Appendix A: Questions to the Soil — A Phenomenological Protocol
 
@@ -55,7 +64,7 @@ For target-group-specific proxemic guidance (children, adults, elders, artists/r
 
 ### A.3 The Thirteen Questions
 
----
+* * *
 
 **Question 1: First Impression**
 
@@ -63,7 +72,7 @@ For target-group-specific proxemic guidance (children, adults, elders, artists/r
 
 This question captures the pre-analytical response. It is often the most honest and sometimes the most revealing. Participants frequently want to skip it or dismiss it as "subjective." That is exactly the habit this protocol is training them to unlearn.
 
----
+* * *
 
 **Question 2: The Surface**
 
@@ -71,7 +80,7 @@ This question captures the pre-analytical response. It is often the most honest 
 
 Surface coverage is the soil's first line of communication. A fully covered surface tells a different story than a bare one. The pattern of coverage — patchy, uniform, concentrated at edges — reveals wind, water, light, and use patterns.
 
----
+* * *
 
 **Question 3: Color**
 
@@ -79,7 +88,7 @@ Surface coverage is the soil's first line of communication. A fully covered surf
 
 Color is one of the most information-dense properties of soil. Dark soils are typically rich in organic matter. Red and orange soils contain oxidized iron (well-drained). Grey and blue-grey soils indicate waterlogging and reduced iron. White deposits may be calcium carbonate, salt, or fungal mycelium. Participants do not need to know these explanations during the protocol — the point is to *see* the color precisely, not to diagnose it.
 
----
+* * *
 
 **Question 4: Touch and Texture**
 
@@ -87,7 +96,7 @@ Color is one of the most information-dense properties of soil. Dark soils are ty
 
 The ribbon test is one of the oldest soil assessment techniques — used across cultures for millennia. It teaches participants that their fingers are a precision instrument for particle size analysis. The temperature and moisture of soil are experienced differently through touch than through a thermometer or moisture sensor — both experiences matter.
 
----
+* * *
 
 **Question 5: Smell**
 
@@ -97,7 +106,7 @@ Healthy soil has a distinctive smell produced by geosmin, a compound released by
 
 *Proxemic note:* This question is consistently the proxemic breakthrough of the protocol. It requires participants to bring the soil to within centimeters of their nose — deep intimate distance with a non-human substance. Hall identified the olfactory code as the most intimate proxemic channel: it operates only at close range and triggers the deepest associative responses. When elders smell soil, the olfactory-mnemonic link often produces extraordinary responses ("My grandmother's potato field smelled exactly like this"). Allow extended time for these responses. They are not digressions — they are the protocol's deepest data.
 
----
+* * *
 
 **Question 6: Structure**
 
@@ -105,7 +114,7 @@ Healthy soil has a distinctive smell produced by geosmin, a compound released by
 
 Soil structure is the architecture of the underground. Good aggregate structure means air and water can move through the soil; earthworms, roots, and fungi have created habitable space. Compacted, structure-less soil indicates disturbance, heavy traffic, or loss of biological activity. This is where participants begin to understand soil as a *built environment* — constructed not by humans but by organisms over decades.
 
----
+* * *
 
 **Question 7: Life**
 
@@ -113,7 +122,7 @@ Soil structure is the architecture of the underground. Good aggregate structure 
 
 The biodiversity visible to the naked eye in a handful of healthy soil is astonishing when people actually look. Participants are often shocked — either by abundance ("I had no idea so many creatures lived here") or by absence ("there's nothing alive in this soil at all"). Both responses are powerful entry points for sustainability literacy.
 
----
+* * *
 
 **Question 8: Water**
 
@@ -121,7 +130,7 @@ The biodiversity visible to the naked eye in a handful of healthy soil is astoni
 
 Infiltration is one of the most important functional properties of soil, and one of the easiest to observe. Participants directly witness the difference between soil that accepts water (healthy structure, organic matter, biological activity) and soil that rejects it (compaction, crust, hydrophobic surface). This connects immediately to flood risk, erosion, drought resilience, and groundwater recharge — sustainability themes made tangible.
 
----
+* * *
 
 **Question 8b: Sound** *(Proxemic Enrichment)*
 
@@ -129,7 +138,7 @@ Infiltration is one of the most important functional properties of soil, and one
 
 Hall's proxemics identifies voice/sound as one of the sensory codes that changes with distance. The soil has its own acoustic profile, audible only at intimate distance. This question completes the proxemic sensory circuit: touch (Question 4), smell (Question 5), thermal (implicit in 4 and 8), visual (Questions 2, 3, 6, 7), and now auditory. The contrast between ground-level and standing-height sound is itself a proxemic lesson: the world sounds different at different distances because different acoustic channels are active.
 
----
+* * *
 
 **Question 9: Roots**
 
@@ -137,7 +146,7 @@ Hall's proxemics identifies voice/sound as one of the sensory codes that changes
 
 Roots are the negotiation between plant and soil made visible. Where roots are shallow, something is preventing deeper exploration — compaction, waterlogging, toxic conditions, rock. Where roots follow cracks, the soil structure is doing the work of creating access. The root-stop boundary often marks a significant soil horizon change.
 
----
+* * *
 
 **Question 10: Layers**
 
@@ -145,7 +154,7 @@ Roots are the negotiation between plant and soil made visible. Where roots are s
 
 This is the most geological of the questions. It asks participants to read a vertical history: the top layer is the most recent, shaped by current vegetation and management; deeper layers record older conditions. In many landscapes, the stratigraphy reveals glacial deposits, buried soils, fill material, or the legacy of past land uses.
 
----
+* * *
 
 **Question 11: History**
 
@@ -153,7 +162,7 @@ This is the most geological of the questions. It asks participants to read a ver
 
 This is the first interpretive question — deliberately placed late in the sequence, after extensive observation. Participants are now asked to construct a narrative from their evidence. There is no single right answer, but the discipline of basing the narrative on observed evidence (not assumption) is the core scientific practice.
 
----
+* * *
 
 **Question 12: Relationships**
 
@@ -161,7 +170,7 @@ This is the first interpretive question — deliberately placed late in the sequ
 
 This question re-embeds the patch in its context. Soil does not exist in isolation — it receives water, nutrients, seeds, pollutants, and compaction from its surroundings. This is where the single patch connects to the larger pattern language: the soil is a node in a network.
 
----
+* * *
 
 **Question 13: Care**
 
@@ -169,7 +178,7 @@ This question re-embeds the patch in its context. Soil does not exist in isolati
 
 The final question moves from observation to ethical response. It is the bridge between knowing a place and caring for it — the Attitude and Action stages of the 4A-Pathway. Participants often find that the twelve preceding questions have changed their answer to this one: having closely observed the soil, their prescriptions become more specific, more humble, and more attentive to what the soil itself is already doing.
 
----
+* * *
 
 ### A.4 After the Questions
 
@@ -220,9 +229,9 @@ The arc moves: approach → intimate immersion → gradual widening → re-embed
 
 **For equivalent protocols in other media** (Questions to the Water, Questions to the Stone, etc.), the proxemic arc should be preserved: begin at intimate distance with the medium, activate all sensory channels, then gradually widen to relational and ethical context.
 
----
+* * *
 
----
+* * *
 
 ## Appendix B: Integrating a Reciprocal Token Economy
 
@@ -324,9 +333,9 @@ A reciprocal token economy is a mechanism for making value flows visible and ena
 
 The token economy also does not replace intrinsic motivation. Many participants will engage in pattern discovery because it is inherently fascinating, socially rewarding, and personally meaningful. The tokens should *recognize* this motivation, not attempt to *create* it through incentive design. If participants only discover patterns when tokens are offered, the process has gone wrong.
 
----
+* * *
 
----
+* * *
 
 ## Appendix C: Structured Bioregion Mapping Protocol — GIS and Analog
 
@@ -489,9 +498,9 @@ This map is both a scientific document and a cultural artifact. It should be tre
 
 **Full (GIS + analog in parallel):** Both tracks run simultaneously as described above. Requires one person with basic QGIS competence, a laptop, a projector or large screen, and the pre-prepared data layers. This is the richest version and is recommended where resources permit.
 
----
+* * *
 
----
+* * *
 
 ## Appendix D: Alignment with Education for Sustainable Development Quality Frameworks
 
@@ -649,7 +658,7 @@ The toolkit's approach to quality evaluation — developed in the five BNE Quali
 
 Over time, accumulated Proxemic Audit data across multiple workshops creates a quality dataset: Which workshop formats produce the highest proportion of intimate/personal-distance engagement? Which produce the most sensory-channel diversity? How does proxemic profile correlate with Quality Star ratings, Quality Compass responses, and return rates? This data contributes to BNE Area 5.2.2 (systematic evaluation evidence) and Area 5.1.2 (internal evaluation instruments).
 
----
+* * *
 
 ## License & Attribution
 © 2025–2026 Erdpuls Müllrose - Center for Sustainability Literacy, Citizen Science and Reciprocal Economics   
