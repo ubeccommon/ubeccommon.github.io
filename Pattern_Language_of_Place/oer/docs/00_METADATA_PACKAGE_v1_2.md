@@ -8,11 +8,8 @@ license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
 author: "Erdpuls Müllrose"
 ---
-```{=latex}
-\newpage
-```
 
-## How to Use This Document
+# How to Use This Document
 
 This file contains all metadata needed to submit the Erdpuls Müllrose OER learning materials to OER portals including WirLernenOnline, Zenodo, OER Commons, and Jointly.info. It is structured as (1) a human-readable reference for the initiative, (2) a copy-paste source for platform submission forms, and (3) a structured record for future LRMI/Schema.org export.
 
@@ -22,7 +19,7 @@ Fields marked **[TO BE COMPLETED BY AUTHOR]** require information only the proje
 * * *
 
 
-## Part 1: Collection Metadata (All Five Guides Together)
+# Part 1: Collection Metadata (All Five Guides Together)
 
 ### 1.1 Identification
 
@@ -271,7 +268,7 @@ The Erdpuls program employs a phenomenological learning method in which sensory 
 * * *
 
 
-## Part 2: Per-Document Metadata Records
+# Part 2: Per-Document Metadata Records
 
 
 * * *
@@ -552,7 +549,7 @@ The Erdpuls program employs a phenomenological learning method in which sensory 
 * * *
 
 
-## Part 3: Platform-Specific Submission Checklists
+# Part 3: Platform-Specific Submission Checklists
 
 
 * * *
@@ -653,7 +650,7 @@ To register Erdpuls Müllrose on eu-citizen.science as both a project and a reso
 * * *
 
 
-## Part 4: License and Attribution Block
+# Part 4: License and Attribution Block
 
 *The following attribution block is provided for copy-paste into any document, submission form, or derivative work, in all three languages.*
 
@@ -709,7 +706,7 @@ Kontakt: erdpuls@ubec.network | https://erdpuls.ubec.network
 * * *
 
 
-## Changelog
+# Changelog
 
 | Version | Date | Changes |
 |---|---|---|
