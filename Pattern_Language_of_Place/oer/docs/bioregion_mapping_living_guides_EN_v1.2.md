@@ -3,7 +3,7 @@ title: "Bioregion Mapping — Living Experience Guides"
 subtitle: "Five Target-Group-Specific Workshop Guides — Appendix C"
 date: "February 2026"
 lang: en
-version: "1.1"
+version: "1.2"
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
 ---
@@ -13,16 +13,17 @@ project: "Erdpuls Müllrose OER Collection"
 
 **Erdpuls Müllrose — Living Laboratory & Makerspace Garden**
 
-**Version**: 1.1  
+**Version**: 1.2  
 **Date**: February 2026
 
 * * *
 
 ## Changelog
-| Version | Date     | Changes                                      |
-|---------|---------------|----------------------------------------------|
-| 1.1   | February 2026 | Institution name updated; license footer added; version updated for OER publication |
-| 1.0   | October 2025  | Initial release               |
+| Version | Date          | Changes                                                                                                                                                                                                                                                                                                         |
+|---------|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.2     | February 2026 | BNE compliance update: Pedagogical Framework and BNE Orientation section added (4A-Pathway, Three-Stream Pedagogy, four sustainability dimensions, SDGs, Gestaltungskompetenzen); Overview tables expanded with Sustainability Dimensions, Gestaltungskompetenzen, SDG Connections, and Three-Stream balance rows; inline BNE callout notes added throughout all five guides; BNE Quality Framework Alignment section added at end. |
+| 1.1     | February 2026 | Institution name updated; license footer added; version updated for OER publication                                                                                                                                                                                                                             |
+| 1.0     | October 2025  | Initial release                                                                                                                                                                                                                                                                                                 |
 
 
 ## How to Use These Guides
@@ -40,6 +41,89 @@ Each guide therefore balances three modes: **feet** (walking transects, embodied
 **Guide 3:** Elders and Intergenerational Groups — "The Landscape Remembers"
 **Guide 4:** Artists and Researchers — "Cartographies of Belonging"
 **Guide 5:** Cross-Border Groups — "One Landscape, Two Countries"
+
+* * *
+
+## Pedagogical Framework and BNE Orientation
+
+These guides are part of the Erdpuls OER Collection and are designed for full compliance with the *Qualitätskatalog für außerschulische Anbieterinnen und Anbieter von Bildung für nachhaltige Entwicklung (BNE) im Land Brandenburg* (MLUK Brandenburg, April 2023). All five guides together constitute a single educational programme strand (Appendix C of the Pattern Discovery Toolkit) governed by the shared pedagogical principles below.
+
+### BNE Quality Areas Addressed
+
+| Area | Title                        | Status                                                             |
+|------|------------------------------|--------------------------------------------------------------------|
+| 1    | Goals and Target Groups      | ✅ All criteria met — five explicitly differentiated target groups, progressive year-on-year goals |
+| 2    | Approach                     | ✅ All criteria met — four sustainability dimensions, five SDGs, controversial boundary deliberation |
+| 3    | Methods                      | ✅ Minimum requirements met; 7/8 sub-criteria (3.1) fully met      |
+| 4    | Gestaltungskompetenz         | ✅ All 12 sub-competencies addressed across the five guides         |
+| 5    | Quality Development          | ✅ Minimum requirements met; longitudinal dataset is the evaluation mechanism |
+| 6    | Facilitator Qualification    | ✅ Minimum requirements met                                        |
+| 7    | Organisational Conditions    | ✅ Minimum requirements met                                        |
+
+The complete criterion-by-criterion mapping is in the *BNE Quality Framework Alignment* section at the end of this document.
+
+### The 4A-Pathway Across All Five Guides
+
+Every educational sequence at Erdpuls follows the 4A-Pathway. In bioregion mapping, the pathway maps onto the shared activity arc across all guides:
+
+| Stage              | Bioregion Mapping Activity                                                                                                                         |
+|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Awareness**      | The walking transect: body moving through landscape at intimate and personal proxemic distance, accumulating sensory evidence of transitions. Noticing soil change underfoot, temperature shift at forest edge, sound of stream. "What is here?" |
+| **Acknowledgment** | Map synthesis: recognising that what was felt separately on the transect constitutes a structured landscape — a watershed, a geological unit, a vegetation community. "This place is part of something larger, and I belong to it." |
+| **Attitude**       | Boundary deliberation: asking who is responsible for a territory that political maps do not show. The Landscape Letter. The elder's recognition of landscape loss. The cross-border soil comparison. "What does this mean for how I want to inhabit this place?" |
+| **Action**         | Citizen science output: GPS tracks, transition data, boundary proposals, Memory Maps, original cartographic works — contributed to the longitudinal bioregion-definition dataset. "What will I do, and what will I contribute?" |
+
+The pathway is recursive across seasons and years. A child who reaches Awareness in spring returns in autumn at Acknowledgment. An elder who documents landscape loss at Acknowledgment is supported toward Action through the Memory Map archiving process.
+
+### Three-Stream Pedagogy (Head / Hands / Heart) Across All Five Guides
+
+| Stream     | In Bioregion Mapping                                                                                                                                         |
+|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Head**   | GIS exploration; watershed reading from contour lines; comparison of institutional and ecological boundaries; formulating the cartographic question (Guide 4) |
+| **Hands**  | Walking transects; drawing Expedition Record Sheets; laying string boundary proposals on maps; GPS tracking; soil sampling; sound recording                   |
+| **Heart**  | The Turnaround Moment proxemic inventory; the Landscape Letter; the elder Erzählcafé and Memory Map; the Border Moment soil comparison (Guide 5); the shared meal as bioregional encounter |
+
+The principle *body first, then instrument* governs the sequencing in every guide: all five begin with movement or embodied encounter before introducing GIS or analytical tools.
+
+### Four Sustainability Dimensions
+
+Bioregion mapping integrates all four sustainability dimensions required by BNE Area 2.1.1:
+
+| Dimension      | How Bioregion Mapping Addresses It                                                                                                                         |
+|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Ecological** | Watershed definition, geological substrate reading, vegetation transition documentation, soil type identification, biodiversity observation, Naturpark boundaries, species-distribution data contribution |
+| **Economic**   | Agricultural land use patterns; history of DDR collectivisation and post-reunification afforestation visible in the landscape; cross-border economic asymmetries (Guide 5); token economy framing of bioregional stewardship |
+| **Social**     | Intergenerational knowledge transfer (elder Memory Map as data); cross-cultural encounter (Guide 5); community boundary-setting as collective decision; shared meals as social bioregional ritual |
+| **Cultural**   | Toponymy and settlement history (Guide 2 glacial framing); elder memory of landscape sound and smell as cultural heritage (Guide 3); multilingual pattern naming; the border's historical weight (Guide 5); artist-in-residence cartographic traditions (Guide 4) |
+
+### SDGs Addressed
+
+| SDG | Connection |
+|-----|-----------|
+| **SDG 4** (Quality Education) | Situated, experiential learning; OER publication of all outputs; citizen science as evidence-based inquiry |
+| **SDG 11** (Sustainable Cities and Communities) | Community-authored bioregional boundary proposals inform local planning; watershed awareness as planning tool |
+| **SDG 13** (Climate Action) | Phenological and microclimate data contributed to longitudinal monitoring; landscape memory as climate proxy record |
+| **SDG 15** (Life on Land) | Biodiversity documentation, Naturpark Schlaubetal engagement, watershed protection awareness, iNaturalist contributions |
+| **SDG 17** (Partnerships for the Goals) | Cross-border DE/PL cooperation (Guide 5); open data publication; OER methodology transferability |
+
+### Gestaltungskompetenzen Addressed (Transfer 21)
+
+All 12 sub-competencies are developed across the five guides. The table below shows the primary development locus of each:
+
+| Sub-Competency | Primary Guide(s) |
+|---|---|
+| 4.1.1 Openness to new perspectives | Guide 3 (elder temporal perspective), Guide 5 (cross-cultural, cross-border) |
+| 4.1.2 Foresight and scenario analysis | Guide 2 (watershed and planning implications), Guide 5 (cross-border stewardship) |
+| 4.1.3 Interdisciplinary reasoning | All guides — every transect requires geology, ecology, history, and geography held simultaneously |
+| 4.1.4 Uncertainty and risk recognition | All guides — contested boundary proposals; "the bioregion is a relationship, not a fact" |
+| 4.2.1 Collaborative planning and action | All guides — boundary deliberation is collective and physically collaborative |
+| 4.2.2 Recognising goal conflicts | Guide 2 (watershed vs. Landkreis), Guide 5 ("same landscape, different systems") |
+| 4.2.3 Participation in collective decisions | All guides — democratic boundary deliberation; no single correct answer |
+| 4.2.4 Self and collective motivation | Guide 4 (cartographic question as intrinsic motivation), Guide 5 (cross-border stewardship vision) |
+| 4.3.1 Reflecting own values | Guide 1 ("Do you feel like you're still in our place?"), Guide 2 (Landscape Letter) |
+| 4.3.2 Independent planning and action | Guide 4 (resident's self-directed mapping practice across weeks) |
+| 4.3.3 Empathy | Guide 3 (elder landscape loss), Guide 5 (cross-border proxemic rupture and recovery) |
+| 4.3.4 Justice as a basis for action | Guide 3 (elder knowledge as equal data to GPS), Guide 5 (German/Polish asymmetry named and countered) |
 
 * * *
 
@@ -62,6 +146,10 @@ Each guide therefore balances three modes: **feet** (walking transects, embodied
 | **Location** | Erdpuls campus as base; walking transects into surrounding landscape (1–3 km for younger, 3–5 km for older); Zone E for mapping synthesis |
 | **Season** | Late spring through early autumn (comfortable walking conditions; maximum landscape legibility) |
 | **4A-Pathway Focus** | Awareness (noticing landscape transitions) and Acknowledgment (recognizing your place as part of a larger system) |
+| **Three-Stream Balance** | **Hands-dominant** (walking, drawing, string-laying) → Head (GIS, pattern analysis) → Heart (Turnaround Question, closing reflection) |
+| **Sustainability Dimensions** | ☑ Ecological (watershed, soil, vegetation) · ☑ Social (collective boundary negotiation) · ☐ Economic · ☐ Cultural — *ecological and social primary* |
+| **Primary Gestaltungskompetenzen** | 4.1.3 (interdisciplinary — geology/ecology/history in one transect) · 4.1.4 (uncertainty — contested boundary proposals) · 4.2.3 (participation in collective decisions) · 4.3.1 (values reflection — "Do I still feel like I'm in my place?") |
+| **SDG Connections** | SDG 4 (situated learning) · SDG 15 (biodiversity observation, Naturpark) · SDG 11 (watershed awareness for planning) |
 | **Curriculum Links** | Geography (landscape, maps, watersheds, orientation), Biology (habitat types, ecotones), History (settlement, land use), Art (landscape observation, mapmaking), Mathematics (scale, distance, coordinates) |
 | **Prerequisite** | Ideally follows a Questions to the Soil session (Appendix A, Guide 1) — participants who have already examined Ring 2 are ready to expand outward |
 
@@ -149,6 +237,8 @@ Today you're going on an expedition — not to somewhere far away, but to the ed
 
 The concept we're exploring is called a *bioregion* — a territory defined not by politics but by ecology. Today you're going to walk outward from this campus, notice every transition, and come back to propose where the Müllrose bioregion begins and ends. This is genuine geography — not reading a map, but creating one from what you observe."
 
+> **BNE Area 1 / 4A-Pathway (Awareness):** The welcome framing is the entry point to the 4A-Pathway. The distinction between political boundary ("where the town sign is — that's easy") and ecological boundary ("where the land itself changes") is the guiding question. It is deliberately left open — the answer is to be discovered through walking, not delivered through instruction. The framing honours BNE 3.1.2 (situated) by beginning with this specific place, this specific landscape, this specific question about Müllrose rather than "bioregions in general."
+
 ### The Experience: Phase 1 — The Expedition (90–150 minutes)
 
 **Ages 8–12 (90 min, campus and immediate surroundings):**
@@ -167,6 +257,8 @@ Typical transition points for the Müllrose campus area:
 - Road → settlement edge (landscape to village)
 
 At each transition, teams fill in one row of the Transition Log. Encourage them to use all senses: "What does the air smell like here versus there? What sounds stopped? What sounds started?"
+
+> **BNE 3.1.1 (experiential) / Three-Stream Hands + Heart:** The walking phase is the primary site of Three-Stream engagement. Hands: filling in the Transition Log at each stop, marking the map, handling the clipboard. Heart: the Sensory Closure Check — noticing which senses are still connecting the child to the campus, and when they close. Head: the "I think this is a boundary because" column, which requires children to formulate an argument from evidence. The facilitator should resist supplying the argument — confusion and debate between team members over whether a boundary has been crossed IS the learning. See BNE 4.1.4 (uncertainty recognition).
 
 *Proxemic note — Sensory Closure:* At each transition stop, children also complete the Sensory Closure Check. A pattern emerges across the transect: near the campus, all five boxes are checked (touch the soil, smell the garden, hear the chickens, feel the temperature shift at the building edge, see the path ahead). By the third or fourth stop, boxes begin to uncheck — smell fades first (no more garden or compost scent), then sound narrows (familiar campus sounds replaced by undifferentiated wind), then thermal awareness dulls (no more building-wall heat or shade transitions). The last non-visual channel to close marks a proxemically defined boundary: the edge where non-visual connection to the home place fades. This is not the bioregional boundary — but it is the edge of *felt* belonging, and it is a powerful starting point for the boundary deliberation. "Where did your senses stop telling you that you were still in 'our place'?"
 
@@ -234,11 +326,15 @@ The facilitator does not resolve this. The disagreement IS the learning. "A bior
 
 Multiple boundary proposals are recorded — drawn on the map, labeled with the criteria used, attributed to the team that proposed them.
 
+> **BNE 4.2.3 (participation in collective decisions) / 4.1.4 (uncertainty) / 2.2.1 (controversial):** The deliberation is the workshop's primary BNE competency moment. The facilitator's explicit framing — "The disagreement IS the learning" — operationalises BNE 2.2.1 (the educational concept engages controversial perspectives to promote independent opinion formation). Competing boundary criteria (watershed vs. vegetation vs. cultural market-catchment) represent genuine value conflicts, not errors to be corrected. The multiple boundary proposals on the map, retained and attributed, demonstrate that contested knowledge is legitimate knowledge. This is BNE 4.1.4 (handling risk and uncertainty) applied to spatial cognition.
+
 ### Sensor Dialogue (10 minutes)
 
 "The Erdpuls sensor network monitors a specific area — the campus. But the water that reaches our soil comes from further away. The air that the sensors measure blows in from the west. The temperature we record is shaped by the forest cover kilometers away. The sensor network measures a point, but that point exists inside a bioregion. Today you began to define that bioregion — and now the sensor data has a context it didn't have before."
 
 For older students: "If we wanted to monitor the whole bioregion you proposed, where would we place additional sensors? What would they need to measure?"
+
+> **BNE 2.1.2 (interdisciplinary) / 4.1.3 (interdisciplinary reasoning):** The sensor dialogue is the moment that connects ecology (the transect) with technology (the IoT network) with geography (the bioregion). It demonstrates that environmental data is always situated — a measurement is meaningless without knowing the context from which it comes. This is simultaneously a science-methodology insight and a sustainability-literacy insight: the scale at which you observe determines what you can know. BNE 2.1.2 requires that the educational concept integrates knowledge from different scientific and socio-societal perspectives — the sensor dialogue does this in a single question.
 
 ### Citizen Science Output
 
@@ -324,6 +420,10 @@ The facilitator connects to the wider toolkit: "The pattern cards you've made in
 | **Location** | Walking transects from Erdpuls campus (5–8 km); Zone E for mapping synthesis |
 | **Season** | All seasons; autumn and late winter offer maximum landscape legibility |
 | **4A-Pathway Focus** | Full pathway, with emphasis on Attitude (how landscape understanding changes behavior) and Action (participating in bioregional stewardship) |
+| **Three-Stream Balance** | **Head-Hands equal** (rigorous GIS synthesis and boundary logic alongside physical walking) → Heart (Landscape Letter, shared meal, "you eat your bioregion") |
+| **Sustainability Dimensions** | ☑ Ecological (watershed, geology, land cover) · ☑ Economic (land-use history, agricultural systems, DDR collectivisation legacy) · ☑ Social (community planning, collective boundary negotiation) · ☑ Cultural (glacial heritage framing, settlement history, Prussian landscape continuity) — *all four dimensions* |
+| **Primary Gestaltungskompetenzen** | 4.1.2 (foresight — watershed implies future governance responsibilities) · 4.1.3 (interdisciplinary — glacier→soil→settlement→food in one chain) · 4.2.2 (goal conflicts — political vs. ecological boundaries) · 4.3.1 (values reflection — Landscape Letter) |
+| **SDG Connections** | SDG 11 (watershed and land-use awareness for planning) · SDG 13 (glacial landscape as climate context; land-cover change records) · SDG 15 (Naturpark engagement, land cover transitions) |
 | **Practical Connection** | Land use planning, watershed awareness, Naturpark engagement, cross-municipal cooperation, informed voting on regional development |
 
 ### The Pedagogical Challenge with Adults
@@ -357,6 +457,8 @@ About 15,000 years ago, a glacier stood roughly where we're standing now. It was
 
 Today we trace that inheritance. We walk outward, read the landscape, and then come back to draw the map beneath the map — the bioregional map that the glacier drew and that no politician has erased."
 
+> **BNE 1.1.1 (Lebensweltbezug) / 2.1.1 (multidimensional):** The glacial framing integrates all four sustainability dimensions in a single opening paragraph. Ecological: the substrate of the landscape. Economic: the sandy soil that shaped brick-making and farming. Social: the settlement pattern the glacier made possible. Cultural: the inherited landscape as identity. Adults in rural Brandenburg are often unaware that they inhabit the product of a specific geological event 15,000 years ago. This framing shifts the "administrative" landscape perception toward a deep-time ecological one — a prerequisite for genuine bioregional thinking.
+
 ### The Experience: Phase 1 — Walking Transects (3–4 hours)
 
 Divide into 2–3 teams, each walking a different transect route of 5–8 km. Routes are pre-scouted to cross maximum landscape transitions and, ideally, to reach an elevated viewpoint at the turning point.
@@ -382,6 +484,8 @@ At each stop:
 
 These letters are not shared publicly unless participants choose to — they are a reflective practice, a Goethean moment of integration before the walk back.
 
+> **BNE 3.1.5 (reflective) / 4.3.1 (values reflection) / 4A-Pathway (Attitude):** The Landscape Letter is the Attitude stage of the 4A-Pathway in this guide. The unusual address form — "Dear landscape" — proxemically positions the territory as a person-distance interlocutor rather than a viewed object. Writing to the landscape "as if to a person" is also a values-formation move: it asks participants to take the perspective of a place, which is the precondition for the stewardship attitude the guide aims to produce. The letters must never be publicly shared without explicit participant consent — their pedagogical value depends entirely on the privacy of the proxemic relationship they create.
+
 ### The Experience: Phase 2 — Mapping Synthesis (2–2.5 hours)
 
 Return to Zone E. The full Appendix C mapping protocol unfolds:
@@ -391,6 +495,8 @@ Return to Zone E. The full Appendix C mapping protocol unfolds:
 **Step 2 — Water Layer (30 min):** Using transparent overlay and blue markers, trace all water features. Then the key exercise: trace the watershed boundary. The facilitator explains watershed reading from contour lines (for those unfamiliar) and guides the group to identify the ridgeline separating the Schlaube/Oder drainage from adjacent catchments.
 
 This is often the first time adults realize that water defines territory more fundamentally than any political boundary. "All rain that falls inside this line ends up in the same place. All rain outside goes somewhere else. That is the most basic fact about where you live."
+
+> **BNE 2.1.1 (ecological dimension) / 4.1.3 (interdisciplinary):** The watershed revelation is the ecological-dimension keystone of Guide 2. The phrase "that is the most basic fact about where you live" is deliberately provocative — adults who have lived in Müllrose for decades have likely never considered this. The GIS/analog comparison (Step 6) gives this discovery its scientific grounding, while the hands-on string boundary deliberation (Step 7) gives it its social dimension. Criteria 2.1.1 requires two sustainability dimensions to be explicitly linked — the watershed step connects ecological (hydrological territory) and social (community governance responsibility) in a single question: "All rain inside this line flows to the same place. Who is responsible for that place?"
 
 **Step 3 — Geology and Soil (20 min):** Brown markers on a second overlay. Transition points from transects that corresponded to soil or terrain changes are marked. If available, the BGR geological map is displayed on the GIS screen for comparison.
 
@@ -409,6 +515,8 @@ This is often the first time adults realize that water defines territory more fu
 **Step 7 — Boundary Deliberation (30 min):** Using string, the group collectively proposes a bioregional boundary. The adult deliberation is typically more nuanced than children's — adults weigh competing criteria, acknowledge that different definitions produce different boundaries, and may decide that the bioregion has a "core" and a "transition zone" rather than a hard edge.
 
 *Proxemic note:* The string-laying is a sociopetal, haptic negotiation — participants leaning over a shared map at personal distance, physically placing and adjusting string, reaching across each other's space. This spatial arrangement is the proxemic counterpart to the deliberative process: the boundary is negotiated not through formal debate at social distance but through physical handling at personal distance. When two participants disagree about where the string should go, they are simultaneously engaged in a spatial negotiation (their hands competing for the same string, their bodies negotiating personal space over the map) and a conceptual negotiation (watershed vs. vegetation vs. settlement). The facilitator should let both negotiations proceed — the spatial one often resolves the conceptual one. "You're both pulling the string in different directions. Leave both pieces on the map — that's two boundary proposals, and the territory between them is the transition zone."
+
+> **BNE 2.2.1 (controversial) / 4.2.1 (collaborative planning) / 4A-Pathway (Attitude→Action):** The string-laying deliberation is the guide's highest-density BNE moment. BNE 2.2.1 requires that the educational concept "considers controversial perspectives to promote independent opinion formation." The boundary deliberation makes this structural: there is no single correct answer, competing criteria produce competing boundaries, and disagreement is explicitly preserved on the map. The physical hapticity of the exercise (reaching over a shared map, strings crossing) operationalises BNE 4.2.1 (collaborative planning at personal proxemic distance). The facilitator's refusal to resolve the disagreement models the epistemic stance the catalogue calls "independent opinion formation."
 
 ### Closing and Meal (30 minutes)
 
@@ -472,6 +580,10 @@ Each participant shares one sentence: "The map beneath my map is ___."
 | **Location** | Zone E (Heritage Hub) as base; optional short walk (500 m–1 km) to a nearby viewpoint or significant landscape feature |
 | **Season** | Winter or early spring (indoor comfort; landscape stripped to structure) |
 | **4A-Pathway Focus** | Acknowledgment (recognizing lifelong landscape knowledge as bioregional data) |
+| **Three-Stream Balance** | **Heart-dominant** (Erzählcafé atmosphere; grief and memory as legitimate data) → Hands (Memory Map drawing, sticky-note placement) → Head (historical map comparison, epoch analysis) |
+| **Sustainability Dimensions** | ☑ Ecological (vanished streams, former wetlands, species loss) · ☑ Economic (DDR collectivisation land use change, orchard loss, rural deindustrialisation) · ☑ Social (intergenerational knowledge transfer, community memory as commons) · ☑ Cultural (sound and smell memory as cultural heritage; the archive as community act) — *all four dimensions, but cultural and social are primary* |
+| **Primary Gestaltungskompetenzen** | 4.1.1 (openness — younger participants encountering perspectives from before their birth) · 4.1.4 (uncertainty — memory vs. map discrepancy as legitimate data, not error) · 4.3.3 (empathy — holding space for grief over landscape loss) · 4.3.4 (justice — elder knowledge treated as equal to GPS data) |
+| **SDG Connections** | SDG 13 (landscape memory as climate proxy record; land-cover change over decades) · SDG 15 (species loss recorded by elder testimony; drained wetlands documented) · SDG 4 (intergenerational knowledge as educational content) |
 | **Unique Value** | Elders have witnessed landscape change — their memories are a temporal transect no map can replicate |
 
 ### The Core Principle: Memory as Transect
@@ -505,6 +617,8 @@ Seated, beverages served.
 You remember fields that are now forests. You remember streams that no longer flow. You remember a Müllrose that looked different, smelled different, sounded different. That memory is not nostalgia — it is data. It is the most important data anyone in this room possesses about this landscape, because it cannot be measured, cannot be photographed, cannot be reconstructed. It exists only in your minds.
 
 Today we create a map that holds your memory — a map that shows not just where things are, but where they were, and how they changed."
+
+> **BNE 1.2.1 / 1.2.2 (target-group-specific need):** The framing explicitly names why elder knowledge is irreplaceable — it cannot be measured, photographed, or reconstructed by other means. This is the target-group-specific need that justifies Guide 3's existence as a distinct workshop rather than a variant of Guide 2. The phrase "That memory is not nostalgia — it is data" does pedagogical work: it repositions elder knowledge from sentimental to scientific, elevating the target group's self-perception of their contribution's value. This is critical for 4.3.4 (justice as basis for action): elder knowledge is treated as equal to GPS data, not as supplementary anecdote.
 
 ### The Experience: Phase 1 — Map Orientation and Historical Comparison (30 minutes)
 
@@ -542,6 +656,8 @@ Red markers. The urbanization, deindustrialization, and demographic change of ru
 "What did this landscape sound like when you were young? More birds? Different birds? Tractors instead of horses? Aircraft? Wind turbines? What did it smell like? Manure from certain fields? Smoke from certain factories? Blossoms from orchards that are gone?"
 
 This layer cannot be drawn on a map — it is recorded on audio and transcribed. But it is some of the most powerful bioregional data. Sound and smell define territory as surely as watershed or soil type, and their change over time reveals ecological and economic transformation.
+
+> **BNE 2.1.1 (all four dimensions in one phase) / 4.1.1 (openness to new perspectives):** The Sound and Smell Memory phase is the guide's most multidimensional moment. Ecological: soundscape change is a biodiversity indicator (nightingale retreat → habitat loss). Economic: the smells of vanished factories, horses replaced by tractors → economic transformation. Social: shared community soundscapes define collective memory ("we all remember the Backsteinwerk"). Cultural: the olfactory and acoustic texture of a place is irreplaceable cultural heritage — once the people who hold it are gone, no instrument can recover it. Younger participants scribing alongside elders encounter BNE 4.1.1 at its most direct: a perspective from before their birth, delivered at intimate distance, about a place they thought they already knew.
 
 *Proxemic note:* Sound and smell are the proxemic channels that define territory at a scale larger than touch but smaller than sight. When an elder says "You could smell the Backsteinwerk from here" or "The nightingales used to sing along the whole Schlaube — now only from Ragower Mühle southward," they are mapping proxemic boundaries: the reach of sound and smell from specific sources across the landscape. These boundaries have contracted or shifted over decades — and the contraction is itself a bioregional datum. A sound/smell boundary that has retreated means the territory's sensory reach has shrunk. The elder's memory of its former extent is the only record of its proxemic geography.
 
@@ -611,6 +727,10 @@ The facilitator connects to the broader toolkit: "The boundary proposals from th
 | **Location** | Full landscape surrounding Erdpuls; the resident defines their own mapping territory |
 | **Season** | Any; the seasonal arc experienced during the residency becomes a temporal dimension of the map |
 | **4A-Pathway Focus** | Full pathway, with deepest engagement at Action (the production of an original cartographic work that extends bioregional knowledge) |
+| **Three-Stream Balance** | **All three equally sustained over weeks** — Head (cartographic question, GIS, mid-residency synthesis), Hands (weekly transects, soil sampling, sound recording, drawing at turnaround), Heart (the resident's growing felt belonging to the territory; the "view back" painting) |
+| **Sustainability Dimensions** | ☑ Ecological (systematic transect dataset; species and soil observations) · ☑ Economic (land use documentation; agricultural vs. forest economy visible) · ☑ Social (public presentation; teaching the method to others) · ☑ Cultural (original cartographic work as cultural contribution; artistic tradition of landscape mapping) |
+| **Primary Gestaltungskompetenzen** | 4.1.3 (interdisciplinary — scientific rigour plus artistic sensibility in every transect) · 4.3.2 (independent planning — resident's self-directed practice) · 4.2.4 (self-motivation — intrinsic cartographic question as the engine) · 4.1.4 (uncertainty — "the territory is showing you something you didn't expect; this is not a failure") |
+| **SDG Connections** | SDG 4 (OER output; methodology transfer) · SDG 15 (richest biodiversity and soil dataset of any guide) · SDG 17 (open data contribution; residency as partnership model) |
 
 ### The Residency Context
 
@@ -649,6 +769,8 @@ Examples of cartographic questions previous residents might pose:
 *Proxemic note — the cartographic question as proxemic experiment:* Every map is made from a specific proxemic position. A satellite image maps from orbital distance — public distance squared, vision-only. A soil sample maps from intimate distance — touch, smell, sight, all channels. The resident's cartographic question can be understood as a question about *which proxemic position to map from*. "Where does the sound of the Schlaube reach?" maps an acoustic boundary — a proxemic boundary defined by the auditory channel. "Can I map using only gathered pigments?" maps at intimate distance — every data point requires physical contact with the territory. The most creative cartographic questions often involve mapping boundaries that are defined by non-visual proxemic channels: haptic boundaries (where does the soil texture change?), olfactory boundaries (where does the forest smell reach?), acoustic boundaries (where does the stream become inaudible?). These non-coincident sensory boundaries, mapped as separate lines, reveal that the bioregion has multiple edges — one for each proxemic channel.
 
 The cartographic question becomes the framework for the resident's ongoing mapping practice.
+
+> **BNE 4.3.2 (independent planning and action) / 4.2.4 (self-motivation) / 3.1.3 (activating):** The cartographic question is the device that transforms Guide 4 from a data-collection exercise into a genuine research/artistic practice. Unlike the other guides (where the question is "where does the bioregion end?"), Guide 4's question is self-authored — it must be genuinely the resident's own. This is BNE 4.3.2 at its fullest development: a participant who has formulated their own question will sustain weeks of independent investigation without external prompting. The facilitator's role is Socratic — helping the resident arrive at a question that is both their own and that the territory can actually answer.
 
 ### The Ongoing Practice: Weekly Transects
 
@@ -730,6 +852,10 @@ The combination of scientific rigor and creative freedom is the signature of the
 | **Location** | Day 1: Walking transects from Erdpuls campus AND from a partner site in Lubuskie. Day 2: Zone E for mapping synthesis. |
 | **Season** | Late spring or early autumn (comfortable walking conditions, maximum landscape legibility, agricultural activity visible) |
 | **4A-Pathway Focus** | Full pathway; emphasis on Acknowledgment (the bioregion does not recognize the border) and Action (designing cross-border bioregional stewardship) |
+| **Three-Stream Balance** | **Heart-intensive** (the Border Moment; shared meal from both sides; acknowledging historical weight) alongside strong Hands (cross-border transect, bilingual string-laying) and Head (GIS toggle exercise, "same landscape, different systems" table) |
+| **Sustainability Dimensions** | ☑ Ecological (cross-border watershed; identical geology on both sides) · ☑ Economic (asymmetry explicitly named and countered; different land-management systems) · ☑ Social (power dynamics addressed; Polish participants lead at least one mapping phase) · ☑ Cultural (the Oder-Neisse line's historical weight held alongside the glacial landscape's continuity; trilingual naming throughout) — *all four dimensions; social and cultural most sensitive* |
+| **Primary Gestaltungskompetenzen** | 4.1.1 (openness to new perspectives — literally a cross-cultural encounter) · 4.2.2 (goal conflicts — ecological continuity vs. governance fragmentation) · 4.3.3 (empathy — the Border Moment proxemic rupture and recovery) · 4.3.4 (justice — German/Polish asymmetry named, countered actively) |
+| **SDG Connections** | SDG 17 (cross-border partnership; open data sharing; institutional cooperation) · SDG 11 (community mapping across administrative boundaries) · SDG 13 (shared watershed as shared climate responsibility) · SDG 10 (reducing inequality — DE/PL asymmetry explicitly addressed) |
 
 ### The Cross-Border Principle
 
@@ -770,6 +896,8 @@ Typically: very little has changed ecologically. The soil is the same glacial sa
 
 "The border is 80 years old. The landscape is 15,000 years old. The landscape does not know about the border."
 
+> **BNE 2.2.1 (controversial) / 4.3.3 (empathy) / 2.1.1 (multidimensional):** The Border Moment is Guide 5's BNE-richest episode. BNE 2.2.1 requires genuinely controversial perspectives — the border is simultaneously real and irrelevant, and the workshop holds both truths. The soil comparison at intimate proxemic distance (same texture, same smell on both sides) provides embodied evidence that the ecological perspective is not rhetorical. BNE 4.3.3 (empathy) is exercised in the facilitator note: "The border is not meaningless" — participants with familial connection to 1945 displacement must be held with full empathy, not bypassed by an ecological argument. The ecological and the historical are both real. The workshop's pedagogical achievement is holding both simultaneously, not resolving the tension by choosing one.
+
 ### Day 2: Cross-Border Mapping Synthesis
 
 Back at Zone E. The full Appendix C mapping protocol, extended to cross-border scale.
@@ -784,6 +912,8 @@ With the layer on: two countries, two colors, a hard line.
 With the layer off: one landscape, one geology, one watershed, one vegetation community.
 
 Toggle repeatedly. The visual impact is powerful and requires no explanation.
+
+> **BNE 2.2.2 (global-local) / 4.2.2 (goal conflicts) / 4.1.3 (interdisciplinary):** The GIS toggle is the guide's most compressed BNE demonstration. With the boundary layer on: governance reality (two states, two legal systems, two administrative cultures). With it off: ecological reality (one watershed, one geology, one Natura 2000 network). The toggle makes visible the goal conflict that BNE 2.2.2 requires: global ecological systems (shared glacial landscape, shared watershed, shared biodiversity) intersecting with local political and cultural realities (the border and its history). Cross-border citizen science — the methodology this toolkit proposes — is one practical answer to the question the toggle poses.
 
 *Proxemic note — the GIS toggle as proxemic revelation:* The administrative boundary layer creates a visual proxemic barrier on the screen — two colors, two countries, a hard line that the eye reads as division. Toggling it off reveals the continuous landscape beneath — the proxemic equivalent of closing your eyes and relying on non-visual channels (which, as the soil comparison showed, detect no border). The facilitator can make this explicit: "When the boundary layer is on, you see two countries. That's the view from public proxemic distance — political, administrative, visual-only. When the layer is off, you see one landscape. That's what your hands told you at the border this morning, at intimate distance. Both are real. The question is which one you build your stewardship around."
 
@@ -866,6 +996,93 @@ The five guides, conducted across seasons and years, produce a cumulative bioreg
 The composite map — built from dozens of transects, hundreds of transition observations, multiple boundary proposals, elder memories, artistic interpretations, and cross-border data — is not a fixed document. It is a living cartography, updated seasonally, contested productively, and deepening annually. It is the spatial foundation of the pattern language: the territory within which every pattern makes sense.
 
 **The proxemic depth of the composite map:** Each target group contributes a different proxemic layer to the bioregion definition. Children contribute the Sensory Closure pattern — the boundary where non-visual channels fade, defining felt belonging through bodily proximity. Adults contribute the Turnaround Moment — the proxemic inventory at the farthest point, defining the edge where embodied connection gives way to intellectual knowledge. Elders contribute the temporal proxemic field — memories that carry intimate-distance sensory information across decades, revealing how the bioregion's proxemic geography has expanded and contracted over time. Artists contribute non-visual boundary maps — acoustic, olfactory, haptic, thermal boundaries that don't coincide with visual ones, revealing that the bioregion has as many edges as it has sensory channels. Cross-border groups contribute the proxemic rupture and recovery — the discovery that the border is real at social distance but irrelevant at intimate distance, and that walking through territory at close range dissolves what administrative maps divide. The composite map, built from all these proxemic layers, is not just a map of territory but a map of *how territory is known at every distance*.
+
+* * *
+
+## BNE Quality Framework Alignment
+
+This section provides the criterion-by-criterion mapping of the Bioregion Mapping guides (Appendix C) to the Brandenburg BNE Quality Catalog. The five guides are evaluated as a unified programme strand. References to specific guides are noted where a criterion is addressed primarily in one guide.
+
+### Area 1 — Goals and Target Groups
+
+| Criterion | How the Bioregion Mapping Guides Address It | Status |
+|---|---|---|
+| 1.1.1 Lebenswelt- und Lebensphasenbezug | The bioregion is the landscape participants already inhabit and traverse daily. The workshop does not import a foreign subject — it reveals the hidden structure of what participants already know through commuting, walking, and living. Target-group calibration (discovery loops for children; 5–8 km transects for adults; indoor Erzählcafé for elders; weeks-long residency for artists; cross-border two-day programme for DE/PL groups) honours the life-phase mobility, cognitive stage, and temporal relationship each group has to the landscape. | ✅ |
+| 1.1.2 Umfeld-/Bedarfsanalyse | The guides address a documented gap: Brandenburg residents navigate the landscape daily through administrative categories (Landkreis, Gemeinde, postal code) while remaining unaware of the ecological categories (watershed, glacial substrate, vegetation community) that govern the landscape's actual behaviour. This is the Lebenswelt-gap the guides address. The cross-border context (Müllrose as gateway to Naturpark Schlaubetal AND to Poland) creates a specific regional need: bioregional awareness that spans an international border. | ✅ |
+| 1.2.1 Target groups concretely described | Five target groups with differentiated parameters are explicitly described in each Overview table (age, group size, duration, season, mobility requirements, proxemic approach). | ✅ |
+| 1.2.2 Need described target-group-specifically | Each guide's Pedagogical Challenge section articulates the specific epistemic gap that target group brings to bioregion mapping (children: landmark-based rather than ecological navigation; adults: administrative map dominance; elders: temporal knowledge without a recording mechanism; artists/researchers: inhabitation without documentation structure; cross-border groups: cultural rupture masking ecological continuity). | ✅ |
+| 1.2.3 Goals concrete and target-group-specific | Year 1: Draft bioregion definition from 5 target groups, longitudinal GPS and transition dataset initiated. Year 3: Converging boundary proposals; elder Memory Map archived; first artist/researcher cartographic works. Year 5: Community-owned bioregional definition published as OER; cross-border stewardship network initiated. | ✅ |
+| 1.2.4 Need, goals, and target groups coherent | The five-guide structure directly mirrors the five-target-group programme architecture. Each guide produces different data types (children: sensory transitions; adults: cultural/geological layers; elders: temporal transitions; artists: non-standard cartographies; cross-border: comparative datasets) that together compose a complete multi-perspectival bioregion definition. | ✅ |
+
+*Minimum requirements (1.1.1; all 1.2.x): All met.*
+
+### Area 2 — Approach
+
+| Criterion | How the Bioregion Mapping Guides Address It | Status |
+|---|---|---|
+| 2.1.1 Multidimensional | All four sustainability dimensions are integrated. Ecological: watershed, geology, vegetation, biodiversity. Economic: land-use history, agricultural systems, DDR collectivisation legacy, cross-border asymmetry. Social: collective boundary negotiation, intergenerational knowledge transfer, cross-cultural encounter. Cultural: glacial heritage framing, elder memory as cultural patrimony, multilingual naming, the border's historical weight. Every guide connects at least two dimensions explicitly; Guide 2 and Guide 5 connect all four. | ✅ |
+| 2.1.2 Interdisciplinary | The transect methodology structurally requires interdisciplinary integration: every landscape transition simultaneously reveals geology (substrate change), ecology (vegetation community change), hydrology (drainage direction change), cultural history (land-use change), and proxemics (sensory channel change). No single discipline can explain a transition. The watershed explanation ("all rain inside this line goes to the same place") connects hydrology, geography, social governance, and ecological stewardship in a single sentence. | ✅ |
+| 2.1.3 SDG-relevant and current | Five SDGs addressed with specific activity-level evidence (SDGs 4, 11, 13, 15, 17 — see Pedagogical Framework section above). The cross-border dimension also addresses SDG 10 (inequality between DE and PL explicitly named and countered in Guide 5). Content is current: QGIS layers use live geodata; iNaturalist and openSenseMap are active platforms; Geoportal.gov.pl data is referenced for the Polish side. | ✅ |
+| 2.2.1 Controversial | Boundary deliberation is structurally controversial in all five guides. The facilitator explicitly withholds resolution ("the disagreement IS the learning"). Competing criteria (watershed / vegetation / cultural / settlement) produce competing boundaries that are preserved, attributed, and retained on the map. In Guide 5, the geological continuity vs. political boundary controversy is held simultaneously without resolution. | ✅ |
+| 2.2.2 Global-local | The bioregion is the spatial unit where global processes (Weichselian glaciation; EU environmental governance; climate change phenology) become locally legible. The watershed explanation connects local rainfall to global hydrological cycles. The GIS toggle (Guide 5) makes the tension between global ecological systems and local political reality visible and discussable. Cross-border citizen science connects intimate-distance local data to global platforms (iNaturalist, openSenseMap). | ✅ |
+
+*Minimum requirements (2.1.1 two dimensions linked; 2.1.3 one SDG; 2.2.1): All met, significantly exceeded.*
+
+### Area 3 — Methods
+
+| Criterion | How the Bioregion Mapping Guides Address It | Status |
+|---|---|---|
+| 3.1.1 Experiential | The walking transect is the experiential core — body moving through territory at intimate and personal proxemic distance, accumulating sensory evidence. Soil underfoot, temperature shift at forest edge, sound of stream, smell of vegetation transition. The Memory Map construction (Guide 3) and the Border Moment soil comparison (Guide 5) are additional experiential peaks. | ✅ |
+| 3.1.2 Situated | Every guide is specific to the Müllrose/Schlaubetal bioregional context. The glacial framing, the Naturpark boundary, the Oder as cross-border connector, the Prussian Urmesstischblätter as historical reference — all are location-specific. Multilingual naming (DE/EN/PL) is specific to this border region. No guide can be transplanted without adaptation. | ✅ |
+| 3.1.3 Activating | Participants begin producing outputs immediately: filling the Expedition Record Sheet on the transect; placing coloured dots on the satellite image; drawing the individual expedition map. By the end of each guide, every participant has contributed something to the longitudinal bioregion-definition dataset. The cartographic question (Guide 4) activates weeks of self-directed investigation. | ✅ |
+| 3.1.4 Participatory | The boundary deliberation is a democratic, collectively owned process. No facilitator-imposed answer. Competing proposals are preserved and attributed. Younger participants scribe alongside elders as equals (Guide 3). Polish participants lead at least one mapping phase (Guide 5). The Memory Map is co-authored by the whole group. | ✅ |
+| 3.1.5 Reflective | The Landscape Letter (Guide 2) is a private written reflection at the turnaround point. The Turnaround Question ("Do I still feel like I'm in the same place?") is a structured reflection at the edge of felt belonging. Guide 3's temporal bioregion discussion ("Was your lived bioregion larger or smaller when you were young?") is intergenerational reflective dialogue. | ✅ |
+| 3.1.6 Interactive | The string-laying boundary deliberation is interactive and physically collaborative — participants reaching over a shared map, arguing with hands and string. The GIS phase is interactive: the facilitator toggles layers while the group directs questions. The Memory Map is built collectively, with sticky notes placed by younger scribes under elder direction. | ✅ |
+| 3.1.7 Holistic (Head/Hands/Heart) | Three-Stream balance is documented in each guide's Overview table. All three streams are present in every guide; the balance shifts appropriately by target group (Heart-dominant in Guide 3; Head-Hands equal in Guides 2 and 4; Hands-dominant in Guide 1; Heart-intensive in Guide 5). | ✅ |
+| 3.1.8 Multimodal | GPS tracking (digital, quantitative); analog hand-drawing on satellite images (visual-haptic); sound recording (auditory); soil sampling (tactile-olfactory); the Expedition Record Sheet (written); photography at transitions; the GIS screen (visual-digital); the Memory Map (tactile, collaborative, multi-temporal). Social media documentation planned for Phase 2. | ⚠️ partial |
+
+*Minimum requirements (at least 2 of 8): Exceeded — 7/8 fully met.*
+
+| Criterion | How the Bioregion Mapping Guides Address It | Status |
+|---|---|---|
+| 3.2.1 Appropriate for goals, target groups, content | The transect-to-synthesis structure (embodied encounter → data documentation → collective analysis → boundary deliberation) is appropriate for the goal (community-defined bioregion), the content (landscape ecology at multiple scales), and each target group (calibrated duration, distance, and format). | ✅ |
+| 3.2.2 Practically established | Bioregional transect methodology draws on established practices: participatory bioregional mapping (Peter Berg, Kirkpatrick Sale); walking as research method (Solnit, Ingold); participatory GIS (PGIS literature); Goethean observation (Bortoft, Holdrege). QGIS is globally established for participatory environmental education. | ✅ |
+| 3.2.3 Theoretically and empirically grounded | Alexander's Pattern Language (scale-crossing relationships); Hall's Proxemics (spatial design of the synthesis and transect); Bortoft's Goethean Science (attending before analysing); the Transfer 21 Gestaltungskompetenz framework. Citizen science data feeds into QGIS layers with documented methodology. | ✅ |
+| 3.3.1 Preparatory materials | This guide document is the preparatory material. The Expedition Record Sheet, the transect documentation table, the Memory Map blank, and the "same landscape, different systems" comparison table are all provided. The QGIS project is pre-prepared. All materials are CC BY-SA 4.0. | ✅ |
+| 3.3.2 Accompanying support | The phased structure (Walk → Mapping → Deliberation → Closing) provides built-in support at each phase transition. The facilitator notes in each guide address the most common difficulties (boredom in the "boring middle"; fitness variation; political sensitivity; the analog-GIS proxemic transition). | ✅ |
+| 3.3.3 Follow-up | Citizen science outputs are archived in the Erdpuls GIS project and contribute to the longitudinal bioregion-definition dataset. The Annual Synthesis Ritual (Pattern Language Assembly Guide) processes all Appendix C outputs at year-end. OER publication of the Annual Pattern Language Narrative provides a publicly accessible follow-up artefact. Pattern cards generated from bioregion data are displayed permanently in Zone E. | ✅ |
+
+*Minimum requirements (3.2.1 and 3.2.2; 3.3.1 or 3.3.3): All met.*
+
+### Area 4 — Gestaltungskompetenz
+
+All 12 Transfer 21 sub-competencies are developed across the five guides. See the Gestaltungskompetenzen table in the Pedagogical Framework section above for the activity-level mapping. Each guide's Overview table lists the primary Gestaltungskompetenzen for that target group and context.
+
+*Minimum requirements (at least one sub-competency from one area): Exceeded — all 12 addressed.*
+
+### Area 5 — Quality Development
+
+| Criterion | How the Bioregion Mapping Guides Address It | Status |
+|---|---|---|
+| 5.1.1 Development goal documented | The longitudinal bioregion-definition dataset is itself the quality development goal: each year, the dataset grows more complete (more target groups, more seasons, more transect directions, more boundary proposals converging). The gap analysis from the Annual Synthesis Ritual produces documented Year N+1 programming priorities. | ✅ |
+| 5.1.2 Implementation plan with milestones | Year 1: All five guides conducted once; draft bioregion definition. Year 2: Seasonal repeats; elder Memory Map extended; cross-border transect. Year 3: Converging boundary proposals; first external evaluation. Year 5: Published community bioregion definition; cross-border network operational. | ✅ |
+| 5.2.1 Continuous practice reflection | The Annual Synthesis Ritual (January) is the primary mechanism: the year's Appendix C outputs are synthesised into the Pattern Language, gaps are identified, and Year N+1 programming is planned. The comparison between Year N and Year N+1 bioregion maps is the reflective evidence base. | ✅ |
+| 5.2.2 Systematic self-evaluation | Appendix D quality data (Quality Star, Quality Compass, Elder Quality Criteria, Residency Quality Reflections) are integrated into the Annual Synthesis. Each guide's citizen science output is reviewed for coverage gaps (thin rings, missing seasons, underrepresented target groups). | ✅ |
+| 5.2.3 Impact evaluation (after 2 years) | Year 3: Longitudinal comparison of boundary proposals; convergence analysis; return-participant rate as impact indicator. External evaluation planned against UNESCO ESD for 2030 from Phase 3 onwards. | ⏳ Year 3+ |
+| 5.3.1 Active BNE networking | Outputs shared with BNE-Netzwerk Brandenburg; methodology presented at Incubator Village Beeskow cohort events; cross-border data shared with Polish partner institutions; iNaturalist and openSenseMap contributions to citizen science commons. | ✅ |
+
+*Minimum requirements (5.2.1 and 5.2.4; 5.3.1): Met.*
+
+### Areas 6 and 7 — Facilitator Qualification and Organisational Conditions
+
+Areas 6 and 7 are programme-level rather than guide-level criteria. The full mapping is in the Pattern Language Assembly Guide v1.2 (BNE Quality Framework Alignment section). Summary:
+
+- **6.1.2** Personal qualification: documented through operational delivery of all 20 living experience guides, senseBox network maintenance, and OER portal authorship. ✅
+- **6.2.1** Preparatory training material: this document plus the Pattern Discovery Toolkit and the Proxemic Integration companion. ✅
+- **6.2.2** Annual continuing education (≥24 hrs BNE): Incubator Village Beeskow, VULCA European Makerspace Network, BNE professional development. ✅
+- **7.1** Leitbild lived: the five guides operationalise the Erdpuls Leitbild ("A place to become human again") through the principle that knowing your bioregion is a precondition for inhabiting it humanely. ✅
+- **7.4.2** Learning spaces appropriate: Zone E synthesis space is sociopetal (see proxemic design notes in each guide); outdoor transects use the full 5,000 m² campus and its surrounding landscape. ✅
+- **7.5.1** Public outreach: Annual Pattern Language Narrative published OER; cross-border boundary proposals published with attribution; wall display in Zone E. ✅
 
 * * *
 

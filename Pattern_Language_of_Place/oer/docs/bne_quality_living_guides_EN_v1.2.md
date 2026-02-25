@@ -3,7 +3,7 @@ title: "BNE Quality Framework — Living Experience Guides"
 subtitle: "Five Target-Group-Specific Workshop Guides — Appendix D"
 date: "February 2026"
 lang: en
-version: "1.1"
+version: "1.2"
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
 ---
@@ -13,7 +13,7 @@ project: "Erdpuls Müllrose OER Collection"
 
 **Erdpuls Müllrose — Living Laboratory & Makerspace Garden**
 
-**Version**: 1.1  
+**Version**: 1.2  
 **Date**: February 2026
 
 * * *
@@ -21,6 +21,7 @@ project: "Erdpuls Müllrose OER Collection"
 ## Changelog
 | Version | Date     | Changes                                      |
 |---------|---------------|----------------------------------------------|
+| 1.2   | February 2026 | BNE compliance update: measurable learning objectives added to all five guide Overview tables; sustainability dimensions and SDG links added per guide; BNE Criteria Coverage reference table added to intro; facilitator qualification requirements added per guide; pre-/post-workshop support references added (3.3.1/3.3.3); methodological foundations made explicit (3.2.2/3.2.3) |
 | 1.1   | February 2026 | Institution name updated; license footer added; version updated for OER publication |
 | 1.0   | October 2025  | Initial release               |
 
@@ -40,6 +41,47 @@ Each guide therefore operates in two registers simultaneously: **reflection** (w
 **Guide 3:** Elders and Intergenerational Groups — "Bildung über Generationen" / "Education Across Generations"
 **Guide 4:** Artists and Researchers — "Wer bestimmt, was gut ist?" / "Who Defines Quality?"
 **Guide 5:** Cross-Border Groups — "Qualität ohne Grenzen" / "Quality Without Borders"
+
+---
+
+### BNE Criteria Coverage Reference (Areas 1–7, Brandenburg Qualitätskatalog)
+
+The table below maps each guide to the BNE quality areas it primarily demonstrates. This is intended to assist facilitators, evaluators, and certification reviewers. For the full criteria-by-criteria alignment of the Erdpuls program, see the *BNE-Bewertung und Leitbild* document and Pattern Discovery Toolkit Appendix D.
+
+| Guide | Target Group | Primary BNE Areas | Key Criteria |
+|---|---|---|---|
+| 1 | Children & Youth | 1, 3, 4, 5 | 1.2 (ZG-specific learning objectives); 3.1 (experiential, reflective, participatory methods); 4.1–4.3 (all three Gestaltungskompetenz domains via Quality Cards); 5.2.1 (Quality Map as praxis reflection data) |
+| 2 | Adults & Families | 1, 3, 4, 5 | 1.2 (measurable behavioral outcomes); 3.1.5 (reflektiert); 4.3.1 (values self-reflection via Values-Action Map); 5.2.1 (Quality Compass as participatory evaluation); 5.1 (Personal Quality Commitment as development input) |
+| 3 | Elders & Intergenerational | 2, 3, 4, 5 | 2.2 (Perspektivenvielfalt across educational eras); 3.1.5 (reflektiert via Education Memory Harvest); 4.1.2 (foresight: temporal comparison past→present→future); 5.2 (oral history as longitudinal evaluation data) |
+| 4 | Artists & Researchers | 2, 3, 4, 5 | 2.1 (thematic breadth critique); 4.1 (interdisciplinary competency cross-analysis); 5.1–5.2 (counter-framework as quality development contribution); meta-level: the guide produces quality framework knowledge, not just quality framework compliance |
+| 5 | Cross-Border (DE/PL) | 1, 2, 3, 5 | 1.1.1 (Lebenswelt: shared glacial landscape); 2.1.1 (multi-dimensionality across national frameworks); 2.2 (Perspektivenvielfalt: two national traditions); 5.3 (Kooperation: cross-border quality audit design) |
+
+*Minimum requirements of the Brandenburg Qualitätskatalog are addressed collectively across all five guides and the wider Erdpuls program. No individual guide is required to meet all 69 criteria independently — these are workshop guides, not standalone educational programs.*
+
+---
+
+### Facilitator Qualification Requirements (Area 6)
+
+These guides require a facilitator who meets at least one of the following conditions (Qualitätskatalog 6.1.1 or 6.1.2):
+
+- **(6.1.1 Formale Qualifikation):** Holds a formal pedagogical, psychological, or educational-science qualification appropriate to the target group and thematic content (e.g., Grundschullehramt for Guide 1 ages 8–12; Erwachsenenbildung qualification for Guide 2; Erlebnispädagogik training for field-based guides); or
+- **(6.1.2 Persönliche Qualifikation):** Demonstrates documented experience facilitating BNE-relevant workshops with the specific target group, knowledge of the Brandenburg BNE Quality Catalog sufficient to explain its structure and key criteria, and comfort with open-ended reflective facilitation (as opposed to instructional delivery).
+
+**Guide-specific requirements:**
+
+- **Guide 1:** Facilitator experience with children's metacognitive development (ages 8–18) is essential. Familiarity with the 4A-Pathway model and at least one prior Erdpuls toolkit workshop strongly recommended.
+- **Guide 2:** Experience with adult community education (Erwachsenenbildung) and comfort facilitating honest self-assessment in group settings. Familiarity with values-action gap research is beneficial.
+- **Guide 3:** Sensitivity to intergenerational group dynamics and the politically complex memory of DDR-era education. An elder co-facilitator from the local community significantly strengthens relational trust and session quality.
+- **Guide 4:** The facilitator participates as intellectual co-analyst, not instructor. Comfort with academic or artistic critical discourse is essential. Experience in education studies, art criticism, or social science is beneficial.
+- **Guide 5 (mandatory):** An active bilingual (DE/PL) co-facilitation team is required, not optional. A single monolingual facilitator cannot run this guide. Advance co-preparation with a Polish educational professional for accurate framework representation is essential.
+
+---
+
+### Pre- and Post-Workshop Support (Area 3.3)
+
+**Pre-workshop preparation (3.3.1):** A one-page *Guide Selection Aid* should be prepared by the facilitation team and made available to booking schools, organizations, or community groups before the session. It describes which of the five guides suits which target group, how to sequence BNE Quality Framework guides within the Erdpuls annual program, and what prior workshop experience is required. The Pattern Discovery Toolkit Appendix D serves as preparatory reading for facilitators. All materials are available at [erdpuls.ubec.network](https://erdpuls.ubec.network) or on request at erdpuls@ubec.network.
+
+**Post-workshop follow-up (3.3.3):** Each guide generates Citizen Science Output (documented in the Citizen Science Output section of each guide) that remains accessible to participants via the Erdpuls open data infrastructure. Participants and facilitators wishing to continue quality-development work after the session may contact erdpuls@ubec.network. The full Brandenburg BNE Quality Catalog and the Pattern Discovery Toolkit are available as OER on WirLernenOnline and Zenodo. The token economy (Regeneration token type) provides a structural pathway for participants who wish to continue their engagement beyond the workshop.
 
 * * *
 
@@ -61,8 +103,12 @@ Each guide therefore operates in two registers simultaneously: **reflection** (w
 | **Duration** | 90 minutes (ages 8–12) or 2 hours (ages 13–18) — designed as a closing session following any other toolkit workshop |
 | **Location** | Zone E (Heritage & Community Hub) — indoor, reflective setting |
 | **Season** | Any — conducted immediately after a soil, token, or mapping workshop |
+| **Learning Objectives** | By the end of this workshop, participants will: (1) recognize at least five BNE quality criteria by name in their own experience without having read the catalog; (2) evaluate a preceding workshop using a structured quality-card rating system; (3) identify the gap between felt learning quality and formally measured quality indicators; (4) propose at least one concrete, evidence-based improvement to the workshop they experienced (ages 13–18: design a 30-minute activity addressing the lowest-scoring criterion) |
+| **Sustainability Dimensions** | **Social** (metacognitive development as educational equity — all ages can evaluate quality); **Cultural** (multilingual quality cards DE/EN/PL; naming quality in one's own language); **Ecological** (through the preceding workshop being reflected upon; sensor-network measurement as analogy for learning measurement); **Economic** (token economy awareness in the redesign challenge) |
+| **SDG Links** | **SDG 4** (Quality Education — direct: participants evaluate and improve educational quality from the inside); **SDG 10** (Reduced Inequalities — implicit: recognizing that all ages, including children, can be legitimate evaluators of educational quality) |
 | **4A-Pathway Focus** | All four stages reviewed: participants identify where on the 4A-Pathway they traveled during the preceding workshop |
 | **Curriculum Links** | Sachunterricht (reflection, metacognition), Ethics (values, responsibility), German/Language Arts (descriptive writing about experience), Gesellschaftskunde (institutional quality, standards) |
+| **Methodological Foundations** | Metacognition research (Flavell 1979; Zimmerman 2002): structured self-assessment develops metacognitive competency. Constructivist learning theory: quality criteria are internalized through experience, not transmission. Values-action gap research (Eurobarometer data): the gap between what children name as quality and what frameworks measure is itself a learning outcome. Proxemics (Hall 1966): dot-placing at personal distance produces more authentic evaluation than raised-hand voting at social distance. |
 | **Prerequisite** | Must follow at least one other toolkit workshop — this guide reflects on that experience |
 
 ### The Pedagogical Challenge
@@ -194,6 +240,10 @@ Groups design, present, and receive feedback. The strongest designs are recorded
 
 **The gap between felt quality and measured quality is the point.** Do not resolve this gap. It is a genuine epistemological insight: institutional quality frameworks capture some but not all of what makes learning valuable. The experience-quality gap is itself a quality criterion — one the framework doesn't contain.
 
+**Facilitator Qualification (Area 6.1):** The facilitator should have documented experience working with school-age children in reflective or metacognitive formats, and sufficient knowledge of the Brandenburg BNE Quality Catalog to accurately explain the eight 3.1 methodological criteria and the four Gestaltungskompetenz domains in child-accessible language. Familiarity with the 4A-Pathway model is essential. At least one prior Erdpuls toolkit workshop (as facilitator or participant) is strongly recommended. If children are ages 8–12, standard Grundschul-pedagogical experience satisfies 6.1.1. For mixed-age groups (8–18), a youth-work (Jugendarbeit) background additionally satisfies 6.1.2.
+
+**Follow-Up Materials (Area 3.3.3):** After the session, participants (and their teachers) may request the full Learning Quality Cards as a classroom set for independent use. The "Our Learning Quality Map" poster created during the session belongs to the group and should be left with them or photographed for their records. The simplified BNE quality summary distributed to ages 13–18 is available as a downloadable OER at erdpuls.ubec.network. Student redesign proposals that are adopted into the toolkit will be credited in the next toolkit version — groups should be informed of this possibility as motivation for the redesign challenge.
+
 ### Proxemic Design Notes
 
 **The proxemic reversal.** Every other toolkit workshop moves from public distance (framing, introduction) to intimate distance (hands in soil, bodies in exchange, feet on transect). This guide reverses the direction: it begins at intimate distance (reflecting on personal felt experience) and expands outward to institutional/public distance (the Brandenburg quality framework as an administrative document). The facilitator should manage this expansion gradually — never leap from "what did you feel?" to "here are the 69 criteria." The Learning Quality Cards serve as an intermediate proxemic register: personal enough to connect to experience, structured enough to bridge toward the framework.
@@ -222,8 +272,12 @@ Groups design, present, and receive feedback. The strongest designs are recorded
 | **Duration** | Half day (2.5–3 hours including meal) — as an end-of-season or annual reflection |
 | **Location** | Zone E (Heritage & Community Hub) |
 | **Season** | Late autumn or winter — as a reflective closing to the active season |
+| **Learning Objectives** | By the end of this workshop, participants will: (1) map the gap between sustainability knowledge and actual behavior across one full season, with specific evidence for each entry; (2) categorize personal changes across four dimensions (Head/Hands/Heart/Habit) and identify where their season's experience was strongest and weakest; (3) evaluate the Erdpuls program using official BNE quality vocabulary, selecting at least one strong area and one development area with specific evidence; (4) make a personally committed quality-action promise for the coming season, to be revisited at the following year's session |
+| **Sustainability Dimensions** | **Social** (community accountability; values-action gap as a shared rather than individual challenge); **Economic** (consumption behavior change, repair-café engagement, local food sourcing as economic sustainability practice); **Ecological** (seasonal engagement with the local landscape; connection between soil knowledge and food choices); **Cultural** (the season's shared work as a community narrative; the repair and making culture as heritage skill preservation) |
+| **SDG Links** | **SDG 4** (Quality Education — participatory program evaluation by adult learners); **SDG 12** (Responsible Consumption and Production — behavioral change toward sustainable consumption as the primary outcome metric); **SDG 11** (Sustainable Cities and Communities — community-based program evaluation as civic participation) |
 | **4A-Pathway Focus** | Full pathway reviewed, with emphasis on the Attitude → Action transition: did the season's experiences produce behavioral change? |
 | **Practical Connection** | Program evaluation, BNE certification evidence, community feedback, personal sustainability commitments |
+| **Methodological Foundations** | Values-action gap research (Eurobarometer 2021; Kaiser & Wilson 2004): behavioral change requires structured reflection on the gap between values and action, not more information. End-of-season reckoning format: established in adult learning programs (Jarvis 2006). Participatory evaluation theory (Patton 2010): program quality is most accurately assessed by participants, not external evaluators. Proxemics (Hall 1966): intimate-to-social distance arc supports transition from private accountability (Values-Action Map) to public program feedback (Quality Compass). |
 
 ### The Pedagogical Challenge with Adults
 
@@ -325,6 +379,10 @@ The shared meal connects to the reflection: "This food came from the bioregion y
 
 **The BNE framework encounter should not feel bureaucratic.** The criteria are written in institutional language. The facilitator's job is translation: "3.1.5 (reflektiert) means: did the workshop give you time to think about what you experienced? Not just do-do-do, but do-and-think. Did it?"
 
+**Facilitator Qualification (Area 6.1):** The facilitator should have documented experience in adult community education (Erwachsenenbildung) and comfort facilitating honest self-assessment in group settings where participants may feel exposed. Familiarity with values-action gap research is beneficial. An Erdpuls core team member who has participated in at least one full annual program cycle satisfies 6.1.2 through demonstrated personal experience with the program being evaluated.
+
+**Follow-Up Materials (Area 3.3.3):** Personal Quality Commitment cards are retained by participants for self-referencing; copies are held by the Erdpuls facilitation team for next-season planning. Anonymized Quality Compass data is archived in the Erdpuls evaluation record (accessible on request per CC BY-SA terms). Participants who wish to continue engagement — for instance, to take on a facilitator role in a future season — can contact erdpuls@ubec.network. The full BNE quality area summary distributed during the session is available as a downloadable OER at erdpuls.ubec.network.
+
 ### Proxemic Design Notes
 
 **The proxemic arc: intimate → social → institutional → intimate.** The session begins at intimate distance (private reflection on the Values-Action Map), expands to social distance (Quality Compass on the wall, group discussion), expands further to institutional/public distance (the BNE framework as a state document), then returns to intimate distance (the Personal Quality Commitment card — a private promise). The facilitator should recognize each transition and pace it deliberately. Do not distribute the BNE summary while participants are still in the intimate register of the Values-Action Map — the institutional language will feel jarring. Allow the Quality Compass phase to build social comfort before introducing the framework.
@@ -351,8 +409,12 @@ The shared meal connects to the reflection: "This food came from the bioregion y
 | **Duration** | 2–2.5 hours |
 | **Location** | Zone E (Heritage & Community Hub) |
 | **Season** | Winter — when the season's active programming has concluded and reflective work feels natural |
+| **Learning Objectives** | By the end of this workshop, participants will: (1) articulate the characteristics of environmental education quality from at least two distinct historical paradigms (e.g., DDR-era, post-reunification, contemporary BNE); (2) identify at least three continuities and three discontinuities in quality criteria across these educational eras; (3) name at least two qualities of "good" sustainability education that the formal BNE framework does not capture, supported by specific memory evidence; (4) contribute documented oral history testimony that functions as longitudinal educational quality research data |
+| **Sustainability Dimensions** | **Social** (intergenerational knowledge transfer; community memory as educational resource; care relationship between elder and young participants); **Cultural** (DDR *Heimatkunde*, *Schulgarten*, *Wandertage* as heritage educational forms; oral history as cultural preservation); **Ecological** (historical practical nature engagement — Schulgarten growing, landscape walking — as ecological sustainability practice; comparison of nature-connection across eras); **Economic** (necessity-based learning as an economic sustainability model: "we grew food because food was scarce") |
+| **SDG Links** | **SDG 4** (Quality Education — temporal depth: evaluating educational quality across 70 years); **SDG 11** (Sustainable Cities and Communities — intergenerational connection as community sustainability); **SDG 17** (Partnerships for the Goals — elder-youth co-facilitation as intergenerational partnership) |
 | **4A-Pathway Focus** | Acknowledgment (elders' lifelong learning experiences as quality data) |
 | **Unique Value** | Elders have experienced multiple educational paradigms — their comparative testimony is a temporal quality assessment no survey can replicate |
+| **Methodological Foundations** | Oral history methodology (Thomson 1990; Portelli 1991): personal memory testimony constitutes legitimate historical and educational research data. Intergenerational learning theory (Hatton-Yeo & Ohsako 2000): elder-younger co-learning produces outcomes neither group achieves alone. Kaffeeklatsch as pedagogy: warm, food-mediated, circular space activates associative memory more effectively than interview or lecture formats (supported by proxemics research, Hall 1966). DDR educational context: documented in Brandenburg regional education history literature. |
 
 ### The Core Principle: Education Quality Across Time
 
@@ -456,6 +518,10 @@ The facilitator records these unmeasured qualities. They constitute a meta-criti
 
 **The youngest participants bring essential perspective.** A 16-year-old who has experienced both conventional school and Erdpuls workshops can provide a comparative assessment from the contemporary side. Their voice prevents the discussion from becoming purely retrospective.
 
+**Facilitator Qualification (Area 6.1):** This guide requires specific sensitivities beyond standard BNE facilitation competency. The facilitator should have experience with intergenerational group formats and demonstrable awareness of the political complexity of DDR educational memory — a topic that can be deeply personal. It is strongly recommended that the lead facilitator be accompanied by an elder co-facilitator from the Müllrose or broader Schlaubetal community who can vouch for the session's relational safety. This intergenerational co-facilitation model also directly enacts the guide's own principles. An elder community member with lived educational experience satisfies 6.1.2 for the co-facilitator role without requiring formal pedagogical credentials.
+
+**Follow-Up Materials (Area 3.3.3):** Audio recordings (with consent) are transcribed and archived as oral history research data; participants receive a copy of their own testimony transcript. The completed timeline photograph is shared with all participants. The "qualities the framework misses" list is compiled into the Erdpuls quality development log and sent to participants as a follow-up document. Participants who wish to contribute further memories or to invite others into the oral history project may contact erdpuls@ubec.network. Elder participants who become regular contributors may be recognized as community co-researchers within the Erdpuls program, with access to the token economy's Reciprocity stream.
+
 ### Proxemic Design Notes
 
 **The Kaffeeklatsch as quality infrastructure.** As in the other elder guides, the warm-beverage-and-cake spatial arrangement is not hospitality — it is the proxemic condition under which elder educational memory surfaces. Remove it and the session becomes an interview at social distance. Maintain it and it becomes a kitchen-table conversation at personal distance. The quality of the data depends on the proxemic quality of the setting.
@@ -482,8 +548,12 @@ The facilitator records these unmeasured qualities. They constitute a meta-criti
 | **Duration** | Initial session: 2.5–3 hours. Ongoing integration throughout the residency. |
 | **Location** | Zone E (seminar setting) |
 | **Season** | Any — timed to early residency, after the resident has experienced at least one toolkit workshop |
+| **Learning Objectives** | By the end of the initial session, participants will: (1) identify at least three epistemological assumptions and one power dimension embedded in the Brandenburg BNE Quality Catalog through guided textual archaeology; (2) produce a comparative table of BNE quality criteria alongside 5–7 quality criteria from their own discipline; (3) draft a "counter-framework" or "complement framework" for Erdpuls with at least five original quality criteria addressing gaps in the institutional framework. By end of residency: (4) contribute a written critical quality reflection (1,000–3,000 words) from their disciplinary perspective to the Erdpuls quality archive. |
+| **Sustainability Dimensions** | **Cultural** (artistic and research methodologies in dialogue with institutional frameworks; creativity as a sustainability competency); **Social** (critical analysis of who defines educational quality and whose interests are served); **Ecological** (interrogating whether ecological depth and direct nature experience are adequately measured in current frameworks); **Economic** (questioning the economic rationality assumptions in educational quality measurement systems) |
+| **SDG Links** | **SDG 4** (Quality Education — meta-level: producing new knowledge about educational quality itself); **SDG 9** (Industry, Innovation, and Infrastructure — counter-frameworks as educational innovation); **SDG 17** (Partnerships for the Goals — interdisciplinary knowledge production as partnership between artistic/scientific and educational domains) |
 | **4A-Pathway Focus** | Attitude (critically examining who defines educational quality and why) and Action (producing an original contribution to quality framework discourse) |
 | **Unique Value** | Artists and researchers are trained to interrogate institutional frameworks — their critical engagement with BNE quality criteria produces meta-analysis that the framework itself cannot generate |
+| **Methodological Foundations** | Critical discourse analysis (Fairclough 2003): institutional documents embed power relations and can be read against the grain. Disciplinary epistemology comparison (Becher & Trowler 2001): different disciplines construct quality differently; comparison is productive. Seminar pedagogy: personal-distance group dialogue produces richer critical analysis than lecture or survey methods (Hall 1966). Goethean observation extended to text: the same careful "what is present?" attentiveness applied to natural phenomena can be applied to institutional documents (Bortoft 1996). |
 
 ### The Seminar Context
 
@@ -571,6 +641,10 @@ The critical framework becomes a lens the resident carries:
 
 **Avoid defensiveness.** When a researcher says "Your methodology for measuring learning outcomes is insufficiently rigorous," the correct response is not defense but engagement: "You're right — how would you design a more rigorous approach that preserves the experiential quality?"
 
+**Facilitator Qualification (Area 6.1):** This guide operates at the intersection of education theory, institutional analysis, and disciplinary expertise. The facilitator participates as intellectual co-analyst, not instructor. Comfort with academic or artistic critical discourse is essential — the facilitator must be willing to have the BNE framework and Erdpuls's own implementation criticized and to engage that criticism productively. No formal credential is required beyond demonstrated intellectual engagement with BNE quality questions. An Erdpuls core team member with direct experience of multiple toolkit cycles who engages critically with the program's own limitations satisfies 6.1.2.
+
+**Follow-Up Materials (Area 3.3.3):** Counter-framework proposals are compiled in the Erdpuls quality development archive and shared back with the resident after the session in a summary document. End-of-residency reflections are archived with the resident's permission and, where appropriate, developed into academic contributions. Residents who wish to continue collaboration after their residency — including as external evaluators, co-authors, or advisory committee members — may contact erdpuls@ubec.network. The full Appendix D alignment document (Pattern Discovery Toolkit) is available as OER and serves as the primary preparatory and follow-up text for this guide.
+
 ### Proxemic Design Notes
 
 **The seminar as proxemic intimacy.** The small group (1–6 people), personal-distance seating, shared text at center, no table barrier during discussion — this is the most proxemically intimate intellectual format in the toolkit. The quality of the critical analysis depends on the proxemic quality of the setting: institutional distance produces institutional analysis, personal distance produces personal insight. The facilitator should be a participant in the circle, not a presenter at the front.
@@ -597,7 +671,11 @@ The critical framework becomes a lens the resident carries:
 | **Duration** | Full day (5–6 hours including shared meal) |
 | **Location** | Zone E (Heritage & Community Hub) |
 | **Season** | Any — often scheduled as part of a bilateral exchange program |
+| **Learning Objectives** | By the end of this workshop, participants will: (1) present the key structure and priority criteria of their national sustainability education framework to cross-national partners, in a format accessible to non-specialists; (2) identify at least five criteria that converge across the German and Polish frameworks (different terminology, same principle) and at least two genuine divergences; (3) formulate 5–8 shared cross-border quality principles, written in at least two languages, that both delegations endorse; (4) produce design elements for a Cross-Border Quality Audit tool — minimally a criteria list, a proposed evidence method for one criterion, and an institutional recognition proposal |
+| **Sustainability Dimensions** | **Social** (cross-border cooperation; educational equity across EU border regions; language as both barrier and bridge); **Cultural** (German-Polish shared glacial landscape as common educational heritage; multilingual quality discourse; Polish grassroots environmental education tradition alongside German institutional framework); **Ecological** (the Naturpark Schlaubetal ecosystem as the shared landscape that neither national framework can fully address alone; transboundary ecological quality as educational common ground); **Economic** (EU cross-border funding frameworks, INTERREG cooperation mechanisms as the institutional-economic sustainability infrastructure that makes cross-border education possible) |
+| **SDG Links** | **SDG 4** (Quality Education — transnational quality definition and recognition); **SDG 17** (Partnerships for the Goals — formal cross-border educational partnership as a direct SDG 17 action); **SDG 10** (Reduced Inequalities — bridging institutional disparities between German and Polish ESD infrastructure) |
 | **4A-Pathway Focus** | Full pathway; emphasis on Acknowledgment (quality criteria converge across borders even when institutions diverge) and Action (designing cross-border quality principles) |
+| **Methodological Foundations** | Comparative education methodology (Bray et al. 2007): systematic framework comparison reveals structural assumptions invisible within a single national context. Intergroup contact theory (Allport 1954, updated Pettigrew & Tropp 2006): mixed-group over shared task at personal distance reduces intergroup bias more effectively than parallel presentations. Translation as pedagogy: the act of finding equivalent terms across languages produces conceptual clarity (Wittgenstein's language games; Mauss's gift economy as cross-cultural concept). Proxemics (Hall 1966): joint work over a large shared document enacts the cross-border cooperation being theorized. |
 
 ### The Cross-Border Principle
 
@@ -700,6 +778,10 @@ Sentences are read aloud in the language of the writer's choice. The bilingual f
 **The institutional comparison can feel dry.** The facilitator should keep grounding the criteria in concrete examples: "This criterion says 'action-orientation.' At Erdpuls, that means children who mapped the bioregion then proposed where to place additional sensors. What does action-orientation look like at a Polish partner site? How is it the same? How is it different?"
 
 **Power dynamics.** Germany's BNE framework is more developed and better resourced than Poland's current ESD infrastructure. This can create an implicit hierarchy. Counter it actively: emphasize Poland's strong grassroots environmental education tradition, the OpenStreetMap Poland community's mapping activism, and the historical role of Polish civil society in environmental advocacy.
+
+**Facilitator Qualification (Area 6.1) — Mandatory Requirements:** This guide has the most stringent facilitation requirements of the five guides. An active bilingual (DE/PL) co-facilitation team is required, not optional. Neither facilitator can be merely conversationally proficient — both must be able to facilitate substantive educational discussions in their respective language. Additionally, the Polish co-facilitator must have genuine knowledge of the Polish ESD framework and educational context — this cannot be achieved by translating German materials. Advance co-preparation with a Polish education professional (e.g., affiliated with a Polish *centrum edukacji ekologicznej* or university education faculty) for the framework summary materials is essential. Both facilitators satisfy 6.1.2 through their bilingual facilitation competency, cross-border educational experience, and knowledge of their respective national frameworks.
+
+**Follow-Up Materials (Area 3.3.3):** The Quality Convergence Matrix, shared quality principles, and Cross-Border Quality Audit tool designs are compiled as bilingual documents and distributed to all participants after the session. These documents serve as the foundation for ongoing cross-border programming and should be treated as working documents, not archives. Participants and organizations wishing to continue cross-border quality development work — including developing the Audit tool further for actual use — may contact erdpuls@ubec.network. The EU GreenComp framework summary distributed during the session is publicly available as a European reference document. Erdpuls aims to develop a formal cross-border partnership agreement (Kooperationsvereinbarung) with at least one Polish partner organization by Phase 2 (2027–2028); participants in this guide are natural founding partners for that agreement.
 
 ### Proxemic Design Notes
 
