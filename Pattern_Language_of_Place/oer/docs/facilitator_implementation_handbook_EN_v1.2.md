@@ -3,7 +3,7 @@ title: "Facilitator's Implementation Handbook"
 subtitle: "Annual Calendar, Checklists, and Spatial Design Guide"
 date: "February 2026"
 lang: en
-version: "1.1"
+version: "1.2"
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
 ---
@@ -13,7 +13,7 @@ project: "Erdpuls Müllrose OER Collection"
 
 **Erdpuls Müllrose — Living Laboratory & Makerspace Garden**
 
-**Version**: 1.1  
+**Version**: 1.2  
 **Date**: February 2026
 
 * * *
@@ -21,9 +21,26 @@ project: "Erdpuls Müllrose OER Collection"
 ## Changelog
 | Version | Date     | Changes                                      |
 |---------|---------------|----------------------------------------------|
+| 1.2   | February 2026 | BNE compliance update: BNE Criteria Coverage table added; Facilitator Qualification Profile section added (Areas 6.1.1/6.1.2); Continuing Education Requirements section added (Areas 6.2.1/6.2.2 — minimum requirements); Universal Checklist expanded with participant pre-workshop information (3.3.1) and post-workshop follow-up items (3.3.3); Partner Network and BNE Cooperation section added (Area 5.3.1 — minimum requirement); Quality Report minimum content standards added (Areas 5.2.1/5.2.2) |
 | 1.1   | February 2026 | Institution name updated; license footer added; version updated for OER publication |
 | 1.0   | October 2025  | Initial release               |
 
+
+## BNE Criteria Coverage Reference
+
+This handbook is an operational and organisational document. It addresses primarily the **Organisationsqualität** sections of the Brandenburg BNE Quality Catalog (Qualitätskatalog für BNE außerschulischer Anbieterinnen und Anbieter, MLUK Brandenburg, April 2023). The table below maps catalog criteria to the sections of this handbook where they are addressed. For the full criterion-by-criterion evaluation with evidence statements, see the *BNE-Bewertung und Leitbild*.
+
+| BNE Area | Criteria | Where Addressed in This Handbook |
+|---|---|---|
+| **3.3** — Methods: Supporting | 3.3.1 pre-workshop participant preparation; 3.3.3 post-workshop follow-up resources | Universal Checklist (2 Weeks Before — participant items; After the Workshop — follow-up items) |
+| **5.2** — Quality Development: Evaluation | 5.2.1 continuous practice reflection; 5.2.2 systematic self-evaluation | Universal Checklist (After the Workshop); Quality Report Minimum Content Standards |
+| **5.3** — Quality Development: Cooperation | 5.3.1 active BNE networking (minimum requirement) | Partner Network and BNE Cooperation |
+| **6.1** — Facilitator Qualification | 6.1.1 formal qualification / 6.1.2 personal qualification (minimum: one of these) | Facilitator Qualification Profile |
+| **6.2** — Continuing Education | 6.2.1 preparatory continuing education (minimum requirement); 6.2.2 ongoing min. 24h/year (minimum requirement) | Continuing Education Requirements |
+
+**Minimum requirements satisfied:** All minimum requirements in Areas 3, 5, 6, and 7 as they apply to this operational document.
+
+* * *
 
 ## How to Use This Handbook
 
@@ -130,6 +147,7 @@ The calendar follows these principles:
 - [ ] Check Boden-Koffer inventory and restock as needed
 - [ ] For GIS workshops: update QGIS project with latest data layers
 - [ ] For cross-border workshops: confirm transport, partner organization, bilingual facilitator
+- [ ] **Send participant pre-workshop information (BNE 3.3.1):** confirmation email or letter including: date/time/location, what to wear and bring, what kind of experience to expect, accessibility information and contact for needs, the Erdpuls program context (one-paragraph summary), and contact address (erdpuls@ubec.network) for questions prior to arrival. For school groups: send the Teachers' Guide (`04_teachers_guide.md`) and the relevant student guide to the teacher at this point.
 
 ### 1 Day Before
 - [ ] Print all participant materials (field sheets, worksheets, cards)
@@ -153,6 +171,7 @@ The calendar follows these principles:
 - [ ] Enter token activities into the token ledger
 - [ ] Write a brief facilitator reflection (15 min): What worked? What didn't? What would I change? What proxemic observations did I make? — This becomes BNE Area 5.2.1 evidence (continuous practice reflection).
 - [ ] Clean and restock equipment. Return Boden-Koffer to its shelf.
+- [ ] **Send participant follow-up resources within 5 days (BNE 3.3.3):** a brief thank-you message confirming what the group contributed (pattern cards, citizen science data, token records), links to any open data they generated (openSenseMap station, iNaturalist observations), pointer to next seasonal workshop opportunity and booking contact, and for school groups: the post-visit classroom activities from the Teachers' Guide. For returning participants or those who request it: the relevant OER guide (01–05) as a PDF download link.
 
 * * *
 
@@ -175,7 +194,105 @@ The calendar follows these principles:
 
 * * *
 
-# PART THREE: Printable Workshop Materials
+# PART THREE: Facilitator Requirements and Quality Development
+
+## Facilitator Qualification Profile
+*(BNE Areas 6.1.1 and 6.1.2 — Minimum requirement: one of these must apply)*
+
+Every Erdpuls workshop facilitator must meet at least one of the following qualification profiles. Both paths are equally valid for certification purposes.
+
+**Path A — Formal Qualification (6.1.1):** A completed qualification in education, pedagogy, outdoor education, environmental science, biology, geography, social work, or a related field at vocational training (Ausbildung) level or above. Relevant formal qualifications include: Erzieherin/Erzieher, Dipl.-Pädagog*in, B.Sc./M.Sc. Biologie or Geografie, Naturpädagog*in, Forstwirt*in (with additional pedagogical training), Sozialarbeiter*in. The formal qualification must be supplemented by demonstrated familiarity with the Pattern Discovery Toolkit through the preparatory continuing education described below.
+
+**Path B — Personal Qualification (6.1.2):** Demonstrated practical experience, knowledge, references, and prior activity that are appropriate for the target group, subject matter, learning site, and methodology. Adequate personal qualification for Erdpuls includes: at minimum two years of facilitation experience with the relevant target group, demonstrable place knowledge of the Müllrose / Naturpark Schlaubetal area, ability to facilitate both indoor and outdoor phases, and successful completion of the Erdpuls Preparatory Study program described below.
+
+**Additional requirements for specific workshop types:**
+- *Cross-border workshops (A.5, B.5, C.5, D.5):* At least one co-facilitator must meet the qualification requirement above in Polish educational context. Bilingual facilitation is mandatory, not optional.
+- *Workshops with children under 12:* At least one facilitator must hold a valid first-aid certificate (Erste-Hilfe-Bescheinigung, valid within last 3 years).
+- *Overnight or multi-day workshops:* Additional safeguarding qualification required; risk assessment on file before the workshop runs.
+
+**Guest facilitators and volunteers:** Volunteers and guest facilitators (e.g., artists-in-residence, Polish partner educators) who take on facilitation responsibilities must be briefed on the relevant guide, the Proxemic Audit, and the safety protocols before the workshop. They do not need to satisfy the full qualification profile above, but the lead facilitator who does must be present throughout.
+
+* * *
+
+## Continuing Education Requirements
+*(BNE Areas 6.2.1 and 6.2.2 — Both are minimum requirements)*
+
+### Preparatory Continuing Education — 6.2.1
+
+Before leading their first Erdpuls workshop, every new facilitator completes the Erdpuls Preparatory Study program:
+
+| Component | Format | Minimum Time |
+|---|---|---|
+| Full reading of the Pattern Discovery Toolkit and Appendices A–D | Self-study | 6–8 hours |
+| Full reading of the Proxemic Integration document | Self-study | 4–5 hours |
+| Solo walk of all planned transect routes with Ring 0 body calibration | Field | 1 day |
+| Attendance at one complete Erdpuls workshop as an observer | On-site | 3–8 hours |
+| Completion of a supervised Proxemic Audit for the first planned workshop | Supervised | 1–2 hours |
+| Briefing session with lead facilitator or project coordinator | Conversation | 1–2 hours |
+
+Completion of preparatory study is recorded in the facilitator's personal log and cited in BNE certification evidence. For volunteers: the project coordinator confirms preparatory readiness in writing before their first facilitation engagement.
+
+### Ongoing Continuing Education — 6.2.2
+
+All Erdpuls facilitators (including volunteers) participate in annual continuing education with explicit BNE relevance, totalling a minimum of 24 hours per year. This requirement is met through a combination of:
+
+| Activity | BNE Relevance | Typical Hours |
+|---|---|---|
+| Annual Data Synthesis (Jan W4 — mandatory for lead facilitators) | 5.2.1/5.2.2: practice reflection and systematic evaluation | 16–24 hours over 2–3 days |
+| Year-End Quality Report compilation (Feb W2) | 5.2.1: continuous reflection; 5.2.2: systematic self-evaluation | 8–16 hours |
+| BNE-Akteur*innen Brandenburg network participation (conferences, regional meetings) | 5.3.1: active networking; methodological knowledge | variable, typically 8–16 hours/year |
+| Self-directed professional reading with BNE focus (documented in personal log) | Thematic/methodological knowledge | variable |
+| Peer consultation with other BNE practitioners (kollegiale Beratung) | Methods reflection | variable |
+
+**For volunteers:** The minimum continuing education requirement is satisfied by annual participation in the Year-End Quality Report debrief session (typically 2–3 hours) under facilitator guidance, which functions as the Praxisreflexion unter fachlicher Begleitung required by criterion 6.2.2.
+
+Continuing education is documented in each facilitator's personal log and summarised in the annual Quality Report (see Quality Report Minimum Content Standards below). Facilitators who do not meet the 24-hour minimum in a given year are not eligible to lead workshops independently in the following year until the deficit is addressed.
+
+* * *
+
+## Partner Network and BNE Cooperation
+*(BNE Area 5.3 — Minimum requirement: 5.3.1)*
+
+The Erdpuls program is embedded in a documented network of national and international BNE partners. Active cooperation with this network is required for certification (5.3.1) and is operationally necessary for the cross-border program (5.3.3).
+
+**National partners (ongoing cooperation):**
+- *senseBox/Reedu (Münster):* Technical methodology cooperation for senseBox deployment, openSenseMap data contribution, and Citizen Science workshop design (5.3.2 conceptual-methodological cooperation).
+- *Precious Plastic Deutschland / Repair Café Netzwerk:* Zone A circular economy workshop content and materials methodology.
+- *BNE-Akteur*innen Deutschland:* Annual conference participation, peer consultation, and quality development exchange (5.3.1 active networking).
+- *Incubator Village Beeskow:* Regional partnership supporting program development, funding access, and community integration.
+
+**International partners (operational for cross-border program):**
+- *Polish partner organization (Appendix A.5, B.5, C.5, D.5):* The cross-border workshops cannot run without an active Polish partner organization providing co-facilitation, logistical coordination, and bilingual educational materials. This partnership must be confirmed and documented before the autumn season begins (by August W4 at the latest). The partnership agreement should include: joint workshop planning process, bilingual co-facilitation protocol, shared evaluation of cross-border sessions, and mutual recognition of participant outcomes. This constitutes 5.3.3 (cooperative implementation).
+- *VULCA European Makerspace Network:* European makerspace methodology exchange and program reflection.
+- *Stellar Development Foundation:* Technical cooperation for token economy infrastructure.
+
+**Facilitation of cooperation:** The lead facilitator is responsible for maintaining at minimum one active BNE networking relationship (5.3.1) and documenting cooperation activities in the annual Quality Report. This includes: attending at least one BNE network event per year, sharing one Erdpuls practice example with the network (in any format), and incorporating one external BNE perspective into the year's program planning.
+
+* * *
+
+## Quality Report — Minimum Content Standards
+*(BNE Areas 5.2.1 and 5.2.2)*
+
+The Year-End Quality Report (compiled in February, based on the Annual Data Synthesis in January) is the primary instrument for BNE Area 5 compliance. It must contain the following minimum content to satisfy the catalog criteria:
+
+| Section | Content Required | Criterion |
+|---|---|---|
+| **Program Summary** | Workshops delivered (number, type, date); total participants by target group; workshops cancelled or modified with reason | 5.2.1 |
+| **Facilitator Reflections** | Summary of the 15-min post-workshop reflections written throughout the year; recurrent themes; what changed in facilitation approach as a result | 5.2.1 |
+| **Proxemic Audit Analysis** | Review of all Proxemic Audit forms from the year; which proxemic patterns recurred; which interventions were most effective | 5.2.1 |
+| **Participant Outcomes** | Compiled Quality Star ratings (D.1), Quality Compass summaries (D.2), Elder Quality Criteria (D.3), Residency Quality Reflections (D.4), Framework Comparison findings (D.5) | 5.2.2 |
+| **Citizen Science Outputs** | openSenseMap data contributed; iNaturalist/GBIF records submitted; GPS tracks completed; Pattern Cards added to archive | 5.2.2 |
+| **Token Economy Summary** | Total token transactions recorded; distribution across four elements (Cooperation/Reciprocity/Mutualism/Regeneration); patterns and anomalies | 5.2.2 |
+| **Continuing Education Record** | Hours and activities completed by each facilitator toward the 24-hour annual minimum (6.2.2); summary of preparatory study completed by new facilitators (6.2.1) | 6.2.1/6.2.2 |
+| **Partner Cooperation Record** | Network activities participated in; cross-border partnership status; any new partnerships established or ended | 5.3.1/5.3.3 |
+| **Identified Improvements** | Minimum three specific improvements identified from the year's experience; implementation plan for Year 2 | 5.2.2 |
+| **Year 2 Programming Plan** | Draft calendar for Year 2 with rationale for any changes from Year 1 sequence | 5.1.1/5.1.2 |
+
+The Quality Report is shared with the Quality Ambassadors (participants who completed the BNE Quality Framework guides D.1–D.5) before Year 2 planning is finalized — this constitutes the internal quality review process required by 5.2.2.
+
+* * *
+
+# PART FOUR: Printable Workshop Materials
 
 ## Master List of All Materials Referenced in the Living Experience Guides
 
@@ -290,7 +407,7 @@ The following materials are referenced across the 20 guides. Each is described b
 
 * * *
 
-# PART FOUR: Spatial Design Guide for the Five Zones
+# PART FIVE: Spatial Design Guide for the Five Zones
 
 ## Proxemic Design of the Erdpuls Campus
 
@@ -358,7 +475,7 @@ Each of the five campus zones has a proxemic character that shapes what kinds of
 
 * * *
 
-# PART FIVE: The Facilitator's First Season — A Narrative Guide
+# PART SIX: The Facilitator's First Season — A Narrative Guide
 
 ## What to Expect, Month by Month
 
@@ -419,7 +536,7 @@ Then: plan Year 2. The calendar repeats, but with new cohorts, accumulated data,
 
 * * *
 
-# PART SIX: Troubleshooting
+# PART SEVEN: Troubleshooting
 
 ## Common Challenges and Proxemic Solutions
 
