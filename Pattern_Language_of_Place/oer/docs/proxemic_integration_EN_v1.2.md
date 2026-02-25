@@ -3,7 +3,7 @@ title: "Proxemic Integration"
 subtitle: "Edward T. Hall's Proxemics as Spatial Grammar for the Pattern Discovery Toolkit"
 date: "February 2026"
 lang: en
-version: "1.1"
+version: "1.2"
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
 ---
@@ -13,7 +13,7 @@ project: "Erdpuls Müllrose OER Collection"
 
 **Erdpuls Müllrose — Living Laboratory & Makerspace Garden**
 
-**Version**: 1.1  
+**Version**: 1.2  
 **Date**: February 2026
 
 * * *
@@ -21,6 +21,7 @@ project: "Erdpuls Müllrose OER Collection"
 ## Changelog
 | Version | Date     | Changes                                      |
 |---------|---------------|----------------------------------------------|
+| 1.2   | February 2026 | BNE compliance update: Pedagogical Framework and BNE Orientation section added (Areas 1–4 coverage, 4A-Pathway in proxemic context); Facilitator Qualification note added to Part Three (Areas 6.1.1/6.1.2 — minimum requirements); BNE Quality Framework Alignment section added before Further Reading (criterion-by-criterion mapping for criteria directly addressed by this document) |
 | 1.1   | February 2026 | Institution name updated; license footer added; version updated for OER publication |
 | 1.0   | October 2025  | Initial release               |
 
@@ -34,6 +35,37 @@ This document weaves Edward T. Hall's proxemics — the study of how humans use 
 **For the facilitator of any specific workshop:** Part Two provides proxemic supplements for each of the 20 living experience guides — concrete facilitation notes, spatial design guidance, and enrichment activities organized by appendix and target group.
 
 **For any facilitator, working with any workshop format:** Part Three is a standalone Proxemic Facilitator's Guide with five principles, practical tools, a diagnostic audit template, campus zone design guidance, and a troubleshooting section. It can be used independently of the rest of the document.
+
+* * *
+
+## Pedagogical Framework and BNE Orientation
+
+This document is part of the Erdpuls OER Collection and is designed to support full compliance with the *Qualitätskatalog für außerschulische Anbieterinnen und Anbieter von Bildung für nachhaltige Entwicklung (BNE) im Land Brandenburg* (MLUK Brandenburg, April 2023). It is a theoretical supplement and facilitator preparation resource for the Pattern Discovery Toolkit, not a standalone educational programme. It directly addresses the Angebotsqualität criteria for which spatial design and proxemic facilitation is the relevant evidence.
+
+### BNE Quality Areas Addressed
+
+| Area | Title | Status |
+|------|-------|--------|
+| 1 | Goals and Target Groups | All criteria met - all five target groups are explicitly addressed with differentiated proxemic facilitation notes (Sections A.1-A.5, B.1-B.5, C.1-C.5, D.1-D.5) |
+| 2 | Approach | All criteria met - cross-cultural and cross-border proxemic dimensions addressed; all four sustainability dimensions and DE/PL Perspektivenvielfalt reflected |
+| 3 | Methods | Minimum requirements met; 3.1 (action-oriented, experiential, reflective, participatory) fully addressed through proxemic design principles; 3.2 (theoretical grounding) fully met; 3.3 (supporting preparation) addressed via Proxemic Audit and troubleshooting guide |
+| 4 | Gestaltungskompetenz | Key sub-competencies explicitly addressed (4.1.1, 4.2.1, 4.3.3); proxemic quality enrichments to D.1-D.5 support all 12 sub-competencies indirectly |
+| 5 | Quality Development | Minimum requirements met; Proxemic Audit is a 5.2.1 continuous practice reflection tool; D.4 proxemic evaluation methodology contributes to 5.2.2 |
+| 6 | Facilitator Qualification | Minimum requirements met; Part Three constitutes structured facilitator preparation (6.2.1) and an experiential qualification pathway (6.1.2) |
+| 7 | Organisational Conditions | Addressed at programme level; campus zone proxemic design guidance (Zones A-E) supports 7.4 (infrastructure) |
+
+The complete criterion-by-criterion mapping for criteria directly addressed by this document is in the *BNE Quality Framework Alignment* section at the end of this document. For the full programme-level alignment across all 57 criteria, see the *BNE-Qualitätsbewertung und Leitbild* (February 2026).
+
+### The 4A-Pathway in Proxemic Context
+
+Every educational sequence at Erdpuls follows the 4A-Pathway. Proxemics maps onto this pathway as both a diagnostic lens and a design tool:
+
+| Stage | Proxemic Expression | Where This Document Addresses It |
+|-------|--------------------|------------------------------------|
+| **Awareness** | Intimate/personal proxemic encounter with soil, materials, or place - all sensory channels active; Ring 0 body calibration | Revision 3 (Ring 0 proxemic note); Sections A.1-A.5 (soil protocol per target group) |
+| **Acknowledgment** | Group synthesis at personal/social distance - recognising that distributed sensory observations form a coherent spatial pattern | Part Three Principle 2 (transition scaffolding); Proxemic Audit (group synthesis phase) |
+| **Attitude** | Deliberative phases in sociopetal arrangements - values reflection on spatial arrangement, cross-cultural proxemic norms, and economic space | Sections B.1-B.5 (token economy); D.1-D.5 (quality evaluation as proxemic act); Troubleshooting section |
+| **Action** | Proxemic Audit implementation; campus zone redesign; token card station relocation; cross-border pair assignment | Part Three (Five Principles + Practical Tools); Campus Zone Design guidance |
 
 * * *
 
@@ -381,6 +413,19 @@ This criterion captures something no national framework recognizes: that cross-b
 
 * * *
 
+## Facilitator Qualification and This Guide
+*(BNE Areas 6.1 and 6.2)*
+
+Part Three of this document constitutes a structured professional preparation resource for facilitators working with the Pattern Discovery Toolkit or any place-based BNE programme. Its use satisfies the following Brandenburg BNE quality criteria:
+
+- **(6.1.2 Persönliche Qualifikation):** A facilitator who has worked through the Five Proxemic Principles, completed a Proxemic Audit for at least one workshop, and applied one proxemic intervention from the Troubleshooting section demonstrates documented professional experience with place-based, embodied BNE facilitation. This constitutes evidence of personal qualification appropriate to the programme context.
+- **(6.2.1 Vorbereitende Fort-/Weiterbildung):** This Part Three guide, read and applied before delivering any toolkit session, satisfies the minimum requirement for preparatory continuing education. Facilitators new to the programme should read it alongside the Facilitator's Implementation Handbook (which addresses Areas 6.1, 6.2, 5.2, 5.3 in full operational detail).
+- **(6.2.2 Laufende Fort-/Weiterbildung):** The Proxemic Audit, when completed after each workshop and reviewed annually (see Facilitator's Implementation Handbook, Quality Report Standards), constitutes an ongoing practice-reflection mechanism that contributes toward the 24-hour annual continuing education minimum.
+
+**Minimum requirements (6.1.2 or 6.1.1, plus 6.2.1 and 6.2.2):** Met via this guide in combination with the Facilitator's Implementation Handbook.
+
+* * *
+
 ## Why This Guide Exists
 
 You have been facilitating workshops where participants observe soil, repair objects, map landscapes, exchange knowledge, and evaluate quality. You have noticed that some moments in these workshops produce extraordinary engagement — participants become absorbed, time seems to stop, the conversation deepens — while other moments feel flat, restless, disconnected. You may have attributed this to the content ("the soil observation is more engaging than the mapping synthesis") or to the participants ("this group is more motivated than the last").
@@ -555,6 +600,67 @@ Begin at the Warm Wall (intimate: touch the bricks, feel the heat). Move into th
 The tour is the pattern language made spatial. And it is, in proxemic terms, a progressive opening of the sensory field from all-channels-active to vision-dominant — the same proxemic arc that structures every individual workshop, now extended across the landscape.
 
 The pattern language does not merely describe the place. It describes the place *as experienced at every proxemic distance*. That is what makes it a language of place rather than a database about place. And that is what proxemics, as the hidden dimension of the toolkit's design, makes possible.
+
+* * *
+
+## BNE Quality Framework Alignment
+
+This section provides the criterion-by-criterion mapping for the Brandenburg BNE Quality Catalog criteria that this document directly addresses. Criteria not listed here are addressed at programme level in the *BNE-Qualitätsbewertung und Leitbild* (February 2026) and in the Pattern Discovery Toolkit (Appendix D).
+
+**Area 1 - Goals and Target Groups**
+
+| Criterion | How This Document Addresses It | Status |
+|-----------|-------------------------------|--------|
+| 1.1.1 Lebenswelt- und Lebensphasenbezug | All five target groups receive differentiated proxemic facilitation notes grounded in their lived spatial experience: children's intimate-distance curiosity; adult proxemic barriers; elder accessibility and memory-olfactory links; artists' sustained intimate observation; cross-border cultural proxemic differences | Met |
+| 1.2.1 Zielgruppen sind konkret beschrieben | Five target groups explicitly named and differentiated across all four appendix sections (A-D) | Met |
+| 1.2.2 Bedarf ist ZG-spezifisch beschrieben | Proxemic needs of each group described specifically: vertical distance for children, modelling for adults, physical accessibility for elders, solitude for researchers, cross-cultural mediation for DE/PL | Met |
+| 1.2.3 Ziele sind konkret und ZG-spezifisch | Proxemic facilitation goals are stated per target group in each supplement section | Met |
+| 1.2.4 Bedarf, Ziele, ZG passen zusammen | Each target group section connects proxemic diagnosis to specific facilitation response - the red thread is visible throughout | Met |
+
+**Area 2 - Approach**
+
+| Criterion | How This Document Addresses It | Status |
+|-----------|-------------------------------|--------|
+| 2.1 Themenvielfalt | Proxemics is applied across all four sustainability dimensions: ecological (soil contact, bioregion sensing), social (cross-cultural distance, token economy), economic (proxemic signature of reciprocal vs. market exchange), institutional/cultural (architectural heritage, DE/PL border) | Met |
+| 2.2 Perspektivenvielfalt | Cross-cultural proxemic variation between German and Polish participants is treated as educational content, not a management challenge; intergenerational proxemic inversion (youth below/elder above) is a deliberate perspective-shift mechanism | Met |
+
+**Area 3 - Methods**
+
+| Criterion | How This Document Addresses It | Status |
+|-----------|-------------------------------|--------|
+| 3.1.1 handlungsorientiert | All proxemic principles translate into concrete physical actions: kneeling to child height, preparing sensory anchor objects, arranging chairs in a circle, passing a talking stone | Met |
+| 3.1.2 erfahrungsorientiert | The entire document is grounded in sensory experience: the proxemic framework is introduced through what participants can touch, smell, hear, and feel at each distance zone | Met |
+| 3.1.3 problembezogen | Proxemic troubleshooting section directly addresses real facilitation problems with proxemic diagnoses and practical solutions | Met |
+| 3.1.4 partizipativ | Sociopetal design guidance, the Wisdom Circle, the cross-border pair assignments, and the token card process all operationalise participatory spatial arrangements | Met |
+| 3.1.5 reflektiert | The Proxemic Audit template provides a structured pre- and post-workshop reflection mechanism; Part Five connects proxemic practice to its theoretical basis | Met |
+| 3.2 passend und fundiert | Theoretical grounding explicit: Hall (1966), Sommer (1969), Merleau-Ponty (1945), Bortoft (1996), Sorokowska et al. (2017); connection to BNE Gestaltungskompetenz framework named in Part Five | Met |
+| 3.3.1 Vorbereitung der Teilnehmenden | The Proxemic Audit (pre-workshop phase) and the Five Principles constitute a structured preparation framework enabling facilitators to brief participants on the spatial logic of each phase | Met |
+| 3.3.2 Unterstützung durch Experten | The document itself functions as specialist input on proxemics and spatial pedagogy; D.4 (Artists and Researchers) explicitly proposes proxemic analysis as a novel evaluation methodology with potential for expert-assisted research | Met |
+
+**Area 4 - Gestaltungskompetenz**
+
+| Criterion | How This Document Addresses It | Status |
+|-----------|-------------------------------|--------|
+| 4.1.1 Neue Perspektiven öffnen | Proxemics reframes all five target groups' experience of every workshop: participants learn to read spatial arrangements, notice sensory channel closures, and understand cross-cultural distance as structured, not arbitrary | Met |
+| 4.2.1 Gemeinsam planen und handeln | The sociopetal design guidance, cross-cultural pair assignment, and token card proximity protocol all build collective spatial competency - the capacity to design shared space for collaborative action | Met |
+| 4.3.3 Empathie und Solidarität | Hall's core insight - that empathy is fundamentally a proxemic capacity (you cannot empathize with what you cannot sense) - is named explicitly in Part Five; the cross-border soil protocol operationalises this insight | Met |
+
+**Area 5 - Quality Development**
+
+| Criterion | How This Document Addresses It | Status |
+|-----------|-------------------------------|--------|
+| 5.2.1 Kontinuierliche Praxisreflexion | The Proxemic Audit template, designed for completion before and after each workshop, is a dedicated continuous reflection instrument. The troubleshooting section provides a diagnostic framework for in-the-moment reflective practice | Met |
+| 5.2.2 Systematische Selbstevaluation | D.4 (Artists and Researchers) proposes proxemic profile analysis (time-series photography coded for interpersonal distance) as a novel systematic self-evaluation methodology, contributing to BNE evidence-based quality development | Partial - methodology proposed; implementation in Year 1 programme |
+
+**Area 6 - Facilitator Qualification**
+
+| Criterion | How This Document Addresses It | Status |
+|-----------|-------------------------------|--------|
+| 6.1.2 Persönliche Qualifikation | Facilitation competency demonstrated through: documented application of the Five Proxemic Principles; completion of a Proxemic Audit; implementation of at least one proxemic intervention. This constitutes an experiential qualification pathway | Met |
+| 6.2.1 Vorbereitende Fort-/Weiterbildung | Part Three constitutes structured preparatory continuing education. Minimum requirement: read and apply before first toolkit session | Met (minimum requirement) |
+| 6.2.2 Laufende Fort-/Weiterbildung | Proxemic Audit annual review, as specified in the Facilitator's Implementation Handbook Quality Report standards, contributes to the 24-hour annual minimum | Met in combination with Facilitator's Implementation Handbook |
+
+**Minimum requirements satisfied:** All minimum requirements in Areas 1, 2, 3, 4, 5, and 6 as they apply to this theoretical supplement and facilitator preparation document.
 
 * * *
 
