@@ -3,7 +3,7 @@ title: "Questions to the Soil — Living Experience Guides"
 subtitle: "Five Target-Group-Specific Workshop Guides — Appendix A"
 date: "February 2026"
 lang: en
-version: "1.1"
+version: "1.2"
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
 ---
@@ -13,7 +13,7 @@ project: "Erdpuls Müllrose OER Collection"
 
 **Erdpuls Müllrose — Living Laboratory & Makerspace Garden**
 
-**Version**: 1.1  
+**Version**: 1.2  
 **Date**: February 2026
 
 * * *
@@ -21,6 +21,7 @@ project: "Erdpuls Müllrose OER Collection"
 ## Changelog
 | Version | Date     | Changes                                      |
 |---------|---------------|----------------------------------------------|
+| 1.2   | February 2026 | BNE compliance update: measurable learning objectives added to all five guide Overview tables (Area 1.2); sustainability dimensions mapped per guide (Area 2.1.1); SDG links with justification added per guide (Area 2.1.3); methodological foundations with citations added per guide (Area 3.2.2/3.2.3); facilitator qualification requirements added to all Facilitator Notes sections (Areas 6.1.1/6.1.2); pre-workshop preparation reference (3.3.1) and post-workshop follow-up resources (3.3.3) added to all Facilitator Notes; BNE Criteria Coverage Reference table added to introduction |
 | 1.1   | February 2026 | Institution name updated; license footer added; version updated for OER publication |
 | 1.0   | October 2025  | Initial release               |
 
@@ -55,6 +56,22 @@ Each guide follows a consistent structure for easy facilitator reference:
 - Risk and Safety Considerations
 - Proxemic Design Notes (spatial arrangement, sensory channels, facilitation positioning)
 
+---
+
+### BNE Criteria Coverage Reference (Areas 1–7, Brandenburg Qualitätskatalog)
+
+This document addresses the **Angebotsqualität** sections of the Brandenburg BNE Quality Catalog (*Qualitätskatalog für außerschulische Anbieterinnen und Anbieter von Bildung für nachhaltige Entwicklung (BNE) im Land Brandenburg*, MLUK Brandenburg, April 2023). The table below maps each guide to the BNE quality areas it primarily demonstrates, to assist facilitators, evaluators, and certification reviewers. For the full program-level criterion-by-criterion alignment, see the *BNE-Bewertung und Leitbild* document and the *Pattern Discovery Toolkit* Appendix D.
+
+| Guide | Target Group | Primary BNE Areas | Key Criteria |
+|---|---|---|---|
+| 1 | Children & Youth | 1, 2, 3, 4 | 1.1.1 (Lebenswelt: soil as daily-life ground beneath school-age feet); 1.2 (4 measurable learning objectives); 2.1.1 (all four sustainability dimensions); 2.1.3 (SDG 4, 13, 15); 3.1 (experiential, activating, reflective); 4.1.3 (interdisciplinary); 4.3.3 (empathy for soil organisms) |
+| 2 | Adults & Families | 1, 2, 3, 4, 5 | 1.2 (4 measurable behavioral outcomes); 2.1.1 (four dimensions); 3.1.5 (reflektiert via values-action gap); 4.3.1 (self-reflection via Soil Explorer Notebook); 5.2.1 (notebook as praxis reflection data) |
+| 3 | Elders & Intergenerational | 1, 2, 3, 4, 5 | 2.2 (Perspektivenvielfalt: historical-ecological comparison across eras); 3.1.5 (reflektiert via Elder Memory Prompts); 4.1.2 (foresight: past→present→future trajectory); 5.2 (oral soil history as longitudinal evaluation data) |
+| 4 | Artists & Researchers | 1, 2, 3, 4, 5 | 1.2 (research-depth measurable outcomes); 3.2.2/3.2.3 (Goethean and longitudinal methodological foundations with citations); 4.1 (interdisciplinary competency via cross-method integration); 5.1–5.2 (residency output as quality development contribution) |
+| 5 | Cross-Border (DE/PL) | 1, 2, 3, 5 | 1.1.1 (Lebenswelt: shared glacial landscape); 2.1.1 (four dimensions across national frameworks); 2.2 (Perspektivenvielfalt: two national traditions, three languages); 5.3 (Kooperation: cross-border citizen science network design) |
+
+*Minimum requirements of the Brandenburg Qualitätskatalog are addressed collectively across all five guides and the wider Erdpuls program. No individual guide is required to meet all criteria independently — these are workshop guides, not standalone educational programs.*
+
 * * *
 
 * * *
@@ -75,8 +92,12 @@ Each guide follows a consistent structure for easy facilitator reference:
 | **Duration** | Half day (3–4 hours including breaks) |
 | **Location** | Erdpuls campus garden (Zone B) and surrounding areas |
 | **Season** | All seasons (with seasonal adaptations noted below) |
+| **Learning Objectives** | By the end of this workshop, participants will: (1) demonstrate bodily observation of soil using at least four senses and articulate at least three distinguishing properties of their assigned patch compared to another team's patch; (2) compare at least two sensor measurements with bodily perception and identify one agreement and one discrepancy between instrument data and embodied observation; (3) count and record at least five living organisms in their soil patch and enter the data as a citizen science contribution to the Erdpuls soil record; (4) name one concrete action they will take to protect or improve soil health in their daily life — at home, at school, or in their neighbourhood |
+| **Sustainability Dimensions** | **Ecological** (direct biodiversity observation; soil as living system; organism-habitat relationships; seasonal soil dynamics); **Economic** (soil as the foundation of all food production; the economic value of healthy topsoil and biodiversity); **Social** (team-based inquiry; citizen science as community contribution; school-campus-community partnership); **Cultural** (Goethean observation as European scientific heritage; local landscape stewardship; embodied knowing as legitimate form of knowledge) |
+| **SDG Links** | **SDG 4** (Quality Education — experiential, inquiry-based, hands-on learning; OER publication of all outputs); **SDG 15** (Life on Land — biodiversity documentation, soil organism awareness, iNaturalist contribution); **SDG 13** (Climate Action — soil carbon storage, phenological data contribution to longitudinal monitoring) |
 | **4A-Pathway Focus** | Awareness and Acknowledgment (younger); full pathway for older youth |
 | **Curriculum Links** | Biology (soil ecology, organisms), Geography (geology, landscape), Chemistry (pH, minerals), Mathematics (measurement, data), Art (observation drawing), Sachunterricht (primary) |
+| **Methodological Foundations** | Goethean phenomenology (Goethe, 1820; Naydler, 1996): observation-before-interpretation as foundational scientific discipline. Situated learning (Lave & Wenger, 1991): authentic participation in real-world practice as the most effective learning mode. Citizen science methodology (Bonney et al., 2009): participant-generated data of genuine scientific value contributing to longitudinal datasets. |
 | **BNE Competencies** | 3.1.1 (experiential), 3.1.3 (activating), 3.1.7 (holistic), 4.1.3 (interdisciplinary), 4.3.3 (empathy) |
 
 ### Preparation and Materials
@@ -298,6 +319,15 @@ Tokens are explained age-appropriately: "When you share your observations with t
 
 ### Facilitator Notes
 
+**BNE Qualification Requirements (Areas 6.1.1/6.1.2 — minimum: one of the following):**
+Facilitator should hold either (6.1.1) formal qualifications in a relevant field (biology, ecology, environmental education, outdoor education, science education) or (6.1.2) demonstrated personal qualification through equivalent experience: minimum 2 years leading outdoor science workshops with school-age groups, plus completion of the Erdpuls facilitator induction (including personal practice of the full 13 Questions protocol). Basic ecological literacy (ability to identify common soil organisms with reference materials, interpret pH and moisture readings) is a practical prerequisite for all facilitators of this guide.
+
+**Pre-Workshop Participant Preparation (Area 3.3.1):**
+Send to accompanying teachers or group leaders at least one week before the visit: (a) brief information about the workshop format — students will be outdoors, hands-on, getting dirty; appropriate clothing is required; (b) a one-page "What is citizen science?" primer (available from the Erdpuls facilitator pack); (c) the "Soil Curiosity Sheet" — five simple questions for students to consider before arrival ("When did you last look at soil closely? What do you expect to find if you dig a hole in a garden?"). Pre-visit teacher briefing (by phone or email) is recommended for classes with SEN participants to agree on individual adaptations.
+
+**Post-Workshop Follow-Up Resources (Area 3.3.3):**
+Provide to teachers and students after the visit: (a) the class's data export from the Erdpuls soil database (PDF or spreadsheet, generated within one week of the visit); (b) the "Soil Portrait" continuation activity guide (one-page PDF); (c) an invitation to return for a seasonal repeat visit with pre-booked dates; (d) iNaturalist project link for any species observations made during the Life Count; (e) digital or printed copy of the student's completed Soil Explorer Field Sheet (facilitator photographs all sheets before students take them home).
+
 **Common Challenges:**
 
 *"I don't want to touch it."* — Never force. Offer the hand lens instead: "You can be the team's microscope scientist." Most reluctant children come around when they see peers enjoying the texture and smell activities. If not, observation-from-a-distance is a valid participation mode.
@@ -370,8 +400,12 @@ Tokens are explained age-appropriately: "When you share your observations with t
 | **Duration** | 2.5–3 hours (weekend morning or afternoon format) |
 | **Location** | Erdpuls campus garden (Zone B) with comparison sites on campus grounds |
 | **Season** | All seasons; especially suited to early spring (garden-planning relevance) and autumn (harvest/decomposition) |
+| **Learning Objectives** | By the end of this workshop, participants will: (1) apply the 13 Questions protocol independently to assess soil condition at their assigned patch and articulate at least five findings in their own words; (2) identify at least two specific ways their soil observation could change their home garden or allotment management, written in the Action section of their Soil Explorer Notebook; (3) compare instrument readings with bodily observation at the same location and explain in their own words why both data sources are necessary and non-replaceable; (4) contribute at least one validated measurement entry (temperature, pH, moisture, life count) to the Erdpuls soil observation record |
+| **Sustainability Dimensions** | **Ecological** (soil food web; organic matter cycles; biodiversity as soil health indicator; water infiltration and climate resilience); **Economic** (soil health as economic asset for food growers; composting as circular economy practice; cost-benefit of soil care vs. purchased inputs); **Social** (community-building through shared practice; intergenerational connection when families participate; Repair Café as civic infrastructure for sustainability); **Cultural** (Goethean observation as European intellectual tradition; local food culture; repair ethic extended below the surface) |
+| **SDG Links** | **SDG 2** (Zero Hunger — home and allotment food growing; soil health as food security foundation in the local region); **SDG 15** (Life on Land — biodiversity documentation; soil organism awareness; home garden and allotment as habitat corridor); **SDG 11** (Sustainable Cities and Communities — community soil knowledge network; distributed citizen science across Müllrose and the Oder-Spree region) |
 | **4A-Pathway Focus** | Full pathway, with emphasis on Attitude ("How do I relate to this ground?") and Action ("What will I do differently in my own garden?") |
 | **Practical Connection** | Directly applicable to home gardening, allotment management, food growing, composting |
+| **Methodological Foundations** | Goethean phenomenology (Naydler, 1996): receptive, patient observation as the primary pathway to ecological knowledge. Transformative learning theory (Mezirow, 1991): embodied encounter with the unexpected (e.g., discovering that "dead" soil contains dozens of organisms) triggers perspective transformation. Citizen science methodology (Bonney et al., 2009): distributed adult observation contributing to longitudinal monitoring. |
 
 ### Preparation and Materials
 
@@ -510,6 +544,15 @@ The facilitator closes by connecting to the wider pattern-discovery framework: "
 
 ### Facilitator Notes
 
+**BNE Qualification Requirements (Areas 6.1.1/6.1.2 — minimum: one of the following):**
+Facilitator should hold either (6.1.1) formal qualifications in environmental education, adult education, horticulture, biology, or a related field, or (6.1.2) demonstrated personal qualification: minimum 3 years facilitating experiential workshops for adult community audiences, plus Erdpuls facilitator induction including personal extended practice of the Goethean soil observation protocol. The facilitator must be comfortable modeling intimate proxemic behavior with soil in front of adult groups — the key pedagogical move in this guide. Familiarity with allotment and home gardening practices is a practical asset.
+
+**Pre-Workshop Participant Preparation (Area 3.3.1):**
+Send to registered participants at least 5 days before the workshop: (a) a short welcome note explaining what to wear (comfortable outdoor clothing, closed shoes suitable for garden work, clothes that can get dirty); (b) one question to reflect on beforehand: "If you were to describe the soil in your own garden or nearest green space, what would you say about it?"; (c) for families: a child-friendly activity — "Before you come, dig a small hole in your garden or a local park and write down three things you notice." No specialist knowledge is required or assumed.
+
+**Post-Workshop Follow-Up Resources (Area 3.3.3):**
+Provide to participants after the workshop: (a) the laminated "Reading Your Soil" reference card (distributed at the closing circle — this is the primary take-home resource); (b) a digital "Home Soil Protocol" — a simplified 6-question version of the 13 Questions for independent use in their own garden, formatted as a printable PDF; (c) the date of the next Open Makerspace Day with invitation to bring a home soil sample for comparison; (d) instructions for contributing home observations to the Erdpuls distributed soil network (simple form or email submission); (e) the Erdpuls soil sensor dashboard URL for participants to track campus soil data over time and compare with their own.
+
 **Key difference from children's guide:** Adults bring prior knowledge — some accurate, some not. The facilitator should welcome knowledge ("Yes, that's a great observation about clay structure") while gently redirecting premature conclusions ("Before we decide why, let's finish describing what we see"). The Goethean discipline of observation-before-interpretation is harder for adults than for children, and more transformative when achieved.
 
 **Families:** When children and adults observe together, the children often notice things adults miss (small creatures, subtle colors, unusual smells). Framing the child as a co-scientist, not a tag-along, enriches the experience for both.
@@ -559,8 +602,12 @@ As in Guide 1. Additional for adults: some participants may have mobility limita
 | **Duration** | 2.5–3 hours (morning format preferred, with Kaffee und Kuchen break) |
 | **Location** | Erdpuls campus garden (Zone B) and one or two off-campus comparison sites meaningful to elder participants (e.g., a former allotment area, a field edge they remember from childhood) |
 | **Season** | Autumn is ideal (the memory/decomposition/accumulation metaphor is strongest); spring also works well (awakening/return) |
+| **Learning Objectives** | By the end of this workshop, participants will: (1) articulate at least three specific soil memories from their lifetime and place them in relation to present-day observable soil conditions at the observation site; (2) identify, with their intergenerational partner, at least one measurable environmental change (water table, species presence/absence, soil color or texture, flood pattern) observable across their lifetime in this landscape; (3) contribute documented oral soil history testimony — a minimum of 300 words of transcribed narrative linked to specific Questions — to the Erdpuls Soil Memory archive, subject to consent; (4) name at least one quality of soil stewardship from their lived experience that they would pass to the younger generation, recorded in their own words |
+| **Sustainability Dimensions** | **Ecological** (longitudinal change in soil health across decades; biodiversity loss and gain; water system changes; climate-related landscape shifts observed through living memory); **Economic** (DDR agricultural collectivization vs. post-reunification land practices; subsistence growing as economic resilience model; memory of soil productivity across economic systems); **Social** (intergenerational knowledge transfer as community practice; elder dignity through recognized expertise; community memory as educational resource); **Cultural** (oral history as cultural preservation; *Heimatkunde* and *Schulgarten* as DDR-era educational heritage; local landscape as cultural commons) |
+| **SDG Links** | **SDG 4** (Quality Education — intergenerational co-teaching; oral history as legitimate research methodology; lifelong learning across all ages); **SDG 11** (Sustainable Cities and Communities — community memory as planning resource; intergenerational social cohesion in the Müllrose region); **SDG 15** (Life on Land — longitudinal biodiversity data recoverable only from living memory; historical ecology of the Oder-Spree landscape) |
 | **4A-Pathway Focus** | Acknowledgment ("I recognize my lifelong relationship with this ground") and Attitude (intergenerational responsibility) |
 | **Unique Value** | Elders as knowledge-holders, not recipients. Their memory IS longitudinal data. |
+| **Methodological Foundations** | Oral history methodology (Thomson, 1990; Portelli, 1991): personal memory testimony constitutes legitimate historical and environmental research data. Intergenerational learning theory (Kaplan, 2002): structured exchange between age cohorts as mutual enrichment, not one-directional transmission. Historical ecology (Foster & Aber, 2004): long-term human observation as empirical basis for ecological understanding of place-change. |
 
 ### The Core Principle: Elders as Scientists
 
@@ -683,6 +730,15 @@ The token economy has a particular significance for elder participants: it forma
 
 ### Facilitator Notes
 
+**BNE Qualification Requirements (Areas 6.1.1/6.1.2 — minimum: one of the following):**
+Facilitator should hold either (6.1.1) formal qualifications in gerontology, oral history, adult or community education, environmental education, or social work, or (6.1.2) demonstrated personal qualification: minimum experience facilitating intergenerational or elder-focused community programmes, plus Erdpuls facilitator induction and personal practice of the full protocol. Specific required competencies: oral history interview facilitation skills (including ethical practice around consent and sensitive material); capacity to hold space for emotionally charged content (displacement, loss, wartime memories); physical accessibility planning. A co-facilitator is strongly recommended, particularly one who can provide physical support and accompany elders on off-campus site visits.
+
+**Pre-Workshop Participant Preparation (Area 3.3.1):**
+Contact elder participants personally — by phone wherever possible, not just email — at least one week before the workshop. Explain what will happen in accessible language: "We'll be outside in the garden for about an hour, then inside for coffee and a discussion. You can sit the whole time. We'll be asking what you remember about the land around Müllrose." Ask them: "Can you think of a place in or around Müllrose where the soil or landscape has changed during your lifetime?" Their answers may suggest comparison sites and prime their memory for the observation. Inform accompanying teachers, social workers, or family members about the format, duration, accessibility provisions, and the emotional-content dimension (soil memories can connect to difficult history).
+
+**Post-Workshop Follow-Up Resources (Area 3.3.3):**
+Provide to all participants after the workshop: (a) a printed transcript of their contributed oral history narrative (sent to elder participants by post within 3 weeks, with a copy to the archive if consent was given); (b) an annotated copy of the Müllrose memory map with each pair's marked locations; (c) an invitation to a follow-up "Soil Memory Reading Evening" — an informal community event where selected narratives are read aloud (planned for winter, see Cross-Guide Reference below); (d) the Erdpuls Soil Memory archive link, where participants can see their contribution alongside others; (e) younger participants receive: the full transcribed record from their elder partner, with a suggested follow-up exercise — "Find one place your partner mentioned and visit it. Write three sentences about what you observe."
+
 **Pacing:** This guide runs slower than the others. Elders may need more time to settle into the sensory exercises, and their stories — once started — should not be truncated. Build in generous buffer time. If the full 13 Questions cannot be completed, that is acceptable; the quality of the intergenerational dialogue matters more than protocol completeness.
 
 **Physical accessibility:** Not all elders can kneel or dig. Provide seating, offer to hold soil samples at a comfortable height, and ensure the younger partner does the physical work while the elder directs and interprets. The protocol works perfectly well with the elder seated beside the observation patch.
@@ -721,8 +777,12 @@ The token economy has a particular significance for elder participants: it forma
 | **Duration** | Multi-day immersion: initial guided session (3–4 hours) + self-directed repeat observations over the residency period (1–4 weeks) |
 | **Location** | Full campus and surrounding landscape; the resident chooses their own primary observation site |
 | **Season** | Any; the seasonal arc experienced during the residency becomes part of the work |
+| **Learning Objectives** | By the end of this residency engagement, participants will: (1) demonstrate sustained daily soil observation practice over a minimum of 7 consecutive days, evidenced by a weekly log showing measurable progression in the specificity and depth of perception from Day 1 to Day 7+; (2) formulate at least one original research question or artistic concept that emerged directly from the soil encounter practice, documented with reference to specific observations that prompted it; (3) produce a combined interpretation of their chosen site's ecological character integrating sensor data and bodily observation, identifying where the two data sources converge and where they diverge; (4) contribute at least one substantive output — creative work, longitudinal dataset, method documentation, or workshop design — to the Erdpuls knowledge commons, attributed and archived |
+| **Sustainability Dimensions** | **Ecological** (deep-time ecological understanding through repeated observation; phenological attention to soil change across weeks; biodiversity documentation at micro-scale; soil as living system in continuous flux); **Economic** (artist and researcher residency as sustainable creative economy model; bio-material practice as circular economy; residency knowledge contribution as non-monetary economic exchange); **Social** (open studio and public event as community engagement; methodological knowledge transfer to future residents and facilitators; the resident as a bridge between research/arts community and local community); **Cultural** (Goethean natural science as European cultural and intellectual heritage; soil art as materialist-ecological practice with deep roots; citizen science as scholarly contribution across disciplinary traditions) |
+| **SDG Links** | **SDG 4** (Quality Education — research methodology development and sharing; Goethean epistemology as alternative to extractive research paradigms; OER contribution); **SDG 15** (Life on Land — longitudinal micro-ecological study; soil biodiversity inventory; phenological dataset contributing to long-term monitoring); **SDG 17** (Partnerships for the Goals — interdisciplinary and cross-sector collaboration; knowledge commons contribution; residency as model for arts-science-community partnership) |
 | **4A-Pathway Focus** | Full pathway, with deepest engagement at Acknowledgment (artistic/research integration of place-knowledge) and Action (creative or scientific output) |
 | **Unique Value** | Depth of engagement over time; the production of original works (art, research, material experiments) grounded in soil encounter |
+| **Methodological Foundations** | Goethean phenomenology and participatory science (Bortoft, 1996; Naydler, 1996): intensive dwelling-in-phenomena as the epistemological method for developing new organs of perception. Longitudinal ecological observation (Likens, 1989): systematic repeated measurement at the same site as the basis for detecting change and pattern. Ecological art practice (Wallen, 2012): artistic engagement with ecological systems as a form of environmental research, producing knowledge that scientific frameworks alone cannot generate. |
 
 ### The Residency Context
 
@@ -816,6 +876,15 @@ This data is entered into the Erdpuls archive under the resident's name and link
 
 ### Facilitator Notes
 
+**BNE Qualification Requirements (Areas 6.1.1/6.1.2 — minimum: one of the following):**
+Facilitator should hold either (6.1.1) formal qualifications in environmental science, ecology, art or design, research methods, or conservation practice, or (6.1.2) demonstrated personal qualification: documented experience with contemplative or phenomenological practice in a natural science or artistic context, plus Erdpuls facilitator induction including personal extended practice of the full 13 Questions protocol across at least two seasons. The critical personal qualification for this guide is not subject expertise but *capacity to hold space for open-ended autonomous inquiry* — the ability to introduce the method thoroughly and then withdraw without redirecting the resident's emerging practice. The facilitator's own relationship with soil, place, and sustained attention is the most important qualification.
+
+**Pre-Residency Preparation (Area 3.3.1):**
+Before the resident's arrival: (a) share the Erdpuls campus documentation pack, including campus map, Zone descriptions, site-access permissions, and sensor network overview, so the resident arrives knowing what infrastructure is available; (b) provide the "Residency Protocol Guide" PDF (a self-contained guide to the daily practice, weekly observation structure, and documentation formats); (c) schedule a 30-minute pre-arrival video call to discuss the resident's project, answer practical questions, and orient them to the sensor data portal; (d) arrange access to Zone C (Makerspace) for residents wishing to install temporary sensors — this requires advance coordination.
+
+**Post-Residency Follow-Up Resources (Area 3.3.3):**
+After the residency closes: (a) archive all contributed datasets, observation logs, and outputs in the Erdpuls knowledge commons within 4 weeks, with the resident's preferred attribution; (b) provide the resident with a complete export of sensor data for their site and period, in CSV and PDF formats; (c) issue a "Residency Completion Letter" confirming participation and contribution — useful for the resident's portfolio, grant applications, and institutional reporting; (d) invite the resident to contribute a short reflection (one page or a 5-minute recorded conversation) for the Erdpuls "Resident Voices" archive — documenting how the soil encounter shaped their practice; (e) maintain contact with the option of a follow-up public event, virtual or in-person, where the resident can share their output with the Müllrose community.
+
 **The facilitator's role changes over the residency.** On Day 1, the facilitator guides. By Week 2, the facilitator is a dialogue partner, checking in but not directing. By Week 3–4, the resident has internalized the method and the facilitator is a resource, not a guide. This withdrawal is intentional — the Goethean method requires that the observer develop their own relationship with the phenomenon, which cannot happen under continuous instruction.
 
 **Artistic freedom:** The facilitator should not impose any expectation of what the creative output "should" look like. If a painter decides the soil encounter has changed their use of color but not their subject matter, that is a valid outcome. If a researcher abandons their original hypothesis because the soil showed them something more interesting, that is a valid outcome. The protocol serves the resident's practice, not the other way around.
@@ -850,8 +919,12 @@ This data is entered into the Erdpuls archive under the resident's name and link
 | **Duration** | Full day (6–7 hours including meal) or two half-days |
 | **Location** | Day 1 or Morning: Erdpuls campus (German side). Day 2 or Afternoon: a partner site or landscape on the Polish side (Lubuskie), or a comparison site at the border zone itself |
 | **Season** | Late spring or early autumn (comfortable outdoor conditions for a full day; agricultural activity visible on both sides) |
+| **Learning Objectives** | By the end of this workshop, participants will: (1) demonstrate soil observation in at least two languages, naming at least one soil quality term that gains or loses meaning in translation and explaining the cultural significance of the difference; (2) identify at least three shared geological or biological features of the cross-border landscape — documented with measurements or observations — that predate and transcend the political boundary; (3) contribute paired observation records (from both sides of the border, or from contrasting campus sites) to the Erdpuls trilingual citizen science archive, with at least one entry in each language; (4) co-formulate, with participants from the other country, at least one specific proposal for cross-border soil stewardship — endorsed by both sides and recorded in the closing documentation |
+| **Sustainability Dimensions** | **Ecological** (shared glacial geology; transboundary watershed and water table; soil type continuity across the Oder-Neisse line; shared biodiversity of organisms that know no political border); **Economic** (cross-border agricultural cooperation as regional sustainability mechanism; EU INTERREG funding as the institutional-economic infrastructure making cross-border education possible; shared food heritage as economic and ecological common ground); **Social** (cross-cultural dialogue as community practice; language as social bridge and barrier; Oder-Neisse border region identity as shared social reality; reconciliation through shared ground); **Cultural** (shared pre-national glacial landscape as common heritage; multilingual ecological vocabulary as cultural resource; Slavic and Germanic soil traditions in the same landscape; the place-name Müllrose/Miloraz as emblem of layered cultural tenure) |
+| **SDG Links** | **SDG 4** (Quality Education — multilingual, intercultural, experiential learning; comparative environmental education across national frameworks; OER trilingual publication); **SDG 17** (Partnerships for the Goals — formal cross-border institutional cooperation as a direct SDG 17 action; shared citizen science infrastructure as a model for regional partnership); **SDG 10** (Reduced Inequalities — bridging German-Polish institutional disparities in environmental education access and infrastructure; equitable co-facilitation design) |
 | **4A-Pathway Focus** | Full pathway, with particular emphasis on Awareness (perceiving across a cultural boundary) and Acknowledgment (recognizing shared ground beneath political division) |
 | **Unique Value** | The soil does not recognize the border. This simple fact is the workshop's most powerful teaching. |
+| **Methodological Foundations** | Comparative environmental education (Bray et al., 2014): systematic cross-national comparison of ecological knowledge and practice as a method for revealing both shared foundations and genuine cultural difference. Place-based education (Gruenewald, 2003): the shared landscape as the foundational educational text — prior to and independent of any national curriculum. Proxemics and intercultural communication (Hall, 1966; 1976): cultural variation in spatial behavior and sensory norms as explicit pedagogical content, not merely background. |
 
 ### The Cross-Border Principle
 
@@ -976,6 +1049,15 @@ Each participant shares one observation in their own language. No translation re
 | Establishing a permanent cross-border sensor link | Mutualism + Regeneration |
 
 ### Facilitator Notes
+
+**BNE Qualification Requirements (Areas 6.1.1/6.1.2 — minimum: one of the following):**
+Lead facilitator should hold either (6.1.1) formal qualifications in environmental education, intercultural communication, European studies, or a related field, or (6.1.2) demonstrated personal qualification: documented experience facilitating cross-cultural or multilingual workshops for community groups, plus Erdpuls facilitator induction and personal practice of the full 13 Questions protocol. **Co-facilitation by a qualified Polish-speaking co-facilitator is a minimum requirement** — this is not optional. The Polish co-facilitator should bring equivalent qualifications. Both facilitators should brief each other thoroughly before the workshop, agree on a shared facilitation protocol, and plan for how they will handle sensitive historical content if it arises. Combined, the facilitation team must be able to facilitate in DE, PL, and EN.
+
+**Pre-Workshop Participant Preparation (Area 3.3.1):**
+Send to all registered participants at least one week before, in their preferred language (DE/PL/EN): (a) a welcome letter from both co-facilitators, in both DE and PL; (b) practical information (timing, location, transport, what to wear, shared meal arrangements); (c) a preparatory question in their own language: "What do you know about the landscape your city/town sits on? How was it formed? How long has it been home to human communities?" — this invites geological and historical curiosity before arrival; (d) for participants crossing the border from Poland: clear information about entry requirements (currently ID card for EU citizens) and the address of the Polish partner site if applicable.
+
+**Post-Workshop Follow-Up Resources (Area 3.3.3):**
+Provide to all participants after the workshop: (a) the trilingual cross-border soil comparison table, printed and signed by both co-facilitators, as a record of what the group discovered together; (b) a digital photograph of the annotated geological map with participants' observation markings — shared with all participants as a visual record of the group's collective work; (c) the "Cross-Border Citizen Science Network" proposal document (if the group produced one) — circulated to relevant partner institutions on both sides within 2 weeks; (d) an invitation to a reciprocal event on the Polish side, coordinated through the Polish partner institution; (e) the Erdpuls trilingual citizen science archive entry links, so participants can see their contribution in the context of the wider data record.
 
 **Language sensitivity:** Some participants may have personal or family histories connected to displacement, border changes, and loss of homeland. The cross-border framing should emphasize shared ground, not reopen historical wounds. If emotions arise, hold space respectfully. The soil itself is a healing medium — it predates all human conflict and will outlast it.
 
