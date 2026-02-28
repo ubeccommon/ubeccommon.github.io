@@ -7,4 +7,27 @@ theme: jekyll-theme-cayman
 # Optional niceties
 show_downloads: false
 github:
-  is_project_page: false   # set true if you want the “View on GitHub” button
+  is_project_page: false   # set true if you want the "View on GitHub" button
+
+# Tell Jekyll to process ALL markdown files in subdirectories,
+# including those without front matter (leaves file content untouched)
+include:
+  - "**/*.md"
+
+# jekyll-relative-links converts .md links to .html automatically
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+# Default front matter for ALL .md files that lack their own ---
+# This makes Jekyll render them with the Cayman layout without
+# requiring any changes to the markdown files themselves
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
