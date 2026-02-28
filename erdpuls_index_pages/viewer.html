@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Erdpuls Document Viewer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
+<style>
+  :root {
+    --soil-dark: #2C1810;
+    --soil-mid: #5C3A1E;
+    --soil-warm: #8B5E3C;
+    --clay: #C4874A;
+    --sand: #E8C99A;
+    --parchment: #F5EDD8;
+    --parchment-dark: #EDE0C4;
+    --leaf: #4A7C59;
+    --leaf-light: #7CAD8A;
+    --text-primary: #1A0F08;
+    --text-secondary: #3D2410;
+    --text-muted: #8B7355;
+    --border: rgba(92,58,30,0.15);
+    --shadow: 0 2px 16px rgba(44,24,16,0.08);
+    --code-bg: #F0E8D5;
+    --header-h: 56px;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: var(--parchment);
+    color: var(--text-primary);
+    min-height: 100vh;
+  }
+
+  /* ── HEADER ── */
+  .header {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    height: var(--header-h);
+    background: var(--soil-dark);
+    border-bottom: 2px solid var(--clay);
+    display: flex;
+    align-items: center;
+    padding: 0 1.5rem;
+    gap: 1rem;
+    z-index: 200;
+  }
+
+  .header-logo {
+    font-family: 'Lora', serif;
+    font-size: 1rem;
+    color: var(--clay);
+    text-decoration: none;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .header-divider {
+    width: 1px; height: 22px;
+    background: rgba(255,255,255,0.12);
+    flex-shrink: 0;
+  }
+
+  .header-filepath {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.72rem;
+    color: rgba(245,237,216,0.55);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    flex: 1;
+  }
+
+  .header-filepath span {
+    color: rgba(245,237,216,0.85);
+  }
+
+  .header-actions {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    flex-shrink: 0;
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.75rem;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    padding: 0.3rem 0.75rem;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    transition: all 0.18s;
+    white-space: nowrap;
+  }
+
+  .btn-ghost {
+    background: transparent;
+    border: 1px solid rgba(255,255,255,0.2);
+    color: rgba(245,237,216,0.7);
+  }
+  .btn-ghost:hover {
+    border-color: var(--clay);
+    color: var(--clay);
+  }
+
+  .btn-back {
+    background: var(--clay);
+    color: var(--soil-dark);
+    font-weight: 600;
+  }
+  .btn-back:hover {
+    background: var(--sand);
+  }
+
+  /* ── LAYOUT ── */
+  .layout {
+    display: flex;
+    margin-top: var(--header-h);
+    min-height: calc(100vh - var(--header-h));
+  }
+
+  /* ── TOC SIDEBAR ── */
+  .toc-sidebar {
+    width: 240px;
+    flex-shrink: 0;
+    position: sticky;
+    top: var(--header-h);
+    height: calc(100vh - var(--header-h));
+    overflow-y: auto;
+    border-right: 1px solid var(--border);
+    background: var(--parchment-dark);
+    padding: 1.5rem 0;
+  }
+
+  .toc-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.62rem;
+    font-weight: 500;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    padding: 0 1.2rem 0.75rem;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 0.75rem;
+  }
+
+  .toc-list {
+    list-style: none;
+    padding: 0 0.75rem;
+  }
+
+  .toc-item {
+    margin: 0;
+  }
+
+  .toc-link {
+    display: block;
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    text-decoration: none;
+    padding: 0.3rem 0.6rem;
+    border-radius: 5px;
+    line-height: 1.4;
+    transition: all 0.15s;
+    border-left: 2px solid transparent;
+  }
+  .toc-link:hover {
+    color: var(--soil-mid);
+    background: rgba(196,135,74,0.08);
+  }
+  .toc-link.active {
+    color: var(--clay);
+    border-left-color: var(--clay);
+    background: rgba(196,135,74,0.06);
+  }
+  .toc-link.h1 { font-weight: 600; font-size: 0.82rem; color: var(--soil-mid); }
+  .toc-link.h2 { padding-left: 0.9rem; }
+  .toc-link.h3 { padding-left: 1.5rem; font-size: 0.73rem; }
+  .toc-link.h4 { padding-left: 2rem; font-size: 0.7rem; }
+
+  /* ── MAIN CONTENT ── */
+  .content-wrap {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Loading / error states */
+  .state-screen {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem;
+    text-align: center;
+    gap: 1rem;
+  }
+
+  .state-icon { font-size: 3rem; }
+  .state-title { font-family: 'Lora', serif; font-size: 1.4rem; color: var(--soil-mid); }
+  .state-msg { font-size: 0.9rem; color: var(--text-muted); max-width: 420px; line-height: 1.6; }
+
+  .spinner {
+    width: 36px; height: 36px;
+    border: 3px solid var(--border);
+    border-top-color: var(--clay);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ── ARTICLE ── */
+  .article {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 3rem 2.5rem 6rem;
+    width: 100%;
+  }
+
+  /* File meta banner */
+  .file-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 2.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--border);
+    flex-wrap: wrap;
+  }
+
+  .file-badge {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.68rem;
+    font-weight: 500;
+    padding: 0.2rem 0.55rem;
+    border-radius: 4px;
+    border: 1px solid var(--border);
+    background: var(--parchment-dark);
+    color: var(--text-muted);
+  }
+
+  .file-badge.lang-de { border-color: #3c78d8; color: #3c78d8; background: rgba(60,120,216,0.06); }
+  .file-badge.lang-en { border-color: #6d9eeb; color: #2a5db0; background: rgba(109,158,235,0.06); }
+  .file-badge.lang-pl { border-color: #cc0000; color: #cc0000; background: rgba(204,0,0,0.05); }
+
+  .raw-link {
+    margin-left: auto;
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    text-decoration: none;
+    font-family: 'DM Mono', monospace;
+    transition: color 0.15s;
+  }
+  .raw-link:hover { color: var(--clay); }
+
+  /* ── MARKDOWN STYLES ── */
+  .md-body { line-height: 1.75; color: var(--text-primary); }
+
+  .md-body h1 {
+    font-family: 'Lora', serif;
+    font-size: 2rem;
+    font-weight: 600;
+    color: var(--soil-dark);
+    margin: 2.5rem 0 1rem;
+    line-height: 1.25;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--parchment-dark);
+  }
+  .md-body h1:first-child { margin-top: 0; }
+
+  .md-body h2 {
+    font-family: 'Lora', serif;
+    font-size: 1.45rem;
+    font-weight: 600;
+    color: var(--soil-mid);
+    margin: 2.2rem 0 0.75rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .md-body h3 {
+    font-family: 'Lora', serif;
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: var(--soil-warm);
+    margin: 1.8rem 0 0.6rem;
+  }
+
+  .md-body h4, .md-body h5, .md-body h6 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--soil-warm);
+    margin: 1.4rem 0 0.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  .md-body p {
+    margin: 0 0 1.1rem;
+    font-size: 1rem;
+  }
+
+  .md-body a {
+    color: var(--leaf);
+    text-decoration: underline;
+    text-decoration-color: rgba(74,124,89,0.35);
+    transition: color 0.15s;
+  }
+  .md-body a:hover { color: var(--clay); }
+
+  .md-body strong { font-weight: 600; color: var(--soil-dark); }
+  .md-body em { font-style: italic; font-family: 'Lora', serif; }
+
+  .md-body ul, .md-body ol {
+    margin: 0.5rem 0 1.1rem 1.5rem;
+  }
+  .md-body li { margin-bottom: 0.3rem; }
+  .md-body li > ul, .md-body li > ol { margin-top: 0.3rem; margin-bottom: 0; }
+
+  .md-body code {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.83em;
+    background: var(--code-bg);
+    padding: 0.15em 0.4em;
+    border-radius: 4px;
+    border: 1px solid var(--border);
+    color: var(--soil-mid);
+  }
+
+  .md-body pre {
+    background: var(--soil-dark);
+    border-radius: 8px;
+    padding: 1.25rem 1.5rem;
+    overflow-x: auto;
+    margin: 1.25rem 0;
+    border: 1px solid rgba(196,135,74,0.2);
+  }
+  .md-body pre code {
+    background: none;
+    border: none;
+    padding: 0;
+    font-size: 0.85rem;
+    color: var(--sand);
+  }
+
+  .md-body blockquote {
+    border-left: 3px solid var(--clay);
+    margin: 1.25rem 0;
+    padding: 0.75rem 1.25rem;
+    background: rgba(196,135,74,0.06);
+    border-radius: 0 6px 6px 0;
+    font-family: 'Lora', serif;
+    font-style: italic;
+    color: var(--soil-mid);
+  }
+  .md-body blockquote p { margin: 0; }
+
+  .md-body hr {
+    border: none;
+    border-top: 1px solid var(--border);
+    margin: 2rem 0;
+  }
+
+  .md-body table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.25rem 0;
+    font-size: 0.9rem;
+  }
+  .md-body th {
+    background: var(--parchment-dark);
+    font-weight: 600;
+    text-align: left;
+    padding: 0.6rem 0.9rem;
+    border: 1px solid var(--border);
+    font-family: 'DM Mono', monospace;
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-muted);
+  }
+  .md-body td {
+    padding: 0.55rem 0.9rem;
+    border: 1px solid var(--border);
+    vertical-align: top;
+  }
+  .md-body tr:nth-child(even) td { background: rgba(245,237,216,0.5); }
+
+  .md-body img {
+    max-width: 100%;
+    border-radius: 6px;
+    margin: 1rem 0;
+  }
+
+  /* ── WELCOME SCREEN ── */
+  .welcome {
+    max-width: 560px;
+    text-align: center;
+  }
+  .welcome-title {
+    font-family: 'Lora', serif;
+    font-size: 1.6rem;
+    color: var(--soil-dark);
+    margin-bottom: 0.75rem;
+  }
+  .welcome-sub {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+  }
+  .example-url {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.75rem;
+    background: var(--parchment-dark);
+    border: 1px solid var(--border);
+    padding: 0.6rem 1rem;
+    border-radius: 6px;
+    color: var(--soil-mid);
+    word-break: break-all;
+  }
+
+  /* ── SCROLLBAR ── */
+  .toc-sidebar::-webkit-scrollbar { width: 4px; }
+  .toc-sidebar::-webkit-scrollbar-track { background: transparent; }
+  .toc-sidebar::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 768px) {
+    .toc-sidebar { display: none; }
+    .article { padding: 2rem 1.25rem 4rem; }
+    .header-filepath { display: none; }
+    .md-body h1 { font-size: 1.5rem; }
+    .md-body h2 { font-size: 1.2rem; }
+  }
+</style>
+</head>
+<body>
+
+<header class="header">
+  <a href="https://ubeccommon.github.io/" class="header-logo">🌱 Erdpuls OER</a>
+  <div class="header-divider"></div>
+  <div class="header-filepath" id="headerPath">Select a document to view</div>
+  <div class="header-actions">
+    <a href="#" class="btn btn-ghost" id="rawBtn" style="display:none" target="_blank">⬇ Raw</a>
+    <a href="#" class="btn btn-back" id="backBtn">← Index</a>
+  </div>
+</header>
+
+<div class="layout">
+  <!-- TOC Sidebar -->
+  <aside class="toc-sidebar" id="tocSidebar">
+    <div class="toc-label">Contents</div>
+    <ul class="toc-list" id="tocList">
+      <li style="padding:0.5rem 1.2rem;font-size:0.78rem;color:var(--text-muted)">
+        No document loaded
+      </li>
+    </ul>
+  </aside>
+
+  <!-- Content -->
+  <div class="content-wrap" id="contentWrap">
+    <!-- Welcome / loading / error / article rendered here -->
+    <div class="state-screen">
+      <div class="state-icon">📖</div>
+      <div class="welcome">
+        <div class="welcome-title">Erdpuls Document Viewer</div>
+        <div class="welcome-sub">
+          Open any <code>.md</code> file from the repository by passing its path as a
+          URL parameter. Navigate back to the index pages to browse and click a document.
+        </div>
+        <div class="example-url">
+          viewer.html?file=Pattern_Language_of_Place/oer/docs/EN/erdpuls_master_index_EN_v1.4.md
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+const BASE_RAW = 'https://raw.githubusercontent.com/ubeccommon/ubeccommon.github.io/main/';
+const BASE_SITE = 'https://ubeccommon.github.io/';
+
+// ── Helpers ──────────────────────────────────────────────────────────────────
+
+function getParam(name) {
+  return new URLSearchParams(window.location.search).get(name);
+}
+
+function detectLang(filePath) {
+  if (/_DE[_v.]/.test(filePath) || filePath.includes('/DE/')) return 'de';
+  if (/_EN[_v.]/.test(filePath) || filePath.includes('/EN/')) return 'en';
+  if (/_PL[_v.]/.test(filePath) || filePath.includes('/PL/')) return 'pl';
+  return null;
+}
+
+function langBadge(lang) {
+  if (!lang) return '';
+  const map = { de: ['🇩🇪', 'Deutsch', 'lang-de'], en: ['🇬🇧', 'English', 'lang-en'], pl: ['🇵🇱', 'Polski', 'lang-pl'] };
+  const [flag, label, cls] = map[lang];
+  return `<span class="file-badge ${cls}">${flag} ${label}</span>`;
+}
+
+function slugify(text) {
+  return text.toLowerCase()
+    .replace(/[^\w\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .trim();
+}
+
+// ── Set content ──────────────────────────────────────────────────────────────
+
+function setContent(html) {
+  document.getElementById('contentWrap').innerHTML = html;
+}
+
+function showLoading() {
+  setContent(`
+    <div class="state-screen">
+      <div class="spinner"></div>
+      <div class="state-title">Loading document…</div>
+    </div>`);
+}
+
+function showError(filePath, status) {
+  setContent(`
+    <div class="state-screen">
+      <div class="state-icon">⚠️</div>
+      <div class="state-title">Document not found</div>
+      <div class="state-msg">
+        Could not load <code>${filePath}</code>
+        ${status ? `(HTTP ${status})` : '— check the file path and try again.'}<br><br>
+        Make sure the file exists in the repository and the path is correct.
+      </div>
+    </div>`);
+}
+
+// ── TOC ──────────────────────────────────────────────────────────────────────
+
+function buildTOC(headings) {
+  const list = document.getElementById('tocList');
+  if (!headings.length) {
+    list.innerHTML = '<li style="padding:0.5rem 1.2rem;font-size:0.78rem;color:var(--text-muted)">No headings found</li>';
+    return;
+  }
+
+  list.innerHTML = headings.map(h => `
+    <li class="toc-item">
+      <a href="#${h.id}" class="toc-link h${h.level}" data-id="${h.id}">${h.text}</a>
+    </li>`).join('');
+
+  // Smooth scroll
+  list.querySelectorAll('.toc-link').forEach(link => {
+    link.addEventListener('click', e => {
+      e.preventDefault();
+      const target = document.getElementById(link.dataset.id);
+      if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  });
+
+  // Active highlight on scroll
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      const link = list.querySelector(`[data-id="${entry.target.id}"]`);
+      if (link) link.classList.toggle('active', entry.isIntersecting);
+    });
+  }, { rootMargin: '-10% 0px -80% 0px' });
+
+  headings.forEach(h => {
+    const el = document.getElementById(h.id);
+    if (el) observer.observe(el);
+  });
+}
+
+// ── Main render ──────────────────────────────────────────────────────────────
+
+async function loadDocument(filePath) {
+  showLoading();
+
+  // Header path display
+  const parts = filePath.split('/');
+  const fname = parts.pop();
+  const dirPart = parts.join(' › ');
+  document.getElementById('headerPath').innerHTML =
+    `<span style="opacity:0.45">${dirPart} › </span><span>${fname}</span>`;
+  document.title = `${fname} — Erdpuls OER`;
+
+  // Back button: go to the directory index
+  const dirPath = parts.join('/');
+  const backUrl = dirPath ? `${BASE_SITE}${dirPath}/` : BASE_SITE;
+  const backBtn = document.getElementById('backBtn');
+  backBtn.href = backUrl;
+  backBtn.textContent = '← Index';
+
+  // Raw button
+  const rawUrl = BASE_RAW + filePath;
+  const rawBtn = document.getElementById('rawBtn');
+  rawBtn.href = rawUrl;
+  rawBtn.style.display = 'inline-flex';
+
+  // Fetch
+  let text;
+  try {
+    const res = await fetch(rawUrl);
+    if (!res.ok) { showError(filePath, res.status); return; }
+    text = await res.text();
+  } catch (e) {
+    showError(filePath, null);
+    return;
+  }
+
+  // Configure marked
+  marked.setOptions({ breaks: false, gfm: true });
+
+  // Render markdown
+  const rawHtml = marked.parse(text);
+
+  // Detect language
+  const lang = detectLang(filePath);
+  const versionMatch = fname.match(/v[\d._]+/);
+  const version = versionMatch ? versionMatch[0] : null;
+
+  // Build article
+  const metaBadges = [
+    '<span class="file-badge">📄 Markdown</span>',
+    langBadge(lang),
+    version ? `<span class="file-badge">v ${version.replace('v','')}</span>` : '',
+  ].filter(Boolean).join('');
+
+  const article = document.createElement('article');
+  article.className = 'article';
+  article.innerHTML = `
+    <div class="file-meta">
+      ${metaBadges}
+      <a href="${rawUrl}" class="raw-link" target="_blank">⬇ view raw ↗</a>
+    </div>
+    <div class="md-body" id="mdBody">${rawHtml}</div>`;
+
+  setContent('');
+  document.getElementById('contentWrap').appendChild(article);
+
+  // Add IDs to headings + collect for TOC
+  const mdBody = document.getElementById('mdBody');
+  const headingEls = mdBody.querySelectorAll('h1,h2,h3,h4');
+  const headings = [];
+  const usedIds = {};
+
+  headingEls.forEach(el => {
+    const text = el.textContent.trim();
+    let id = slugify(text);
+    if (usedIds[id]) { usedIds[id]++; id = `${id}-${usedIds[id]}`; }
+    else usedIds[id] = 1;
+    el.id = id;
+    headings.push({ id, text, level: parseInt(el.tagName[1]) });
+  });
+
+  buildTOC(headings);
+
+  // Scroll to top
+  window.scrollTo(0, 0);
+}
+
+// ── Init ─────────────────────────────────────────────────────────────────────
+
+const fileParam = getParam('file');
+if (fileParam) {
+  loadDocument(decodeURIComponent(fileParam));
+}
+</script>
+</body>
+</html>
