@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PL — Erdpuls OER Repository</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --soil-dark: #2C1810;
+    --soil-mid: #5C3A1E;
+    --soil-warm: #8B5E3C;
+    --clay: #C4874A;
+    --sand: #E8C99A;
+    --parchment: #F5EDD8;
+    --leaf: #4A7C59;
+    --leaf-light: #7CAD8A;
+    --text-primary: #1A0F08;
+    --text-secondary: #5C3A1E;
+    --text-muted: #8B7355;
+    --border: rgba(92,58,30,0.15);
+    --shadow: 0 2px 12px rgba(44,24,16,0.08);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: var(--parchment);
+    color: var(--text-primary);
+    min-height: 100vh;
+    background-image: 
+      radial-gradient(ellipse at 20% 50%, rgba(196,135,74,0.08) 0%, transparent 60%),
+      radial-gradient(ellipse at 80% 20%, rgba(74,124,89,0.06) 0%, transparent 50%);
+  }
+
+  .header {
+    background: var(--soil-dark);
+    color: var(--parchment);
+    padding: 0 2rem;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    border-bottom: 3px solid var(--clay);
+  }
+
+  .header-inner {
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    height: 60px;
+  }
+
+  .site-logo {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.1rem;
+    color: var(--clay);
+    text-decoration: none;
+    letter-spacing: 0.02em;
+    white-space: nowrap;
+  }
+
+  .header-divider {
+    width: 1px;
+    height: 24px;
+    background: rgba(255,255,255,0.15);
+    flex-shrink: 0;
+  }
+
+  .breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    flex-wrap: wrap;
+    font-size: 0.78rem;
+    color: rgba(245,237,216,0.6);
+    overflow: hidden;
+  }
+
+  .bc-link {
+    color: var(--sand);
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  .bc-link:hover { color: var(--clay); }
+  .bc-sep { color: rgba(255,255,255,0.3); }
+  .bc-current { color: rgba(245,237,216,0.9); font-weight: 500; }
+
+  .main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2.5rem 2rem 4rem;
+  }
+
+  .dir-header {
+    margin-bottom: 2.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .dir-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.2rem;
+    color: var(--soil-dark);
+    font-weight: 600;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+  }
+
+  .dir-path {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    background: rgba(92,58,30,0.06);
+    padding: 0.3rem 0.7rem;
+    border-radius: 4px;
+    display: inline-block;
+    margin-bottom: 0.8rem;
+  }
+
+  .dir-meta {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .back-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.82rem;
+    color: var(--leaf);
+    text-decoration: none;
+    border: 1px solid var(--leaf-light);
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
+    transition: all 0.2s;
+  }
+  .back-btn:hover {
+    background: var(--leaf);
+    color: white;
+  }
+
+  .section-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.68rem;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    margin: 2rem 0 0.8rem;
+    padding-left: 0.2rem;
+  }
+
+  .items-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 0.75rem;
+  }
+
+  .dir-card {
+    display: flex;
+    align-items: center;
+    gap: 0.9rem;
+    padding: 1rem 1.1rem;
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    text-decoration: none;
+    color: var(--text-primary);
+    transition: all 0.2s;
+    box-shadow: var(--shadow);
+  }
+  .dir-card:hover {
+    border-color: var(--clay);
+    box-shadow: 0 4px 20px rgba(196,135,74,0.15);
+    transform: translateY(-1px);
+  }
+
+  .item-icon { font-size: 1.5rem; flex-shrink: 0; }
+  .item-info { flex: 1; min-width: 0; }
+  .item-name {
+    font-weight: 500;
+    font-size: 0.9rem;
+    color: var(--soil-mid);
+  }
+  .item-meta {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    margin-top: 0.15rem;
+  }
+  .item-arrow {
+    color: var(--clay);
+    font-size: 1.2rem;
+    flex-shrink: 0;
+  }
+
+  .items-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+
+  .file-row {
+    display: flex;
+    align-items: center;
+    gap: 0.9rem;
+    padding: 0.75rem 1.1rem;
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    text-decoration: none;
+    color: var(--text-primary);
+    transition: all 0.15s;
+  }
+  .file-row:hover {
+    border-color: var(--leaf-light);
+    background: rgba(74,124,89,0.03);
+    box-shadow: 0 2px 10px rgba(74,124,89,0.1);
+  }
+
+  .file-icon { font-size: 1.2rem; flex-shrink: 0; width: 28px; text-align: center; }
+  .file-info { flex: 1; min-width: 0; }
+  .file-name {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.8rem;
+    color: var(--soil-mid);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .file-display {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-top: 0.1rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .file-type {
+    font-size: 0.68rem;
+    font-family: 'DM Mono', monospace;
+    color: var(--text-muted);
+    background: var(--parchment);
+    padding: 0.15rem 0.5rem;
+    border-radius: 4px;
+    flex-shrink: 0;
+    border: 1px solid var(--border);
+  }
+
+  .empty-state {
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--text-muted);
+  }
+  .empty-icon { font-size: 3rem; margin-bottom: 1rem; }
+
+  .footer {
+    text-align: center;
+    padding: 2rem;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    border-top: 1px solid var(--border);
+    margin-top: 4rem;
+    font-family: 'DM Mono', monospace;
+  }
+
+  @media (max-width: 600px) {
+    .items-grid { grid-template-columns: 1fr; }
+    .dir-title { font-size: 1.6rem; }
+    .main { padding: 1.5rem 1rem 3rem; }
+  }
+</style>
+</head>
+<body>
+
+<header class="header">
+  <div class="header-inner">
+    <a href="https://ubeccommon.github.io/" class="site-logo">🌱 Erdpuls OER</a>
+    <div class="header-divider"></div>
+    <nav class="breadcrumb"><a href="https://ubeccommon.github.io/" class="bc-link">🏠 Root</a><span class="bc-sep">›</span><a href="https://ubeccommon.github.io/Pattern_Language_of_Place/" class="bc-link">Pattern_Language_of_Place</a><span class="bc-sep">›</span><a href="https://ubeccommon.github.io/Pattern_Language_of_Place/oer/" class="bc-link">oer</a><span class="bc-sep">›</span><a href="https://ubeccommon.github.io/Pattern_Language_of_Place/oer/docs/" class="bc-link">docs</a><span class="bc-sep">›</span><span class="bc-current">PL</span></nav>
+  </div>
+</header>
+
+<main class="main">
+  <div class="dir-header">
+    <h1 class="dir-title">PL</h1>
+    <div class="dir-path">/Pattern_Language_of_Place/oer/docs/PL</div>
+    <div class="dir-meta">
+      <span>1 directory, 0 files</span>
+      <a href="https://ubeccommon.github.io/Pattern_Language_of_Place/oer/docs/" class="back-btn">← Parent Directory</a>
+    </div>
+  </div>
+
+  <div class="section-label">DIRECTORIES</div><div class="items-grid">
+            <a href="https://ubeccommon.github.io/Pattern_Language_of_Place/oer/docs/PL/soil/" class="item-card dir-card">
+                <div class="item-icon">📁</div>
+                <div class="item-info">
+                    <div class="item-name">🌱 Soil</div>
+                    <div class="item-meta">soil</div>
+                </div>
+                <div class="item-arrow">›</div>
+            </a></div>
+  
+  
+</main>
+
+<footer class="footer">
+  Erdpuls Müllrose · Open Educational Resources · ubeccommon.github.io
+</footer>
+
+</body>
+</html>
