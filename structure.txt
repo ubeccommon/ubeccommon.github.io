@@ -1,0 +1,118 @@
+Project Structure: ubeccommon.github.io/
+Generated:         2026-02-28 10:14:06
+Directories: 24  |  Files: 88
+============================================================
+
+ubeccommon.github.io/
+├── Pattern_Language_of_Place
+│   ├── Learning_Pathways
+│   │   ├── DE
+│   │   │   ├── Erdpuls_Learning_Pathway_Maps_DE.html
+│   │   │   └── Erdpuls_Learning_Pathway_System_DE_v1_0.md
+│   │   ├── EN
+│   │   │   ├── Erdpuls_Learning_Pathway_Maps_EN.html
+│   │   │   └── Erdpuls_Learning_Pathway_System_EN_v1.0.md
+│   │   ├── PL
+│   │   ├── Erdpuls_Learning_Pathway_Maps.jsx
+│   │   └── Erdpuls_Learning_Pathway_System_v1.0.docx
+│   ├── oer
+│   │   ├── docs
+│   │   │   ├── audit
+│   │   │   ├── DE
+│   │   │   │   ├── soil
+│   │   │   │   │   ├── soil_art
+│   │   │   │   │   │   ├── SoilPigments__Physics_Framework_DE.md
+│   │   │   │   │   │   ├── SoilPigments_Physics_Plan_Classes_1-4_DE.md
+│   │   │   │   │   │   ├── SoilPigments_Physics_Plan_Classes_5-8_DE.md
+│   │   │   │   │   │   ├── SoilPigments_Physics_Plan_Classes_9-12_DE.md
+│   │   │   │   │   │   └── SoilPigments_Physics_Teachers_Guide_DE.md
+│   │   │   │   │   ├── soil_questions
+│   │   │   │   │   │   ├── appendix_a_questions_to_the_soil_00_introduction_DE_v1.2.md
+│   │   │   │   │   │   ├── appendix_a_questions_to_the_soil_FM1_cover_DE_v1.2.md
+│   │   │   │   │   │   ├── appendix_a_questions_to_the_soil_FM2_preface_DE_v1.2.md
+│   │   │   │   │   │   ├── appendix_a_questions_to_the_soil_FM3_contents_DE_v1.2.md
+│   │   │   │   │   │   ├── appendix_a_questions_to_the_soil_guide_01_children_DE_v1.2.md
+│   │   │   │   │   │   ├── appendix_a_questions_to_the_soil_guide_02_adults_DE_v1.2.md
+│   │   │   │   │   │   ├── appendix_a_questions_to_the_soil_guide_03_elders_DE_v1.2.md
+│   │   │   │   │   │   ├── appendix_a_questions_to_the_soil_guide_04_artists_DE_v1.2.md
+│   │   │   │   │   │   └── appendix_a_questions_to_the_soil_guide_05_crossborder_DE_v1.2.md
+│   │   │   │   │   └── Erdpuls_Lernpfadkarten_DE.html
+│   │   │   │   ├── 00_METADATA_PACKAGE_DE_v1_2.md
+│   │   │   │   ├── 01_learning_guide_grades_1-4_DE.md
+│   │   │   │   ├── 02_learning_guide_grades_5-8_DE.md
+│   │   │   │   ├── 03_learning_guide_grades_9-12_DE.md
+│   │   │   │   ├── 04_teachers_guide_DE.md
+│   │   │   │   ├── 05_citizen_scientist_handbook_DE.md
+│   │   │   │   ├── bioregion_mapping_living_guides_DE_v1.2.md
+│   │   │   │   ├── bne_quality_living_guides_DE_v1.2.md
+│   │   │   │   ├── erdpuls_master_index_DE_v1.4.md
+│   │   │   │   ├── facilitator_implementation_handbook_DE_v1.2.md
+│   │   │   │   ├── pattern_discovery_toolkit_appendices_DE_v1.2.md
+│   │   │   │   ├── pattern_discovery_toolkit_DE_v1_3.md
+│   │   │   │   ├── pattern_language_assembly_guide_DE_v1.2.md
+│   │   │   │   ├── proxemic_integration_DE_v1.2.md
+│   │   │   │   └── token_economy_living_guides_DE_v1.2.md
+│   │   │   ├── EN
+│   │   │   │   ├── soil
+│   │   │   │   │   ├── soil_art
+│   │   │   │   │   │   ├── SoilPigments__Physics_Framework_EN.md
+│   │   │   │   │   │   ├── SoilPigments_Physics_Plan_Classes_1-4_EN.md
+│   │   │   │   │   │   ├── SoilPigments_Physics_Plan_Classes_5-8_EN.md
+│   │   │   │   │   │   ├── SoilPigments_Physics_Plan_Classes_9-12_EN.md
+│   │   │   │   │   │   └── SoilPigments_Physics_Teachers_Guide_EN.md
+│   │   │   │   │   └── soil_questions
+│   │   │   │   │       ├── appendix_a_questions_to_the_soil_00_introduction_EN_v1.2.md
+│   │   │   │   │       ├── appendix_a_questions_to_the_soil_FM1_cover_EN_v1.2.md
+│   │   │   │   │       ├── appendix_a_questions_to_the_soil_FM2_preface_EN_v1.2.md
+│   │   │   │   │       ├── appendix_a_questions_to_the_soil_FM3_contents_EN_v1.2.md
+│   │   │   │   │       ├── appendix_a_questions_to_the_soil_guide_01_children_EN_v1.2.md
+│   │   │   │   │       ├── appendix_a_questions_to_the_soil_guide_02_adults_EN_v1.2.md
+│   │   │   │   │       ├── appendix_a_questions_to_the_soil_guide_03_elders_EN_v1.2.md
+│   │   │   │   │       ├── appendix_a_questions_to_the_soil_guide_04_artists_EN_v1.2.md
+│   │   │   │   │       └── appendix_a_questions_to_the_soil_guide_05_crossborder_EN_v1.2.md
+│   │   │   │   ├── 00_METADATA_PACKAGE_EN_v1_2.md
+│   │   │   │   ├── 01_learning_guide_grades_1-4_EN.md
+│   │   │   │   ├── 02_learning_guide_grades_5-8_EN.md
+│   │   │   │   ├── 03_learning_guide_grades_9-12_EN.md
+│   │   │   │   ├── 04_teachers_guide_EN.md
+│   │   │   │   ├── 05_citizen_scientist_handbook_EN.md
+│   │   │   │   ├── bioregion_mapping_living_guides_EN_v1.2.md
+│   │   │   │   ├── bne_quality_living_guides_EN_v1.2.md
+│   │   │   │   ├── erdpuls_master_index_EN_v1.4.md
+│   │   │   │   ├── facilitator_implementation_handbook_EN_v1.2.md
+│   │   │   │   ├── pattern_discovery_toolkit_appendices_EN_v1.2.md
+│   │   │   │   ├── pattern_discovery_toolkit_EN_v1_3.md
+│   │   │   │   ├── pattern_language_assembly_guide_EN_v1.2.md
+│   │   │   │   ├── proxemic_integration_EN_v1.2.md
+│   │   │   │   ├── questions_to_the_soil_living_guides_EN_v1.2.md
+│   │   │   │   └── token_economy_living_guides_EN_v1.2.md
+│   │   │   ├── pdf
+│   │   │   ├── PL
+│   │   │   │   └── soil
+│   │   │   │       ├── soil_art
+│   │   │   │       └── soil_questions
+│   │   │   └── soil
+│   │   │       ├── 13_Fragen_Abschnitt9_Differenzierung_DE.md
+│   │   │       ├── 13_Questions_Section9_Differentiation_EN.md
+│   │   │       ├── BIKOBO_Abschnitt9_Differenzierung_DE.md
+│   │   │       ├── BIKOBO_Section9_Differentiation_EN.md
+│   │   │       ├── Erdpigmente_Physikunterricht_DE.md
+│   │   │       ├── munsell_bodenfarben.html
+│   │   │       ├── munsell_bodenfarben.xlsx
+│   │   │       ├── Soil_Art_Painting.pdf
+│   │   │       └── SoilPigments_PhysicsConcept_EN.md
+│   │   ├── standards
+│   │   │   ├── ERDPULS_CLAUDE_PROMPT_v1_1.md
+│   │   │   ├── ERDPULS_MARKDOWN_STANDARD_v1_1.md
+│   │   │   ├── fix_erdpuls_markdown.py
+│   │   │   └── md_to_pdf.py
+│   │   └── update_markdown_metadata.py
+│   └── reports
+│       ├── Erdpuls_Comprehensive_Status_Report_Feb2026.md
+│       ├── Erdpuls_Comprehensive_Status_Report_Feb2026_v2.md
+│       └── Erdpuls_Status_Report_Feb2026.md
+├── _config.yml
+├── directories.txt
+├── discover_directories.py
+├── index.md
+└── LICENSE
