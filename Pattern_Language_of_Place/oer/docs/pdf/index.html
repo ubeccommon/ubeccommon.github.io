@@ -36,13 +36,13 @@
   }
 
   .header {
-    background: var(--soil-dark);
-    color: var(--parchment);
+    background: linear-gradient(120deg, #155799 0%, #159957 100%);
+    color: white;
     padding: 0 2rem;
     position: sticky;
     top: 0;
     z-index: 100;
-    border-bottom: 3px solid var(--clay);
+    border-bottom: none;
   }
 
   .header-inner {
@@ -57,7 +57,7 @@
   .site-logo {
     font-family: 'Playfair Display', serif;
     font-size: 1.1rem;
-    color: var(--clay);
+    color: white;
     text-decoration: none;
     letter-spacing: 0.02em;
     white-space: nowrap;
@@ -66,7 +66,7 @@
   .header-divider {
     width: 1px;
     height: 24px;
-    background: rgba(255,255,255,0.15);
+    background: rgba(255,255,255,0.3);
     flex-shrink: 0;
   }
 
@@ -81,13 +81,13 @@
   }
 
   .bc-link {
-    color: var(--sand);
+    color: rgba(255,255,255,0.85);
     text-decoration: none;
     transition: color 0.2s;
   }
-  .bc-link:hover { color: var(--clay); }
-  .bc-sep { color: rgba(255,255,255,0.3); }
-  .bc-current { color: rgba(245,237,216,0.9); font-weight: 500; }
+  .bc-link:hover { color: white; }
+  .bc-sep { color: rgba(255,255,255,0.4); }
+  .bc-current { color: white; font-weight: 500; }
 
   .main {
     max-width: 900px;
@@ -295,7 +295,7 @@
 
 <header class="header">
   <div class="header-inner">
-    <a href="https://ubeccommon.github.io/" class="site-logo">🌱 Erdpuls OER</a>
+    <a href="https://ubeccommon.github.io/" class="site-logo">🌱 Erdpuls Müllrose — Open Educational Resources</a>
     <div class="header-divider"></div>
     <nav class="breadcrumb"><a href="https://ubeccommon.github.io/" class="bc-link">🏠 Root</a><span class="bc-sep">›</span><a href="https://ubeccommon.github.io/Pattern_Language_of_Place/" class="bc-link">Pattern_Language_of_Place</a><span class="bc-sep">›</span><a href="https://ubeccommon.github.io/Pattern_Language_of_Place/oer/" class="bc-link">oer</a><span class="bc-sep">›</span><a href="https://ubeccommon.github.io/Pattern_Language_of_Place/oer/docs/" class="bc-link">docs</a><span class="bc-sep">›</span><span class="bc-current">pdf</span></nav>
   </div>

@@ -41,8 +41,8 @@
     position: fixed;
     top: 0; left: 0; right: 0;
     height: var(--header-h);
-    background: var(--soil-dark);
-    border-bottom: 2px solid var(--clay);
+    background: linear-gradient(120deg, #155799 0%, #159957 100%);
+    border-bottom: none;
     display: flex;
     align-items: center;
     padding: 0 1.5rem;
@@ -53,7 +53,7 @@
   .header-logo {
     font-family: 'Lora', serif;
     font-size: 1rem;
-    color: var(--clay);
+    color: white;
     text-decoration: none;
     white-space: nowrap;
     flex-shrink: 0;
@@ -61,14 +61,14 @@
 
   .header-divider {
     width: 1px; height: 22px;
-    background: rgba(255,255,255,0.12);
+    background: rgba(255,255,255,0.3);
     flex-shrink: 0;
   }
 
   .header-filepath {
     font-family: 'DM Mono', monospace;
     font-size: 0.72rem;
-    color: rgba(245,237,216,0.55);
+    color: rgba(255,255,255,0.6);
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
@@ -76,7 +76,7 @@
   }
 
   .header-filepath span {
-    color: rgba(245,237,216,0.85);
+    color: white;
   }
 
   .header-actions {
@@ -450,7 +450,7 @@
 <body>
 
 <header class="header">
-  <a href="https://ubeccommon.github.io/" class="header-logo">🌱 Erdpuls OER</a>
+  <a href="https://ubeccommon.github.io/" class="header-logo">🌱 Erdpuls Müllrose — Open Educational Resources</a>
   <div class="header-divider"></div>
   <div class="header-filepath" id="headerPath">Select a document to view</div>
   <div class="header-actions">
