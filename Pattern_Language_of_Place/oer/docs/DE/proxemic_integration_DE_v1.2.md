@@ -291,11 +291,11 @@ Bioregionskartierung stellt die größte proxemische Herausforderung des Toolkit
 Eine Schicht zum Expeditions-Aufzeichnungsblatt hinzufügen:
 
 *„Notiere an jedem Haltepunkt, welche Sinne noch funktionieren:"*
-- Kann ich etwas für diesen Ort Spezifisches BERÜHREN? (Boden, Rinde, Stein, Wasser) ☐
-- Kann ich etwas für diesen Ort Spezifisches RIECHEN? ☐
-- Kann ich etwas für diesen Ort Spezifisches HÖREN? ☐
-- Kann ich Temperatur oder Wind spüren, die für diesen Ort spezifisch sind? ☐
-- Kann ich etwas für diesen Ort Spezifisches SEHEN? ☐
+- Kann ich etwas für diesen Ort Spezifisches BERÜHREN? (Boden, Rinde, Stein, Wasser) [ ]
+- Kann ich etwas für diesen Ort Spezifisches RIECHEN? [ ]
+- Kann ich etwas für diesen Ort Spezifisches HÖREN? [ ]
+- Kann ich Temperatur oder Wind spüren, die für diesen Ort spezifisch sind? [ ]
+- Kann ich etwas für diesen Ort Spezifisches SEHEN? [ ]
 
 Wenn Kinder dies an jedem Transekthaltepunkt ausfüllen, entsteht ein Muster: Nahe dem Campus sind alle fünf Kästchen angekreuzt (intime proxemische Beziehung zum Ort). Je weiter sie sich entfernen, desto mehr Kästchen bleiben leer (der Geruch verblasst, charakteristische Berührungsoberflächen verschwinden, Klänge werden generisch). Die Distanz, bei der der letzte nicht-visuelle Kanal schließt, ist eine proxemisch definierte Grenze — und sie kann einer echten bioregionalen Transition entsprechen.
 
@@ -478,26 +478,26 @@ Gehen Sie vor jedem Workshop die geplanten Aktivitäten durch und füllen Sie di
 |---|---|---|---|---|---|---|
 | *Phasenname* | Intim / Persönlich / Sozial / Öffentlich | B=Berührung, G=Geruch, W=Wärme, A=Auditiv, V=Visuell | Soziopetal / Soziofugal / Gemischt | Gleiche Ebene / Facilitator:in oben / Teilnehmer:in oben | *Was können Teilnehmende berühren?* | Ja / Nein |
 
-**Beispiel-Audit (Boden-Workshop → Kartierungssynthese):**
+**Beispiel-Audit (Boden-Workshop -> Kartierungssynthese):**
 
 | Phase | Zone | Kanäle | Anordnung | Vertikal | Anker | Vermittlung? |
 |---|---|---|---|---|---|---|
 | Ring-0-Kalibrierung | Intim | B, W, A, V | Soziofugal (individuell) | Gleiche Ebene (alle kniend/stehend) | Eigener Körper, Boden | Nein |
 | Bodenprotokoll | Intim–Persönlich | B, G, W, A, V | Gemischt (Paare/Kleingruppen) | Gleiche Ebene (alle kniend) | Boden | Bei gemischter Gruppe: Boden vermittelt |
 | Gruppensynthese | Persönlich–Sozial | A, V | Soziopetal (Kreis) | Gleiche Ebene (alle sitzend) | Bodenproben vom Protokoll | Nein |
-| GIS-Erkundung | Öffentlich | V, A | Soziofugal (zum Bildschirm gewandt) | Stehend/sitzend | ⚠ Kein Anker vorbereitet | Taktiles Objekt mitbringen |
+| GIS-Erkundung | Öffentlich | V, A | Soziofugal (zum Bildschirm gewandt) | Stehend/sitzend | [!] Kein Anker vorbereitet | Taktiles Objekt mitbringen |
 | Grenzentscheidung | Sozial | V, A, Geste | Soziopetal (am Tisch) | Gleiche Ebene (am Tisch stehend) | Karte, Garn | Karte als Vermittler |
 | Gemeinsame Mahlzeit | Persönlich–Intim | B, G, W, A, V | Stark soziopetal | Gleiche Ebene (alle sitzend) | Essen | Essen als Vermittler |
 
 **Diagnostische Prüfungen:**
 
-☐ Gibt es 3+ aufeinanderfolgende Phasen auf sozialer/öffentlicher Distanz mit ≤2 Kanälen? → **Eine praktische Phase dazwischen einfügen.** Der Workshop wird sonst an Engagement verlieren.
+[ ] Gibt es 3+ aufeinanderfolgende Phasen auf sozialer/öffentlicher Distanz mit ≤2 Kanälen? -> **Eine praktische Phase dazwischen einfügen.** Der Workshop wird sonst an Engagement verlieren.
 
-☐ Hat jede soziale/öffentliche Phase ein Sensorisches Anker-Objekt vorbereitet? → **Falls nicht, eines vorbereiten.** Eine Bodenprobe, ein Stein, ein Werkzeug, eine Pflanze, ein Stück Brot — irgendetwas, das Teilnehmende berühren können und das die proxemische Verbindung zum Lerngegenstand aufrechterhält.
+[ ] Hat jede soziale/öffentliche Phase ein Sensorisches Anker-Objekt vorbereitet? -> **Falls nicht, eines vorbereiten.** Eine Bodenprobe, ein Stein, ein Werkzeug, eine Pflanze, ein Stück Brot — irgendetwas, das Teilnehmende berühren können und das die proxemische Verbindung zum Lerngegenstand aufrechterhält.
 
-☐ Gibt es mindestens eine stark soziopetale Phase? → **Der Workshop braucht einen Sammelmoment.** Wenn jede Phase soziofugal ist, fühlen sich Teilnehmende isoliert.
+[ ] Gibt es mindestens eine stark soziopetale Phase? -> **Der Workshop braucht einen Sammelmoment.** Wenn jede Phase soziofugal ist, fühlen sich Teilnehmende isoliert.
 
-☐ Ist die Facilitator:in auf derselben Höhe wie Teilnehmende während intimer/persönlicher Phasen? → **Falls nicht, anpassen.** Über knienden Teilnehmenden zu stehen führt eine Machtdynamik ein, die partizipatorisches Lernen untergräbt.
+[ ] Ist die Facilitator:in auf derselben Höhe wie Teilnehmende während intimer/persönlicher Phasen? -> **Falls nicht, anpassen.** Über knienden Teilnehmenden zu stehen führt eine Machtdynamik ein, die partizipatorisches Lernen untergräbt.
 
 * * *
 
@@ -517,7 +517,7 @@ Jede der fünf Campuszonen hat einen proxemischen Charakter, der bestimmt, welch
 
 **Proxemischer Charakter:** Gemischt. Individuelle Gartenbeete sind soziofugal (jede Person schaut auf ihre eigene Reihe). Gemeinschaftsbereiche — die Waschstation, die Boden-Labor-Außenstationen, der zentrale Versammlungskreis — sind soziopetal.
 
-**Gestaltungshinweis:** Permanente Bodenbeobachtungsstationen (3–4 im gesamten Garten) mit Pfählen markiert. Ein zentraler Versammlungsbereich (Kieskreis, Bankreihe oder freie Fläche) für Gruppen-Briefings — der soziopetale Anker von Zone B. Boden-Koffer-Lagerung am Gartenrand, zugänglich während der Workshops. Gartenwege sollten durch Mikro-Übergänge führen (kultiviert → wild → nass → trocken → beschattet → offen) — das sind Ring-2-Trainingsübergänge.
+**Gestaltungshinweis:** Permanente Bodenbeobachtungsstationen (3–4 im gesamten Garten) mit Pfählen markiert. Ein zentraler Versammlungsbereich (Kieskreis, Bankreihe oder freie Fläche) für Gruppen-Briefings — der soziopetale Anker von Zone B. Boden-Koffer-Lagerung am Gartenrand, zugänglich während der Workshops. Gartenwege sollten durch Mikro-Übergänge führen (kultiviert -> wild -> nass -> trocken -> beschattet -> offen) — das sind Ring-2-Trainingsübergänge.
 
 **Proxemisches Profil:** Intim (Bodenhandhabung, Pflanzenkontakt) bis Sozial (Gartenübersicht). Volles Sensorspektrum in Bodennähe; sichtdominant beim Stehen und Überblicken.
 

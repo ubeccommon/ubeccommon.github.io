@@ -20,12 +20,12 @@ status: "Konzeptdokument — zur Prüfung und Programmentwicklung"
 | **Status** | Konzeptdokument — zur Prüfung und Programmentwicklung |
 | **Autor** | Erdpuls Müllrose |
 | **Lizenz** | CC BY-NC-SA 4.0 |
-| **Kontakt** | erdpuls@ubec.network · https://erdpuls.ubec.network |
+| **Kontakt** | erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network) |
 | **Leitbild** | *Ein Ort, um wieder Mensch zu werden. / A place to become human again.* |
 
 *Dieses Dokument wurde ausschließlich auf der Grundlage von Fakten aus den operativen Projektdokumenten erstellt: dem Masterindex (v1.4), der BNE-Qualitätsbewertung und dem Leitbild, dem Musterentdeckungs-Toolkit (v1.3), den Token-Ökonomie-Lernleitfäden (EN/DE v1.2), den Bioregions-Kartierungs-Lernleitfäden (v1.2), den BNE-Qualitäts-Lernleitfäden (v1.2), dem Proxemik-Integrationsdokument (v1.2) sowie den OER-Ebenenleitfäden (v1.1). Es wurden keine Informationen hinzugefügt oder angenommen, die nicht ausdrücklich in diesen Quellen enthalten sind.*
 
----
+* * *
 
 ## Inhaltsverzeichnis
 
@@ -55,7 +55,7 @@ status: "Konzeptdokument — zur Prüfung und Programmentwicklung"
 - [Teil 4 — Gruppenübergreifende Konvergenzkarte](#teil-4--gruppenübergreifende-konvergenzkarte)
 - [Lizenz und Impressum](#lizenz-und-impressum)
 
----
+* * *
 
 ## Teil 1 — Allgemeines Konzept
 
@@ -69,7 +69,7 @@ Was die Lücke schließt, ist strukturierte Erfahrung gefolgt von strukturierter
 
 Ein Lernpfadsystem adressiert dies auf einer Ebene, die selbst gut gestaltete Einzelworkshops allein nicht erreichen können. Es stellt die longitudinale Architektur bereit, über die die WHL schrittweise geschlossen werden kann — über mehrere Erfahrungen und einen längeren Zeitraum. Es macht Wachstum sichtbar, macht den nächsten Schritt navigierbar und verwandelt die Beziehung zwischen Werten und Handeln von einem unmöglichen Sprung in eine lesbare Reise.
 
----
+* * *
 
 ### 1.2 Was eine Lernpfadkarte ist — und was nicht
 
@@ -81,7 +81,7 @@ Zweitens stellt eine Pfadkarte Übergänge zwischen Kompetenzzuständen dar — 
 
 Drittens, und am unmittelbarsten für die WHL relevant, macht eine gut gestaltete Pfadkarte die Handlungsdimension auf jeder Stufe zu etwas Eigenem — nicht zu einem Endpunkt. Jeder Meilenstein in den Erdpuls-Pfadkarten ist teilweise definiert durch das, was die Lernenden an diesem Punkt getan und produziert haben — einen beigetragenen Datensatz, ein repariertes Objekt, eine benannte Musterkarte, eine gestaltete Token-Ökonomie, eine veröffentlichte Ältestenerinnerungskarte. Der 4A-Pfad (Wahrnehmung → Anerkennung → Haltung → Handlung) beschreibt daher nicht den Pfad als Ganzes; er ist die Architektur jedes einzelnen Meilensteins darin.
 
----
+* * *
 
 ### 1.3 Theoretische Grundlagen
 
@@ -99,7 +99,7 @@ Der Pfad ist spiralförmig, nicht linear. Ein Teilnehmender, der alle vier Stati
 
 **Proxemik (Hall, *The Hidden Dimension*, 1966).** Halls vier Distanzzonen — intim (0–45 cm), persönlich (45 cm–1,2 m), sozial (1,2–3,6 m) und öffentlich (3,6 m+) — bilden die räumliche Grammatik der Pfadkarten. Einstiegsstationen sind intim: Hände in der Erde, Blickkontakt, persönliche Distanz zu Materialien. Wenn Lernende durch den Pfad fortschreiten, bewegen sie sich nach außen — zu sozialer und öffentlicher Distanz, zu bioregionalem Maßstab, zu grenzüberschreitender Zusammenarbeit in Ring 4 und darüber hinaus. Die konzentrische Ringbeobachtungsstruktur (Ring 0 bis Ring 4) ist der räumliche Ausdruck dieser proxemischen Progression, und die Pfadkarte macht diese räumliche Dimension des Lernens neben der zeitlichen und kompetenzbasierten Dimension sichtbar.
 
----
+* * *
 
 ### 1.4 Die drei Navigationsachsen
 
@@ -113,7 +113,7 @@ Jeder Meilenstein in jedem Erdpuls-Pfad befindet sich gleichzeitig an einer best
 
 Die drei Achsen sind nicht unabhängig: Fortschritt auf der X-Achse erfordert im Allgemeinen eine Vertiefung sowohl auf der Y- als auch auf der Z-Achse. Eine lernende Person, die vier Sitzungen auf der Wahrnehmungsstufe absolviert, ohne in Anerkennung überzugehen, hat den Pfad nicht weiterentwickelt — sie hat die Eingangsstation wiederholt. Die Pfadkarten machen diesen Unterschied sichtbar und ermöglichen es Facilitator:innen zu diagnostizieren, wo eine Person stagniert und welche Achse am meisten Aufmerksamkeit benötigt.
 
----
+* * *
 
 ### 1.5 Die fünf Kompetenzcluster als Pfaddimensionen
 
@@ -127,7 +127,7 @@ Alle fünf OER-Kompetenzcluster — definiert im Masterindex (v1.4) und abgestim
 | **Wirtschaftliches Verstehen** | 4.2.2, 4.2.3, 4.3.1 | Teilnahme an der Token-Ökonomie, Erkennen der vier Elemente (Kooperation, Reziprozität, Mutualismus, Regeneration), Repair-Café-Engagement, UBECrc-Gestaltungsübungen, kritische Analyse der Marktwirtschaft |
 | **Sozial-emotionales Lernen** | 4.2.4, 4.3.3, 4.3.4 | Empathie für Bodenorganismen und Ort, intergenerationaler Wissensaustausch, kulturübergreifende proxemische Aushandlung, Werte-Handlungs-Karten-Reflexion, Persönliches Qualitätsversprechen |
 
----
+* * *
 
 ### 1.6 Die Token-Ökonomie als Pfadverfolgungssystem
 
@@ -137,7 +137,7 @@ Jeder verdiente Token ist eine Pfadspur: ein verifizierbarer, zeitgestempelter N
 
 Die vier Token-Elemente entsprechen dem Pfad wie folgt: Kooperations-Token häufen sich tendenziell an Wahrnehmungs- und Anerkennungsstationen an, wo kollaborative Beobachtung und Gruppensynthese die Hauptaktivitäten sind. Reziprozitäts-Token häufen sich tendenziell an Anerkennungs- und Haltungsstationen an, wo der wechselseitige Austausch von Fähigkeiten, Wissen und Fürsorge am sichtbarsten ist. Mutualismus-Token sammeln sich an Handlungsstationen an, wo der Nutzen eines Beitrags über die Teilnehmenden selbst hinausgeht — zum globalen iNaturalist-Datensatz, zur Erdpuls-Mustersprache-Commons, zu einem grenzüberschreitenden Citizen-Science-Netzwerk. Regenerations-Token markieren die wirkungsstärksten Handlungsstationen — diejenigen, bei denen ökologische oder soziale Bedingungen durch den Beitrag der Person nachweislich verbessert werden, ob durch eine gepflanzte Hecke, eine veröffentlichte Ältestenerinnerungskarte, ein repariertes Objekt oder ein begleitetes grenzüberschreitendes Programm.
 
----
+* * *
 
 ### 1.7 Gruppenübergreifende Konvergenzzonen
 
@@ -147,7 +147,7 @@ Der saisonale Beobachtungszyklus ist der strukturell bedeutsamste Konvergenzmech
 
 Die Konvergenz dieser fünf Datenströme über einem einzigen Bodenfleck, in einer einzigen Saison, erzeugt eine Tiefe des Ortswissens, die keine einzelne Gruppe allein erzeugen könnte. Konvergenzzonen sind in den Pfadkarten unten explizit markiert und in der gruppenübergreifenden Konvergenzkarte in Teil 4 aufgeführt.
 
----
+* * *
 
 ### 1.8 Der Facilitator-Pfad
 
@@ -155,7 +155,7 @@ Das Lernpfadsystem umfasst einen eigenen Facilitator-Entwicklungspfad, der das p
 
 Der Facilitator-Pfad gründet im Kollektiven Schwellenmodell, das in der Token-Ökonomie-Architektur dokumentiert ist: Die vier Teilnahme-Pfade — einschließlich der Geförderten Rate — stellen sicher, dass finanzielle Mittel den Zugang zur Facilitator-Entwicklung nicht bestimmen. Token, die in Teilnehmer:innen-Rollen verdient wurden, tragen zur Geförderten-Rate-Schwelle für Facilitator-Training bei, und das Begleiten selbst erzeugt Regenerations-Token, die das wertvollste Element in der Token-Ökonomie sind. Dies schafft einen strukturellen Anreiz für Teilnehmende, zur Begleitung fortzuschreiten, der nicht finanziell, sondern sozial und ökologisch ist: Diejenigen, die begleiten, werden öffentlich als Beitragende zur Lernfähigkeit der Gemeinschaft anerkannt.
 
----
+* * *
 
 ## Teil 2 — Umsetzungsstrategie
 
@@ -169,7 +169,7 @@ Das Lernpfadsystem ist so gestaltet, dass es sich über die drei dokumentierten 
 | **Phase 2: Renovierung und Ausbau** | 2027–2028 | Formale Teilnehmer-Evaluationsinstrumente (BNE 5.2.2); digitales Pfad-Dashboard verknüpft mit Token-Ledger; Facilitator-Pfad formalisiert mit Co-Facilitator-Schulungsprogramm; Rückkehr-Teilnehmer-Pfadspuren aufgezeichnet und verglichen | Erste Facilitator-Schulungskohorte; digitale Pfadspuren für wiederkehrende Teilnehmende; erste gruppenübergreifende Konvergenzereignisse formal dokumentiert |
 | **Phase 3: Reife und Ausstrahlung** | 2028–2030 | Externe Wirkungsevaluation (BNE 5.2.3); regionale Modellverbreitung; Pfadsystem als OER veröffentlicht; grenzüberschreitende Pfadintegration mit polnischen Partnerstandorten durch INTERREG oder bilaterale Mechanismen | Pfadsystem als übertragbares OER; longitudinaler Datensatz von Pfadspuren über drei volle Saisons; regionales Facilitator-Netzwerk etabliert |
 
----
+* * *
 
 ### 2.2 Die WHL-Diagnose an jeder Station
 
@@ -185,7 +185,7 @@ Die rechte Spalte ist die wichtigste. Sie verwandelt die Lücke von einer Quelle
 
 Jede Pfadkarte unten enthält eine **WHL-Brückenfrage** für jede Meilensteinstation. Diese Fragen sind in der zweiten Person, in der Facilitator-Stimme formuliert und können direkt im Feld ohne Anpassung verwendet werden. Sie sind auf die Entwicklungs- und Kontextrealitäten jeder Zielgruppe abgestimmt: Die Frage an einem kindlichen Station 2 aktiviert denselben Lückenschließmechanismus wie die Frage an einer älteren Station 2, aber auf der richtigen Abstraktions- und persönlichen Handlungsfähigkeitsebene.
 
----
+* * *
 
 ### 2.3 Standards der Pfaddokumentation
 
@@ -197,7 +197,7 @@ Das **Token-Ledger** auf der Stellar-Blockchain bietet den verifizierbaren, zeit
 
 Die **Jährliche Mustersprachen-Versammlung**, die jeden Januar stattfindet, synthetisiert die angesammelten Pfadspuren aller Teilnehmenden aus dem vorangegangenen Jahr zu einem kohärenten, ortsspezifischen Mustersprachen-Dokument. Dies ist das institutionelle Gedächtnis des Pfadsystems — der Moment, in dem individuelle Lerntrajektorien zu einem kollektiven Verständnis der Sub-Bioregion verwoben werden, das kein individueller Pfad allein erzeugen könnte.
 
----
+* * *
 
 ### 2.4 Kapazitätsaufbau auf drei Ebenen
 
@@ -209,7 +209,7 @@ Auf der **Facilitator-Ebene** bedeutet Kapazitätsaufbau die Entwicklung der pä
 
 Auf der **institutionellen Ebene** bedeutet Kapazitätsaufbau die Akkumulation von Wissen, Beziehungen, Daten und Praktiken, die Erdpuls ermöglichen, schrittweise besser darin zu werden, die WHL für seine Teilnehmenden zu schließen. Die aggregierten Pfadspurdaten — aus Token-Ledgern, Werte-Handlungs-Karten, Qualitätskompass-Aufzeichnungen und jährlichen Mustersprachen-Versammlungen — bilden die longitudinale Evidenzbasis, die es Erdpuls ermöglicht, die eigene Wirkung zu beurteilen, das Programmdesign zu verbessern und die Einhaltung der BNE-Qualitätskriterien 5.2.2 und 5.2.3 in den Phasen 2 und 3 nachzuweisen.
 
----
+* * *
 
 ## Teil 3 — Zielgruppen-Lernpfadkarten
 
@@ -220,7 +220,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 > **Stufenfarbcode zur Orientierung:**
 > `WAHRNEHMUNG` — einleitende Sinnesbegegnung · `ANERKENNUNG` — Erkennen systemischer Zusammenhänge · `HALTUNG` — Wertereflexion · `HANDLUNG` — konkreter dokumentierter Beitrag
 
----
+* * *
 
 ### Zielgruppe 1 — Kinder und Jugendliche
 
@@ -230,18 +230,18 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 
 **Strukturhinweis.** Zielgruppe 1 ist in drei Jahrgangsstufen differenziert, die direkt den OER-Lernleitfäden 01, 02 und 03 sowie den Differenzierungsmatrizen in den 13-Fragen- und BIKOBO-Curriculum-Abschnitten entsprechen. Die drei Jahrgangsstufen sind keine parallelen Versionen desselben Programms; sie stellen qualitativ unterschiedliche Engagementmodi dar, die dem Entwicklungsstand jeder Altersgruppe entsprechen. Eine Klassen-1–4-Sitzung schützt die Willenskräfte-Phase vor verfrühter Konzeptualisierung. Eine Klassen-5–8-Sitzung aktiviert erwachendes kausales Denken durch systematische Messung und Peer-Untersuchung. Eine Klassen-9–12-Sitzung adressiert individuelles moralisches Urteil durch unabhängige Forschung, ethische Positionierung und Beiträge zur offenen Wissenschaft. Alle drei Stufen teilen dieselbe 4A-Pfad-Architektur und dieselbe Erdpuls-Konzentrische-Ring-Geographie — aber die Tiefe, Abstraktion und Handlungsfähigkeit auf jeder Stufe unterscheiden sich erheblich. Stufenübergreifende Begegnungen sind selbst eine Konvergenzressource: Ein Schüler/eine Schülerin der Klassen 9–12, der/die eine Sitzung für die Klassen 1–4 co-begleitet, macht eine entwicklungsgemäß angemessene Handlungs-Stufen-Erfahrung durch, die kein Einzel-Stufenprogramm bieten kann.
 
----
+* * *
 
-#### Jahrgangsstufe A — Klassen 1–4 · Alter 6–10 | Grundschule
+### Jahrgangsstufe A — Klassen 1–4 · Alter 6–10 — Grundschule
 
 **OER-Leitfaden:** `01_learning_guide_grades_1-4.md` — *Bodendetektive: Erste Begegnungen mit lebendigem Boden*
 **Entwicklungsmodus:** Erfahrungsbasiertes Erleben — Willenskräfte dominant; Nachahmung und Rhythmus; Empfindung vor Interpretation
 **Token-Ökonomie-Ebene:** Token-Samen (einführend, vor-ökonomisch — eine Entdeckung zu teilen schafft Wert für die Gruppe)
 **WHL-Status beim Einstieg:** Die Lücke hat sich noch nicht verfestigt. Die primäre Aufgabe ist nicht das Schließen einer Lücke, sondern das Verhindern, dass eine entsteht — indem von der ersten Begegnung an festgestellt wird, dass direkte sensorische Aufmerksamkeit für die lebendige Welt sowohl möglich als auch bedeutsam ist.
 
----
+* * *
 
-##### Station 1 — Begegnung mit dem lebendigen Boden
+#### Station 1 — Begegnung mit dem lebendigen Boden
 
 | Feld | Detail |
 |---|---|
@@ -255,9 +255,9 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 | **Aktive Kompetenzcluster** | Umweltkompetenz · Sozial-emotionales Lernen |
 | **WHL-Brückenfrage** | *„Du hast etwas Lebendiges im Boden gefunden. Was denkst du, frisst es? Wo schläft es deiner Meinung nach nachts? Du hast gerade eine Frage wie eine Wissenschaftlerin / ein Wissenschaftler gestellt — denn genau das fragen Wissenschaftlerinnen und Wissenschaftler."* |
 
----
+* * *
 
-##### Station 2 — Der Boden spricht in Zahlen
+#### Station 2 — Der Boden spricht in Zahlen
 
 | Feld | Detail |
 |---|---|
@@ -271,9 +271,9 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 | **Aktive Kompetenzcluster** | Umweltkompetenz · Wissenschaftliches Forschen |
 | **WHL-Brückenfrage** | *„Jemand in Japan oder Brasilien könnte die Zahl anschauen, die deine senseBox gesendet hat, und wissen, wie die Luft heute in Müllrose ist. Du hast eine Nachricht in die ganze Welt geschickt. Was weißt du noch — über deinen Garten, deine Straße, die Pfütze bei deiner Schule — was die Welt hören sollte?"* |
 
----
+* * *
 
-##### Station 3 — Was braucht der Boden von uns?
+#### Station 3 — Was braucht der Boden von uns?
 
 | Feld | Detail |
 |---|---|
@@ -287,9 +287,9 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 | **Aktive Kompetenzcluster** | Wirtschaftliches Verstehen · Sozial-emotionales Lernen |
 | **WHL-Brückenfrage** | *„Die Samen, die wir heute gepflanzt haben, werden erst zum Essen bereit sein, wenn du zurückkommst. Was wirst du tun, um sicherzustellen, dass der Boden für sie bereit ist — zwischen jetzt und deinem nächsten Besuch?"* |
 
----
+* * *
 
-##### Station 4 — Bodendetektive teilen ihre Wissenschaft
+#### Station 4 — Bodendetektive teilen ihre Wissenschaft
 
 | Feld | Detail |
 |---|---|
@@ -305,18 +305,18 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 
 **Konvergenzzonen für Jahrgangsstufe A:** Der Frühjahrs-Station-1-Organismentätigkeitszähler eines Klassen-1–4-Besuchs ist der früheste Eintrag im saisonalen Beobachtungszyklus von Erdpuls — er wird zur Basislinie, an der Klassen 5–8 (Sommer) und Ältere (Herbst-Gedächtnis-Vergleich) später interpretiert werden. Das Klassen-Bodenporträt wird im Erdpuls-Programmarchiv archiviert und wird Quellmaterial für die Musterdokumentation des Artist-in-Residence. An Station 4 präsentieren Kinder vor echten Publikum aus anderen Zielgruppen und schaffen damit eine einfache, aber genuine intergenerationale Konvergenz.
 
----
+* * *
 
-#### Jahrgangsstufe B — Klassen 5–8 · Alter 11–14 | Mittelschule
+### Jahrgangsstufe B — Klassen 5–8 · Alter 11–14 — Mittelschule
 
 **OER-Leitfaden:** `02_learning_guide_grades_5-8.md` — *Feldforscher: Die lebendige Welt messen*
 **Entwicklungsmodus:** Entdeckungsbasiertes Verstehen — erwachendes kausales Denken; Peer-Identität zentral; abstraktes Denken verfügbar, aber am stärksten in Beobachtung verankert
 **Token-Ökonomie-Ebene:** Mittelstufe — alle vier Elemente eingeführt und durch reale Aktivitäten verdient
 **WHL-Status beim Einstieg:** Die Lücke beginnt sich zu bilden. Schüler:innen in diesem Alter haben genug kognitive Entwicklung, um die Distanz zwischen Umweltwissen und persönlichem Handeln zu spüren, aber Peer-Identität und ein Gefühl wachsender Kompetenz sind beides starke Motivatoren. Der Pfad ist so gestaltet, dass systematische Untersuchung und Datenbeiträge sich persönlich bedeutsam und sozial anerkannt anfühlen.
 
----
+* * *
 
-##### Station 1 — Erste systematische Begegnung
+#### Station 1 — Erste systematische Begegnung
 
 | Feld | Detail |
 |---|---|
@@ -330,9 +330,9 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 | **Aktive Kompetenzcluster** | Umweltkompetenz · Wissenschaftliches Forschen · Technologiekompetenz |
 | **WHL-Brückenfrage** | *„Deine Nase sagte ‚feucht und erdig' und der Sensor zeigte 87 % Luftfeuchtigkeit. Ihr habt beide recht — ihr habt nur verschiedene Dinge gemessen. Was kann deine Nase dir sagen, das der Sensor nie kann? Und was kann der Sensor dir sagen, das deine Nase nicht kann?"* |
 
----
+* * *
 
-##### Station 2 — Messen, was zählt
+#### Station 2 — Messen, was zählt
 
 | Feld | Detail |
 |---|---|
@@ -346,9 +346,9 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 | **Aktive Kompetenzcluster** | Umweltkompetenz · Wissenschaftliches Forschen · Technologiekompetenz |
 | **WHL-Brückenfrage** | *„Deine Daten sind jetzt Teil eines globalen Überwachungsnetzwerks, das Wissenschaftlerinnen und Wissenschaftler tatsächlich nutzen. Vergleiche deinen Fleck mit dem an der Mauer — was ist anders, und warum könnte dieser Unterschied für die dort lebenden Organismen wichtig sein? Wer sonst muss von diesem Unterschied wissen?"* |
 
----
+* * *
 
-##### Station 3 — Die Ökonomie des Gartens
+#### Station 3 — Die Ökonomie des Gartens
 
 | Feld | Detail |
 |---|---|
@@ -362,9 +362,9 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 | **Aktive Kompetenzcluster** | Wirtschaftliches Verstehen · Sozial-emotionales Lernen |
 | **WHL-Brückenfrage** | *„In Runde 2 — wer hat gewonnen? [Kein klarer Gewinner — alle bekamen, was sie brauchten.] Was müsste sich an der Funktionsweise deiner Schule ändern, damit Runde 2 die normale Vorgehensweise wäre? Wer in deiner Schule hat die Macht, eine dieser Änderungen vorzunehmen?"* |
 
----
+* * *
 
-##### Station 4 — Feld-Forscher:innen tragen bei
+#### Station 4 — Feld-Forscher:innen tragen bei
 
 | Feld | Detail |
 |---|---|
@@ -380,18 +380,18 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 
 **Konvergenzzonen für Jahrgangsstufe B:** Station 2 erzeugt die Sommerschicht des saisonalen Beobachtungszyklus von Erdpuls — die systematischen Vergleichsdatentafel-Einträge, die die Frühjahrs-Basislinie (Jahrgangsstufe A) mit dem Herbst-Ältestenerinnerungsvergleich (Zielgruppe 3) verbinden. Die Station-4-Memory-Market-Teilnahme bringt 11–14-jährige Forscher:innen in strukturierten intergenerationalen Austausch mit Älteren und erzeugt Reziprozitäts-Token in beide Richtungen sowie die altersübergreifende Begegnung, die zu den pädagogisch wirkungsvollsten Ereignissen des Programms gehört.
 
----
+* * *
 
-#### Jahrgangsstufe C — Klassen 9–12 · Alter 15–18 | Oberstufe
+### Jahrgangsstufe C — Klassen 9–12 · Alter 15–18 — Oberstufe
 
 **OER-Leitfaden:** `03_learning_guide_grades_9-12.md` — Forschungsleitfaden Oberstufe
 **Entwicklungsmodus:** Urteilsbasiertes Handeln — individuelle moralische Handlungsfähigkeit entsteht; systemisches Denken verfügbar; ethische Dimensionen zugänglich; wissenschaftliche Sprache und Metakritik angemessen
 **Token-Ökonomie-Ebene:** Vollständig — UBECrc-Gestaltungsübung; alle vier Elemente durch eigenständige Forschung und Begleitungsbeiträge verdient
 **WHL-Status beim Einstieg:** Die Lücke ist vollständig präsent und beginnt als persönlicher Widerspruch erlebt zu werden. Schüler:innen in diesem Alter sind in der Lage, die Lücke als systemisches Problem zu erkennen — nicht als persönliches Versagen — und diese Erkenntnis ist selbst der Einstiegspunkt. Der Pfad macht individuelles Urteil, eigenständigen Beitrag und Co-Begleitung alle entwicklungsgemäß angemessen und strukturell unterstützt.
 
----
+* * *
 
-##### Station 1 — Forschungseinstieg und Fragendesign
+#### Station 1 — Forschungseinstieg und Fragendesign
 
 | Feld | Detail |
 |---|---|
@@ -405,9 +405,9 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 | **Aktive Kompetenzcluster** | Umweltkompetenz · Wissenschaftliches Forschen · Technologiekompetenz |
 | **WHL-Brückenfrage** | *„Du hast gerade eine Forschungsfrage geschrieben, die kein veröffentlichtes Paper für diese spezifische Sub-Bioregion beantwortet hat. Was würde es dir bedeuten, wenn jemand diese Frage in fünf Jahren findet und darauf aufbaut? Was müsste über deine Dokumentation wahr sein, damit das möglich wird?"* |
 
----
+* * *
 
-##### Station 2 — Datenerhebung und Mustererkennung
+#### Station 2 — Datenerhebung und Mustererkennung
 
 | Feld | Detail |
 |---|---|
@@ -421,9 +421,9 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 | **Aktive Kompetenzcluster** | Umweltkompetenz · Wissenschaftliches Forschen · Technologiekompetenz |
 | **WHL-Brückenfrage** | *„Deine Daten zeigen ein Muster, das kein einzelner Besuch und kein einzelnes Instrument gefunden hätte — weil du über Saisons hinweg zurückgekehrt bist und verglichen hast. Wer sonst muss das sehen? Was ändert sich in der Art, wie du deine Erkenntnisse beschreibst, wenn du dir vorstellst, dass eine Wissenschaftlerin, ein Bauer und ein Zehnjähriger es gleichzeitig lesen?"* |
 
----
+* * *
 
-##### Station 3 — Ethik, Wirtschaft und Systemdenken
+#### Station 3 — Ethik, Wirtschaft und Systemdenken
 
 | Feld | Detail |
 |---|---|
@@ -437,9 +437,9 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 | **Aktive Kompetenzcluster** | Wirtschaftliches Verstehen · Sozial-emotionales Lernen |
 | **WHL-Brückenfrage** | *„Dein UBECrc-Design macht etwas sichtbar, das die aktuelle Wirtschaft unsichtbar macht. Wer hat die Macht, so etwas in deiner Gemeinschaft umzusetzen — deiner Schule, deiner Stadt, deinem Viertel? Was ist das wichtigste Gespräch, das du mit ihnen führen müsstest — und was würdest du in den ersten dreißig Sekunden sagen?"* |
 
----
+* * *
 
-##### Station 4 — Vom Lernenden zum Co-Forschenden
+#### Station 4 — Vom Lernenden zum Co-Forschenden
 
 | Feld | Detail |
 |---|---|
@@ -455,7 +455,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 
 **Konvergenzzonen für Jahrgangsstufe C:** Die Co-Begleitung an Station 4 schafft die primäre stufenübergreifende Konvergenz innerhalb der Zielgruppe 1: Eine Schüler:in der Klassen 9–12, die eine Sitzung für Klassen 1–4 oder 5–8 begleitet, führt sowohl eine Handlungs-Stufen-Meilensteinaufgabe aus als auch einen Regenerations-Token, den das Programm zu seinen wertvollsten Beiträgen zählt. Die an Station 4 veröffentlichten Offene-Wissenschafts-Daten fließen in dieselbe Longitudinal-Commons wie die Vergleichsdatentafel der Jahrgangsstufe B — die beiden Datensätze sind so gestaltet, dass sie zusammen gelesen werden. Die Mustersprachen-Versammlungs-Teilnahme an Station 4 bringt diese Schüler:innen in dasselbe jährliche Synthese-Ereignis wie Ältere, Künstler:innen und grenzüberschreitende Delegationen und vervollständigt damit die vollständige gruppenübergreifende Konvergenzarchitektur.
 
----
+* * *
 
 ### Zielgruppe 2 — Erwachsene und Familien
 
@@ -465,7 +465,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 
 **Kontext.** Erwachsene und Familien kommen mit bereits installierter WHL an. Sie wissen intellektuell, dass sie weniger konsumieren, weniger fahren und weniger verschwenden sollten. Die Lücke ist kein Wissensproblem; es ist ein Motivations-, Gewohnheits- und Systemproblem. Erwachsene kommen auch mit praktischem Lebenswissen — über Gartenarbeit, Kochen, Reparatur, Ortsgeschichte, Landschaftsveränderung — das genau das ist, was das Erdpuls-Programm braucht und ehrt. Der Erwachsenenpfad ist so gestaltet, dass dieses vorhandene Wissen sichtbar und wertgeschätzt wird, bevor neue Rahmenwerke eingeführt werden, was die epistemische Achtung schafft, die erwachsenes Lernen erfordert. Das Werte-Handlungs-Karten-Arbeitsblatt, ab Station 2 in vollem Erwachsenenformat verwendet, macht die Lücke selbst zum zentralen Lernobjekt — statt zur Schamquelle.
 
----
+* * *
 
 #### Station 1 — Sensorischer Wiedereinstieg
 
@@ -481,7 +481,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 | **Aktive Kompetenzcluster** | Umweltkompetenz · Sozial-emotionales Lernen |
 | **WHL-Brückenfrage** | *„Sie haben die Bodentemperatur auf zwei Grad genau abgeschätzt. Wann haben Sie das gelernt? Was sonst wissen Sie über die lebendige Welt, das Sie vergessen haben zu wissen — und wo lebt dieses Wissen jetzt in Ihnen?"* |
 
----
+* * *
 
 #### Station 2 — Sehen, was wir bereits austauschen
 
@@ -497,7 +497,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 | **Aktive Kompetenzcluster** | Wirtschaftliches Verstehen · Sozial-emotionales Lernen |
 | **WHL-Brückenfrage** | *„Drei Austausche erschienen auf Ihrer Karte, die Sie nie zuvor als ökonomisch betrachtet haben. Welcher davon würde verschwinden — oder schrumpfen — wenn er in Rechnung gestellt werden müsste? Was sagt Ihnen das darüber, was die konventionelle Wirtschaft derzeit zu schützen versäumt?"* |
 
----
+* * *
 
 #### Station 3 — Werte im Raum
 
@@ -513,7 +513,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 | **Aktive Kompetenzcluster** | Umweltkompetenz · Wirtschaftliches Verstehen |
 | **WHL-Brückenfrage** | *„Ihre Gartendaten zeigen dieselbe pH-Verschiebung, die wir in Zone B nach starkem Regen sehen — Sie haben Boden überwacht, ohne es zu wissen. Was sonst in Ihrem Alltag könnte als Citizen Science gelten, wenn Sie es aufzeichneten? Und was ist das Eine auf Ihrer Persönlichen Qualitätsversprechen-Karte, bei dem Sie am nervösesten sind, es tatsächlich zu tun?"* |
 
----
+* * *
 
 #### Station 4 — Token-Inhaber:in und Gemeinschaftsanker
 
@@ -531,7 +531,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 
 **Konvergenzzonen für diese Gruppe:** Die Hausgarten-Daten aus Station 3 tragen direkt zum Longitudinal-Bioregions-Datensatz bei, der von Künstler:innen und Forschenden (Zielgruppe 4, Station 2) in ihrer Musterdokumentation verwendet wird. Die Repair-Café-Begleitungsrolle (Station 4) schafft regelmäßigen intergenerationalen Kontakt mit Älteren und intergenerationalen Gruppen (Zielgruppe 3) und erzeugt Reziprozitäts-Token für den Handwerkswissensaustausch in beide Richtungen. Token-Inhaber:innen aus dieser Gruppe sind als Programm-Co-Evaluator:innen zentral für die jährliche Mustersprachen-Versammlung.
 
----
+* * *
 
 ### Zielgruppe 3 — Ältere und intergenerationale Gruppen
 
@@ -541,7 +541,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 
 **Kontext.** Ältere kommen mit etwas, das keine andere Zielgruppe besitzt: direktem, gelebtem Gedächtnis der Landschaft, wie sie war. In einer Sub-Bioregion, die einen radikalen Wandel durchgemacht hat — DDR-Kollektivierung, landwirtschaftliche Nutzungsänderung nach der Wiedervereinigung, Jahrzehnte ökologischen Wandels — ist Ältestengedächtnis nicht anekdotisch. Es ist primäre Forschungsdaten. Der Pfad für diese Gruppe ist so gestaltet, dass dieses Wissen von der allerersten Begegnung an geehrt wird, es als ökologische Wissenschaft lesbar gemacht wird und die intergenerationalen Strukturen geschaffen werden, durch die es zu jüngeren Gruppen fließt. Die WHL nimmt bei Älteren oft eine besondere Form an: ein reiches Gefühl für das, was verloren gegangen ist, verbunden mit einem Gefühl der Machtlosigkeit darüber, ob ihr Wissen wichtig sein kann. Der Pfad wandelt dieses Wissen in einen folgenreichen, archivierten, öffentlich verifizierbaren Beitrag um — eine Form von Handlungsfähigkeit, die viele ältere Teilnehmende nicht erwartet hatten zu finden.
 
----
+* * *
 
 #### Station 1 — Die Landschaft erinnert sich
 
@@ -557,7 +557,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 | **Aktive Kompetenzcluster** | Umweltkompetenz · Sozial-emotionales Lernen |
 | **WHL-Brückenfrage** | *„Sie haben gerade eine Art beschrieben, die nicht mehr hier ist. Ist dieses Wissen irgendwo aufgeschrieben? Was würde der Gemeinschaft — den Kindeskindern dieser Stadt — verloren gehen, wenn es nur in Ihrem Gedächtnis bliebe? Und wer ist die richtige Person, um mit Ihnen zu sitzen und es richtig aufzuzeichnen?"* |
 
----
+* * *
 
 #### Station 2 — Gedächtnis als Wissenschaft
 
@@ -573,7 +573,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 | **Aktive Kompetenzcluster** | Umweltkompetenz · Wissenschaftliches Forschen |
 | **WHL-Brückenfrage** | *„Ihre Erinnerung an den Weidenhain am Bach stimmte genau mit dem überein, was das Bodenprofil an diesem Ort noch immer zeigt — Ihr Wissen war die ganze Zeit wissenschaftlich, es wurde nur nicht von den Systemen gemessen, die sich selbst Wissenschaft nennen. Was wissen Sie sonst noch, das nicht gemessen wurde? Und welches Format — eine Karte, eine Geschichte, ein aufgezeichnetes Gespräch, ein Spaziergang — würde dieses Wissen am besten bewahren?"* |
 
----
+* * *
 
 #### Station 3 — Vom Gedächtnis zur Zukunft
 
@@ -589,7 +589,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 | **Aktive Kompetenzcluster** | Sozial-emotionales Lernen · Umweltkompetenz |
 | **WHL-Brückenfrage** | *„Sie haben beschrieben, was Sie weitergeben möchten. Benennen Sie nun das spezifische Wissen, das am meisten gefährdet ist — das Ding, das nur im Gedächtnis Ihrer Generation lebt und noch nicht dokumentiert wurde. Welches Format würde es am getreuesten bewahren? Und wer bei Erdpuls sollte mit Ihnen sitzen, um sicherzustellen, dass es passiert, bevor die Saison endet?"* |
 
----
+* * *
 
 #### Station 4 — Hüter:in des Ortswissens
 
@@ -607,7 +607,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 
 **Konvergenzzonen für diese Gruppe:** Station-2-Erinnerungsmarkt ist das primäre Mehrgruppen-Konvergenzereignis, das explizit darauf ausgelegt ist, Kinder und Jugendliche (Station 3 oder 4) und Erwachsene und Familien (Station 3 oder 4) in strukturierten Austausch mit Älteren zu bringen. Das Ältestenzeugnis an Station 1 wird zur historischen Basislinie, gegen die der Frühjahrs-Station-1-Organismentätigkeitszähler der Schulklasse später interpretiert wird. Die Weisheitskreis-Facilitator-Rolle (Station 4) schafft regelmäßigen Kontakt mit allen anderen Zielgruppen, und ältere Token-Inhaber:innen dienen als Authentifizierer:innen bei der jährlichen Mustersprachen-Versammlung — dem wichtigsten gruppenübergreifenden Konvergenzereignis des Programms.
 
----
+* * *
 
 ### Zielgruppe 4 — Künstler:innen und Forschende
 
@@ -617,7 +617,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 
 **Kontext.** Künstler:innen und Forschende kommen mit zwei Fähigkeiten, die sie von anderen Zielgruppen unterscheiden: methodische Strenge (die Fähigkeit, eine systematische Beobachtungspraxis über Zeit zu entwerfen und aufrechtzuerhalten) und kreative Verfremdung (die Fähigkeit, das Vertraute als fremd zu sehen und das Unsichtbare durch nicht-standardisierte Darstellungsformen sichtbar zu machen). Die WHL nimmt für diese Gruppe oft eine besondere Form an: die Forschende, die weiß, aber nicht handelt, oder die Künstlerin, die Werk über die Umweltkrise produziert, ohne dass das Werk etwas verändert. Der Pfad ist so gestaltet, dass beide Fähigkeiten in der spezifischen lebendigen Realität der Naturpark-Schlaubetal-Sub-Bioregion verankert werden — generisches Fachwissen in ortsspezifisches Wissen und ortsspezifischen Beitrag umzuwandeln. Die Ring-0-Körperkalibrierung ist für diese Gruppe nicht verhandelbar, gerade weil sie für Menschen, die gewöhnt sind, konzeptionell zu arbeiten, am unbequemsten ist.
 
----
+* * *
 
 #### Station 1 — Verlangsamen, um zu sehen
 
@@ -633,7 +633,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 | **Aktive Kompetenzcluster** | Umweltkompetenz · Wissenschaftliches Forschen |
 | **WHL-Brückenfrage** | *„Was zeigte der fünfte Besuch dieses Standorts, das der erste nicht zeigte? Was hat Ihr Körper bemerkt, das Ihr Notizbuch zunächst nicht aufzeichnete? Und was würde an Ihrer professionellen Praxis — Ihren Forschungsfragen, Ihren künstlerischen Entscheidungen — anders sein, wenn diese Art anhaltender sensorischer Aufmerksamkeit der Einstiegspunkt wäre statt der Literaturrecherche?"* |
 
----
+* * *
 
 #### Station 2 — Muster jenseits der Disziplinen
 
@@ -649,7 +649,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 | **Aktive Kompetenzcluster** | Umweltkompetenz · Technologiekompetenz · Wissenschaftliches Forschen |
 | **WHL-Brückenfrage** | *„Ihre Akustikkarte und die Boden-pH-Karte zeigen dieselbe Grenze — dieselbe Linie, durch zwei völlig verschiedene Methoden entdeckt. Dies war kein Zufall. Was ist das Muster, das sie verbindet? Wer muss davon wissen — welche Forschende:r, welche Planende:r, welche Gemeinschaft — und was verhindert, dass Sie es ihnen jetzt mitteilen?"* |
 
----
+* * *
 
 #### Station 3 — Wert jenseits des Preises
 
@@ -665,7 +665,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 | **Aktive Kompetenzcluster** | Wirtschaftliches Verstehen · Sozial-emotionales Lernen |
 | **WHL-Brückenfrage** | *„Sie haben Ihre Arbeit als autonom beschrieben. Beschreiben Sie sie nun als eingebettet in die Gemeinschaft und das Ökosystem, das sie möglich gemacht hat — die Gemeinschaft, die die Landschaft, die Geschichten, das historische Gedächtnis, die biologischen Proben bereitgestellt hat. Was ändert sich in der Beschreibung? Welche Verpflichtungen tauchen auf? Und was würden Sie konkret anders machen, wenn diese Verpflichtungen so sichtbar wären wie Ihr Literaturverzeichnis?"* |
 
----
+* * *
 
 #### Station 4 — Residenz als lebendige Forschung
 
@@ -683,7 +683,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 
 **Konvergenzzonen für diese Gruppe:** Die Künstler:in / Forschende:r ist die primäre Produzentin / der primäre Produzent der GIS-Synthese, die die Daten aller anderen Gruppen in ein einziges jährliches Mustersprachen-Dokument integriert. An Station 3 Gemeinschaftsintegration nimmt die Künstler:in / Forschende:r als Gleichgestellte:r an Sitzungen mit Kindern und Jugendlichen, Erwachsenen und Familien oder Älteren und intergenerationalen Gruppen teil und erzeugt Reziprozitäts-Token-Flüsse in alle Richtungen. Der kritische Dialog „Wert jenseits des Preises" trägt direkt zur Programmqualitätsentwicklung bei (BNE 5.1) und macht Künstler:innen und Forschende zu aktiven Programm-Co-Designer:innen statt zu Empfänger:innen.
 
----
+* * *
 
 ### Zielgruppe 5 — Grenzüberschreitende DE/PL-Gruppen
 
@@ -694,7 +694,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 
 **Kontext.** Grenzüberschreitende Gruppen kommen von beiden Seiten der Oder-Neiße-Grenze, typischerweise im Rahmen eines bilateralen Austauschprogramms. Sie bringen die komplexeste soziale und kulturelle Dynamik aller Zielgruppen mit: zwei nationale Rahmenwerke für Nachhaltigkeitsbildung (das deutsche BNE-Qualitätskatalog-System und die polnische Umweltbildungstradition), zwei Amtssprachen plus Englisch als mögliche Brückensprache, unterschiedliche proxemische Normen, die durch ihre verschiedenen kulturellen Hintergründe geprägt sind, und das volle Gewicht der gemeinsamen Geschichte dieser Grenzregion. Die WHL wird für diese Gruppe durch eine kulturübergreifende Dimension verstärkt: nicht nur die individuelle Lücke zwischen Werten und Handeln, sondern die institutionelle Lücke zwischen dem, was jede nationale Tradition schätzt, und dem kollaborativen Handeln, das die gemeinsame glaziale Landschaft erfordert. Der Pfad nutzt diese Komplexität als Lernressource, nicht als Hindernis. Die Naturpark-Schlaubetal-Landschaft — die der Grenze um geologische Zeit vorausgeht — ist der gemeinsame Boden, aus dem der Pfad wächst.
 
----
+* * *
 
 #### Station 1 — Eine Landschaft, zwei Sprachen
 
@@ -710,7 +710,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 | **Aktive Kompetenzcluster** | Umweltkompetenz · Sozial-emotionales Lernen |
 | **WHL-Brückenfrage** | *„Sie haben gerade drei Sprachen verwendet, um denselben lebenden Organismus zu beschreiben. Welche Beschreibung fühlte sich für Sie am lebendigsten an — und warum könnte das für die Wissenschaft wichtig sein? Was sagt es uns, dass die Landschaft sich nicht darum kümmert, in welcher Sprache wir sie benennen?"* |
 
----
+* * *
 
 #### Station 2 — Rahmenwerke, die konvergieren
 
@@ -726,7 +726,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 | **Aktive Kompetenzcluster** | Umweltkompetenz · Sozial-emotionales Lernen · Wissenschaftliches Forschen |
 | **WHL-Brückenfrage** | *„Ihre beiden Rahmenwerke stimmten in demselben Grundsatz überein, nannten ihn aber vollständig verschieden. Was ging in diesem Benennungsunterschied verloren — welche Koordination wurde durch die Terminologielücke verhindert? Und was würde es bedeuten, institutionell und praktisch, auf der Grundlage dieses konvergierten Grundsatzes gemeinsam zu handeln statt getrennt?"* |
 
----
+* * *
 
 #### Station 3 — Grenzüberschreitende Reziprozität gestalten
 
@@ -742,7 +742,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 | **Aktive Kompetenzcluster** | Wirtschaftliches Verstehen · Sozial-emotionales Lernen |
 | **WHL-Brückenfrage** | *„Das Essen hat die Grenze überquert, weil Sie zuerst die Grenze überquert haben — nicht mit Euros und Złoty, sondern mit Fähigkeiten, Nahrung und Gespräch. Was sonst, das derzeit an der Grenze stoppt, möchten Sie sehen, wie es sie überquert? Und was verhindert konkret dieses Überqueren gerade — ist es rechtlich, institutionell, relational oder finanziell?"* |
 
----
+* * *
 
 #### Station 4 — Partnerschaft als Infrastruktur
 
@@ -760,7 +760,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 
 **Konvergenzzonen für diese Gruppe:** Die grenzüberschreitenden iNaturalist-Daten (Stationen 2 und 4) erweitern den Erdpuls-Longitudinal-Datensatz über die Grenze hinaus und schaffen den geographisch umfassendsten Beitrag zur Bioregions-Commons aller Zielgruppen. Die Rahmenwerk-Vergleichsarbeit (Station 2) wird zu einer Ressource für Künstler:innen und Forschende (Zielgruppe 4), die sie in ihre nicht-standardisierten Kartographien und Musterdokumentationen integrieren. Der grenzüberschreitende Facilitator-Austausch (Station 4) schafft eine dauerhafte Personalverbindung zwischen Erdpuls und polnischen Partnerstandorten und ermöglicht zukünftige gemeinsame Programmgestaltung über alle fünf Zielgruppen hinweg und auf beiden Seiten der Oder-Neiße-Grenze.
 
----
+* * *
 
 ## Teil 4 — Gruppenübergreifende Konvergenzkarte
 
@@ -776,7 +776,7 @@ Die gruppenübergreifenden Konvergenzzonen sind die wertvollsten Lernmomente des
 | **Gemeinschaftsintegrationssitzung (Residenz)** | Künstler:innen und Forschende (ZG4) + eine andere Zielgruppe oder Jahrgangsstufe | Professionelle Forschungs- oder künstlerische Methode ↔ verkörpertes lokales und Ältestenwissen; Verfremdung des Vertrauten ↔ Vertrautheit mit dem Ort | Reziprozitäts-Token in beide Richtungen | ZG4: S3 · Andere Gruppe: je nach Kontext |
 | **Grenzüberschreitender Facilitator-Austausch** | Grenzüberschreitend DE/PL (ZG5) + beliebige auf deutscher oder polnischer Seite begleitete Gruppe | Deutsche Begleitungsmethoden ↔ polnische Bildungstradition; grenzüberschreitende Bioregionsdaten-Erweiterung auf polnische Plattformen | Mutualismus (Netzwerkerstellung) + Regeneration (institutionelle Infrastruktur aufgebaut) | ZG5: S4 · Begleitete Gruppe: je nach Kontext |
 
----
+* * *
 
 ## Lizenz und Impressum
 

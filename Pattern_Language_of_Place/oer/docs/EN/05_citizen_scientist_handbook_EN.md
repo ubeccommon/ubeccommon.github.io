@@ -268,7 +268,7 @@ The senseBox MCU is a microcontroller-based sensor platform developed at the Uni
 
 ### Building Your Station (Overview)
 
-Full assembly instructions are available at https://sensebox.de/en/. Erdpuls runs senseBox assembly workshops for community members — contact erdpuls@ubec.network for upcoming dates. The following overview gives you a sense of what is involved:
+Full assembly instructions are available at [https://sensebox.de/en/](https://sensebox.de/en/) Erdpuls runs senseBox assembly workshops for community members — contact erdpuls@ubec.network for upcoming dates. The following overview gives you a sense of what is involved:
 
 **Step 1 — Register your station on openSenseMap** before assembling the hardware. You will receive a unique station ID that you program into the device. Go to opensensemap.org, create an account, and click "New senseBox."
 

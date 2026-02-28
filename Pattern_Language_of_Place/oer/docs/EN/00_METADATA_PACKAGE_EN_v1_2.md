@@ -30,16 +30,16 @@ Fields marked **[TO BE COMPLETED BY AUTHOR]** require information only the proje
 | **Collection title (PL)** | Erdpuls Müllrose Materiały edukacyjne — Od nasion do łańcucha bloków: Trójjęzyczna kolekcja OER dla edukacji zrównoważonego rozwoju, nauki obywatelskiej i ekonomii wzajemnej |
 | **Creator / Publisher** | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics |
 | **Location** | Müllrose, Brandenburg, Germany |
-| **Contact** | erdpuls@ubec.network / https://erdpuls.ubec.network |
+| **Contact** | erdpuls@ubec.network / [https://erdpuls.ubec.network](https://erdpuls.ubec.network) |
 | **Publication date** | February 2026 |
 | **Version** | 1.2 (Draft — OER Publication Ready, EN) |
 | **DOI / Persistent identifier** | [TO BE COMPLETED BY AUTHOR — assigned after Zenodo upload] |
 | **Source URL / Repository URL** | [TO BE COMPLETED BY AUTHOR] |
 | **License** | Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) |
 | **License SPDX identifier** | CC-BY-SA-4.0 |
-| **License URL** | https://creativecommons.org/licenses/by-sa/4.0/ |
+| **License URL** | [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/) |
 | **Software license** | GNU Affero General Public License v3.0 (AGPL-3.0) — applies to all software components referenced |
-| **Software license URL** | https://www.gnu.org/licenses/agpl-3.0.html |
+| **Software license URL** | [https://www.gnu.org/licenses/agpl-3.0.html](https://www.gnu.org/licenses/agpl-3.0.html) |
 | **Copyright year and holder** | © 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics |
 
 
@@ -160,7 +160,7 @@ All 12 sub-competencies of the Transfer 21 Gestaltungskompetenz framework are ad
 | **SDG 3** | Good Health and Well-Being | **Secondary** | Citizen Scientist Handbook Chapter 3 explicitly explains PM2.5 and PM10 fine particulate matter with the WHO air quality guideline (24-hour average below 15 μg/m³ for PM2.5) and describes health implications of particles that "can penetrate deep into lungs." senseBox outdoor stations measure PM2.5, PM10, CO₂, and UV radiation index as standard outputs. Air quality monitoring is positioned as a direct community health contribution. Outdoor embodied learning in all three student guides supports physical wellbeing and nature contact. [G05 Ch.3, Ch.6; G02 Phase 2] |
 | **SDG 6** | Clean Water and Sanitation | **Secondary** | Question 8 (Water Infiltration) of the soil protocol explicitly connects water infiltration time to "flood risk, erosion, drought resilience, and groundwater recharge" (Appendix A). Students measure water infiltration rate as a functional soil health indicator in all three school guides. Bioregion elder guide (Water Memory exercise) documents vanished streams, drained wetlands, and changed flood patterns as historical landscape change evidence. senseBox supports water temperature probes for stream and pond monitoring. [A Appendix A Q8; G02 Phase 1; BI elder guide; G05 Ch.6] |
 | **SDG 10** | Reduced Inequalities | **Secondary** | The Collective Threshold Model is a four-pathway access system explicitly designed so "the people who know the most about this place can always come": (1) Full Rate, (2) Supported Rate, (3) Skills Exchange, (4) Token Pathway. Token Economy adult guide states directly: "The elder with no spare euros but forty years of soil knowledge enters through Skills Exchange or Token Pathway." Multilingual OER publication (EN/DE/PL) reduces language-based access barriers. Cross-border DE/PL participation group explicitly addresses national inequality in access to environmental education resources. [TE adult guide; G05 Ch.4; MI cross-border group] |
-| **SDG 11** | Sustainable Cities and Communities | **Secondary** | Bioregional mapping workshops produce community-held knowledge of local landscape boundaries, heritage sites, and ecological features. Token economy is explicitly framed as "commons governance" — a mechanism for making non-monetary community contributions visible and valued. Pattern language produces a place-specific collective knowledge resource. Müllrose campus operates as a community heritage hub (Zone E: Heritage & Community Hub). Repair Café documented as community infrastructure. Place attachment as sustainability literacy foundation across all guides. [BI; TE; MI; G01–G05 (place-based learning frame)] |
+| **SDG 11** | Sustainable Cities and Communities | **Secondary** | Bioregional mapping workshops produce community-held knowledge of local landscape boundaries, heritage sites, and ecological features. Token economy is explicitly framed as "commons governance" — a mechanism for making non-monetary community contributions visible and valued. Pattern language produces a place-specific collective knowledge resource. Müllrose campus operates as a community heritage hub (Zone E: Heritage \& Community Hub). Repair Café documented as community infrastructure. Place attachment as sustainability literacy foundation across all guides. [BI; TE; MI; G01–G05 (place-based learning frame)] |
 
 
 * * *
@@ -568,7 +568,7 @@ The Erdpuls program employs a phenomenological learning method in which sensory 
 | **Keywords** | (paste EN keyword list from Section 1.5, comma-separated) |
 | **Language** | English (primary); German (pending); Polish (pending) |
 | **Communities** | Suggest: `oer`, `citizen-science`, `education-for-sustainability`, `zenodo-community-germany` — [TO BE COMPLETED BY AUTHOR: verify community slugs before submission] |
-| **Related identifiers** | openSenseMap station URL: [TO BE COMPLETED BY AUTHOR]; Erdpuls website: https://erdpuls.ubec.network |
+| **Related identifiers** | openSenseMap station URL: [TO BE COMPLETED BY AUTHOR]; Erdpuls website: [https://erdpuls.ubec.network](https://erdpuls.ubec.network) |
 | **References** | Brandenburg BNE Quality Catalog (MLUK Brandenburg, April 2023); Pattern Discovery Toolkit v1.1 (Erdpuls, February 2026) |
 | **DOI** | [POST-SUBMISSION — assigned by Zenodo after upload] |
 | **Access rights** | Open Access |
@@ -591,7 +591,7 @@ The Erdpuls program employs a phenomenological learning method in which sensory 
 | **Beschreibung (Description)** | Paste German Abstract from Section 1.2 above |
 | **Schlagwörter (Keywords)** | Paste DE keyword list from Section 1.5 |
 | **Sprache (inLanguage)** | de (primary for WLO), en, pl |
-| **Lizenz (license)** | CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/ |
+| **Lizenz (license)** | CC BY-SA 4.0 — [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/) |
 | **Urheber / Herausgeber** | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics |
 | **educationalLevel** | Primarstufe (Guide 01); Sekundarstufe I (Guides 02); Sekundarstufe II (Guide 03); Berufliche Bildung / Erwachsenenbildung (Guide 04 and 05) |
 | **typicalAgeRange** | 6–10 (Guide 01); 11–14 (Guide 02); 15–18 (Guide 03); adult (Guides 04–05) |
@@ -600,7 +600,7 @@ The Erdpuls program employs a phenomenological learning method in which sensory 
 | **about (Fachbereich)** | Biologie; Geografie; Sachunterricht; Chemie; Mathematik; Informatik; Ethik; Wirtschaft; Umweltbildung; BNE |
 | **educationalAlignment (BNE)** | BNE Gestaltungskompetenzen 4.1.1–4.3.4 (all 12) |
 | **educationalAlignment (SDG)** | SDG 3, SDG 4, SDG 6, SDG 10, SDG 11, SDG 13, SDG 15, SDG 17 (Tier 1+2 confirmed; see Section 1.4 SDG table for evidence) |
-| **isPartOf** | Erdpuls Document Ecosystem v1.2 (https://erdpuls.ubec.network) |
+| **isPartOf** | Erdpuls Document Ecosystem v1.2 ([https://erdpuls.ubec.network](https://erdpuls.ubec.network)) |
 | **Quelle / URL** | [TO BE COMPLETED BY AUTHOR — Zenodo DOI after upload] |
 
 **Note:** WLO prefers German-language content. The Teacher's Guide DE translation is highest priority before WLO submission.
@@ -642,7 +642,7 @@ To register Erdpuls Müllrose on eu-citizen.science as both a project and a reso
 | **Keywords** | citizen science, soil monitoring, biodiversity, environmental monitoring, sustainability education, senseBox, openSenseMap, iNaturalist, token economy, Brandenburg, Germany, cross-border, Germany-Poland |
 | **Participation tasks** | Environmental monitoring (soil, atmosphere, biodiversity); species observation and upload to iNaturalist; sensor station deployment and operation; open data contribution; community workshop participation |
 | **Geographic scope** | Local / Regional — Müllrose, Brandenburg, Germany; cross-border with Poland (Naturpark Schlaubetal area) |
-| **Contact** | erdpuls@ubec.network / https://erdpuls.ubec.network |
+| **Contact** | erdpuls@ubec.network / [https://erdpuls.ubec.network](https://erdpuls.ubec.network) |
 | **Resource type** | Educational materials; Monitoring protocol; Toolkit |
 | **Resource URL** | [TO BE COMPLETED BY AUTHOR — Zenodo DOI after upload] |
 
@@ -668,7 +668,7 @@ You are free to share and adapt this material for any purpose, provided you give
 
 All software components referenced in this document are licensed under the [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html).
 
-Contact: erdpuls@ubec.network | https://erdpuls.ubec.network
+Contact: erdpuls@ubec.network | [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 
 * * *
@@ -684,7 +684,7 @@ Sie dürfen dieses Material für jeden Zweck teilen und bearbeiten, sofern Sie a
 
 Alle referenzierten Softwarekomponenten stehen unter der [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html).
 
-Kontakt: erdpuls@ubec.network | https://erdpuls.ubec.network
+Kontakt: erdpuls@ubec.network | [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 
 * * *
@@ -700,7 +700,7 @@ Możesz swobodnie udostępniać i adaptować ten materiał w dowolnym celu, pod 
 
 Wszystkie komponenty oprogramowania, do których odwołuje się ten dokument, są dostępne na zasadach [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html).
 
-Kontakt: erdpuls@ubec.network | https://erdpuls.ubec.network
+Kontakt: erdpuls@ubec.network | [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 
 * * *

@@ -69,7 +69,7 @@ The Erdpuls educational system is documented across multiple files that serve di
     └──────────────────────┬─────────────────────────────┘
                            │
     ┌──────────────────────▼─────────────────────────────┐
-    │          OER PUBLICATION LAYER  ← NEW               │
+    │          OER PUBLICATION LAYER  <- NEW               │
     │                                                    │
     │  01: Learning Guide — Grades 1–4 (Draft v1.1)       │
     │  02: Learning Guide — Grades 5–8 (Draft v1.1)       │
@@ -154,11 +154,11 @@ Each guide is standalone and field-ready. **As of v1.2 (February 2026), all 20 g
 
 All OER guides (01–05) require DE and PL translations before full trilingual OER publication. Recommended Phase 3 sequence:
 
-1. `04_teachers_guide.md` → DE (highest priority: the primary audience for German OER platforms is teachers)
-2. `01_learning_guide_grades_1-4.md` → DE then PL (most frequently used workshop audience)
-3. `05_citizen_scientist_handbook.md` → DE then PL (large potential audience on German-language OER platforms)
-4. `02_learning_guide_grades_5-8.md` → DE then PL
-5. `03_learning_guide_grades_9-12.md` → DE then PL
+1. `04_teachers_guide.md` -> DE (highest priority: the primary audience for German OER platforms is teachers)
+2. `01_learning_guide_grades_1-4.md` -> DE then PL (most frequently used workshop audience)
+3. `05_citizen_scientist_handbook.md` -> DE then PL (large potential audience on German-language OER platforms)
+4. `02_learning_guide_grades_5-8.md` -> DE then PL
+5. `03_learning_guide_grades_9-12.md` -> DE then PL
 
 * * *
 
@@ -176,28 +176,28 @@ All OER guides (01–05) require DE and PL translations before full trilingual O
 ## Reading Paths
 
 ### "I have one hour. What should I read?"
-→ Pattern Discovery Toolkit, Parts 1–2 (Foundations + Method). This gives you the concentric ring structure, the phenomenological observation method, proxemics as spatial grammar, and the basic workshop flow.
+-> Pattern Discovery Toolkit, Parts 1–2 (Foundations + Method). This gives you the concentric ring structure, the phenomenological observation method, proxemics as spatial grammar, and the basic workshop flow.
 
 ### "I need to run a workshop next week."
-→ The specific Living Experience Guide for your target group and appendix. Then the corresponding Proxemic Supplement (in the Proxemic Integration document). Then the Universal Checklist in the Implementation Handbook.
+-> The specific Living Experience Guide for your target group and appendix. Then the corresponding Proxemic Supplement (in the Proxemic Integration document). Then the Universal Checklist in the Implementation Handbook.
 
 ### "I'm preparing the annual program."
-→ Implementation Handbook (full). Then the Pattern Language Assembly Guide (to understand what the year is building toward).
+-> Implementation Handbook (full). Then the Pattern Language Assembly Guide (to understand what the year is building toward).
 
 ### "I want to understand the theoretical framework."
-→ Pattern Discovery Toolkit (full, including Part 5: Theoretical Roots). Then the Proxemic Integration (Part One: Revised Theoretical Foundations). Then the BNE-Bewertung for the quality framework alignment.
+-> Pattern Discovery Toolkit (full, including Part 5: Theoretical Roots). Then the Proxemic Integration (Part One: Revised Theoretical Foundations). Then the BNE-Bewertung for the quality framework alignment.
 
 ### "I need to write a funding proposal or certification application."
-→ BNE-Bewertung und Leitbild (the institutional compliance document). Supplemented by the Pattern Language Assembly Guide (which shows what the program produces) and the Implementation Handbook (which shows how it operates).
+-> BNE-Bewertung und Leitbild (the institutional compliance document). Supplemented by the Pattern Language Assembly Guide (which shows what the program produces) and the Implementation Handbook (which shows how it operates).
 
 ### "I want to adapt this for my own initiative."
-→ Pattern Discovery Toolkit, Part 4 (Adaptation Guide). Then the Appendices D.4 (Adapting to Other Quality Frameworks). Then select the Living Experience Guides most relevant to your target groups, understanding that every place will discover different patterns using the same method.
+-> Pattern Discovery Toolkit, Part 4 (Adaptation Guide). Then the Appendices D.4 (Adapting to Other Quality Frameworks). Then select the Living Experience Guides most relevant to your target groups, understanding that every place will discover different patterns using the same method.
 
 ### "I am a classroom teacher preparing to bring my class."
-→ `04_teachers_guide.md` first (your complete briefing document). Then the relevant student learning guide for your grade band (01, 02, or 03). The Implementation Handbook provides operational detail if needed.
+-> `04_teachers_guide.md` first (your complete briefing document). Then the relevant student learning guide for your grade band (01, 02, or 03). The Implementation Handbook provides operational detail if needed.
 
 ### "I want to become a citizen scientist."
-→ `05_citizen_scientist_handbook.md`. Then attend an Erdpuls Open Makerspace Day to build a senseBox station and start contributing to the openSenseMap network.
+-> `05_citizen_scientist_handbook.md`. Then attend an Erdpuls Open Makerspace Day to build a senseBox station and start contributing to the openSenseMap network.
 
 * * *
 
@@ -237,13 +237,13 @@ The Erdpuls document ecosystem achieves **86% full compliance** (49/57 criteria 
 
 | BNE Area | Title | Status | Primary Documents | Key Evidence |
 |---|---|---|---|---|
-| **1** | Goals and Target Groups | ✅ 4/4 | All 20 Living Guides (v1.2 Overview tables); BNE-Bewertung | Measurable learning objectives (4 per guide) differentiated per target group (1.2); five target groups defined across program (1.1); values-action gap as central problem statement (1.1.1 Lebenswelt) |
-| **2** | Approach | ✅ 3/3 | Toolkit (all parts); all 20 Living Guides (v1.2 Sustainability Dimensions row); Appendices A–D | All four sustainability dimensions (ecological/economic/social/cultural) explicitly mapped in every guide's Overview table (2.1.1); SDG links per guide (2.1.3); local-global linkage via Naturpark Schlaubetal ↔ open data infrastructure (2.2) |
-| **3** | Methods | ✅ 11/13 — ⚠️ 2 partial | All 20 Living Guides; Proxemic Integration; Implementation Handbook | All guides demonstrate action-orientation, situated learning, participation, and reflection (3.1); methodological foundations cited with academic references per guide (3.2.2/3.2.3); pre-workshop preparation materials documented (3.3.1, via Guide Selection Aid and Appendix D); post-workshop follow-up resources documented (3.3.3, via OER platform, token economy, erdpuls@ubec.network) |
-| **4** | Design Competencies (Gestaltungskompetenz) | ✅ 12/12 | All 20 Living Guides; Appendix D; OER Layer; OER Competency Clusters table | All 12 Transfer 21 sub-competencies addressed (minimum: 1); competency clusters mapped in this index; each guide's Overview table maps guide-specific competency contributions |
-| **5** | Quality Development | ✅ 6/7 — ⚠️ 1 partial — ⏳ 1 planned | BNE-Bewertung; Pattern Language Assembly Guide; BNE Quality Framework Living Guides (all target groups); Implementation Handbook | Development goals and three-phase plan with budgets (5.1.1/5.1.2); continuous praxis reflection via sensor data and Quality Cards/Compass (5.2.1); systematic self-evaluation in development (5.2.2, Phase 2); external evaluation planned (5.2.3, Phase 3); cooperation with national and international partners documented (5.3) |
-| **6** | Facilitator Qualification | ✅ 3/4 — ⚠️ 1 partial | All 20 Living Guides (v1.2 Facilitator Notes sections); Implementation Handbook | Guide-specific facilitator qualification requirements stated in every guide (6.1.1 formal qualification or 6.1.2 documented experience); Guide 5 (Cross-Border) carries mandatory bilingual DE/PL co-facilitation requirement; continuing education pathway via annual Erdpuls programming cycle documented |
-| **7** | Organisational Conditions | ✅ 10/14 — ⚠️ 2 partial — ⏳ 2 planned | BNE-Bewertung und Leitbild; Boden-Labor Konzept; Implementation Handbook | Formal Leitbild with Vision and five Leitsätze (7.1); heritage campus with five zones (7.2); three-phase development plan with documented budgets €95k–€190k (7.3); cycling/transport info in development (7.4.1); community kitchen planned Phase 3 (7.4.3) |
+| **1** | Goals and Target Groups | [OK] 4/4 | All 20 Living Guides (v1.2 Overview tables); BNE-Bewertung | Measurable learning objectives (4 per guide) differentiated per target group (1.2); five target groups defined across program (1.1); values-action gap as central problem statement (1.1.1 Lebenswelt) |
+| **2** | Approach | [OK] 3/3 | Toolkit (all parts); all 20 Living Guides (v1.2 Sustainability Dimensions row); Appendices A–D | All four sustainability dimensions (ecological/economic/social/cultural) explicitly mapped in every guide's Overview table (2.1.1); SDG links per guide (2.1.3); local-global linkage via Naturpark Schlaubetal <-> open data infrastructure (2.2) |
+| **3** | Methods | [OK] 11/13 — [!] 2 partial | All 20 Living Guides; Proxemic Integration; Implementation Handbook | All guides demonstrate action-orientation, situated learning, participation, and reflection (3.1); methodological foundations cited with academic references per guide (3.2.2/3.2.3); pre-workshop preparation materials documented (3.3.1, via Guide Selection Aid and Appendix D); post-workshop follow-up resources documented (3.3.3, via OER platform, token economy, erdpuls@ubec.network) |
+| **4** | Design Competencies (Gestaltungskompetenz) | [OK] 12/12 | All 20 Living Guides; Appendix D; OER Layer; OER Competency Clusters table | All 12 Transfer 21 sub-competencies addressed (minimum: 1); competency clusters mapped in this index; each guide's Overview table maps guide-specific competency contributions |
+| **5** | Quality Development | [OK] 6/7 — [!] 1 partial — [pending] 1 planned | BNE-Bewertung; Pattern Language Assembly Guide; BNE Quality Framework Living Guides (all target groups); Implementation Handbook | Development goals and three-phase plan with budgets (5.1.1/5.1.2); continuous praxis reflection via sensor data and Quality Cards/Compass (5.2.1); systematic self-evaluation in development (5.2.2, Phase 2); external evaluation planned (5.2.3, Phase 3); cooperation with national and international partners documented (5.3) |
+| **6** | Facilitator Qualification | [OK] 3/4 — [!] 1 partial | All 20 Living Guides (v1.2 Facilitator Notes sections); Implementation Handbook | Guide-specific facilitator qualification requirements stated in every guide (6.1.1 formal qualification or 6.1.2 documented experience); Guide 5 (Cross-Border) carries mandatory bilingual DE/PL co-facilitation requirement; continuing education pathway via annual Erdpuls programming cycle documented |
+| **7** | Organisational Conditions | [OK] 10/14 — [!] 2 partial — [pending] 2 planned | BNE-Bewertung und Leitbild; Boden-Labor Konzept; Implementation Handbook | Formal Leitbild with Vision and five Leitsätze (7.1); heritage campus with five zones (7.2); three-phase development plan with documented budgets €95k–€190k (7.3); cycling/transport info in development (7.4.1); community kitchen planned Phase 3 (7.4.3) |
 
 **Minimum requirements across all seven areas: met.**
 

@@ -237,7 +237,7 @@ Wenn Ihre Schule in der Lage ist, zwei oder mehr Besuche pro Jahr am selben Prog
 
 ## Operative Informationen
 
-**Buchung:** Kontaktieren Sie Erdpuls unter erdpuls@ubec.network oder https://erdpuls.ubec.network  
+**Buchung:** Kontaktieren Sie Erdpuls unter erdpuls@ubec.network oder [https://erdpuls.ubec.network](https://erdpuls.ubec.network)  
 **Standort:** Müllrose, Brandenburg, Deutschland — [BITTE ERGÄNZEN: Anfahrtsbeschreibung von umliegenden Städten]  
 **Kosten:** Kontaktieren Sie Erdpuls für aktuelle Programmpreise; ermäßigte Tarife für Brandenburgische Landesschulen verfügbar  
 **Maximale Gruppengröße:** 30 Schülerinnen und Schüler pro Sitzung; größere Gruppen können auf simultane Sitzungen aufgeteilt werden mit Voranmeldung  

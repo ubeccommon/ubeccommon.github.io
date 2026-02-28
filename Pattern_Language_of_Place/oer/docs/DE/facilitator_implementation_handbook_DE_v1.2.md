@@ -188,9 +188,9 @@ Der Kalender folgt diesen Prinzipien:
 | 5 | | | | | | | | |
 | 6 | | | | | | | | |
 
-**Prüfung:** Gibt es 3 oder mehr aufeinanderfolgende Phasen auf sozialer/öffentlicher Distanz mit ≤ 2 aktiven Kanälen? Wenn ja → eine haptische, sensorisch reaktivierende Phase dazwischenschalten.
+**Prüfung:** Gibt es 3 oder mehr aufeinanderfolgende Phasen auf sozialer/öffentlicher Distanz mit ≤ 2 aktiven Kanälen? Wenn ja -> eine haptische, sensorisch reaktivierende Phase dazwischenschalten.
 
-**Prüfung:** Hat jede soziale/öffentliche Phase ein sensorisches Ankerobjekt vorbereitet? Wenn nein → eines vorbereiten (eine Bodenprobe, ein Stein, ein Werkzeug, eine Pflanze, ein Stück Brot).
+**Prüfung:** Hat jede soziale/öffentliche Phase ein sensorisches Ankerobjekt vorbereitet? Wenn nein -> eines vorbereiten (eine Bodenprobe, ein Stein, ein Werkzeug, eine Pflanze, ein Stück Brot).
 
 * * *
 
@@ -434,7 +434,7 @@ Jede der fünf Campus-Zonen hat einen proxemischen Charakter, der bestimmt, welc
 - Permanente Bodenbeobachtungsstationen (3–4 im Garten verteilt), mit Pfosten markiert. Jede Station hat einen anderen Bodentyp oder ein anderes Mikroklima. Dies sind die Orte, an denen Ring-2-Beobachtungen stattfinden.
 - Ein zentraler Versammlungsbereich (Kieskreis, Bankreihe oder einfach freigemachte Fläche) für Gruppen-Briefings vor dem Auseinandergehen. Dies ist der soziopetale Anker von Zone B.
 - Boden-Koffer-Lagerung am Gartenrand — witterungsgeschützt, während Workshops geöffnet.
-- Der Gartenpfad sollte durch mehrere Mikro-Übergänge führen (kultiviert → wild → nass → trocken → beschattet → offen) — dies sind die Trainingsübergänge für die Ring-2-Musterentdeckung.
+- Der Gartenpfad sollte durch mehrere Mikro-Übergänge führen (kultiviert -> wild -> nass -> trocken -> beschattet -> offen) — dies sind die Trainingsübergänge für die Ring-2-Musterentdeckung.
 
 **Proxemisches Profil:** Intim (Bodenhandhabung, Pflanzenkontakt) bis Sozial (Gartenübersicht). Volles Sinnespektrum in Bodennähe; visuelle Dominanz beim Stehen und Überschauen.
 

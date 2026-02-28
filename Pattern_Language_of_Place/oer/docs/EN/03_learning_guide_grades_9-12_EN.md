@@ -9,7 +9,7 @@ project: "Erdpuls Müllrose OER Collection"
 ---
 # Erdpuls Learning Guide 03 — Grades 9–12
 ## Place as Laboratory: Research Methods for the Living World
-### For Students Ages 15–18 | Upper Secondary
+### For Students Ages 15–18 — Upper Secondary
 
 **Institution:** Erdpuls Müllrose - Center for Sustainability Literacy, Citizen Science and Reciprocal Economics  
 **Location:** Müllrose, Brandenburg, Germany
@@ -43,7 +43,7 @@ project: "Erdpuls Müllrose OER Collection"
 | **Developmental Stage** | Third seven-year period emergence: awakening individual judgment, capacity for systemic and ethical reasoning, the question "Who am I in the world and what do I owe it?" |
 | **Citizen Science Output** | Complete dataset entered into Erdpuls longitudinal record; iNaturalist species uploads; openSenseMap data contribution; optional: independent research question with follow-up protocol |
 | **Token Economy Level** | Advanced — full UBECrc engagement; optional: design exercise for an alternative token economy applied to a problem the student identifies |
-| **Languages Available** | EN ✓  DE pending  PL pending |
+| **Languages Available** | EN ([emoji])  DE pending  PL pending |
 
 * * *
 

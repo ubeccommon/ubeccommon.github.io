@@ -9,7 +9,7 @@ project: "Erdpuls Müllrose OER Collection"
 ---
 # Erdpuls Lernleitfaden 02 — Klassen 5–8
 ## Feldforscher: Die lebendige Welt messen
-### Für Schülerinnen und Schüler zwischen 11 und 14 Jahren | Mittelstufe
+### Für Schülerinnen und Schüler zwischen 11 und 14 Jahren — Mittelstufe
 
 **Institution:** Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics  
 **Standort:** Müllrose, Brandenburg, Deutschland
@@ -44,7 +44,7 @@ project: "Erdpuls Müllrose OER Collection"
 | **Entwicklungsphase** | Übergang der zweiten Siebenjahresperiode: erwachendes Kausaldenken, soziale Peer-Identität, entstehende Urteilsfähigkeit; abstraktes Denken beginnt, aber noch beobachtungsgebunden |
 | **Citizen-Science-Ergebnis** | Vollständiger Feldbogen-Datensatz; iNaturalist-Artenbeobachtungen; openSenseMap-Datenbeitrag; Eintrag in Erdpuls' langfristiges Bodendatenarchiv |
 | **Tokenwirtschaftsebene** | Mittelstufe — vier Elemente eingeführt; Teilnehmer/innen verdienen echte Token für Kooperation, Reziprozität, Mutualismus und Regenerationsaktivitäten |
-| **Verfügbare Sprachen** | DE ✓  EN vorhanden  PL ausstehend |
+| **Verfügbare Sprachen** | DE ([emoji])  EN vorhanden  PL ausstehend |
 
 * * *
 

@@ -211,7 +211,7 @@ The Thirteen Questions (now Fourteen, with the auditory enrichment at 8b) follow
 
 | Question | Proxemic Zone | Primary Sensory Channels | Proxemic Movement |
 |---|---|---|---|
-| 1 (First Impression) | Personal → Intimate | Visual (whole-field) | Approaching the ground |
+| 1 (First Impression) | Personal -> Intimate | Visual (whole-field) | Approaching the ground |
 | 2 (Surface) | Intimate | Visual (close detail) | Eyes close to surface |
 | 3 (Color) | Intimate | Visual + Haptic (digging) | Hands in the ground |
 | 4 (Touch/Texture) | Intimate | Haptic + Thermal | Soil in the hands |
@@ -219,14 +219,14 @@ The Thirteen Questions (now Fourteen, with the auditory enrichment at 8b) follow
 | 6 (Structure) | Intimate | Haptic + Visual | Breaking and examining aggregates |
 | 7 (Life) | Intimate | Visual (fine detail) + Haptic | Face close to ground, counting |
 | 8 (Water) | Personal | Visual + Temporal (watching) | Pouring and observing from slightly above |
-| 8b (Sound) | Intimate → Personal | Auditory | Ear to ground, then standing — proxemic contrast |
+| 8b (Sound) | Intimate -> Personal | Auditory | Ear to ground, then standing — proxemic contrast |
 | 9 (Roots) | Intimate | Visual + Haptic | Reading the hole's walls |
 | 10 (Layers) | Personal | Visual (geological) | Stepping back to see the profile |
 | 11 (History) | Social (conceptual) | Interpretive | Moving from observation to narrative |
-| 12 (Relationships) | Social → Public | Visual + Spatial awareness | Re-embedding the patch in its landscape |
+| 12 (Relationships) | Social -> Public | Visual + Spatial awareness | Re-embedding the patch in its landscape |
 | 13 (Care) | Personal (ethical) | Integrative | Returning from observation to relationship |
 
-The arc moves: approach → intimate immersion → gradual widening → re-embedding in context → ethical response. This mirrors the ring sequence (Ring 0 → Ring 4 → reflection) but compressed into a single hour at a single patch of ground. The protocol is, in effect, a *proxemic microcosm of the entire toolkit* — which is why participants who complete it are prepared for the wider ring explorations that follow.
+The arc moves: approach -> intimate immersion -> gradual widening -> re-embedding in context -> ethical response. This mirrors the ring sequence (Ring 0 -> Ring 4 -> reflection) but compressed into a single hour at a single patch of ground. The protocol is, in effect, a *proxemic microcosm of the entire toolkit* — which is why participants who complete it are prepared for the wider ring explorations that follow.
 
 **For equivalent protocols in other media** (Questions to the Water, Questions to the Stone, etc.), the proxemic arc should be preserved: begin at intimate distance with the medium, activate all sensory channels, then gradually widen to relational and ethical context.
 
@@ -358,7 +358,7 @@ The transect documentation should include a proxemic enrichment — the **Sensor
 
 | Distance from center | Observation | Touch (specific to this place)? | Smell? | Sound? | Thermal? | Visual? |
 |---|---|---|---|---|---|---|
-| 0 km | Campus departure | ☑ soil, brick, tools | ☑ garden, compost | ☑ workshop sounds, birds | ☑ warm wall | ☑ buildings, garden |
+| 0 km | Campus departure | [x] soil, brick, tools | [x] garden, compost | [x] workshop sounds, birds | [x] warm wall | [x] buildings, garden |
 | 1 km | | | | | | |
 | 3 km | | | | | | |
 | 5 km | | | | | | |
@@ -422,7 +422,7 @@ Additionally, the Sensory Closure Record data from the transect walks (if collec
 ### C.4 The GIS Track: Digital Mapping Workflow
 
 **Tools (all free/open-source):**
-- QGIS (desktop GIS, https://qgis.org) — the core tool
+- QGIS (desktop GIS, [https://qgis.org](https://qgis.org)) — the core tool
 - OpenStreetMap data (via QuickOSM plugin or Overpass API)
 - Copernicus Land Monitoring Service (European land cover and vegetation data)
 - National geological surveys (in Germany: BGR GeoViewer; adapt for other countries)
@@ -534,7 +534,7 @@ The catalog evaluates non-formal education providers across seven areas (Bereich
 
 **Area 1 — Goals and Target Groups**
 
-The toolkit addresses the values-action gap (84% of young Europeans value sustainability, only ~30% act on it) as its central problem. Target groups are defined by the concentric ring structure: Ring 0–2 serve participants with a direct relationship to the site (school groups, local residents, workshop attendees); Ring 3 extends to the settlement community including elders and long-term residents; Ring 4 engages a broader public including cross-border and intergenerational participants. The 4A-Pathway (Awareness → Acknowledgment → Attitude → Action) provides measurable pedagogical goals at each stage.
+The toolkit addresses the values-action gap (84% of young Europeans value sustainability, only ~30% act on it) as its central problem. Target groups are defined by the concentric ring structure: Ring 0–2 serve participants with a direct relationship to the site (school groups, local residents, workshop attendees); Ring 3 extends to the settlement community including elders and long-term residents; Ring 4 engages a broader public including cross-border and intergenerational participants. The 4A-Pathway (Awareness -> Acknowledgment -> Attitude -> Action) provides measurable pedagogical goals at each stage.
 
 *Minimum requirements: Met. Goals are concrete, target-group-specific, and needs-based.*
 
@@ -546,20 +546,20 @@ The toolkit is inherently multi-dimensional: ecological (soil, water, biodiversi
 
 **Area 3 — Methods**
 
-The Brandenburg catalog identifies fourteen methodological quality criteria across three sub-areas: 3.1 Action-oriented and activating (8 criteria), 3.2 Sound and appropriate (3 criteria), and 3.3 Supportive (3 criteria). The current institutional self-evaluation rates 13 of 14 as fully or partially met (11 fully ✅, 2 partially ⚠️).
+The Brandenburg catalog identifies fourteen methodological quality criteria across three sub-areas: 3.1 Action-oriented and activating (8 criteria), 3.2 Sound and appropriate (3 criteria), and 3.3 Supportive (3 criteria). The current institutional self-evaluation rates 13 of 14 as fully or partially met (11 fully [OK], 2 partially [!]).
 
 **3.1 — Action-Oriented and Activating**
 
 | Quality Criterion | How the Toolkit Addresses It | Status |
 |---|---|---|
-| 3.1.1 Experiential, hands-on (erleben, erproben) | Ring 0 body-calibration; Questions to the Soil (direct sensory contact with earth); sensor building and reading; walking transects | ✅ |
-| 3.1.2 Situated (situiert) | All activities embedded in the specific site and its landscape. Patterns are always *this* place's patterns, not generic examples | ✅ |
-| 3.1.3 Activating (aktivierend) | Multiple entry points per ring; playful and serious modes; partial successes built in (every pattern card is an achievement) | ✅ |
-| 3.1.4 Self-determined, participatory (selbstbestimmt-partizipativ) | Participants name patterns in their own language, choose observation foci, collectively deliberate bioregional boundaries; Collective Threshold Model for access | ✅ |
-| 3.1.5 Reflective (reflektiert) | The 4A-Pathway structures reflection at every stage; Goethean observation discipline: observe before analyze; Question 13 of the soil protocol ("What would you do?") bridges observation and ethical reflection | ✅ |
-| 3.1.6 Interactive (interaktiv) | Sensor dashboards provide real-time feedback; group pattern-naming is inherently dialogic; the analog/GIS mapping synthesis requires negotiation | ✅ |
-| 3.1.7 Holistic (ganzheitlich) | Three streams (Head/Hands/Heart) integrated at every ring: data interpretation (Head), soil handling and walking (Hands), phenomenological perception and ethical response (Heart) | ✅ |
-| 3.1.8 Multimedial (multimedial) | Sensor platforms, GIS tools, photography, sketching, oral testimony, multilingual documentation. Digital and analog in parallel at Ring 4. Expansion of social media and independent research tools planned for Phase 2. | ⚠️ partial |
+| 3.1.1 Experiential, hands-on (erleben, erproben) | Ring 0 body-calibration; Questions to the Soil (direct sensory contact with earth); sensor building and reading; walking transects | [OK] |
+| 3.1.2 Situated (situiert) | All activities embedded in the specific site and its landscape. Patterns are always *this* place's patterns, not generic examples | [OK] |
+| 3.1.3 Activating (aktivierend) | Multiple entry points per ring; playful and serious modes; partial successes built in (every pattern card is an achievement) | [OK] |
+| 3.1.4 Self-determined, participatory (selbstbestimmt-partizipativ) | Participants name patterns in their own language, choose observation foci, collectively deliberate bioregional boundaries; Collective Threshold Model for access | [OK] |
+| 3.1.5 Reflective (reflektiert) | The 4A-Pathway structures reflection at every stage; Goethean observation discipline: observe before analyze; Question 13 of the soil protocol ("What would you do?") bridges observation and ethical reflection | [OK] |
+| 3.1.6 Interactive (interaktiv) | Sensor dashboards provide real-time feedback; group pattern-naming is inherently dialogic; the analog/GIS mapping synthesis requires negotiation | [OK] |
+| 3.1.7 Holistic (ganzheitlich) | Three streams (Head/Hands/Heart) integrated at every ring: data interpretation (Head), soil handling and walking (Hands), phenomenological perception and ethical response (Heart) | [OK] |
+| 3.1.8 Multimedial (multimedial) | Sensor platforms, GIS tools, photography, sketching, oral testimony, multilingual documentation. Digital and analog in parallel at Ring 4. Expansion of social media and independent research tools planned for Phase 2. | [!] partial |
 
 *Minimum requirements (2 of 8): Far exceeded — 7 of 8 fully met, 1 partially met (multimedial, dependent on initiative's technical capacity and Phase 2 development).*
 
@@ -567,9 +567,9 @@ The Brandenburg catalog identifies fourteen methodological quality criteria acro
 
 | Quality Criterion | How the Toolkit Addresses It | Status |
 |---|---|---|
-| 3.2.1 Appropriate for goals, target group, content | Methods are precisely matched: the phenomenological soil protocol for ecological literacy; sensor building for data competence; collective pattern-naming for participatory epistemology; GIS mapping for spatial literacy; token economy for applied reciprocal economics | ✅ |
-| 3.2.2 Practically proven (praktisch bewährt) | The toolkit draws on globally established formats: citizen science (iNaturalist, openSenseMap), pattern language (Alexander), Goethean observation (Waldorf/Camphill tradition), bioregional mapping, and repair café methodology — all with decades of documented use | ✅ |
-| 3.2.3 Theoretically/empirically grounded | Goethean science (sequential observation, Bildung through encounter); Transfer 21 Gestaltungskompetenz framework; values-action gap research (Eurobarometer data); 4A-Pathway based on behavioral change models; Ubuntu philosophy; Hall's proxemics as methodological lens | ✅ |
+| 3.2.1 Appropriate for goals, target group, content | Methods are precisely matched: the phenomenological soil protocol for ecological literacy; sensor building for data competence; collective pattern-naming for participatory epistemology; GIS mapping for spatial literacy; token economy for applied reciprocal economics | [OK] |
+| 3.2.2 Practically proven (praktisch bewährt) | The toolkit draws on globally established formats: citizen science (iNaturalist, openSenseMap), pattern language (Alexander), Goethean observation (Waldorf/Camphill tradition), bioregional mapping, and repair café methodology — all with decades of documented use | [OK] |
+| 3.2.3 Theoretically/empirically grounded | Goethean science (sequential observation, Bildung through encounter); Transfer 21 Gestaltungskompetenz framework; values-action gap research (Eurobarometer data); 4A-Pathway based on behavioral change models; Ubuntu philosophy; Hall's proxemics as methodological lens | [OK] |
 
 *Minimum requirements (3.2.1 and 3.2.2): Fully met. Additionally, 3.2.3 theoretical grounding is comprehensively documented.*
 
@@ -577,9 +577,9 @@ The Brandenburg catalog identifies fourteen methodological quality criteria acro
 
 | Quality Criterion | How the Toolkit Addresses It | Status |
 |---|---|---|
-| 3.3.1 Preparatory (vorbereitend) | The toolkit includes explicit facilitator preparation materials: the Proxemic Facilitator's Guide, pre-workshop Proxemic Audit, ring-by-ring facilitation notes, site selection guidance, and materials checklists. All are available as OER in advance of each session. The main toolkit's introduction provides target-group-specific preparation guidance for all five participant groups | ✅ |
-| 3.3.2 Accompanying (begleitend) | Real-time sensor dashboards provide live data feedback during workshops; open-source hardware library supports independent mid-session inquiry; the BNE Quality Living Experience Guides include in-session evaluation tools (Quality Star, Quality Compass). On-site self-directed learning materials for exhibition areas are under development (Zone E, Phase 3) | ⚠️ partial |
-| 3.3.3 Follow-up (nachbereitend) | All toolkit materials are published as OER (CC BY-SA 4.0) and available after sessions; open data APIs allow continued citizen science contribution; sensor data remains publicly accessible for longitudinal analysis; the token economy enables continued participation; pattern cards created during workshops are archived and returned to participants as lasting artifacts of their learning | ✅ |
+| 3.3.1 Preparatory (vorbereitend) | The toolkit includes explicit facilitator preparation materials: the Proxemic Facilitator's Guide, pre-workshop Proxemic Audit, ring-by-ring facilitation notes, site selection guidance, and materials checklists. All are available as OER in advance of each session. The main toolkit's introduction provides target-group-specific preparation guidance for all five participant groups | [OK] |
+| 3.3.2 Accompanying (begleitend) | Real-time sensor dashboards provide live data feedback during workshops; open-source hardware library supports independent mid-session inquiry; the BNE Quality Living Experience Guides include in-session evaluation tools (Quality Star, Quality Compass). On-site self-directed learning materials for exhibition areas are under development (Zone E, Phase 3) | [!] partial |
+| 3.3.3 Follow-up (nachbereitend) | All toolkit materials are published as OER (CC BY-SA 4.0) and available after sessions; open data APIs allow continued citizen science contribution; sensor data remains publicly accessible for longitudinal analysis; the token economy enables continued participation; pattern cards created during workshops are archived and returned to participants as lasting artifacts of their learning | [OK] |
 
 *Minimum requirements (3.3.1 or 3.3.3): Fully met. 3.3.1 fully met, 3.3.2 partially met (in-session independent materials in development), 3.3.3 fully met.*
 
@@ -623,15 +623,15 @@ The Transfer 21 framework identifies 12 sub-competencies across three domains. T
 
 **Area 5 — Quality Development**
 
-Areas 5–7 cover organizational quality (Organisationsqualität). This section maps the toolkit and institutional infrastructure to the catalog's requirements for quality development, facilitator competence, and organizational conditions. Overall institutional compliance across these three areas: 19 of 25 criteria fully met (✅), 3 partially met (⚠️), 2 planned in a later phase (⏳). All minimum requirements are met.
+Areas 5–7 cover organizational quality (Organisationsqualität). This section maps the toolkit and institutional infrastructure to the catalog's requirements for quality development, facilitator competence, and organizational conditions. Overall institutional compliance across these three areas: 19 of 25 criteria fully met ([OK]), 3 partially met ([!]), 2 planned in a later phase ([pending]). All minimum requirements are met.
 
 **5.1 — Development Goals**
 
 | Criterion | How Erdpuls Addresses It | Status |
 |---|---|---|
-| 5.1.1 Development goal documented | Three-phase development model in writing: Phase 1 (2026–27) Establish & Activate; Phase 2 (2027–28) Renovate & Expand; Phase 3 (2028–30) Mature & Radiate | ✅ |
-| 5.1.2 Implementation plan with milestones | Milestones per phase; budget framework (€95k–190k over 4 years); building renovation sequence with priorities; financing strategy per phase | ✅ |
-| 5.1.3 Adequate development resources | Detailed budget estimates per phase; diversified financing: crowdfunding, Incubator Village, EFRE, heritage protection funds, EU programmes | ✅ |
+| 5.1.1 Development goal documented | Three-phase development model in writing: Phase 1 (2026–27) Establish \& Activate; Phase 2 (2027–28) Renovate \& Expand; Phase 3 (2028–30) Mature \& Radiate | [OK] |
+| 5.1.2 Implementation plan with milestones | Milestones per phase; budget framework (€95k–190k over 4 years); building renovation sequence with priorities; financing strategy per phase | [OK] |
+| 5.1.3 Adequate development resources | Detailed budget estimates per phase; diversified financing: crowdfunding, Incubator Village, EFRE, heritage protection funds, EU programmes | [OK] |
 
 *Minimum requirements (all three): Fully met.*
 
@@ -641,10 +641,10 @@ The toolkit generates substantial self-evaluation data as a structural feature o
 
 | Criterion | How Erdpuls Addresses It | Status |
 |---|---|---|
-| 5.2.1 Continuous practice reflection | Holonic evaluation in five dimensions: Autonomy-Integration, Ubuntu-Alignment, Reciprocity Health, Mutualism Capacity, Regeneration Impact. Sensor data as objective practice reflection | ✅ |
-| 5.2.2 Systematic self-evaluation (written feedback from participants) | Token data and sensor metrics provide quantitative evaluation. Formal participant survey in development for regular workshops from Phase 2 onward. The toolkit's Quality Star, Quality Compass, and Elder Quality Criteria tools (Appendix D.6) provide in-workshop evaluation instruments | ⚠️ partial |
-| 5.2.3 Internal/external impact evaluation (required after 2 years of operation) | Planned from Phase 3 (2028+). IoT and blockchain data infrastructure creates the foundation for systematic impact evaluation against behavioral change outcomes | ⏳ planned |
-| 5.2.4 Evaluation resources adequately budgeted | IoT infrastructure substantially reduces evaluation costs; blockchain data provides automatic longitudinal documentation; evaluation budget included in phase planning | ✅ |
+| 5.2.1 Continuous practice reflection | Holonic evaluation in five dimensions: Autonomy-Integration, Ubuntu-Alignment, Reciprocity Health, Mutualism Capacity, Regeneration Impact. Sensor data as objective practice reflection | [OK] |
+| 5.2.2 Systematic self-evaluation (written feedback from participants) | Token data and sensor metrics provide quantitative evaluation. Formal participant survey in development for regular workshops from Phase 2 onward. The toolkit's Quality Star, Quality Compass, and Elder Quality Criteria tools (Appendix D.6) provide in-workshop evaluation instruments | [!] partial |
+| 5.2.3 Internal/external impact evaluation (required after 2 years of operation) | Planned from Phase 3 (2028+). IoT and blockchain data infrastructure creates the foundation for systematic impact evaluation against behavioral change outcomes | [pending] planned |
+| 5.2.4 Evaluation resources adequately budgeted | IoT infrastructure substantially reduces evaluation costs; blockchain data provides automatic longitudinal documentation; evaluation budget included in phase planning | [OK] |
 
 *Minimum requirements (5.2.1 and 5.2.4): Fully met. Development areas: formal participant feedback system (5.2.2, in development Phase 2) and external impact evaluation (5.2.3, planned Phase 3).*
 
@@ -652,9 +652,9 @@ The toolkit generates substantial self-evaluation data as a structural feature o
 
 | Criterion | How Erdpuls Addresses It | Status |
 |---|---|---|
-| 5.3.1 Active networking with BNE actors | Incubator Village Beeskow Cohort 2; BNE-Netzwerk Brandenburg; Precious Plastic Global; VULCA European Makerspace Network; Repair Café International | ✅ |
-| 5.3.2 Conceptual-methodological cooperation | Concept Paper and Whitepaper as results of collaborative concept development; cross-border cooperation with Polish partners; heritage protection network integration | ✅ |
-| 5.3.3 Cooperative implementation | Heritage Renovation Days with master craftspeople; artist residencies; school cooperations for citizen science | ✅ |
+| 5.3.1 Active networking with BNE actors | Incubator Village Beeskow Cohort 2; BNE-Netzwerk Brandenburg; Precious Plastic Global; VULCA European Makerspace Network; Repair Café International | [OK] |
+| 5.3.2 Conceptual-methodological cooperation | Concept Paper and Whitepaper as results of collaborative concept development; cross-border cooperation with Polish partners; heritage protection network integration | [OK] |
+| 5.3.3 Cooperative implementation | Heritage Renovation Days with master craftspeople; artist residencies; school cooperations for citizen science | [OK] |
 
 *Minimum requirements (5.3.1): Fully met. Additionally, 5.3.2 and 5.3.3 fully addressed.*
 
@@ -666,8 +666,8 @@ The toolkit includes an explicit facilitation framework — the Proxemic Facilit
 
 | Criterion | How Erdpuls Addresses It | Status |
 |---|---|---|
-| 6.1.1 Formal (additional) pedagogical qualification | Founders bring technology and education background; heritage workshops led by qualified craftspeople; formal BNE pedagogical qualification in development | ⚠️ partial |
-| 6.1.2 Personal qualification (experience, references) | Founder: experience in IoT, blockchain, international education projects, and community building; demonstrated through operational sensor network, functioning token economy, and multilingual OER portal | ✅ |
+| 6.1.1 Formal (additional) pedagogical qualification | Founders bring technology and education background; heritage workshops led by qualified craftspeople; formal BNE pedagogical qualification in development | [!] partial |
+| 6.1.2 Personal qualification (experience, references) | Founder: experience in IoT, blockchain, international education projects, and community building; demonstrated through operational sensor network, functioning token economy, and multilingual OER portal | [OK] |
 
 *Minimum requirements (6.1.1 or 6.1.2): Met via 6.1.2. Formal qualification pathway under development.*
 
@@ -675,8 +675,8 @@ The toolkit includes an explicit facilitation framework — the Proxemic Facilit
 
 | Criterion | How Erdpuls Addresses It | Status |
 |---|---|---|
-| 6.2.1 Preparatory training for facilitators and volunteers | Heritage workshop facilitators trained by master craftspeople; volunteer repair coaches receive structured preparation; sensor-building facilitators receive structured introduction; the Proxemic Facilitator's Guide provides a BNE-specific preparation framework for all toolkit sessions | ✅ |
-| 6.2.2 Annual continuing education (minimum 24 hours, with BNE reference) | Participation in Incubator Village programme (6 months); BNE specialist conferences Brandenburg; Precious Plastic Community Learning; Repair Café International workshops. Collective scope exceeds 24-hour minimum | ✅ |
+| 6.2.1 Preparatory training for facilitators and volunteers | Heritage workshop facilitators trained by master craftspeople; volunteer repair coaches receive structured preparation; sensor-building facilitators receive structured introduction; the Proxemic Facilitator's Guide provides a BNE-specific preparation framework for all toolkit sessions | [OK] |
+| 6.2.2 Annual continuing education (minimum 24 hours, with BNE reference) | Participation in Incubator Village programme (6 months); BNE specialist conferences Brandenburg; Precious Plastic Community Learning; Repair Café International workshops. Collective scope exceeds 24-hour minimum | [OK] |
 
 *Minimum requirements (6.2.1 and 6.2.2): Fully met.*
 
@@ -688,10 +688,10 @@ The Erdpuls Leitbild is documented in full in the companion document *Erdpuls BN
 
 | Criterion | How Erdpuls Addresses It | Status |
 |---|---|---|
-| 7.1.1 Leitbild exists (written; vision, values, target groups, profile) | Complete written Leitbild: vision, five Leitsätze, sustainability dimensions, identity, values, competencies, internal culture, service profile, target groups, cooperation partners | ✅ |
-| 7.1.2 Developed collaboratively | Community contribution via Collective Threshold Model and token holder participation (502 active holders); Incubator Village Beeskow as development framework | ✅ |
-| 7.1.3 Communicated internally and externally | Trilingual portal, Whitepaper, Concept Paper, Pitch Deck; OER licence ensures public availability | ✅ |
-| 7.1.4 Lived in daily practice; regularly reviewed | Token economy makes Leitbild values measurable; holonic evaluation checks alignment; seasonal rhythms integrate reflection. Review cycle: every 2 years | ✅ |
+| 7.1.1 Leitbild exists (written; vision, values, target groups, profile) | Complete written Leitbild: vision, five Leitsätze, sustainability dimensions, identity, values, competencies, internal culture, service profile, target groups, cooperation partners | [OK] |
+| 7.1.2 Developed collaboratively | Community contribution via Collective Threshold Model and token holder participation (502 active holders); Incubator Village Beeskow as development framework | [OK] |
+| 7.1.3 Communicated internally and externally | Trilingual portal, Whitepaper, Concept Paper, Pitch Deck; OER licence ensures public availability | [OK] |
+| 7.1.4 Lived in daily practice; regularly reviewed | Token economy makes Leitbild values measurable; holonic evaluation checks alignment; seasonal rhythms integrate reflection. Review cycle: every 2 years | [OK] |
 
 *Minimum requirements (all four): Fully met.*
 
@@ -699,17 +699,17 @@ The Erdpuls Leitbild is documented in full in the companion document *Erdpuls BN
 
 | Criterion | How Erdpuls Addresses It | Status |
 |---|---|---|
-| 7.2.1 Conceptual BNE embedding | BNE and sustainable development as core mission in all documents; tagline "Center for Sustainability Literacy, Citizen Science and Reciprocal Economics"; explicit reference to BNE discourse throughout | ✅ |
-| 7.3.1 Written agreements for facilitators and partners | Collective Threshold Model as transparent contract system; token-based engagement relationships | ✅ |
-| 7.3.2 Fair working conditions (minimum wage; social standards) | Four participation pathways including Supported Rate; Skills Exchange as equitable exchange format | ✅ |
-| 7.3.3 Recognition of voluntary contributions | Token system makes volunteer contributions measurable and visible; public acknowledgment via blockchain documentation | ✅ |
-| 7.4.1 Accessible and environmentally responsible transport | RE1 rail connection to Müllrose; cycling route description and parking facilities in development | ⚠️ partial |
-| 7.4.2 Learning spaces appropriate to pedagogical concept | 5,000 m² campus with five zones; indoor-outdoor gradient; spaces matched to pedagogical purpose | ✅ |
-| 7.4.3 Catering (fair, seasonal, regional, organic, vegetarian/vegan) | Community kitchen (Zone E) planned for Phase 3; seasonal, regional, organic, vegetarian/vegan as target specification | ⏳ planned |
-| 7.4.4 Equipment and materials (fair, eco-efficient) | Open-source hardware/software; recycled materials; Precious Plastic filament; sustainable devices; resource-efficient by design | ✅ |
-| 7.5.1 Target-group-appropriate public outreach | Trilingual portal; professional branding (Forest & Moss Design); institutional pitch deck for partners; age-appropriate materials per target group | ✅ |
-| 7.5.2 Content current and accurate | Web portal regularly updated; sensor data in real time; token dashboard live | ✅ |
-| 7.5.3 Named contact person, reachable and informed | Michel Garand; erdpuls@ubec.network; named on portal and reachable | ✅ |
+| 7.2.1 Conceptual BNE embedding | BNE and sustainable development as core mission in all documents; tagline "Center for Sustainability Literacy, Citizen Science and Reciprocal Economics"; explicit reference to BNE discourse throughout | [OK] |
+| 7.3.1 Written agreements for facilitators and partners | Collective Threshold Model as transparent contract system; token-based engagement relationships | [OK] |
+| 7.3.2 Fair working conditions (minimum wage; social standards) | Four participation pathways including Supported Rate; Skills Exchange as equitable exchange format | [OK] |
+| 7.3.3 Recognition of voluntary contributions | Token system makes volunteer contributions measurable and visible; public acknowledgment via blockchain documentation | [OK] |
+| 7.4.1 Accessible and environmentally responsible transport | RE1 rail connection to Müllrose; cycling route description and parking facilities in development | [!] partial |
+| 7.4.2 Learning spaces appropriate to pedagogical concept | 5,000 m² campus with five zones; indoor-outdoor gradient; spaces matched to pedagogical purpose | [OK] |
+| 7.4.3 Catering (fair, seasonal, regional, organic, vegetarian/vegan) | Community kitchen (Zone E) planned for Phase 3; seasonal, regional, organic, vegetarian/vegan as target specification | [pending] planned |
+| 7.4.4 Equipment and materials (fair, eco-efficient) | Open-source hardware/software; recycled materials; Precious Plastic filament; sustainable devices; resource-efficient by design | [OK] |
+| 7.5.1 Target-group-appropriate public outreach | Trilingual portal; professional branding (Forest \& Moss Design); institutional pitch deck for partners; age-appropriate materials per target group | [OK] |
+| 7.5.2 Content current and accurate | Web portal regularly updated; sensor data in real time; token dashboard live | [OK] |
+| 7.5.3 Named contact person, reachable and informed | Michel Garand; erdpuls@ubec.network; named on portal and reachable | [OK] |
 
 *Minimum requirements (7.2.1, all 7.3.x, 7.4.1 cycling/transit description, 7.4.2, 7.4.4, all 7.5.x): Fully met. Development areas: cycling/transport description completion (7.4.1, in development), catering infrastructure (7.4.3, Phase 3).*
 
@@ -719,14 +719,14 @@ Erdpuls meets all minimum requirements (Mindestanforderungen) in all seven quali
 
 | Area | Fully met | Partial | Planned | Total | Minimum met? |
 |---|---|---|---|---|---|
-| 1 Goals & Target Groups | 6 | — | — | 6 | ✅ Yes |
-| 2 Approach | 5 | — | — | 5 | ✅ Yes |
-| 3 Methods | 12 | 2 | — | 14 | ✅ Yes |
-| 4 Gestaltungskompetenz | 12 | — | — | 12 | ✅ Yes |
-| 5 Quality Development | 7 | 1 | 1 | 9* | ✅ Yes |
-| 6 Facilitators | 3 | 1 | — | 4 | ✅ Yes |
-| 7 Organizational Conditions | 11 | 2 | 2 | 15* | ✅ Yes |
-| **Total** | **56†** | **6** | **3** | **65*** | **✅ All** |
+| 1 Goals \& Target Groups | 6 | — | — | 6 | [OK] Yes |
+| 2 Approach | 5 | — | — | 5 | [OK] Yes |
+| 3 Methods | 12 | 2 | — | 14 | [OK] Yes |
+| 4 Gestaltungskompetenz | 12 | — | — | 12 | [OK] Yes |
+| 5 Quality Development | 7 | 1 | 1 | 9* | [OK] Yes |
+| 6 Facilitators | 3 | 1 | — | 4 | [OK] Yes |
+| 7 Organizational Conditions | 11 | 2 | 2 | 15* | [OK] Yes |
+| **Total** | **56†** | **6** | **3** | **65*** | **[OK] All** |
 
 *\*Catalog total is 57; the variation reflects sub-criterion counting conventions in the official document. The institutional self-evaluation (49 fully met of 57 scored criteria) uses the catalog's own weighting.*  
 *†Where two sources differ on totals, the BNE-Qualitätsbewertung document (49/57, 86%) should be treated as authoritative.*

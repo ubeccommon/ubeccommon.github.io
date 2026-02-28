@@ -252,7 +252,7 @@ If your school is able to schedule two or more visits per year to the same progr
 
 ## Operational Information
 
-**Booking:** Contact Erdpuls at erdpuls@ubec.network or https://erdpuls.ubec.network  
+**Booking:** Contact Erdpuls at erdpuls@ubec.network or [https://erdpuls.ubec.network](https://erdpuls.ubec.network)  
 **Location:** Müllrose, Brandenburg, Germany — approximately [insert transit details from major nearby towns]  
 **Cost:** Contact Erdpuls for current program pricing; reduced rates available for Brandenburg state schools  
 **Maximum group size:** 30 students per session; larger groups can be split across simultaneous sessions with advance notice  

@@ -70,7 +70,7 @@ Das Erdpuls-Bildungssystem ist über mehrere Dateien dokumentiert, die unterschi
     └──────────────────────┬─────────────────────────────┘
                            │
     ┌──────────────────────▼─────────────────────────────┐
-    │          OER-VERÖFFENTLICHUNGSSCHICHT  ← NEU         │
+    │          OER-VERÖFFENTLICHUNGSSCHICHT  <- NEU         │
     │                                                    │
     │  01: Lernleitfaden — Klassen 1–4 (Entwurf v1.1)     │
     │  02: Lernleitfaden — Klassen 5–8 (Entwurf v1.1)     │
@@ -155,11 +155,11 @@ Jeder Leitfaden ist eigenständig und praxisbereit. **Ab v1.2 (Februar 2026) ent
 
 Alle OER-Leitfäden (01–05) benötigen DE- und PL-Übersetzungen vor der vollständigen dreisprachigen OER-Veröffentlichung. Empfohlene Phase-3-Reihenfolge:
 
-1. `04_teachers_guide.md` → DE (höchste Priorität: die primäre Zielgruppe für deutsche OER-Plattformen sind Lehrkräfte)
-2. `01_learning_guide_grades_1-4.md` → DE dann PL (am häufigsten genutzte Workshop-Zielgruppe)
-3. `05_citizen_scientist_handbook.md` → DE dann PL (großes Potenzial auf deutschsprachigen OER-Plattformen)
-4. `02_learning_guide_grades_5-8.md` → DE dann PL
-5. `03_learning_guide_grades_9-12.md` → DE dann PL
+1. `04_teachers_guide.md` -> DE (höchste Priorität: die primäre Zielgruppe für deutsche OER-Plattformen sind Lehrkräfte)
+2. `01_learning_guide_grades_1-4.md` -> DE dann PL (am häufigsten genutzte Workshop-Zielgruppe)
+3. `05_citizen_scientist_handbook.md` -> DE dann PL (großes Potenzial auf deutschsprachigen OER-Plattformen)
+4. `02_learning_guide_grades_5-8.md` -> DE dann PL
+5. `03_learning_guide_grades_9-12.md` -> DE dann PL
 
 * * *
 
@@ -177,28 +177,28 @@ Alle OER-Leitfäden (01–05) benötigen DE- und PL-Übersetzungen vor der volls
 ## Lesepfade
 
 ### „Ich habe eine Stunde. Was sollte ich lesen?"
-→ Pattern Discovery Toolkit, Teile 1–2 (Grundlagen + Methode). Dies vermittelt die konzentrische Ringstruktur, die phänomenologische Beobachtungsmethode, Proxemik als räumliche Grammatik und den grundlegenden Workshop-Ablauf.
+-> Pattern Discovery Toolkit, Teile 1–2 (Grundlagen + Methode). Dies vermittelt die konzentrische Ringstruktur, die phänomenologische Beobachtungsmethode, Proxemik als räumliche Grammatik und den grundlegenden Workshop-Ablauf.
 
 ### „Ich muss nächste Woche einen Workshop durchführen."
-→ Den spezifischen erfahrungsorientierten Leitfaden für Ihre Zielgruppe und den entsprechenden Anhang. Dann die entsprechende Proxemische Ergänzung (im Dokument Proxemische Integration). Dann die universelle Checkliste im Implementierungshandbuch.
+-> Den spezifischen erfahrungsorientierten Leitfaden für Ihre Zielgruppe und den entsprechenden Anhang. Dann die entsprechende Proxemische Ergänzung (im Dokument Proxemische Integration). Dann die universelle Checkliste im Implementierungshandbuch.
 
 ### „Ich plane das Jahresprogramm."
-→ Implementierungshandbuch (vollständig). Dann den Pattern Language Syntheseleitfaden (um zu verstehen, worauf das Jahr hinarbeitet).
+-> Implementierungshandbuch (vollständig). Dann den Pattern Language Syntheseleitfaden (um zu verstehen, worauf das Jahr hinarbeitet).
 
 ### „Ich möchte den theoretischen Rahmen verstehen."
-→ Pattern Discovery Toolkit (vollständig, einschließlich Teil 5: Theoretische Grundlagen). Dann die Proxemische Integration (Teil 1: Überarbeitete Theoretische Grundlagen). Dann die BNE-Bewertung für die Qualitätsrahmen-Ausrichtung.
+-> Pattern Discovery Toolkit (vollständig, einschließlich Teil 5: Theoretische Grundlagen). Dann die Proxemische Integration (Teil 1: Überarbeitete Theoretische Grundlagen). Dann die BNE-Bewertung für die Qualitätsrahmen-Ausrichtung.
 
 ### „Ich muss einen Förderantrag oder eine Zertifizierungsbewerbung schreiben."
-→ BNE-Bewertung und Leitbild (das institutionelle Konformitätsdokument). Ergänzt durch den Pattern Language Syntheseleitfaden (der zeigt, was das Programm produziert) und das Implementierungshandbuch (das zeigt, wie es betrieben wird).
+-> BNE-Bewertung und Leitbild (das institutionelle Konformitätsdokument). Ergänzt durch den Pattern Language Syntheseleitfaden (der zeigt, was das Programm produziert) und das Implementierungshandbuch (das zeigt, wie es betrieben wird).
 
 ### „Ich möchte dies für meine eigene Initiative adaptieren."
-→ Pattern Discovery Toolkit, Teil 4 (Adaptionsleitfaden). Dann Anhang D.4 (Adaption an andere Qualitätsrahmen). Dann die erfahrungsorientierten Leitfäden auswählen, die für die eigenen Zielgruppen am relevantesten sind — mit dem Verständnis, dass jeder Ort mit derselben Methode andere Muster entdecken wird.
+-> Pattern Discovery Toolkit, Teil 4 (Adaptionsleitfaden). Dann Anhang D.4 (Adaption an andere Qualitätsrahmen). Dann die erfahrungsorientierten Leitfäden auswählen, die für die eigenen Zielgruppen am relevantesten sind — mit dem Verständnis, dass jeder Ort mit derselben Methode andere Muster entdecken wird.
 
 ### „Ich bin Lehrkraft und bereite den Besuch meiner Klasse vor."
-→ Zuerst `04_teachers_guide.md` (vollständige Vorbriefing). Dann den relevanten Schüler-Lernleitfaden für die eigene Jahrgangsstufe (01, 02 oder 03). Das Implementierungshandbuch liefert operationale Details bei Bedarf.
+-> Zuerst `04_teachers_guide.md` (vollständige Vorbriefing). Dann den relevanten Schüler-Lernleitfaden für die eigene Jahrgangsstufe (01, 02 oder 03). Das Implementierungshandbuch liefert operationale Details bei Bedarf.
 
 ### „Ich möchte Citizen Scientist werden."
-→ `05_citizen_scientist_handbook.md`. Dann einen Erdpuls Open Makerspace Day besuchen, um eine senseBox-Station zu bauen und mit dem Beitrag zum openSenseMap-Netzwerk zu beginnen.
+-> `05_citizen_scientist_handbook.md`. Dann einen Erdpuls Open Makerspace Day besuchen, um eine senseBox-Station zu bauen und mit dem Beitrag zum openSenseMap-Netzwerk zu beginnen.
 
 * * *
 
@@ -238,13 +238,13 @@ Das Erdpuls-Dokument-Ökosystem erreicht **86 % vollständige Konformität** (49
 
 | BNE-Bereich | Titel | Status | Primäre Dokumente | Schlüsselnachweis |
 |---|---|---|---|---|
-| **1** | Ziele und Zielgruppen | ✅ 4/4 | Alle 20 erfahrungsorientierten Leitfäden (v1.2 Überblick-Tabellen); BNE-Bewertung | Messbare Lernziele (4 je Leitfaden) zielgruppenspezifisch differenziert (1.2); fünf Zielgruppen programmseitig definiert (1.1); Werte-Handlungs-Lücke als zentrales Problemstatement (1.1.1 Lebenswelt) |
-| **2** | Ansatz | ✅ 3/3 | Toolkit (alle Teile); alle 20 erfahrungsorientierten Leitfäden (v1.2 Zeile Nachhaltigkeitsdimensionen); Anhänge A–D | Alle vier Nachhaltigkeitsdimensionen (ökologisch/ökonomisch/sozial/kulturell) in jeder Leitfaden-Überblick-Tabelle explizit zugeordnet (2.1.1); SDG-Bezüge je Leitfaden (2.1.3); lokal-globale Verknüpfung über Naturpark Schlaubetal ↔ offene Dateninfrastruktur (2.2) |
-| **3** | Methoden | ✅ 11/13 — ⚠️ 2 teilweise | Alle 20 erfahrungsorientierten Leitfäden; Proxemische Integration; Implementierungshandbuch | Alle Leitfäden demonstrieren Handlungsorientierung, situiertes Lernen, Partizipation und Reflexion (3.1); methodische Grundlagen mit akademischen Quellenangaben je Leitfaden (3.2.2/3.2.3); Vorbereitungsmaterialien dokumentiert (3.3.1, über Leitfaden-Auswahlhilfe und Anhang D); Nachbereitungsressourcen dokumentiert (3.3.3, über OER-Plattform, Token-Ökonomie, erdpuls@ubec.network) |
-| **4** | Gestaltungskompetenz | ✅ 12/12 | Alle 20 erfahrungsorientierten Leitfäden; Anhang D; OER-Schicht; OER-Kompetenzcluster-Tabelle | Alle 12 Transfer-21-Teilkompetenzen adressiert (Minimum: 1); Kompetenzcluster in diesem Index abgebildet; jede Leitfaden-Überblick-Tabelle weist leitfadenspezifische Kompetenzbeiträge aus |
-| **5** | Qualitätsentwicklung | ✅ 6/7 — ⚠️ 1 teilweise — ⏳ 1 geplant | BNE-Bewertung; Pattern Language Syntheseleitfaden; BNE-Qualitätsrahmen Erfahrungsorientierte Leitfäden (alle Zielgruppen); Implementierungshandbuch | Entwicklungsziele und Drei-Phasen-Plan mit Budgets (5.1.1/5.1.2); kontinuierliche Praxisreflexion über Sensordaten und Qualitätskarten/Qualitätskompass (5.2.1); systematische Selbstevaluation in Entwicklung (5.2.2, Phase 2); externe Evaluation geplant (5.2.3, Phase 3); Kooperation mit nationalen und internationalen Partnern dokumentiert (5.3) |
-| **6** | Qualifikation der Durchführenden | ✅ 3/4 — ⚠️ 1 teilweise | Alle 20 erfahrungsorientierten Leitfäden (v1.2 Abschnitte Moderationshinweise); Implementierungshandbuch | Leitfadenspezifische Qualifikationsanforderungen an Durchführende in jedem Leitfaden angegeben (6.1.1 formale Qualifikation oder 6.1.2 dokumentierte Erfahrung); Leitfaden 5 (Grenzüberschreitend) enthält verbindliche zweisprachige DE/PL-Co-Moderationspflicht; Fort- und Weiterbildungspfad über den jährlichen Erdpuls-Programmzyklus dokumentiert |
-| **7** | Organisationale Bedingungen | ✅ 10/14 — ⚠️ 2 teilweise — ⏳ 2 geplant | BNE-Bewertung und Leitbild; Boden-Labor Konzept; Implementierungshandbuch | Formelles Leitbild mit Vision und fünf Leitsätzen (7.1); Heritage-Campus mit fünf Zonen (7.2); Drei-Phasen-Entwicklungsplan mit dokumentierten Budgets €95k–€190k (7.3); Fahrrad-/Verkehrsinformationen in Entwicklung (7.4.1); Gemeinschaftsküche geplant Phase 3 (7.4.3) |
+| **1** | Ziele und Zielgruppen | [OK] 4/4 | Alle 20 erfahrungsorientierten Leitfäden (v1.2 Überblick-Tabellen); BNE-Bewertung | Messbare Lernziele (4 je Leitfaden) zielgruppenspezifisch differenziert (1.2); fünf Zielgruppen programmseitig definiert (1.1); Werte-Handlungs-Lücke als zentrales Problemstatement (1.1.1 Lebenswelt) |
+| **2** | Ansatz | [OK] 3/3 | Toolkit (alle Teile); alle 20 erfahrungsorientierten Leitfäden (v1.2 Zeile Nachhaltigkeitsdimensionen); Anhänge A–D | Alle vier Nachhaltigkeitsdimensionen (ökologisch/ökonomisch/sozial/kulturell) in jeder Leitfaden-Überblick-Tabelle explizit zugeordnet (2.1.1); SDG-Bezüge je Leitfaden (2.1.3); lokal-globale Verknüpfung über Naturpark Schlaubetal <-> offene Dateninfrastruktur (2.2) |
+| **3** | Methoden | [OK] 11/13 — [!] 2 teilweise | Alle 20 erfahrungsorientierten Leitfäden; Proxemische Integration; Implementierungshandbuch | Alle Leitfäden demonstrieren Handlungsorientierung, situiertes Lernen, Partizipation und Reflexion (3.1); methodische Grundlagen mit akademischen Quellenangaben je Leitfaden (3.2.2/3.2.3); Vorbereitungsmaterialien dokumentiert (3.3.1, über Leitfaden-Auswahlhilfe und Anhang D); Nachbereitungsressourcen dokumentiert (3.3.3, über OER-Plattform, Token-Ökonomie, erdpuls@ubec.network) |
+| **4** | Gestaltungskompetenz | [OK] 12/12 | Alle 20 erfahrungsorientierten Leitfäden; Anhang D; OER-Schicht; OER-Kompetenzcluster-Tabelle | Alle 12 Transfer-21-Teilkompetenzen adressiert (Minimum: 1); Kompetenzcluster in diesem Index abgebildet; jede Leitfaden-Überblick-Tabelle weist leitfadenspezifische Kompetenzbeiträge aus |
+| **5** | Qualitätsentwicklung | [OK] 6/7 — [!] 1 teilweise — [pending] 1 geplant | BNE-Bewertung; Pattern Language Syntheseleitfaden; BNE-Qualitätsrahmen Erfahrungsorientierte Leitfäden (alle Zielgruppen); Implementierungshandbuch | Entwicklungsziele und Drei-Phasen-Plan mit Budgets (5.1.1/5.1.2); kontinuierliche Praxisreflexion über Sensordaten und Qualitätskarten/Qualitätskompass (5.2.1); systematische Selbstevaluation in Entwicklung (5.2.2, Phase 2); externe Evaluation geplant (5.2.3, Phase 3); Kooperation mit nationalen und internationalen Partnern dokumentiert (5.3) |
+| **6** | Qualifikation der Durchführenden | [OK] 3/4 — [!] 1 teilweise | Alle 20 erfahrungsorientierten Leitfäden (v1.2 Abschnitte Moderationshinweise); Implementierungshandbuch | Leitfadenspezifische Qualifikationsanforderungen an Durchführende in jedem Leitfaden angegeben (6.1.1 formale Qualifikation oder 6.1.2 dokumentierte Erfahrung); Leitfaden 5 (Grenzüberschreitend) enthält verbindliche zweisprachige DE/PL-Co-Moderationspflicht; Fort- und Weiterbildungspfad über den jährlichen Erdpuls-Programmzyklus dokumentiert |
+| **7** | Organisationale Bedingungen | [OK] 10/14 — [!] 2 teilweise — [pending] 2 geplant | BNE-Bewertung und Leitbild; Boden-Labor Konzept; Implementierungshandbuch | Formelles Leitbild mit Vision und fünf Leitsätzen (7.1); Heritage-Campus mit fünf Zonen (7.2); Drei-Phasen-Entwicklungsplan mit dokumentierten Budgets €95k–€190k (7.3); Fahrrad-/Verkehrsinformationen in Entwicklung (7.4.1); Gemeinschaftsküche geplant Phase 3 (7.4.3) |
 
 **Mindestanforderungen in allen sieben Bereichen: erfüllt.**
 

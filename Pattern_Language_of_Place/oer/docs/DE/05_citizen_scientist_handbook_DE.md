@@ -269,7 +269,7 @@ Die senseBox MCU ist eine mikrocontrollerbasierte Sensorplattform, die an der Un
 
 ### Ihre Station aufbauen (Überblick)
 
-Vollständige Montageanleitungen finden Sie unter https://sensebox.de/. Erdpuls bietet Gemeinschaftsmitgliedern senseBox-Montage-Workshops an — für aktuelle Termine wenden Sie sich an erdpuls@ubec.network. Der folgende Überblick gibt Ihnen eine Vorstellung, was Sie erwartet:
+Vollständige Montageanleitungen finden Sie unter [https://sensebox.de/](https://sensebox.de/) Erdpuls bietet Gemeinschaftsmitgliedern senseBox-Montage-Workshops an — für aktuelle Termine wenden Sie sich an erdpuls@ubec.network. Der folgende Überblick gibt Ihnen eine Vorstellung, was Sie erwartet:
 
 **Schritt 1 — Registrieren Sie Ihre Station auf openSenseMap**, bevor Sie die Hardware zusammenbauen. Sie erhalten eine eindeutige Stations-ID, die Sie in das Gerät programmieren. Gehen Sie zu opensensemap.org, erstellen Sie ein Konto und klicken Sie auf „Neue senseBox".
 

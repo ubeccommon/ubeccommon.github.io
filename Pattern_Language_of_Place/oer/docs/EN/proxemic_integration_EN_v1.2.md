@@ -291,11 +291,11 @@ Bioregion mapping presents the toolkit's greatest proxemic challenge: it asks pa
 Add a layer to the Expedition Record Sheet:
 
 *"At each stop, record which senses are still working:"*
-- Can I TOUCH something specific to this place? (soil, bark, stone, water) ☐
-- Can I SMELL something specific to this place? ☐
-- Can I HEAR something specific to this place? ☐
-- Can I FEEL temperature or wind specific to this place? ☐
-- Can I SEE something specific to this place? ☐
+- Can I TOUCH something specific to this place? (soil, bark, stone, water) [ ]
+- Can I SMELL something specific to this place? [ ]
+- Can I HEAR something specific to this place? [ ]
+- Can I FEEL temperature or wind specific to this place? [ ]
+- Can I SEE something specific to this place? [ ]
 
 As children fill this in at each transect stop, a pattern emerges: close to the campus, all five boxes are checked (intimate proxemic relationship with the place). As they move outward, boxes start to go unchecked (smell fades, distinctive touch surfaces disappear, sounds become generic). The distance at which the last non-visual channel closes is a proxemically defined boundary — and it may correspond to a genuine bioregional transition.
 
@@ -478,26 +478,26 @@ Before each workshop, walk through the planned activities and complete this tabl
 |---|---|---|---|---|---|---|
 | *Phase name* | Intimate / Personal / Social / Public | T=touch, S=smell, Th=thermal, A=auditory, V=visual | Sociopetal / Sociofugal / Mixed | Level / Facilitator above / Participant above | *What can participants touch?* | Yes / No |
 
-**Example audit (soil workshop → mapping synthesis):**
+**Example audit (soil workshop -> mapping synthesis):**
 
 | Phase | Zone | Channels | Arrangement | Vertical | Anchor | Mediation? |
 |---|---|---|---|---|---|---|
 | Ring 0 calibration | Intimate | T, Th, A, V | Sociofugal (individual) | Level (all kneeling/standing) | Own body, ground | No |
 | Soil protocol | Intimate–Personal | T, S, Th, A, V | Mixed (pairs/small groups) | Level (all kneeling) | Soil | If mixed group: soil mediates |
 | Group synthesis | Personal–Social | A, V | Sociopetal (circle) | Level (all seated) | Soil samples from protocol | No |
-| GIS exploration | Public | V, A | Sociofugal (facing screen) | Standing/seated | ⚠ None prepared | Bring a tactile object |
+| GIS exploration | Public | V, A | Sociofugal (facing screen) | Standing/seated | [!] None prepared | Bring a tactile object |
 | Boundary deliberation | Social | V, A, gesture | Sociopetal (around table) | Level (standing at table) | Map, yarn | Map as mediator |
 | Shared meal | Personal–Intimate | T, S, Th, A, V | Strongly sociopetal | Level (all seated) | Food | Food as mediator |
 
 **Diagnostic checks:**
 
-☐ Are there 3+ consecutive phases at Social/Public distance with ≤2 channels? → **Insert a hands-on phase between them.** The workshop will lose engagement otherwise.
+[ ] Are there 3+ consecutive phases at Social/Public distance with ≤2 channels? -> **Insert a hands-on phase between them.** The workshop will lose engagement otherwise.
 
-☐ Does every Social/Public phase have a Sensory Anchor Object prepared? → **If not, prepare one.** A soil sample, a rock, a tool, a plant, a piece of bread — anything participants can touch that maintains proxemic connection to the subject matter.
+[ ] Does every Social/Public phase have a Sensory Anchor Object prepared? -> **If not, prepare one.** A soil sample, a rock, a tool, a plant, a piece of bread — anything participants can touch that maintains proxemic connection to the subject matter.
 
-☐ Is there at least one strongly sociopetal phase? → **The workshop needs a gathering moment.** If every phase is sociofugal, participants will feel isolated.
+[ ] Is there at least one strongly sociopetal phase? -> **The workshop needs a gathering moment.** If every phase is sociofugal, participants will feel isolated.
 
-☐ Is the facilitator at the same height as participants during intimate/personal phases? → **If not, adjust.** Standing over kneeling participants introduces a power dynamic that undermines participatory learning.
+[ ] Is the facilitator at the same height as participants during intimate/personal phases? -> **If not, adjust.** Standing over kneeling participants introduces a power dynamic that undermines participatory learning.
 
 * * *
 
@@ -517,7 +517,7 @@ Each of the five campus zones has a proxemic character that shapes what kinds of
 
 **Proxemic character:** Mixed. Individual garden beds are sociofugal (each person faces their own row). Communal areas — the washing station, the Boden-Labor outdoor stations, the central gathering circle — are sociopetal.
 
-**Design guidance:** Permanent soil observation stations (3–4 across the garden) marked with posts. A central gathering area (gravel circle, bench ring, or cleared space) for group briefings — the sociopetal anchor of Zone B. Boden-Koffer storage at the garden edge, accessible during workshops. Garden paths should pass through micro-transitions (cultivated → wild → wet → dry → shaded → open) — these are Ring 2 training transitions.
+**Design guidance:** Permanent soil observation stations (3–4 across the garden) marked with posts. A central gathering area (gravel circle, bench ring, or cleared space) for group briefings — the sociopetal anchor of Zone B. Boden-Koffer storage at the garden edge, accessible during workshops. Garden paths should pass through micro-transitions (cultivated -> wild -> wet -> dry -> shaded -> open) — these are Ring 2 training transitions.
 
 **Proxemic profile:** Intimate (soil handling, plant contact) to Social (garden overview). Full sensory spectrum near the ground; vision-dominant when standing and surveying.
 

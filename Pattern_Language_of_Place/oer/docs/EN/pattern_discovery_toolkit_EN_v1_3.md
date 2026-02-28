@@ -87,7 +87,7 @@ The toolkit assumes that participating initiatives have access to at least basic
 
 The workshop method moves outward through concentric rings of attention, from the most intimate and immediate to the most expansive. At each ring, participants practice the same cycle:
 
-**Observe → Name the Pattern → Record → Cross-Reference → Reflect**
+**Observe -> Name the Pattern -> Record -> Cross-Reference -> Reflect**
 
 The number and character of the rings will vary by site. What matters is the principle: *start from the center*. Do not begin with maps, plans, or abstractions. Begin with the ground, the body, the immediate surround.
 
@@ -202,13 +202,13 @@ The toolkit addresses all seven quality areas of the Brandenburg BNE Quality Cat
 
 | Area | Title | Status |
 |---|---|---|
-| 1 | Goals and Target Groups | ✅ All criteria met |
-| 2 | Approach | ✅ All criteria met |
-| 3 | Methods | ✅ Minimum requirements met; 11/13 fully |
-| 4 | Gestaltungskompetenz (Design Competencies) | ✅ All 12 sub-competencies addressed |
-| 5 | Quality Development | ✅ Minimum requirements met |
-| 6 | Facilitator Qualification | ✅ Minimum requirements met |
-| 7 | Organisational Conditions | ✅ Minimum requirements met |
+| 1 | Goals and Target Groups | [OK] All criteria met |
+| 2 | Approach | [OK] All criteria met |
+| 3 | Methods | [OK] Minimum requirements met; 11/13 fully |
+| 4 | Gestaltungskompetenz (Design Competencies) | [OK] All 12 sub-competencies addressed |
+| 5 | Quality Development | [OK] Minimum requirements met |
+| 6 | Facilitator Qualification | [OK] Minimum requirements met |
+| 7 | Organisational Conditions | [OK] Minimum requirements met |
 
 * * *
 
@@ -248,8 +248,8 @@ Steiner proposed that human development unfolds through three broad phases, each
 | Developmental Phase | Primary 4A Entry | Rings Where This Phase Is Most Active |
 |---|---|---|
 | Will-forces | **Awareness** — the body knows before the mind explains | Ring 0 (calibration), Ring 1 (material contact), Ring 2 (soil and garden) |
-| Feeling forces | **Acknowledgment → Attitude** — recognition and values reflection | Ring 2 (ecological patterns that *matter*), Ring 3 (contested social patterns) |
-| Thinking / judgment | **Attitude → Action** — ethical synthesis and commitment | Ring 4 (bioregional deliberation), Closing (intention and return) |
+| Feeling forces | **Acknowledgment -> Attitude** — recognition and values reflection | Ring 2 (ecological patterns that *matter*), Ring 3 (contested social patterns) |
+| Thinking / judgment | **Attitude -> Action** — ethical synthesis and commitment | Ring 4 (bioregional deliberation), Closing (intention and return) |
 
 **The developmental arc spirals across the lifespan.** These phases are not permanent age-brackets. Every person re-enters the will-forces phase whenever they encounter something genuinely unfamiliar — a new landscape, a new craft, a new community. Every adult approaching Ring 0 for the first time is, in that moment, a will-forces learner: sensation must precede explanation. The toolkit's insistence on embodied observation before analytical interpretation is not a concession to young participants — it is an acknowledgment that Steiner's first phase describes the epistemological condition of any first encounter with the living world, regardless of the participant's age.
 
@@ -716,7 +716,7 @@ This toolkit stands at the intersection of several intellectual traditions. None
 
 **Goethean Science** — Johann Wolfgang von Goethe's approach to natural observation, developed in *The Metamorphosis of Plants* (1790) and *Theory of Colours* (1810). The discipline of attentive, sequential observation before analysis. The idea that the observer is part of the phenomenon. Elaborated in the 20th century by Henri Bortoft (*The Wholeness of Nature*, 1996). The toolkit's insistence on sensation before interpretation, and its Ring 0 body-calibration practice, are direct applications of Goethe's *zarte Empirie* (delicate empiricism). In proxemic terms, Goethean observation requires that the observer remain in the intimate or personal zone with the phenomenon — close enough for all sensory channels to be active — long enough for the phenomenon to reveal its own structure.
 
-**Anthroposophy / Rudolf Steiner** — *Die Erziehung des Kindes vom Gesichtspunkte der Geisteswissenschaft* (The Education of the Child, 1907); *Allgemeine Menschenkunde als Grundlage der Pädagogik* (Study of Man, 1919); and the lectures collected as *Erziehungskunst* (The Art of Education, 1919). Steiner was simultaneously the most rigorous early interpreter of Goethe's scientific method in the German-speaking world and the founder of Waldorf education — two contributions that are not incidental to each other. His developmental stage framework — will-forces dominant in early childhood, feeling/rhythmic forces in middle childhood, thinking/individual judgment emerging in adolescence — provides the calibration logic for the toolkit's 4A-Pathway (Awareness → Acknowledgment → Attitude → Action). His triune model of the human being (Thinking / Feeling / Willing, or *Denken / Fühlen / Wollen*) is the philosophical root of Three-Stream Pedagogy (Head / Hands / Heart), which governs the design of every session in this toolkit. The toolkit draws on Steiner's pedagogical insights — particularly his insistence that embodied, sensory encounter must precede conceptual instruction, and that moral capacity develops through concrete experience of consequence rather than abstract ethical instruction — as a developmental psychology applicable to all ages and backgrounds. Facilitators are not required to hold any position on the broader anthroposophical worldview; the pedagogical framework stands independently on the basis of its practical efficacy. See also: Kieran Egan (*Teaching as Storytelling*, 1986) for a non-anthroposophical account of the same developmental stages; David Hay and Rebecca Nye (*The Spirit of the Child*, 1998) for empirical research on children's relational awareness that independently corroborates Steiner's will-forces phase.
+**Anthroposophy / Rudolf Steiner** — *Die Erziehung des Kindes vom Gesichtspunkte der Geisteswissenschaft* (The Education of the Child, 1907); *Allgemeine Menschenkunde als Grundlage der Pädagogik* (Study of Man, 1919); and the lectures collected as *Erziehungskunst* (The Art of Education, 1919). Steiner was simultaneously the most rigorous early interpreter of Goethe's scientific method in the German-speaking world and the founder of Waldorf education — two contributions that are not incidental to each other. His developmental stage framework — will-forces dominant in early childhood, feeling/rhythmic forces in middle childhood, thinking/individual judgment emerging in adolescence — provides the calibration logic for the toolkit's 4A-Pathway (Awareness -> Acknowledgment -> Attitude -> Action). His triune model of the human being (Thinking / Feeling / Willing, or *Denken / Fühlen / Wollen*) is the philosophical root of Three-Stream Pedagogy (Head / Hands / Heart), which governs the design of every session in this toolkit. The toolkit draws on Steiner's pedagogical insights — particularly his insistence that embodied, sensory encounter must precede conceptual instruction, and that moral capacity develops through concrete experience of consequence rather than abstract ethical instruction — as a developmental psychology applicable to all ages and backgrounds. Facilitators are not required to hold any position on the broader anthroposophical worldview; the pedagogical framework stands independently on the basis of its practical efficacy. See also: Kieran Egan (*Teaching as Storytelling*, 1986) for a non-anthroposophical account of the same developmental stages; David Hay and Rebecca Nye (*The Spirit of the Child*, 1998) for empirical research on children's relational awareness that independently corroborates Steiner's will-forces phase.
 
 **Phenomenology** — Edmund Husserl, Maurice Merleau-Ponty (*Phenomenology of Perception*, 1945), and more recently David Seamon (environmental phenomenology, "place-ballet"). The insistence that knowledge begins with pre-theoretical description of lived experience. Merleau-Ponty's radical claim — that the body is not an object in the world but the subject through which there is a world — grounds the toolkit's treatment of the body as a sensing instrument of equal dignity to electronic sensors. Hall's proxemics operationalizes Merleau-Ponty's insight: the body's sensory reach defines the boundaries of lived space, and these boundaries are culturally elaborated.
 

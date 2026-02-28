@@ -9,7 +9,7 @@ project: "Erdpuls Müllrose OER Collection"
 ---
 # Erdpuls Lernleitfaden 01 — Klassen 1–4
 ## Erddetektive: Erste Begegnungen mit lebendigem Boden
-### Für Kinder zwischen 6 und 10 Jahren | Grundschule
+### Für Kinder zwischen 6 und 10 Jahren — Grundschule
 
 **Institution:** Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics  
 **Standort:** Müllrose, Brandenburg, Deutschland
@@ -44,7 +44,7 @@ project: "Erdpuls Müllrose OER Collection"
 | **Entwicklungsphase** | Willensphase (anthroposophische erste Siebenjahresperiode): verkörpertes Wissen, Imagination, rhythmisches Lernen, direktes sensorisches Vertrauen |
 | **Citizen-Science-Ergebnis** | Illustrierte Feldkarten; Klassen-Bodenportrait; erste iNaturalist-Beobachtungseinträge |
 | **Tokenwirtschaftsebene** | Einführend — Tokensamen (Entdeckungs- und Teilungsanerkennung) |
-| **Verfügbare Sprachen** | DE ✓  EN vorhanden  PL ausstehend |
+| **Verfügbare Sprachen** | DE ([emoji])  EN vorhanden  PL ausstehend |
 
 * * *
 

@@ -9,7 +9,7 @@ project: "Erdpuls Müllrose OER Collection"
 ---
 # Erdpuls Lernleitfaden 03 — Klassen 9–12
 ## Ort als Labor: Forschungsmethoden für die lebendige Welt
-### Für Schülerinnen und Schüler zwischen 15 und 18 Jahren | Oberstufe
+### Für Schülerinnen und Schüler zwischen 15 und 18 Jahren — Oberstufe
 
 **Institution:** Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics  
 **Standort:** Müllrose, Brandenburg, Deutschland
@@ -44,7 +44,7 @@ project: "Erdpuls Müllrose OER Collection"
 | **Entwicklungsphase** | Emergenz der dritten Siebenjahresperiode: erwachendes individuelles Urteil, Fähigkeit zu systemischem und ethischem Denken, die Frage „Wer bin ich in der Welt und was schulde ich ihr?" |
 | **Citizen-Science-Ergebnis** | Vollständiger Datensatz, eingetragen in Erdpuls' Langzeitarchiv; iNaturalist-Arteneinträge; openSenseMap-Datenbeitrag; optional: selbstständige Forschungsfrage mit Folgeprotokoll |
 | **Tokenwirtschaftsebene** | Fortgeschritten — vollständiges UBECrc-Engagement; optional: Designübung für eine alternative Tokenwirtschaft, angewendet auf ein von den Schüler/innen identifiziertes Problem |
-| **Verfügbare Sprachen** | DE ✓  EN vorhanden  PL ausstehend |
+| **Verfügbare Sprachen** | DE ([emoji])  EN vorhanden  PL ausstehend |
 
 * * *
 

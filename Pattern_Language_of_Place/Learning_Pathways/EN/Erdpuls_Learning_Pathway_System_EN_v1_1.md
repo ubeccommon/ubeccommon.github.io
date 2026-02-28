@@ -20,12 +20,12 @@ status: "Concept Document — for review and programme development"
 | **Status** | Concept Document — for review and programme development |
 | **Author** | Erdpuls Müllrose |
 | **License** | CC BY-NC-SA 4.0 |
-| **Contact** | erdpuls@ubec.network · https://erdpuls.ubec.network |
+| **Contact** | erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network) |
 | **Mission** | *Ein Ort, um wieder Mensch zu werden. / A place to become human again.* |
 
 *This document is compiled strictly from facts present in the operational project documents, the Master Index (v1.4), the BNE Quality Assessment and Leitbild, the Pattern Discovery Toolkit (v1.3), the Token Economy Living Guides (EN/DE v1.2), the Bioregion Mapping Living Guides (v1.2), the BNE Quality Living Guides (v1.2), the Proxemic Integration document (v1.2), and the OER Layer guides (v1.1). No information has been inferred or assumed beyond what is explicitly stated in those sources.*
 
----
+* * *
 
 ## Table of Contents
 
@@ -55,7 +55,7 @@ status: "Concept Document — for review and programme development"
 - [Part 4 — Cross-Group Convergence Map](#part-4--cross-group-convergence-map)
 - [License and Attribution](#license-and-attribution)
 
----
+* * *
 
 ## Part 1 — General Concept
 
@@ -69,7 +69,7 @@ What closes the gap is structured experience followed by structured reflection, 
 
 A learning pathway system addresses this at a level that even well-designed individual workshops cannot reach alone. It provides the longitudinal architecture across which the VAG can be closed progressively, across multiple experiences and over time. It makes growth visible, makes the next step navigable, and transforms the relationship between values and action from an impossible leap into a legible journey.
 
----
+* * *
 
 ### 1.2 What a Learning Pathway Map Is — and Is Not
 
@@ -81,7 +81,7 @@ Second, a pathway map represents transitions between competency states — it sh
 
 Third, and most directly relevant to the VAG, a well-designed pathway map makes the action dimension intrinsic to every stage, not a terminal destination. Every milestone node in the Erdpuls pathway maps is defined in part by what the learner has done and produced at that point — a contributed dataset, a repaired object, a named pattern card, a designed token economy, a published Elder Memory Map. The 4A-Pathway (Awareness → Acknowledgment → Attitude → Action) is therefore not a description of the pathway as a whole; it is the architecture of each individual milestone node within it.
 
----
+* * *
 
 ### 1.3 Theoretical Foundations
 
@@ -99,7 +99,7 @@ The pathway is spiral, not linear. A participant who has completed all four node
 
 **Proxemics (Hall, *The Hidden Dimension*, 1966).** Hall's four distance zones — intimate (0–45 cm), personal (45 cm–1.2 m), social (1.2–3.6 m), and public (3.6 m+) — provide the spatial grammar of the pathway maps. Entry nodes are intimate: hands in soil, face-to-face exchange, personal distance from materials. As learners advance through the pathway, they move outward — to social and public distance, to bioregional scale, to cross-border collaboration in Ring 4 and beyond. The concentric ring observation structure (Ring 0 through Ring 4) is the spatial expression of this proxemic progression, and the pathway map makes this spatial dimension of learning visible alongside the temporal and competency dimensions.
 
----
+* * *
 
 ### 1.4 The Three Navigational Axes
 
@@ -113,7 +113,7 @@ Every milestone node in every Erdpuls pathway map is located at a specific posit
 
 The three axes are not independent: progression along the X-axis generally requires deepening on both the Y and Z axes. A learner who completes four sessions in the Awareness stage without moving into Acknowledgment has not advanced on the pathway — they have repeated the entry node. The pathway maps make this distinction visible and allow facilitators to diagnose where a learner has plateaued and which axis most needs attention.
 
----
+* * *
 
 ### 1.5 The Five Competency Clusters as Pathway Dimensions
 
@@ -127,7 +127,7 @@ All five OER Competency Clusters — defined in the Master Index (v1.4) and alig
 | **Economic Understanding** | 4.2.2, 4.2.3, 4.3.1 | Token economy participation, four-element recognition (Cooperation, Reciprocity, Mutualism, Regeneration), Repair Café engagement, UBECrc design exercises, critical analysis of market economics |
 | **Social-Emotional Learning** | 4.2.4, 4.3.3, 4.3.4 | Empathy for soil organisms and place, intergenerational knowledge exchange, cross-cultural proxemic negotiation, Values-Action Map reflection, Personal Quality Commitment |
 
----
+* * *
 
 ### 1.6 The Token Economy as Pathway Tracking System
 
@@ -137,7 +137,7 @@ Every token earned is a pathway trace: a verifiable, timestamped record of an ex
 
 The four token elements map onto the pathway in the following way. Cooperation tokens tend to cluster at Awareness and Acknowledgment nodes, where collaborative observation and group synthesis are the primary activities. Reciprocity tokens tend to cluster at Acknowledgment and Attitude nodes, where the bidirectional exchange of skills, knowledge, and care is most visible. Mutualism tokens cluster at Action nodes, where the benefit of a contribution extends beyond the participants themselves — to the global iNaturalist dataset, to the Erdpuls pattern language commons, to a cross-border citizen science network. Regeneration tokens mark the highest-impact Action nodes — those where ecological or social conditions are demonstrably improved by the participant's contribution, whether through a planted hedgerow, a published Elder Memory Map, a repaired object, or a facilitated cross-border programme.
 
----
+* * *
 
 ### 1.7 Cross-Group Convergence Zones
 
@@ -147,7 +147,7 @@ The seasonal observational cycle is the most structurally important convergence 
 
 The convergence of these five data streams across a single soil patch, over a single season, produces a depth of place-knowledge that no single group could generate alone. Convergence zones are marked explicitly in the pathway maps below and identified in the Cross-Group Convergence Map in Part 4.
 
----
+* * *
 
 ### 1.8 The Facilitator Pathway
 
@@ -155,7 +155,7 @@ The Learning Pathway System includes a dedicated facilitator development pathway
 
 The facilitator pathway is grounded in the Collective Threshold Model documented in the token economy architecture: the four participation pathways — including the Supported Rate — ensure that financial means do not determine access to facilitator development. Tokens earned in participant roles contribute to the Supported Rate threshold for facilitator training, and facilitation itself generates Regeneration tokens that are the highest-value element in the token economy. This creates a structural incentive for participants to advance to facilitation that is not financial but social and ecological: those who facilitate are publicly acknowledged as contributors to the community's capacity to learn.
 
----
+* * *
 
 ## Part 2 — Implementation Strategy
 
@@ -169,7 +169,7 @@ The Learning Pathway System is designed to deepen across the three documented pr
 | **Phase 2: Renovate and Expand** | 2027–2028 | Formal participant evaluation instruments (BNE 5.2.2); digital pathway dashboard linked to token ledger; facilitator pathway formalised with co-facilitator training programme; returning-participant pathway traces recorded and compared | First facilitator training cohort; digital pathway traces for returning participants; first cross-group convergence events formally documented |
 | **Phase 3: Mature and Radiate** | 2028–2030 | External impact evaluation (BNE 5.2.3); regional model dissemination; pathway system published as OER; cross-border pathway integration with Polish partner sites through INTERREG or bilateral mechanisms | Pathway system as transferable OER; longitudinal dataset of pathway traces across three full seasons; regional facilitator network established |
 
----
+* * *
 
 ### 2.2 The VAG Diagnostic at Every Node
 
@@ -185,7 +185,7 @@ The right column is the most important. It converts the gap from a source of gui
 
 Each pathway map below includes a **VAG Bridge Question** for every milestone node. These questions are phrased in the second person, in the facilitation voice, and can be used directly in the field without adaptation. They are calibrated to the developmental and contextual realities of each target group: the question at a child's Node 2 activates the same gap-closing mechanism as the question at an elder's Node 2, but at the right register of abstraction and personal agency.
 
----
+* * *
 
 ### 2.3 Pathway Documentation Standards
 
@@ -197,7 +197,7 @@ The **Token Ledger** on the Stellar blockchain provides the verifiable, timestam
 
 The **Annual Pattern Language Assembly**, held each January, synthesises the accumulated pathway traces of all participants from the preceding year into a coherent, place-specific pattern language document. This is the institutional memory of the pathway system — the moment at which individual learning trajectories are woven into a collective understanding of the sub-bioregion that no individual pathway could generate alone.
 
----
+* * *
 
 ### 2.4 Capacity Building at Three Levels
 
@@ -209,7 +209,7 @@ At the **facilitator level**, capacity building means the development of the ped
 
 At the **institutional level**, capacity building means the accumulation of knowledge, relationships, data, and practices that allow Erdpuls to become progressively better at closing the VAG for its participants. The aggregated pathway trace data — from token ledgers, Values-Action Maps, Quality Compass records, and annual Pattern Language Assemblies — constitutes the longitudinal evidence base that allows Erdpuls to assess its own impact, improve its programme design, and demonstrate compliance with BNE quality criteria 5.2.2 and 5.2.3 in Phases 2 and 3.
 
----
+* * *
 
 ## Part 3 — Target-Group Pathway Maps
 
@@ -220,7 +220,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 > **Stage colour legend for reference:**
 > `AWARENESS` — entry sensory encounter · `ACKNOWLEDGMENT` — recognition of systemic connection · `ATTITUDE` — values reflection · `ACTION` — concrete documented contribution
 
----
+* * *
 
 ### Target Group 1 — Children and Youth
 
@@ -230,18 +230,18 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 
 **Structural note.** Target Group 1 is differentiated into three grade bands that correspond directly to OER Learning Guides 01, 02, and 03 and to the differentiation matrices in the 13-Questions and BIKOBO curriculum sections. The three grade bands are not parallel versions of the same programme; they represent qualitatively different modes of engagement that reflect the developmental stage of each age group. A Class 1–4 session protects the will-forces phase from premature conceptualisation. A Class 5–8 session activates awakening causal reasoning through systematic measurement and peer investigation. A Class 9–12 session addresses individual moral judgment through independent research, ethical positioning, and open-science contribution. All three bands share the same 4A-Pathway architecture and the same Erdpuls concentric ring geography — but the depth, abstraction, and agency available at each stage differs substantially. Cross-band encounters are themselves a convergence resource: a Grade 9–12 student who co-facilitates a Grade 1–4 session is undergoing a developmentally appropriate Action-stage experience that no single-band programme can provide.
 
----
+* * *
 
-#### Grade Band A — Classes 1–4 · Ages 6–10 | Lower Primary School
+### Grade Band A — Classes 1–4 · Ages 6–10 — Lower Primary School
 
 **OER Guide:** `01_learning_guide_grades_1-4.md` — *Earth Detectives: First Encounters with Living Ground*
 **Developmental mode:** Feeling-based experience — will-forces dominant; imitation and rhythm; sensation before interpretation
 **Token Economy level:** Token Seeds (introductory, pre-economic — sharing a discovery creates value for the group)
 **VAG status at entry:** The gap has not yet hardened. The primary task is not closing a gap but preventing one from forming — by establishing, from the first encounter, that direct sensory attention to the living world is both possible and consequential.
 
----
+* * *
 
-##### Node 1 — Meeting the Living Ground
+#### Node 1 — Meeting the Living Ground
 
 | Field | Detail |
 |---|---|
@@ -255,9 +255,9 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 | **Active Competency Clusters** | Environmental Literacy · Social-Emotional Learning |
 | **VAG Bridge Question** | *"You found something alive in the soil. What do you think it eats? Where do you think it sleeps at night? You just asked a scientist's question — because that's exactly what scientists ask."* |
 
----
+* * *
 
-##### Node 2 — The Soil Speaks Numbers
+#### Node 2 — The Soil Speaks Numbers
 
 | Field | Detail |
 |---|---|
@@ -271,9 +271,9 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 | **Active Competency Clusters** | Environmental Literacy · Scientific Inquiry |
 | **VAG Bridge Question** | *"Someone in Japan or Brazil could look at the number your senseBox sent and know what the air is like in Müllrose today. You sent a message to the whole world. What else do you know — about your garden, your street, the puddle near your school — that the world should hear?"* |
 
----
+* * *
 
-##### Node 3 — What Does the Ground Need from Us?
+#### Node 3 — What Does the Ground Need from Us?
 
 | Field | Detail |
 |---|---|
@@ -287,9 +287,9 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 | **Active Competency Clusters** | Economic Understanding · Social-Emotional Learning |
 | **VAG Bridge Question** | *"The seeds we planted today won't be ready to eat until you come back. What will you do to make sure the soil is ready for them — between now and your next visit?"* |
 
----
+* * *
 
-##### Node 4 — Earth Detectives Share Their Science
+#### Node 4 — Earth Detectives Share Their Science
 
 | Field | Detail |
 |---|---|
@@ -305,18 +305,18 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 
 **Convergence zones for Grade Band A:** The spring Node 1 organism count from a Class 1–4 visit is the earliest entry in the Erdpuls seasonal observational cycle — it becomes the baseline against which Classes 5–8 (summer) and elders (autumn memory comparison) are later interpreted. The Class Soil Portrait is archived in the Erdpuls programme commons and becomes source material for Artist-in-Residence pattern documentation. At Node 4, children present to real audiences drawn from other target groups, creating a simple but genuine intergenerational convergence.
 
----
+* * *
 
-#### Grade Band B — Classes 5–8 · Ages 11–14 | Middle School
+### Grade Band B — Classes 5–8 · Ages 11–14 — Middle School
 
 **OER Guide:** `02_learning_guide_grades_5-8.md` — *Field Investigators: Measuring the Living World*
 **Developmental mode:** Discovery-based understanding — awakening causal reasoning; peer identity central; abstract thinking available but most powerful when anchored in observation
 **Token Economy level:** Intermediate — all four elements introduced and earned through real activities
 **VAG status at entry:** The gap is beginning to form. Students this age have enough cognitive development to feel the distance between environmental knowledge and personal action, but peer identity and a sense of growing competence are both powerful motivators. The pathway is designed to make systematic investigation and data contribution feel personally meaningful and socially recognised.
 
----
+* * *
 
-##### Node 1 — First Systematic Encounter
+#### Node 1 — First Systematic Encounter
 
 | Field | Detail |
 |---|---|
@@ -330,9 +330,9 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 | **Active Competency Clusters** | Environmental Literacy · Scientific Inquiry · Technology Competence |
 | **VAG Bridge Question** | *"Your nose said 'wet and earthy' and the sensor said 87% humidity. You were both right — they were just measuring different things. What can your nose tell you that the sensor never can? And what can the sensor tell you that your nose cannot?"* |
 
----
+* * *
 
-##### Node 2 — Measuring What Matters
+#### Node 2 — Measuring What Matters
 
 | Field | Detail |
 |---|---|
@@ -346,9 +346,9 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 | **Active Competency Clusters** | Environmental Literacy · Scientific Inquiry · Technology Competence |
 | **VAG Bridge Question** | *"Your data is now part of a global monitoring network that scientists actually use. Compare your patch against the one by the wall — what is different, and why might that difference matter for the organisms living there? Who else needs to know about this difference?"* |
 
----
+* * *
 
-##### Node 3 — The Economy of the Garden
+#### Node 3 — The Economy of the Garden
 
 | Field | Detail |
 |---|---|
@@ -362,9 +362,9 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 | **Active Competency Clusters** | Economic Understanding · Social-Emotional Learning |
 | **VAG Bridge Question** | *"In Round 2, who won? [No clear winner — everyone got what they needed.] What would have to change about how your school works for Round 2 to be the normal way of doing things? Who in your school has the power to make one of those changes?"* |
 
----
+* * *
 
-##### Node 4 — Field Investigators Contribute
+#### Node 4 — Field Investigators Contribute
 
 | Field | Detail |
 |---|---|
@@ -380,18 +380,18 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 
 **Convergence zones for Grade Band B:** Node 2 produces the summer layer of the Erdpuls seasonal observational cycle — the systematic Comparative Data Board entries that connect the spring baseline (Grade Band A) with the autumn elder memory comparison (Target Group 3). Node 4 Memory Market participation places 11–14-year-old investigators in structured intergenerational exchange with elders, generating Reciprocity tokens in both directions and producing the cross-age encounter that is among the most pedagogically powerful events in the programme.
 
----
+* * *
 
-#### Grade Band C — Classes 9–12 · Ages 15–18 | Upper Secondary
+### Grade Band C — Classes 9–12 · Ages 15–18 — Upper Secondary
 
 **OER Guide:** `03_learning_guide_grades_9-12.md` — Upper secondary research guide
 **Developmental mode:** Judgment-based action — individual moral agency emerging; systemic thinking available; ethical dimensions accessible; scientific language and meta-critique appropriate
 **Token Economy level:** Full — UBECrc design exercise; all four elements earned through independent research and facilitation contributions
 **VAG status at entry:** The gap is fully present and beginning to be felt as a personal contradiction. Students this age are capable of recognising the gap as a systemic problem, not merely a personal failing — and this recognition is itself the entry point. The pathway makes individual judgment, independent contribution, and co-facilitation all developmentally appropriate and structurally supported.
 
----
+* * *
 
-##### Node 1 — Research Entry and Question Design
+#### Node 1 — Research Entry and Question Design
 
 | Field | Detail |
 |---|---|
@@ -405,9 +405,9 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 | **Active Competency Clusters** | Environmental Literacy · Scientific Inquiry · Technology Competence |
 | **VAG Bridge Question** | *"You just wrote a research question that no published paper has answered for this specific sub-bioregion. What would it mean to you if someone found that question in five years and built on it? What would need to be true about how you document it for that to be possible?"* |
 
----
+* * *
 
-##### Node 2 — Data Collection and Pattern Recognition
+#### Node 2 — Data Collection and Pattern Recognition
 
 | Field | Detail |
 |---|---|
@@ -421,9 +421,9 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 | **Active Competency Clusters** | Environmental Literacy · Scientific Inquiry · Technology Competence |
 | **VAG Bridge Question** | *"Your data shows a pattern that no single visit and no single instrument would have found — because you came back across seasons and compared. Who else needs to see this? What changes in how you describe your findings when you imagine a scientist, a farmer, and a ten-year-old all reading it at the same time?"* |
 
----
+* * *
 
-##### Node 3 — Ethics, Economics, and Systems Thinking
+#### Node 3 — Ethics, Economics, and Systems Thinking
 
 | Field | Detail |
 |---|---|
@@ -437,9 +437,9 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 | **Active Competency Clusters** | Economic Understanding · Social-Emotional Learning |
 | **VAG Bridge Question** | *"Your UBECrc design makes visible something that the current economy makes invisible. Who has the power to implement something like this in your community — your school, your town, your neighbourhood? What is the most important conversation you would need to have with them — and what would you say in the first thirty seconds?"* |
 
----
+* * *
 
-##### Node 4 — From Learner to Co-Researcher
+#### Node 4 — From Learner to Co-Researcher
 
 | Field | Detail |
 |---|---|
@@ -455,7 +455,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 
 **Convergence zones for Grade Band C:** Node 4 co-facilitation creates the primary cross-band convergence within Target Group 1: a Grade 9–12 student facilitating a Grade 1–4 or Grade 5–8 session is both performing an Action-stage milestone and generating a Regeneration token that the programme counts among its highest-value contributions. The open-science data published at Node 4 enters the same longitudinal commons as the Grade Band B Comparative Data Board — the two datasets are designed to be read together. Pattern Language Assembly participation at Node 4 places these students in the same annual synthesis event as elders, artists, and cross-border delegations, completing the full cross-group convergence architecture.
 
----
+* * *
 
 
 ### Target Group 2 — Adults and Families
@@ -466,7 +466,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 
 **Context.** Adults and families arrive with the VAG already installed. They know, intellectually, that they should consume less, drive less, waste less. The gap is not a knowledge problem; it is a motivation, habit, and systemic problem. Adults also arrive with practical life knowledge — of gardening, cooking, repair, local history, landscape change — that is precisely the kind of knowledge the Erdpuls programme needs and honours. The adult pathway is designed to make this existing knowledge visible and valued before new frameworks are introduced, creating the epistemic respect that adult learning requires. The Values-Action Map worksheet, used in full adult form from Node 2 onward, makes the gap itself the central learning object rather than a source of shame.
 
----
+* * *
 
 #### Node 1 — Sensory Re-entry
 
@@ -482,7 +482,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 | **Active Competency Clusters** | Environmental Literacy · Social-Emotional Learning |
 | **VAG Bridge Question** | *"You estimated the soil temperature correctly within two degrees. When did you learn that? What else do you know about the living world that you have forgotten you know — and where does that knowledge live in you now?"* |
 
----
+* * *
 
 #### Node 2 — Seeing What We Already Exchange
 
@@ -498,7 +498,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 | **Active Competency Clusters** | Economic Understanding · Social-Emotional Learning |
 | **VAG Bridge Question** | *"Three exchanges appeared on your map that you never thought of as economic before. Which of those would disappear — or shrink — if it had to be invoiced? What does that tell you about what conventional economics is currently failing to protect?"* |
 
----
+* * *
 
 #### Node 3 — Values in Space
 
@@ -514,7 +514,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 | **Active Competency Clusters** | Environmental Literacy · Economic Understanding |
 | **VAG Bridge Question** | *"Your garden data shows the same pH shift we see in Zone B after heavy rain — you have been monitoring soil without knowing it. What else in your daily life might qualify as citizen science, if you recorded it? And what is the one thing on your Personal Quality Commitment card that you are most nervous about actually doing?"* |
 
----
+* * *
 
 #### Node 4 — Token Holder and Community Anchor
 
@@ -532,7 +532,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 
 **Convergence zones for this group:** Node 3 home garden data contributes directly to the longitudinal bioregion dataset used by Artists and Researchers (Target Group 4, Node 2) in their pattern documentation. The Repair Café facilitation role (Node 4) creates regular intergenerational contact with Elders and Intergenerational Groups (Target Group 3), generating Reciprocity tokens for craft-knowledge exchange in both directions. Token holders from this group are central to the annual Pattern Language Assembly as programme co-evaluators.
 
----
+* * *
 
 ### Target Group 3 — Elders and Intergenerational Groups
 
@@ -542,7 +542,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 
 **Context.** Elders arrive with something that no other target group possesses: direct, lived memory of the landscape as it was. In a sub-bioregion that has undergone radical transformation — DDR collectivisation, post-reunification land use change, decades of ecological shift — elder memory is not anecdotal. It is primary research data. The pathway for this group is designed to honour this knowledge from the very first encounter, to make it legible as ecological science, and to create the intergenerational structures through which it flows to younger groups. The VAG for elders often takes a particular form: a rich sense of what has been lost combined with a sense of powerlessness about whether their knowledge can matter. The pathway converts this knowledge into consequential, archived, publicly verifiable contribution — a form of agency that many elder participants have not expected to find.
 
----
+* * *
 
 #### Node 1 — The Landscape Remembers
 
@@ -558,7 +558,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 | **Active Competency Clusters** | Environmental Literacy · Social-Emotional Learning |
 | **VAG Bridge Question** | *"You just described a species that is no longer here. Is that knowledge written down anywhere? What would be lost to the community — to the children's children of this town — if it stayed only in your memory? And who is the right person to sit with you and record it properly?"* |
 
----
+* * *
 
 #### Node 2 — Memory as Science
 
@@ -574,7 +574,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 | **Active Competency Clusters** | Environmental Literacy · Scientific Inquiry |
 | **VAG Bridge Question** | *"Your memory of the willow stand by the stream matched exactly what the soil profile in that location still shows — your knowledge was scientific all along, it just was not being measured by the systems that call themselves science. What else do you know that has not been measured? And what format — a map, a story, a recorded conversation, a walk — would best hold that knowledge?"* |
 
----
+* * *
 
 #### Node 3 — From Memory to Future
 
@@ -590,7 +590,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 | **Active Competency Clusters** | Social-Emotional Learning · Environmental Literacy |
 | **VAG Bridge Question** | *"You described what you want to hand on. Now name the specific knowledge that is most at risk — the thing that lives only in your generation's memory and has not been documented. What format would preserve it most faithfully? And who at Erdpuls should sit with you to make sure it happens before the season ends?"* |
 
----
+* * *
 
 #### Node 4 — Custodian of Place-Knowledge
 
@@ -608,7 +608,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 
 **Convergence zones for this group:** Node 2 Memory Market is the primary multi-group convergence event, explicitly designed to bring Children and Youth (Node 3 or 4) and Adults and Families (Node 3 or 4) into structured exchange with elders. The elder testimony at Node 1 becomes the historical baseline against which the school class's spring Node 1 organism count is later interpreted. The Wisdom Circle facilitator role (Node 4) creates regular contact with all other target groups, and elder token holders serve as authenticators at the annual Pattern Language Assembly — the programme's most important cross-group convergence event.
 
----
+* * *
 
 ### Target Group 4 — Artists and Researchers
 
@@ -618,7 +618,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 
 **Context.** Artists and researchers arrive with two capacities that distinguish them from other target groups: methodological rigour (the ability to design and sustain a systematic observation practice across time) and creative defamiliarisation (the ability to see the familiar as strange and to make the invisible visible through non-standard forms of representation). The VAG for this group often takes a particular form: the researcher who knows but does not act, or the artist who produces work about the environmental crisis without the work changing anything. The pathway is designed to ground both capacities in the specific living reality of the Naturpark Schlaubetal sub-bioregion — converting generic expertise into place-specific knowledge and place-specific contribution. Ring 0 body calibration is non-negotiable for this group, precisely because it is most uncomfortable for people who are accustomed to working conceptually.
 
----
+* * *
 
 #### Node 1 — Slowing Down to See
 
@@ -634,7 +634,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 | **Active Competency Clusters** | Environmental Literacy · Scientific Inquiry |
 | **VAG Bridge Question** | *"What did the fifth visit to this site show that the first visit did not? What did your body notice that your notebook initially failed to record? And what would be different about your professional practice — your research questions, your artistic decisions — if this kind of sustained sensory attention were the entry point rather than the literature review?"* |
 
----
+* * *
 
 #### Node 2 — Patterns Beyond Disciplines
 
@@ -650,7 +650,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 | **Active Competency Clusters** | Environmental Literacy · Technology Competence · Scientific Inquiry |
 | **VAG Bridge Question** | *"Your acoustic map and the soil pH map show the same boundary — the same line, discovered by two completely different methods. This was not a coincidence. What is the pattern that connects them? Who needs to know about it — which researcher, which planner, which community — and what is preventing you from telling them right now?"* |
 
----
+* * *
 
 #### Node 3 — Value Beyond Price
 
@@ -666,7 +666,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 | **Active Competency Clusters** | Economic Understanding · Social-Emotional Learning |
 | **VAG Bridge Question** | *"You described your work as autonomous. Now describe it as embedded in the community and ecosystem that made it possible — the community that provided the landscape, the stories, the historical memory, the biological specimens. What changes in the description? What obligations appear? And what specifically would you do differently if those obligations were as visible as your bibliography?"* |
 
----
+* * *
 
 #### Node 4 — Residency as Living Research
 
@@ -684,7 +684,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 
 **Convergence zones for this group:** The Artist-Researcher is the primary producer of the GIS synthesis that integrates all other groups' data into a single annual pattern language document. At Node 3 community integration, the artist-researcher participates as an equal in sessions with Children and Youth, Adults and Families, or Elders and Intergenerational Groups, generating Reciprocity token flows in all directions. The "Value Beyond Price" critical dialogue contributes directly to programme quality development (BNE 5.1), making artists and researchers active programme co-designers rather than recipients.
 
----
+* * *
 
 ### Target Group 5 — Cross-Border DE/PL Groups
 
@@ -695,7 +695,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 
 **Context.** Cross-border groups arrive from both sides of the Oder-Neisse border, typically as part of a bilateral exchange programme. They bring the most complex social and cultural dynamic of any target group: two national frameworks for sustainability education (the German BNE quality catalog system and the Polish environmental education tradition), two official languages plus English as a potential bridge language, different proxemic norms shaped by their different cultural backgrounds, and the full weight of the shared history of this border region. The VAG for this group is compounded by a cross-cultural dimension: not only the individual gap between values and action, but the institutional gap between what each national tradition values and the collaborative action that the shared glacial landscape requires. The pathway uses this complexity as a learning resource, not an obstacle. The Naturpark Schlaubetal landscape — which predates the border by geological time — is the shared ground from which the pathway grows.
 
----
+* * *
 
 #### Node 1 — One Landscape, Two Languages
 
@@ -711,7 +711,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 | **Active Competency Clusters** | Environmental Literacy · Social-Emotional Learning |
 | **VAG Bridge Question** | *"You just used three languages to describe the same living organism. Which description felt most alive to you — and why might that matter for the science? What does it tell us that the landscape does not care which language we name it in?"* |
 
----
+* * *
 
 #### Node 2 — Frameworks That Converge
 
@@ -727,7 +727,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 | **Active Competency Clusters** | Environmental Literacy · Social-Emotional Learning · Scientific Inquiry |
 | **VAG Bridge Question** | *"Your two frameworks agreed on the same principle but called it completely different things. What was lost in that naming difference — what coordination has been prevented by the terminology gap? And what would it mean, institutionally and practically, to act on that converged principle together rather than separately?"* |
 
----
+* * *
 
 #### Node 3 — Designing Cross-Border Reciprocity
 
@@ -743,7 +743,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 | **Active Competency Clusters** | Economic Understanding · Social-Emotional Learning |
 | **VAG Bridge Question** | *"The meal crossed the border because you crossed the border first — not with euros and złoty, but with skills, food, and conversation. What else that currently stops at the border would you like to see crossing it? And what, specifically, is preventing that crossing right now — is it legal, institutional, relational, or financial?"* |
 
----
+* * *
 
 #### Node 4 — Partnership as Infrastructure
 
@@ -761,7 +761,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 
 **Convergence zones for this group:** The cross-border iNaturalist data (Nodes 2 and 4) extends the Erdpuls longitudinal dataset across the border, creating the most geographically expansive contribution to the bioregion commons of any target group. The framework comparison work (Node 2) becomes a resource for Artists and Researchers (Target Group 4) who integrate it into their non-standard cartographies and pattern documentation. The cross-border facilitation exchange (Node 4) creates a permanent personnel link between Erdpuls and Polish partner sites, enabling future joint programming across all five target groups and on both sides of the Oder-Neisse border.
 
----
+* * *
 
 ## Part 4 — Cross-Group Convergence Map
 
@@ -777,7 +777,7 @@ The cross-group convergence zones are the programme's highest-value learning mom
 | **Community Integration Session (Residency)** | Artists and Researchers (TG4) + any one other target group or grade band | Professional research or artistic method ↔ embodied local and elder knowledge; defamiliarisation of the familiar ↔ intimacy with place | Reciprocity tokens in both directions | TG4: N3 · Other group: varies by context |
 | **Cross-Border Facilitation Exchange** | Cross-Border DE/PL (TG5) + any group facilitated on German or Polish side | German facilitation methods ↔ Polish educational tradition; cross-border bioregion data extension to Polish-side platforms | Mutualism (network creation) + Regeneration (institutional infrastructure built) | TG5: N4 · Facilitated group: varies |
 
----
+* * *
 
 ## License and Attribution
 

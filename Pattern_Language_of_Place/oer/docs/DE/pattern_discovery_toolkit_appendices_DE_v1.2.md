@@ -211,7 +211,7 @@ Die dreizehn Fragen (nun vierzehn mit der auditiven Bereicherung bei 8b) folgen 
 
 | Frage | Proxemische Zone | Primäre Sinneskanäle | Proxemische Bewegung |
 |---|---|---|---|
-| 1 (Erster Eindruck) | Persönlich → Intim | Visuell (Gesamtfeld) | Annäherung an den Boden |
+| 1 (Erster Eindruck) | Persönlich -> Intim | Visuell (Gesamtfeld) | Annäherung an den Boden |
 | 2 (Oberfläche) | Intim | Visuell (Nahdetail) | Augen nahe an der Oberfläche |
 | 3 (Farbe) | Intim | Visuell + Haptisch (Graben) | Hände im Boden |
 | 4 (Berührung/Textur) | Intim | Haptisch + Thermisch | Boden in den Händen |
@@ -219,14 +219,14 @@ Die dreizehn Fragen (nun vierzehn mit der auditiven Bereicherung bei 8b) folgen 
 | 6 (Struktur) | Intim | Haptisch + Visuell | Aggregate aufbrechen und untersuchen |
 | 7 (Leben) | Intim | Visuell (Feindetail) + Haptisch | Gesicht nahe am Boden, Zählen |
 | 8 (Wasser) | Persönlich | Visuell + Temporal (Beobachten) | Gießen und von leicht oben beobachten |
-| 8b (Klang) | Intim → Persönlich | Auditiv | Ohr am Boden, dann aufrecht — proxemischer Kontrast |
+| 8b (Klang) | Intim -> Persönlich | Auditiv | Ohr am Boden, dann aufrecht — proxemischer Kontrast |
 | 9 (Wurzeln) | Intim | Visuell + Haptisch | Die Lochwände lesen |
 | 10 (Schichten) | Persönlich | Visuell (geologisch) | Zurücktreten, um das Profil zu sehen |
 | 11 (Geschichte) | Sozial (konzeptuell) | Interpretativ | Von der Beobachtung zur Erzählung |
-| 12 (Beziehungen) | Sozial → Öffentlich | Visuell + Raumwahrnehmung | Den Fleck in seine Landschaft zurückbetten |
+| 12 (Beziehungen) | Sozial -> Öffentlich | Visuell + Raumwahrnehmung | Den Fleck in seine Landschaft zurückbetten |
 | 13 (Fürsorge) | Persönlich (ethisch) | Integrativ | Von der Beobachtung zur Beziehung zurückkehren |
 
-Der Bogen bewegt sich: Annäherung → intime Immersion → allmähliche Erweiterung → Rückbettung in den Kontext → ethische Reaktion. Dies spiegelt die Ringsequenz (Ring 0 → Ring 4 → Reflexion), aber verdichtet auf eine Stunde an einem einzigen Bodenfleck. Das Protokoll ist gewissermaßen ein *proxemischer Mikrokosmos des gesamten Toolkits* — weshalb Teilnehmende, die es abgeschlossen haben, für die breiteren Ringerkundungen vorbereitet sind, die folgen.
+Der Bogen bewegt sich: Annäherung -> intime Immersion -> allmähliche Erweiterung -> Rückbettung in den Kontext -> ethische Reaktion. Dies spiegelt die Ringsequenz (Ring 0 -> Ring 4 -> Reflexion), aber verdichtet auf eine Stunde an einem einzigen Bodenfleck. Das Protokoll ist gewissermaßen ein *proxemischer Mikrokosmos des gesamten Toolkits* — weshalb Teilnehmende, die es abgeschlossen haben, für die breiteren Ringerkundungen vorbereitet sind, die folgen.
 
 **Für gleichwertige Protokolle in anderen Medien** (Fragen an das Wasser, Fragen an den Stein usw.) sollte der proxemische Bogen erhalten bleiben: Beginne auf intimer Distanz mit dem Medium, aktiviere alle Sinneskanäle, weite dann schrittweise auf relationalen und ethischen Kontext aus.
 
@@ -358,7 +358,7 @@ Die Transektdokumentation sollte eine proxemische Bereicherung enthalten — die
 
 | Distanz vom Zentrum | Beobachtung | Berührung (ortsspezifisch)? | Geruch? | Klang? | Wärme? | Sehen? |
 |---|---|---|---|---|---|---|
-| 0 km | Campus-Abfahrt | ☑ Boden, Ziegel, Werkzeuge | ☑ Garten, Kompost | ☑ Werkstattgeräusche, Vögel | ☑ warme Mauer | ☑ Gebäude, Garten |
+| 0 km | Campus-Abfahrt | [x] Boden, Ziegel, Werkzeuge | [x] Garten, Kompost | [x] Werkstattgeräusche, Vögel | [x] warme Mauer | [x] Gebäude, Garten |
 | 1 km | | | | | | |
 | 3 km | | | | | | |
 | 5 km | | | | | | |
@@ -422,7 +422,7 @@ Zusätzlich können die Sensorischer-Abschluss-Aufzeichnungsdaten aus den Transe
 ### C.4 Die GIS-Spur: Digitaler Kartierungs-Workflow
 
 **Werkzeuge (alle kostenlos/Open Source):**
-- QGIS (Desktop-GIS, https://qgis.org) — das zentrale Werkzeug
+- QGIS (Desktop-GIS, [https://qgis.org](https://qgis.org)) — das zentrale Werkzeug
 - OpenStreetMap-Daten (über QuickOSM-Plugin oder Overpass-API)
 - Copernicus Land Monitoring Service (europäische Landbedeckungs- und Vegetationsdaten)
 - Nationale geologische Dienste (in Deutschland: BGR GeoViewer; für andere Länder anpassen)
@@ -534,7 +534,7 @@ Der Katalog bewertet außerschulische Bildungsanbieter in sieben Bereichen (Bere
 
 **Bereich 1 — Ziele und Zielgruppen**
 
-Das Toolkit adressiert die Werte-Handlungs-Lücke (84 % der jungen Europäer*innen schätzen Nachhaltigkeit, nur ~30 % handeln danach) als sein zentrales Problem. Zielgruppen werden durch die konzentrische Ringstruktur definiert: Ring 0–2 dient Teilnehmenden mit einer direkten Beziehung zum Standort (Schulklassen, lokale Bewohnende, Workshop-Teilnehmende); Ring 3 erstreckt sich auf die Siedlungsgemeinschaft einschließlich Älterer und Langzeitbewohnender; Ring 4 bindet ein breiteres Publikum einschließlich grenzüberschreitender und intergenerationeller Teilnehmender ein. Der 4A-Pathway (Awareness → Acknowledgment → Attitude → Action) bietet messbare pädagogische Ziele auf jeder Stufe.
+Das Toolkit adressiert die Werte-Handlungs-Lücke (84 % der jungen Europäer*innen schätzen Nachhaltigkeit, nur ~30 % handeln danach) als sein zentrales Problem. Zielgruppen werden durch die konzentrische Ringstruktur definiert: Ring 0–2 dient Teilnehmenden mit einer direkten Beziehung zum Standort (Schulklassen, lokale Bewohnende, Workshop-Teilnehmende); Ring 3 erstreckt sich auf die Siedlungsgemeinschaft einschließlich Älterer und Langzeitbewohnender; Ring 4 bindet ein breiteres Publikum einschließlich grenzüberschreitender und intergenerationeller Teilnehmender ein. Der 4A-Pathway (Awareness -> Acknowledgment -> Attitude -> Action) bietet messbare pädagogische Ziele auf jeder Stufe.
 
 *Mindestanforderungen: Erfüllt. Ziele sind konkret, zielgruppenspezifisch und bedarfsbasiert.*
 
@@ -546,20 +546,20 @@ Das Toolkit ist von Natur aus multidimensional: ökologisch (Boden-, Wasser-, Bi
 
 **Bereich 3 — Methoden**
 
-Der Brandenburger Katalog identifiziert vierzehn methodische Qualitätskriterien in drei Teilbereichen: 3.1 Handlungsorientiert-aktivierend (8 Kriterien), 3.2 Passend und fundiert (3 Kriterien) und 3.3 Unterstützend (3 Kriterien). Die aktuelle institutionelle Selbstevaluation bewertet 13 von 14 als vollständig oder teilweise erfüllt (11 vollständig ✅, 2 teilweise ⚠️).
+Der Brandenburger Katalog identifiziert vierzehn methodische Qualitätskriterien in drei Teilbereichen: 3.1 Handlungsorientiert-aktivierend (8 Kriterien), 3.2 Passend und fundiert (3 Kriterien) und 3.3 Unterstützend (3 Kriterien). Die aktuelle institutionelle Selbstevaluation bewertet 13 von 14 als vollständig oder teilweise erfüllt (11 vollständig [OK], 2 teilweise [!]).
 
 **3.1 — Handlungsorientiert-aktivierend**
 
 | Qualitätsmerkmal | Umsetzung im Toolkit | Status |
 |---|---|---|
-| 3.1.1 Erleben, erproben | Ring-0-Körperkalibrierung; Fragen an den Boden (direkter sinnlicher Kontakt mit Erde); Sensor-Bau und -Auslesen; Wandertransekte | ✅ |
-| 3.1.2 Situiert | Alle Aktivitäten in den konkreten Standort und seine Landschaft eingebettet. Muster sind immer die Muster *dieses* Ortes, keine generischen Beispiele | ✅ |
-| 3.1.3 Aktivierend | Mehrere Zugänge pro Ring; spielerische und ernsthafte Modi; Teilerfolge eingebaut (jede Musterkarte ist eine Errungenschaft) | ✅ |
-| 3.1.4 Selbstbestimmt-partizipativ | Teilnehmende benennen Muster in ihrer eigenen Sprache, wählen Beobachtungsschwerpunkte, beraten kollektiv über Bioregionsgrenzen; Kollektives-Schwellenwert-Modell für Zugang | ✅ |
-| 3.1.5 Reflektiert | Der 4A-Pathway strukturiert Reflexion auf jeder Stufe; Goethesches Beobachtungsprinzip: zuerst beobachten, dann analysieren; Frage 13 des Bodenprotokolls („Was würdest du tun?") verbindet Beobachtung und ethische Reflexion | ✅ |
-| 3.1.6 Interaktiv | Sensor-Dashboards liefern Echtzeit-Rückmeldungen; kollektive Musterbenennung ist dialogisch; die Analog/GIS-Kartierungssynthese erfordert Aushandlung | ✅ |
-| 3.1.7 Ganzheitlich | Drei Ströme (Kopf/Hände/Herz) auf jedem Ring integriert: Dateninterpretation (Kopf), Bodenumgang und Gehen (Hände), phänomenologische Wahrnehmung und ethische Reaktion (Herz) | ✅ |
-| 3.1.8 Multimedial | Sensor-Plattformen, GIS-Werkzeuge, Fotografie, Skizzieren, mündliche Zeugnisse, mehrsprachige Dokumentation. Digital und analog parallel bei Ring 4. Ausbau von Social Media und unabhängigen Recherchetools für Phase 2 geplant. | ⚠️ teilweise |
+| 3.1.1 Erleben, erproben | Ring-0-Körperkalibrierung; Fragen an den Boden (direkter sinnlicher Kontakt mit Erde); Sensor-Bau und -Auslesen; Wandertransekte | [OK] |
+| 3.1.2 Situiert | Alle Aktivitäten in den konkreten Standort und seine Landschaft eingebettet. Muster sind immer die Muster *dieses* Ortes, keine generischen Beispiele | [OK] |
+| 3.1.3 Aktivierend | Mehrere Zugänge pro Ring; spielerische und ernsthafte Modi; Teilerfolge eingebaut (jede Musterkarte ist eine Errungenschaft) | [OK] |
+| 3.1.4 Selbstbestimmt-partizipativ | Teilnehmende benennen Muster in ihrer eigenen Sprache, wählen Beobachtungsschwerpunkte, beraten kollektiv über Bioregionsgrenzen; Kollektives-Schwellenwert-Modell für Zugang | [OK] |
+| 3.1.5 Reflektiert | Der 4A-Pathway strukturiert Reflexion auf jeder Stufe; Goethesches Beobachtungsprinzip: zuerst beobachten, dann analysieren; Frage 13 des Bodenprotokolls („Was würdest du tun?") verbindet Beobachtung und ethische Reflexion | [OK] |
+| 3.1.6 Interaktiv | Sensor-Dashboards liefern Echtzeit-Rückmeldungen; kollektive Musterbenennung ist dialogisch; die Analog/GIS-Kartierungssynthese erfordert Aushandlung | [OK] |
+| 3.1.7 Ganzheitlich | Drei Ströme (Kopf/Hände/Herz) auf jedem Ring integriert: Dateninterpretation (Kopf), Bodenumgang und Gehen (Hände), phänomenologische Wahrnehmung und ethische Reaktion (Herz) | [OK] |
+| 3.1.8 Multimedial | Sensor-Plattformen, GIS-Werkzeuge, Fotografie, Skizzieren, mündliche Zeugnisse, mehrsprachige Dokumentation. Digital und analog parallel bei Ring 4. Ausbau von Social Media und unabhängigen Recherchetools für Phase 2 geplant. | [!] teilweise |
 
 *Mindestanforderungen (2 von 8): Weit übertroffen — 7 von 8 vollständig erfüllt, 1 teilweise erfüllt (multimedial, abhängig von der technischen Kapazität der Initiative und der Phase-2-Entwicklung).*
 
@@ -567,9 +567,9 @@ Der Brandenburger Katalog identifiziert vierzehn methodische Qualitätskriterien
 
 | Qualitätsmerkmal | Umsetzung im Toolkit | Status |
 |---|---|---|
-| 3.2.1 Angemessen für Ziele, Zielgruppe, Inhalte | Methoden präzise abgestimmt: phänomenologisches Bodenprotokoll für ökologische Kompetenz; Sensor-Bau für Datenkompetenz; kollektive Musterbenennung für partizipative Erkenntnistheorie; GIS-Kartierung für räumliche Kompetenz; Token-Ökonomie für angewandte reziproke Wirtschaft | ✅ |
-| 3.2.2 Praktisch bewährt | Das Toolkit schöpft aus global etablierten Formaten: Citizen Science (iNaturalist, openSenseMap), Mustersprache (Alexander), Goethesches Beobachten (Waldorf-/Camphill-Tradition), Bioregionskartierung und Repair-Café-Methodik — alle mit jahrzehntelanger dokumentierter Anwendung | ✅ |
-| 3.2.3 Theoretisch/empirisch fundiert | Goethesches Wissenschaftsverständnis (sequenzielles Beobachten, Bildung durch Begegnung); Transfer-21-Gestaltungskompetenzrahmen; Werte-Handlungs-Lücken-Forschung (Eurobarometer-Daten); 4A-Pathway auf Verhaltensänderungsmodellen basierend; Ubuntu-Philosophie; Halls Proxemik als methodische Linse | ✅ |
+| 3.2.1 Angemessen für Ziele, Zielgruppe, Inhalte | Methoden präzise abgestimmt: phänomenologisches Bodenprotokoll für ökologische Kompetenz; Sensor-Bau für Datenkompetenz; kollektive Musterbenennung für partizipative Erkenntnistheorie; GIS-Kartierung für räumliche Kompetenz; Token-Ökonomie für angewandte reziproke Wirtschaft | [OK] |
+| 3.2.2 Praktisch bewährt | Das Toolkit schöpft aus global etablierten Formaten: Citizen Science (iNaturalist, openSenseMap), Mustersprache (Alexander), Goethesches Beobachten (Waldorf-/Camphill-Tradition), Bioregionskartierung und Repair-Café-Methodik — alle mit jahrzehntelanger dokumentierter Anwendung | [OK] |
+| 3.2.3 Theoretisch/empirisch fundiert | Goethesches Wissenschaftsverständnis (sequenzielles Beobachten, Bildung durch Begegnung); Transfer-21-Gestaltungskompetenzrahmen; Werte-Handlungs-Lücken-Forschung (Eurobarometer-Daten); 4A-Pathway auf Verhaltensänderungsmodellen basierend; Ubuntu-Philosophie; Halls Proxemik als methodische Linse | [OK] |
 
 *Mindestanforderungen (3.2.1 und 3.2.2): Vollständig erfüllt. Zusätzlich ist 3.2.3 theoretische Fundierung umfassend dokumentiert.*
 
@@ -577,9 +577,9 @@ Der Brandenburger Katalog identifiziert vierzehn methodische Qualitätskriterien
 
 | Qualitätsmerkmal | Umsetzung im Toolkit | Status |
 |---|---|---|
-| 3.3.1 Vorbereitend | Das Toolkit enthält explizite Facilitierungsvorbereitung: den Proxemischen Facilitierungsleitfaden, das Workshop-vorbereitende Proxemik-Audit, ringspezifische Facilitierungshinweise, Standortauswahlhinweise und Materiallisten. Alles als OER vor jeder Sitzung verfügbar. Die Einleitung des Haupt-Toolkits bietet zielgruppenspezifische Vorbereitungshinweise für alle fünf Teilnehmendengruppen | ✅ |
-| 3.3.2 Begleitend | Echtzeit-Sensor-Dashboards liefern Live-Datenrückmeldungen während Workshops; Open-Source-Hardware-Bibliothek unterstützt unabhängige Recherche während der Sitzung; die BNE-Qualitäts-Living-Experience-Guides enthalten werkzeugseitige Evaluationsinstrumente (Qualitätsstern, Qualitätskompass). Selbstgesteuertes Lernmaterial für Ausstellungsbereiche in Entwicklung (Zone E, Phase 3) | ⚠️ teilweise |
-| 3.3.3 Nachbereitend | Alle Toolkit-Materialien als OER (CC BY-SA 4.0) nach Sitzungen verfügbar; offene Daten-APIs ermöglichen fortgesetzte Citizen-Science-Beiträge; Sensordaten bleiben für Längsschnittanalysen öffentlich zugänglich; die Token-Ökonomie ermöglicht fortgesetzte Beteiligung; im Workshop erstellte Musterkarten werden archiviert und als bleibende Lernartefakte an Teilnehmende zurückgegeben | ✅ |
+| 3.3.1 Vorbereitend | Das Toolkit enthält explizite Facilitierungsvorbereitung: den Proxemischen Facilitierungsleitfaden, das Workshop-vorbereitende Proxemik-Audit, ringspezifische Facilitierungshinweise, Standortauswahlhinweise und Materiallisten. Alles als OER vor jeder Sitzung verfügbar. Die Einleitung des Haupt-Toolkits bietet zielgruppenspezifische Vorbereitungshinweise für alle fünf Teilnehmendengruppen | [OK] |
+| 3.3.2 Begleitend | Echtzeit-Sensor-Dashboards liefern Live-Datenrückmeldungen während Workshops; Open-Source-Hardware-Bibliothek unterstützt unabhängige Recherche während der Sitzung; die BNE-Qualitäts-Living-Experience-Guides enthalten werkzeugseitige Evaluationsinstrumente (Qualitätsstern, Qualitätskompass). Selbstgesteuertes Lernmaterial für Ausstellungsbereiche in Entwicklung (Zone E, Phase 3) | [!] teilweise |
+| 3.3.3 Nachbereitend | Alle Toolkit-Materialien als OER (CC BY-SA 4.0) nach Sitzungen verfügbar; offene Daten-APIs ermöglichen fortgesetzte Citizen-Science-Beiträge; Sensordaten bleiben für Längsschnittanalysen öffentlich zugänglich; die Token-Ökonomie ermöglicht fortgesetzte Beteiligung; im Workshop erstellte Musterkarten werden archiviert und als bleibende Lernartefakte an Teilnehmende zurückgegeben | [OK] |
 
 *Mindestanforderungen (3.3.1 oder 3.3.3): Vollständig erfüllt. 3.3.1 vollständig erfüllt, 3.3.2 teilweise erfüllt (werkzeuginternes Selbstlernmaterial in Entwicklung), 3.3.3 vollständig erfüllt.*
 
@@ -623,15 +623,15 @@ Das Transfer-21-Rahmenwerk identifiziert 12 Teilkompetenzen in drei Domänen. Da
 
 **Bereich 5 — Qualitätsentwicklung**
 
-Die Bereiche 5–7 decken die Organisationsqualität ab. Dieser Abschnitt ordnet das Toolkit und die institutionelle Infrastruktur den Anforderungen des Katalogs für Qualitätsentwicklung, Durchführendenkompetenz und organisationale Bedingungen zu. Gesamtinstitutionelle Konformität in diesen drei Bereichen: 19 von 25 Kriterien vollständig erfüllt (✅), 3 teilweise erfüllt (⚠️), 2 in einer späteren Phase geplant (⏳). Alle Mindestanforderungen sind erfüllt.
+Die Bereiche 5–7 decken die Organisationsqualität ab. Dieser Abschnitt ordnet das Toolkit und die institutionelle Infrastruktur den Anforderungen des Katalogs für Qualitätsentwicklung, Durchführendenkompetenz und organisationale Bedingungen zu. Gesamtinstitutionelle Konformität in diesen drei Bereichen: 19 von 25 Kriterien vollständig erfüllt ([OK]), 3 teilweise erfüllt ([!]), 2 in einer späteren Phase geplant ([pending]). Alle Mindestanforderungen sind erfüllt.
 
 **5.1 — Entwicklungsziele**
 
 | Merkmal | Umsetzung bei Erdpuls | Status |
 |---|---|---|
-| 5.1.1 Entwicklungsziel verschriftlicht | Drei-Phasen-Entwicklungsmodell verschriftlicht: Phase 1 (2026–27) Establish & Activate; Phase 2 (2027–28) Renovate & Expand; Phase 3 (2028–30) Mature & Radiate | ✅ |
-| 5.1.2 Umsetzungsplan mit Meilensteinen | Meilensteine pro Phase; Budgetrahmen (95.000–190.000 € über 4 Jahre); Gebäuderenovationssequenz mit Prioritäten; Finanzierungsstrategie pro Phase | ✅ |
-| 5.1.3 Entwicklungsressourcen angemessen | Detaillierte Budgetschätzungen pro Phase; diversifizierte Finanzierung: Crowdfunding, Incubator Village, EFRE, Denkmalschutz, EU-Programme | ✅ |
+| 5.1.1 Entwicklungsziel verschriftlicht | Drei-Phasen-Entwicklungsmodell verschriftlicht: Phase 1 (2026–27) Establish \& Activate; Phase 2 (2027–28) Renovate \& Expand; Phase 3 (2028–30) Mature \& Radiate | [OK] |
+| 5.1.2 Umsetzungsplan mit Meilensteinen | Meilensteine pro Phase; Budgetrahmen (95.000–190.000 € über 4 Jahre); Gebäuderenovationssequenz mit Prioritäten; Finanzierungsstrategie pro Phase | [OK] |
+| 5.1.3 Entwicklungsressourcen angemessen | Detaillierte Budgetschätzungen pro Phase; diversifizierte Finanzierung: Crowdfunding, Incubator Village, EFRE, Denkmalschutz, EU-Programme | [OK] |
 
 *Mindestanforderungen (alle drei): Vollständig erfüllt.*
 
@@ -641,10 +641,10 @@ Das Toolkit erzeugt als strukturelles Merkmal seines Betriebs substanzielle Selb
 
 | Merkmal | Umsetzung bei Erdpuls | Status |
 |---|---|---|
-| 5.2.1 Kontinuierliche Praxisreflexion | Holonische Evaluation in fünf Dimensionen: Autonomie-Integration, Ubuntu-Alignment, Reciprocity Health, Mutualism Capacity, Regeneration Impact. Sensordaten als objektive Praxisreflexion | ✅ |
-| 5.2.2 Systematische Selbstevaluation (schriftliche Rückmeldung der Zielgruppen) | Token-Daten und Sensor-Metriken liefern quantitative Evaluation. Formale Teilnehmer-Befragung für regelmäßige Workshops ab Phase 2 in Entwicklung. Die Toolkit-Werkzeuge Qualitätsstern, Qualitätskompass und Ältere-Qualitätskriterien (Anhang D.6) bieten Workshop-interne Evaluationsinstrumente | ⚠️ teilweise |
-| 5.2.3 Interne/externe Wirkungsevaluation (nach 2 Jahren Betrieb erforderlich) | Ab Phase 3 (2028+) geplant. IoT- und Blockchain-Dateninfrastruktur schafft Grundlage für systematische Wirkungsevaluation anhand von Verhaltensänderungsergebnissen | ⏳ geplant |
-| 5.2.4 Evaluationsressourcen angemessen | IoT-Infrastruktur senkt Evaluationskosten erheblich; Blockchain-Daten liefern automatische Längsschnittdokumentation; Evaluationsbudget in Phasenplanung berücksichtigt | ✅ |
+| 5.2.1 Kontinuierliche Praxisreflexion | Holonische Evaluation in fünf Dimensionen: Autonomie-Integration, Ubuntu-Alignment, Reciprocity Health, Mutualism Capacity, Regeneration Impact. Sensordaten als objektive Praxisreflexion | [OK] |
+| 5.2.2 Systematische Selbstevaluation (schriftliche Rückmeldung der Zielgruppen) | Token-Daten und Sensor-Metriken liefern quantitative Evaluation. Formale Teilnehmer-Befragung für regelmäßige Workshops ab Phase 2 in Entwicklung. Die Toolkit-Werkzeuge Qualitätsstern, Qualitätskompass und Ältere-Qualitätskriterien (Anhang D.6) bieten Workshop-interne Evaluationsinstrumente | [!] teilweise |
+| 5.2.3 Interne/externe Wirkungsevaluation (nach 2 Jahren Betrieb erforderlich) | Ab Phase 3 (2028+) geplant. IoT- und Blockchain-Dateninfrastruktur schafft Grundlage für systematische Wirkungsevaluation anhand von Verhaltensänderungsergebnissen | [pending] geplant |
+| 5.2.4 Evaluationsressourcen angemessen | IoT-Infrastruktur senkt Evaluationskosten erheblich; Blockchain-Daten liefern automatische Längsschnittdokumentation; Evaluationsbudget in Phasenplanung berücksichtigt | [OK] |
 
 *Mindestanforderungen (5.2.1 und 5.2.4): Vollständig erfüllt. Entwicklungsbereiche: formales Teilnehmer-Rückmeldungssystem (5.2.2, in Entwicklung Phase 2) und externe Wirkungsevaluation (5.2.3, geplant Phase 3).*
 
@@ -652,9 +652,9 @@ Das Toolkit erzeugt als strukturelles Merkmal seines Betriebs substanzielle Selb
 
 | Merkmal | Umsetzung bei Erdpuls | Status |
 |---|---|---|
-| 5.3.1 Aktive Beteiligung an Vernetzung von BNE-Akteur*innen | Incubator Village Beeskow Kohorte 2; BNE-Netzwerk Brandenburg; Precious Plastic Global; VULCA European Makerspace Network; Repair Café International | ✅ |
-| 5.3.2 Konzeptionell-methodische Kooperation | Concept Paper und Whitepaper als Ergebnisse kollaborativer Konzeptentwicklung; grenzüberschreitende Kooperation mit polnischen Partnern; Denkmalschutz-Netzwerk-Integration | ✅ |
-| 5.3.3 Kooperation Durchführung | Heritage-Renovation-Days mit Handwerksmeister*innen; Künstler*innen-Residenzen; Schulkooperationen für Citizen Science | ✅ |
+| 5.3.1 Aktive Beteiligung an Vernetzung von BNE-Akteur*innen | Incubator Village Beeskow Kohorte 2; BNE-Netzwerk Brandenburg; Precious Plastic Global; VULCA European Makerspace Network; Repair Café International | [OK] |
+| 5.3.2 Konzeptionell-methodische Kooperation | Concept Paper und Whitepaper als Ergebnisse kollaborativer Konzeptentwicklung; grenzüberschreitende Kooperation mit polnischen Partnern; Denkmalschutz-Netzwerk-Integration | [OK] |
+| 5.3.3 Kooperation Durchführung | Heritage-Renovation-Days mit Handwerksmeister*innen; Künstler*innen-Residenzen; Schulkooperationen für Citizen Science | [OK] |
 
 *Mindestanforderungen (5.3.1): Vollständig erfüllt. Zusätzlich 5.3.2 und 5.3.3 vollständig adressiert.*
 
@@ -666,8 +666,8 @@ Das Toolkit umfasst einen expliziten Facilitierungsrahmen — den Proxemischen F
 
 | Merkmal | Umsetzung bei Erdpuls | Status |
 |---|---|---|
-| 6.1.1 Formale (Zusatz-)Qualifikation | Gründende bringen Technologie- und Bildungshintergrund mit; Heritage-Workshops unter Leitung qualifizierter Handwerksmeister*innen; formale pädagogische BNE-Zusatzqualifikation in Entwicklung | ⚠️ teilweise |
-| 6.1.2 Persönliche Qualifikation (Erfahrung, Referenzen) | Gründender: Erfahrung in IoT, Blockchain, internationalen Bildungsprojekten und Community-Building; belegt durch operatives Sensornetzwerk, funktionierende Token-Ökonomie und mehrsprachiges OER-Portal | ✅ |
+| 6.1.1 Formale (Zusatz-)Qualifikation | Gründende bringen Technologie- und Bildungshintergrund mit; Heritage-Workshops unter Leitung qualifizierter Handwerksmeister*innen; formale pädagogische BNE-Zusatzqualifikation in Entwicklung | [!] teilweise |
+| 6.1.2 Persönliche Qualifikation (Erfahrung, Referenzen) | Gründender: Erfahrung in IoT, Blockchain, internationalen Bildungsprojekten und Community-Building; belegt durch operatives Sensornetzwerk, funktionierende Token-Ökonomie und mehrsprachiges OER-Portal | [OK] |
 
 *Mindestanforderungen (6.1.1 oder 6.1.2): Erfüllt über 6.1.2. Formaler Qualifikationsweg in Entwicklung.*
 
@@ -675,8 +675,8 @@ Das Toolkit umfasst einen expliziten Facilitierungsrahmen — den Proxemischen F
 
 | Merkmal | Umsetzung bei Erdpuls | Status |
 |---|---|---|
-| 6.2.1 Vorbereitende Fort-/Weiterbildung für Durchführende und Ehrenamtliche | Heritage-Workshop-Facilitierende werden von Handwerksmeister*innen angeleitet; ehrenamtliche Repair-Coaches erhalten strukturierte Vorbereitung; Sensor-Bau-Facilitierende erhalten strukturierte Einführung; der Proxemische Facilitierungsleitfaden bietet einen BNE-spezifischen Vorbereitungsrahmen für alle Toolkit-Sitzungen | ✅ |
-| 6.2.2 Kontinuierliche Fort-/Weiterbildung (mindestens 24 Stunden jährlich, mit BNE-Bezug) | Teilnahme am Incubator-Village-Programm (6 Monate); BNE-Fachtagungen Brandenburg; Precious Plastic Community Learning; Repair Café International Workshops. Gesamtumfang übertrifft das 24-Stunden-Minimum | ✅ |
+| 6.2.1 Vorbereitende Fort-/Weiterbildung für Durchführende und Ehrenamtliche | Heritage-Workshop-Facilitierende werden von Handwerksmeister*innen angeleitet; ehrenamtliche Repair-Coaches erhalten strukturierte Vorbereitung; Sensor-Bau-Facilitierende erhalten strukturierte Einführung; der Proxemische Facilitierungsleitfaden bietet einen BNE-spezifischen Vorbereitungsrahmen für alle Toolkit-Sitzungen | [OK] |
+| 6.2.2 Kontinuierliche Fort-/Weiterbildung (mindestens 24 Stunden jährlich, mit BNE-Bezug) | Teilnahme am Incubator-Village-Programm (6 Monate); BNE-Fachtagungen Brandenburg; Precious Plastic Community Learning; Repair Café International Workshops. Gesamtumfang übertrifft das 24-Stunden-Minimum | [OK] |
 
 *Mindestanforderungen (6.2.1 und 6.2.2): Vollständig erfüllt.*
 
@@ -688,10 +688,10 @@ Das Erdpuls-Leitbild ist vollständig im Begleitdokument *Erdpuls BNE-Qualitäts
 
 | Merkmal | Umsetzung bei Erdpuls | Status |
 |---|---|---|
-| 7.1.1 Leitbild vorhanden (schriftlich; Vision, Werte, Zielgruppen, Profil) | Vollständiges schriftliches Leitbild: Vision, fünf Leitsätze, Nachhaltigkeitsdimensionen, Identität, Werte, Kompetenzen, interne Kultur, Leistungsprofil, Zielgruppen, Kooperationspartner | ✅ |
-| 7.1.2 Gemeinsam erstellt | Community-Beitrag durch Kollektives-Schwellenwert-Modell und Token-Holder-Beteiligung (502 aktive Halter*innen); Incubator Village Beeskow als Entwicklungsrahmen | ✅ |
-| 7.1.3 Intern und extern kommuniziert | Trilinguales Portal, Whitepaper, Concept Paper, Pitch Deck; OER-Lizenz sichert öffentliche Verfügbarkeit | ✅ |
-| 7.1.4 Im Alltag gelebt, regelmäßig geprüft | Token-Ökonomie macht Leitbildwerte messbar; holonische Evaluation prüft Alignment; saisonale Rhythmen integrieren Reflexion. Überprüfungszyklus: alle 2 Jahre | ✅ |
+| 7.1.1 Leitbild vorhanden (schriftlich; Vision, Werte, Zielgruppen, Profil) | Vollständiges schriftliches Leitbild: Vision, fünf Leitsätze, Nachhaltigkeitsdimensionen, Identität, Werte, Kompetenzen, interne Kultur, Leistungsprofil, Zielgruppen, Kooperationspartner | [OK] |
+| 7.1.2 Gemeinsam erstellt | Community-Beitrag durch Kollektives-Schwellenwert-Modell und Token-Holder-Beteiligung (502 aktive Halter*innen); Incubator Village Beeskow als Entwicklungsrahmen | [OK] |
+| 7.1.3 Intern und extern kommuniziert | Trilinguales Portal, Whitepaper, Concept Paper, Pitch Deck; OER-Lizenz sichert öffentliche Verfügbarkeit | [OK] |
+| 7.1.4 Im Alltag gelebt, regelmäßig geprüft | Token-Ökonomie macht Leitbildwerte messbar; holonische Evaluation prüft Alignment; saisonale Rhythmen integrieren Reflexion. Überprüfungszyklus: alle 2 Jahre | [OK] |
 
 *Mindestanforderungen (alle vier): Vollständig erfüllt.*
 
@@ -699,17 +699,17 @@ Das Erdpuls-Leitbild ist vollständig im Begleitdokument *Erdpuls BNE-Qualitäts
 
 | Merkmal | Umsetzung bei Erdpuls | Status |
 |---|---|---|
-| 7.2.1 Konzeptionelle Verankerung | BNE und Nachhaltige Entwicklung als Kernmission in allen Dokumenten; Tagline „Center for Sustainability Literacy, Citizen Science and Reciprocal Economics"; expliziter Bezug zum BNE-Diskurs durchgehend | ✅ |
-| 7.3.1 Schriftliche Vereinbarung für Durchführende und Partner | Kollektives-Schwellenwert-Modell als transparentes Vertragssystem; Token-basierte Auftragsbeziehungen | ✅ |
-| 7.3.2 Faire Arbeitsbedingungen (Mindestlohn; Sozialstandards) | Vier Partizipationswege einschließlich Gefördertem Beitrag; Skills Exchange als gerechtes Austauschformat | ✅ |
-| 7.3.3 Ehrenamt würdigen | Token-System macht ehrenamtliche Beiträge messbar und sichtbar; öffentliche Anerkennung durch Blockchain-Dokumentation | ✅ |
-| 7.4.1 Anreise (umweltverträglich/barrierefrei) | RE1-Bahnverbindung nach Müllrose; Radwegbeschreibung und Parkmöglichkeiten in Entwicklung | ⚠️ teilweise |
-| 7.4.2 Lernorte | 5.000 m² Campus mit fünf Zonen; Indoor-Outdoor-Gradient; Räume dem pädagogischen Konzept angemessen | ✅ |
-| 7.4.3 Verpflegung (fair, saisonal, regional, biologisch, vegetarisch/vegan) | Gemeinschaftsküche (Zone E) für Phase 3 geplant; saisonal, regional, biologisch, vegetarisch/vegan als Zielspezifikation | ⏳ geplant |
-| 7.4.4 Ausstattung/Material (fair, umweltverträglich) | Open-Source-Hard-/-Software; recycelte Materialien; Precious-Plastic-Filament; nachhaltige Geräte; ressourceneffizient by design | ✅ |
-| 7.5.1 Zielgruppengerechte Öffentlichkeitsarbeit | Trilinguales Portal; professionelles Branding (Forest & Moss Design); institutioneller Pitch Deck für Partner; altersgerechte Materialien pro Zielgruppe | ✅ |
-| 7.5.2 Inhalte aktuell und korrekt | Webportal regelmäßig aktualisiert; Sensordaten in Echtzeit; Token-Dashboard live | ✅ |
-| 7.5.3 Benannte Ansprechperson, erreichbar und auskunftsfähig | Michel Garand; erdpuls@ubec.network; im Portal benannt und erreichbar | ✅ |
+| 7.2.1 Konzeptionelle Verankerung | BNE und Nachhaltige Entwicklung als Kernmission in allen Dokumenten; Tagline „Center for Sustainability Literacy, Citizen Science and Reciprocal Economics"; expliziter Bezug zum BNE-Diskurs durchgehend | [OK] |
+| 7.3.1 Schriftliche Vereinbarung für Durchführende und Partner | Kollektives-Schwellenwert-Modell als transparentes Vertragssystem; Token-basierte Auftragsbeziehungen | [OK] |
+| 7.3.2 Faire Arbeitsbedingungen (Mindestlohn; Sozialstandards) | Vier Partizipationswege einschließlich Gefördertem Beitrag; Skills Exchange als gerechtes Austauschformat | [OK] |
+| 7.3.3 Ehrenamt würdigen | Token-System macht ehrenamtliche Beiträge messbar und sichtbar; öffentliche Anerkennung durch Blockchain-Dokumentation | [OK] |
+| 7.4.1 Anreise (umweltverträglich/barrierefrei) | RE1-Bahnverbindung nach Müllrose; Radwegbeschreibung und Parkmöglichkeiten in Entwicklung | [!] teilweise |
+| 7.4.2 Lernorte | 5.000 m² Campus mit fünf Zonen; Indoor-Outdoor-Gradient; Räume dem pädagogischen Konzept angemessen | [OK] |
+| 7.4.3 Verpflegung (fair, saisonal, regional, biologisch, vegetarisch/vegan) | Gemeinschaftsküche (Zone E) für Phase 3 geplant; saisonal, regional, biologisch, vegetarisch/vegan als Zielspezifikation | [pending] geplant |
+| 7.4.4 Ausstattung/Material (fair, umweltverträglich) | Open-Source-Hard-/-Software; recycelte Materialien; Precious-Plastic-Filament; nachhaltige Geräte; ressourceneffizient by design | [OK] |
+| 7.5.1 Zielgruppengerechte Öffentlichkeitsarbeit | Trilinguales Portal; professionelles Branding (Forest \& Moss Design); institutioneller Pitch Deck für Partner; altersgerechte Materialien pro Zielgruppe | [OK] |
+| 7.5.2 Inhalte aktuell und korrekt | Webportal regelmäßig aktualisiert; Sensordaten in Echtzeit; Token-Dashboard live | [OK] |
+| 7.5.3 Benannte Ansprechperson, erreichbar und auskunftsfähig | Michel Garand; erdpuls@ubec.network; im Portal benannt und erreichbar | [OK] |
 
 *Mindestanforderungen (7.2.1, alle 7.3.x, 7.4.1 Rad-/ÖPNV-Wegbeschreibung, 7.4.2, 7.4.4, alle 7.5.x): Vollständig erfüllt. Entwicklungsbereiche: Fertigstellung der Rad-/Verkehrsbeschreibung (7.4.1, in Entwicklung), Verpflegungsinfrastruktur (7.4.3, Phase 3).*
 
@@ -719,14 +719,14 @@ Erdpuls erfüllt alle Mindestanforderungen in allen sieben Qualitätsbereichen d
 
 | Bereich | Vollständig erfüllt | Teilweise | Geplant | Gesamt | Mindestanf. erfüllt? |
 |---|---|---|---|---|---|
-| 1 Ziele und Zielgruppen | 6 | — | — | 6 | ✅ Ja |
-| 2 Ansatz | 5 | — | — | 5 | ✅ Ja |
-| 3 Methoden | 12 | 2 | — | 14 | ✅ Ja |
-| 4 Gestaltungskompetenz | 12 | — | — | 12 | ✅ Ja |
-| 5 Qualitätsentwicklung | 7 | 1 | 1 | 9* | ✅ Ja |
-| 6 Durchführende | 3 | 1 | — | 4 | ✅ Ja |
-| 7 Organisationale Bedingungen | 11 | 2 | 2 | 15* | ✅ Ja |
-| **Gesamt** | **56†** | **6** | **3** | **65*** | **✅ Alle** |
+| 1 Ziele und Zielgruppen | 6 | — | — | 6 | [OK] Ja |
+| 2 Ansatz | 5 | — | — | 5 | [OK] Ja |
+| 3 Methoden | 12 | 2 | — | 14 | [OK] Ja |
+| 4 Gestaltungskompetenz | 12 | — | — | 12 | [OK] Ja |
+| 5 Qualitätsentwicklung | 7 | 1 | 1 | 9* | [OK] Ja |
+| 6 Durchführende | 3 | 1 | — | 4 | [OK] Ja |
+| 7 Organisationale Bedingungen | 11 | 2 | 2 | 15* | [OK] Ja |
+| **Gesamt** | **56†** | **6** | **3** | **65*** | **[OK] Alle** |
 
 *\*Kataloggesamtzahl: 57; die Abweichung spiegelt Zählkonventionen für Teilkriterien im offiziellen Dokument wider. Die institutionelle Selbstevaluation (49 vollständig erfüllt von 57 bewerteten Kriterien) verwendet die eigene Gewichtung des Katalogs.*  
 *†Wo zwei Quellen bei Gesamtzahlen abweichen, ist das BNE-Qualitätsbewertungsdokument (49/57, 86 %) als maßgeblich zu betrachten.*

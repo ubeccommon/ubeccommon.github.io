@@ -9,7 +9,7 @@ project: "Erdpuls Müllrose OER Collection"
 ---
 # Erdpuls Learning Guide 02 — Grades 5–8
 ## Field Investigators: Measuring the Living World
-### For Students Ages 11–14 | Middle School
+### For Students Ages 11–14 — Middle School
 
 **Institution:** Erdpuls Müllrose - Center for Sustainability Literacy, Citizen Science and Reciprocal Economics  
 **Location:** Müllrose, Brandenburg, Germany
@@ -43,7 +43,7 @@ project: "Erdpuls Müllrose OER Collection"
 | **Developmental Stage** | Second seven-year period transition: awakening capacity for causal reasoning, peer social identity, the emergence of independent judgment; abstract thinking beginning but still grounded in observation |
 | **Citizen Science Output** | Complete Field Sheet dataset; iNaturalist species observations; openSenseMap data contribution; entry into Erdpuls longitudinal soil record |
 | **Token Economy Level** | Intermediate — four elements introduced; participants earn real tokens for cooperation, reciprocity, mutualism, and regeneration activities |
-| **Languages Available** | EN ✓  DE pending  PL pending |
+| **Languages Available** | EN ([emoji])  DE pending  PL pending |
 
 * * *
 

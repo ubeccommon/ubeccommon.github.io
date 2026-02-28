@@ -188,9 +188,9 @@ The calendar follows these principles:
 | 5 | | | | | | | | |
 | 6 | | | | | | | | |
 
-**Check:** Are there 3+ consecutive phases at Social/Public distance with ≤2 channels? If yes → insert a hands-on, sensory-reactivation phase between them.
+**Check:** Are there 3+ consecutive phases at Social/Public distance with ≤2 channels? If yes -> insert a hands-on, sensory-reactivation phase between them.
 
-**Check:** Does every Social/Public phase have a Sensory Anchor Object prepared? If no → prepare one (a soil sample, a rock, a tool, a plant, a piece of bread).
+**Check:** Does every Social/Public phase have a Sensory Anchor Object prepared? If no -> prepare one (a soil sample, a rock, a tool, a plant, a piece of bread).
 
 * * *
 
@@ -434,7 +434,7 @@ Each of the five campus zones has a proxemic character that shapes what kinds of
 - Permanent soil observation stations (3–4 across the garden) marked with posts. Each station has a different soil type or microclimate. These are the sites where Ring 2 observations occur.
 - A central gathering area (gravel circle, bench ring, or simple cleared space) for group briefings before dispersal. This is the sociopetal anchor of Zone B.
 - Boden-Koffer storage at the edge of the garden — weatherproof, unlocked during workshops.
-- The garden path should pass through multiple micro-transitions (cultivated → wild → wet → dry → shaded → open) — these are the training transitions for Ring 2 pattern discovery.
+- The garden path should pass through multiple micro-transitions (cultivated -> wild -> wet -> dry -> shaded -> open) — these are the training transitions for Ring 2 pattern discovery.
 
 **Proxemic profile:** Intimate (soil handling, plant contact) to Social (garden overview). Full sensory spectrum when close to the ground; vision-dominant when standing and surveying.
 

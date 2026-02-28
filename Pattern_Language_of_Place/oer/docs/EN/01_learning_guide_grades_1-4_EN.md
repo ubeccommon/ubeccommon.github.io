@@ -9,7 +9,7 @@ project: "Erdpuls Müllrose OER Collection"
 ---
 # Erdpuls Learning Guide 01 — Grades 1–4
 ## Earth Detectives: First Encounters with Living Ground
-### For Children Ages 6–10 | Lower Primary School
+### For Children Ages 6–10 — Lower Primary School
 
 **Institution:** Erdpuls Müllrose - Center for Sustainability Literacy, Citizen Science and Reciprocal Economics  
 **Location:** Müllrose, Brandenburg, Germany
@@ -43,7 +43,7 @@ project: "Erdpuls Müllrose OER Collection"
 | **Developmental Stage** | Will-forces period (anthroposophical first seven-year period of school life): embodied knowing, imagination, rhythmic learning, direct sensory trust |
 | **Citizen Science Output** | Illustrated field cards; class soil portrait; first iNaturalist observation record |
 | **Token Economy Level** | Introductory — Token Seeds (discovery and sharing recognition) |
-| **Languages Available** | EN ✓  DE pending  PL pending |
+| **Languages Available** | EN ([emoji])  DE pending  PL pending |
 
 * * *
 

@@ -30,16 +30,16 @@ Felder mit dem Vermerk **[VOM AUTOR AUSZUFÜLLEN]** erfordern Informationen, die
 | **Sammlungstitel (PL)** | Erdpuls Müllrose Materiały edukacyjne — Od nasion do łańcucha bloków: Trójjęzyczna kolekcja OER dla edukacji zrównoważonego rozwoju, nauki obywatelskiej i ekonomii wzajemnej |
 | **Ersteller / Herausgeber** | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics |
 | **Standort** | Müllrose, Brandenburg, Deutschland |
-| **Kontakt** | erdpuls@ubec.network / https://erdpuls.ubec.network |
+| **Kontakt** | erdpuls@ubec.network / [https://erdpuls.ubec.network](https://erdpuls.ubec.network) |
 | **Veröffentlichungsdatum** | Februar 2026 |
 | **Version** | 1.2 (Entwurf — OER-Veröffentlichungsbereit, DE) |
 | **DOI / Persistenter Identifikator** | [VOM AUTOR AUSZUFÜLLEN — wird nach dem Zenodo-Upload vergeben] |
 | **Quell-URL / Repository-URL** | [VOM AUTOR AUSZUFÜLLEN] |
 | **Lizenz** | Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0) |
 | **Lizenz SPDX-Kennung** | CC-BY-SA-4.0 |
-| **Lizenz-URL** | https://creativecommons.org/licenses/by-sa/4.0/deed.de |
+| **Lizenz-URL** | [https://creativecommons.org/licenses/by-sa/4.0/deed.de](https://creativecommons.org/licenses/by-sa/4.0/deed.de) |
 | **Softwarelizenz** | GNU Affero General Public License v3.0 (AGPL-3.0) — gilt für alle referenzierten Softwarekomponenten |
-| **Softwarelizenz-URL** | https://www.gnu.org/licenses/agpl-3.0.html |
+| **Softwarelizenz-URL** | [https://www.gnu.org/licenses/agpl-3.0.html](https://www.gnu.org/licenses/agpl-3.0.html) |
 | **Urheberrechtsjahr und -inhaber** | © 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics |
 
 
@@ -160,7 +160,7 @@ Alle 12 Teilkompetenzen des Transfer-21-Gestaltungskompetenz-Rahmens werden in d
 | **SDG 3** | Gesundheit und Wohlergehen | **Sekundär** | Citizen-Science-Handbuch, Kapitel 3, erläutert explizit PM2,5 und PM10 Feinstaub mit dem WHO-Luftqualitätsrichtwert (24-Stunden-Mittel unter 15 μg/m³ für PM2,5) und beschreibt gesundheitliche Auswirkungen von Partikeln, die „tief in die Lunge eindringen können". senseBox-Außenstationen messen standardmäßig PM2,5, PM10, CO₂ und UV-Index. Luftqualitätsmonitoring ist als direkter Beitrag zur Gemeinschaftsgesundheit positioniert. Outdoor-Verkörperungslernen in allen drei Schüler-Leitfäden fördert körperliches Wohlbefinden und Naturkontakt. [G05 Kap.3, Kap.6; G02 Phase 2] |
 | **SDG 6** | Sauberes Wasser und Sanitärversorgung | **Sekundär** | Frage 8 (Wasserinfiltration) des Bodenprotokolls verbindet Wasserinfiltrationsdauer explizit mit „Hochwasserrisiko, Erosion, Dürreresilienz und Grundwasserneubildung" (Anhang A). Schülerinnen messen die Wasserinfiltration als Bodengesundheitsindikator in allen drei Schulleitfäden. Der Bioregions-Ältestenleitfaden (Wassergedächtnis-Übung) dokumentiert verschwundene Bäche, entwässerte Feuchtgebiete und veränderte Hochwassermuster als Belege historischen Landschaftswandels. senseBox unterstützt Wassertemperatursonden für Bach- und Teichmonitoring. [A Anhang A F8; G02 Phase 1; BI Ältestenleitfaden; G05 Kap.6] |
 | **SDG 10** | Weniger Ungleichheiten | **Sekundär** | Das Collective-Threshold-Modell ist ein Vier-Wege-Zugangssystem, das explizit so gestaltet ist, dass „die Menschen, die diesen Ort am besten kennen, immer kommen können": (1) Vollpreis, (2) Geförderter Preis, (3) Kompetenzaustausch, (4) Token-Weg. Der Tokenwirtschafts-Erwachsenenleitfaden formuliert direkt: „Die Ältere ohne Euro, dafür mit vierzig Jahren Bodenwissen, tritt über Kompetenzaustausch oder Token-Weg ein." Mehrsprachige OER-Veröffentlichung (EN/DE/PL) reduziert sprachbedingte Zugangshürden. Grenzüberschreitende DE/PL-Teilnahmegruppe adressiert explizit nationale Ungleichheiten im Zugang zu Umweltbildungsressourcen. [TE Erwachsenenleitfaden; G05 Kap.4; MI Grenzgruppe] |
-| **SDG 11** | Nachhaltige Städte und Gemeinden | **Sekundär** | Bioregionale Kartierungsworkshops erzeugen gemeinschaftlich getragenes Wissen über lokale Landschaftsgrenzen, Kulturerbestätten und ökologische Merkmale. Tokenwirtschaft wird explizit als „Commons-Governance" gerahmt — ein Mechanismus, der nicht-monetäre Gemeinschaftsbeiträge sichtbar und wertvoll macht. Mustersprache erzeugt ortsspezifische kollektive Wissensressource. Müllrose-Campus operiert als Gemeinschafts-Kulturerbe-Hub (Zone E: Kulturerbe & Gemeinschaftszentrum). Repair Café als Gemeinschaftsinfrastruktur dokumentiert. Ortsverbundenheit als Fundament der Nachhaltigkeitskompetenz in allen Leitfäden. [BI; TE; MI; G01–G05 (ortsbezogener Lernrahmen)] |
+| **SDG 11** | Nachhaltige Städte und Gemeinden | **Sekundär** | Bioregionale Kartierungsworkshops erzeugen gemeinschaftlich getragenes Wissen über lokale Landschaftsgrenzen, Kulturerbestätten und ökologische Merkmale. Tokenwirtschaft wird explizit als „Commons-Governance" gerahmt — ein Mechanismus, der nicht-monetäre Gemeinschaftsbeiträge sichtbar und wertvoll macht. Mustersprache erzeugt ortsspezifische kollektive Wissensressource. Müllrose-Campus operiert als Gemeinschafts-Kulturerbe-Hub (Zone E: Kulturerbe \& Gemeinschaftszentrum). Repair Café als Gemeinschaftsinfrastruktur dokumentiert. Ortsverbundenheit als Fundament der Nachhaltigkeitskompetenz in allen Leitfäden. [BI; TE; MI; G01–G05 (ortsbezogener Lernrahmen)] |
 
 
 * * *
@@ -568,7 +568,7 @@ Das Erdpuls-Programm verwendet eine phänomenologische Lernmethode, bei der die 
 | **Schlagwörter** | (EN-Schlagwörterliste aus Abschnitt 1.5, durch Komma getrennt, einfügen) |
 | **Sprache** | Englisch (primär); Deutsch (ausstehend); Polnisch (ausstehend) |
 | **Gemeinschaften** | Vorschlag: `oer`, `citizen-science`, `education-for-sustainability`, `zenodo-community-germany` — [VOM AUTOR AUSZUFÜLLEN: Community-Slugs vor Einreichung prüfen] |
-| **Verwandte Identifikatoren** | openSenseMap-Stations-URL: [VOM AUTOR AUSZUFÜLLEN]; Erdpuls-Website: https://erdpuls.ubec.network |
+| **Verwandte Identifikatoren** | openSenseMap-Stations-URL: [VOM AUTOR AUSZUFÜLLEN]; Erdpuls-Website: [https://erdpuls.ubec.network](https://erdpuls.ubec.network) |
 | **Referenzen** | Brandenburgischer BNE-Qualitätskatalog (MLUK Brandenburg, April 2023); Pattern Discovery Toolkit v1.1 (Erdpuls, Februar 2026) |
 | **DOI** | [NACH DER EINREICHUNG — von Zenodo nach dem Upload vergeben] |
 | **Zugriffsrechte** | Offener Zugang |
@@ -591,7 +591,7 @@ Das Erdpuls-Programm verwendet eine phänomenologische Lernmethode, bei der die 
 | **Beschreibung (Description)** | Deutsche Zusammenfassung aus Abschnitt 1.2 einfügen |
 | **Schlagwörter (Keywords)** | DE-Schlagwörterliste aus Abschnitt 1.5 einfügen |
 | **Sprache (inLanguage)** | de (primär für WLO), en, pl |
-| **Lizenz (license)** | CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/ |
+| **Lizenz (license)** | CC BY-SA 4.0 — [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/) |
 | **Urheber / Herausgeber** | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics |
 | **educationalLevel** | Primarstufe (Leitfaden 01); Sekundarstufe I (Leitfaden 02); Sekundarstufe II (Leitfaden 03); Berufliche Bildung / Erwachsenenbildung (Leitfäden 04 und 05) |
 | **typicalAgeRange** | 6–10 (Leitfaden 01); 11–14 (Leitfaden 02); 15–18 (Leitfaden 03); Erwachsene (Leitfäden 04–05) |
@@ -600,7 +600,7 @@ Das Erdpuls-Programm verwendet eine phänomenologische Lernmethode, bei der die 
 | **about (Fachbereich)** | Biologie; Geografie; Sachunterricht; Chemie; Mathematik; Informatik; Ethik; Wirtschaft; Umweltbildung; BNE |
 | **educationalAlignment (BNE)** | BNE-Gestaltungskompetenzen 4.1.1–4.3.4 (alle 12) |
 | **educationalAlignment (SDG)** | SDG 3, SDG 4, SDG 6, SDG 10, SDG 11, SDG 13, SDG 15, SDG 17 (Tier 1+2 bestätigt; Evidenz siehe SDG-Tabelle in Abschnitt 1.4) |
-| **isPartOf** | Erdpuls-Dokument-Ökosystem v1.2 (https://erdpuls.ubec.network) |
+| **isPartOf** | Erdpuls-Dokument-Ökosystem v1.2 ([https://erdpuls.ubec.network](https://erdpuls.ubec.network)) |
 | **Quelle / URL** | [VOM AUTOR AUSZUFÜLLEN — Zenodo-DOI nach dem Upload] |
 
 **Hinweis:** WLO bevorzugt deutschsprachige Inhalte. Die deutsche Übersetzung des Lehrerhandbuchs hat höchste Priorität vor der WLO-Einreichung.
@@ -642,7 +642,7 @@ Zur Registrierung von Erdpuls Müllrose auf eu-citizen.science sowohl als Projek
 | **Schlagwörter** | Bürgerwissenschaft, Bodenmonitoring, Biodiversität, Umweltmonitoring, Nachhaltigkeitsbildung, senseBox, openSenseMap, iNaturalist, Tokenwirtschaft, Brandenburg, Deutschland, grenzüberschreitend, Deutschland-Polen |
 | **Teilnahmeaufgaben** | Umweltmonitoring (Boden, Atmosphäre, Biodiversität); Artbeobachtung und Upload zu iNaturalist; Sensorstations-Deployment und -Betrieb; Beiträge zu offenen Daten; Gemeinschaftsworkshop-Teilnahme |
 | **Geografischer Umfang** | Lokal / Regional — Müllrose, Brandenburg, Deutschland; grenzüberschreitend mit Polen (Naturpark-Schlaubetal-Gebiet) |
-| **Kontakt** | erdpuls@ubec.network / https://erdpuls.ubec.network |
+| **Kontakt** | erdpuls@ubec.network / [https://erdpuls.ubec.network](https://erdpuls.ubec.network) |
 | **Ressourcentyp** | Bildungsmaterialien; Überwachungsprotokoll; Toolkit |
 | **Ressourcen-URL** | [VOM AUTOR AUSZUFÜLLEN — Zenodo-DOI nach dem Upload] |
 
@@ -668,7 +668,7 @@ Sie dürfen dieses Material für jeden Zweck teilen und bearbeiten, sofern Sie a
 
 Alle referenzierten Softwarekomponenten stehen unter der [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html).
 
-Kontakt: erdpuls@ubec.network | https://erdpuls.ubec.network
+Kontakt: erdpuls@ubec.network | [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 
 * * *
@@ -684,7 +684,7 @@ You are free to share and adapt this material for any purpose, provided you give
 
 All software components referenced in this document are licensed under the [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html).
 
-Contact: erdpuls@ubec.network | https://erdpuls.ubec.network
+Contact: erdpuls@ubec.network | [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 
 * * *
@@ -700,7 +700,7 @@ Możesz swobodnie udostępniać i adaptować ten materiał w dowolnym celu, pod 
 
 Wszystkie komponenty oprogramowania, do których odwołuje się ten dokument, są dostępne na zasadach [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html).
 
-Kontakt: erdpuls@ubec.network | https://erdpuls.ubec.network
+Kontakt: erdpuls@ubec.network | [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 
 * * *

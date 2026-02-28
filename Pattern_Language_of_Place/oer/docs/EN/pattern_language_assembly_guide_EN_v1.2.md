@@ -46,19 +46,19 @@ The pattern language assembly process addresses all seven quality areas of the B
 
 | Area | Title                         | Status                                               |
 |------|-------------------------------|------------------------------------------------------|
-| 1    | Goals and Target Groups       | ✅ All criteria met                                  |
-| 2    | Approach                      | ✅ All criteria met                                  |
-| 3    | Methods                       | ✅ Minimum requirements met; 7/8 sub-criteria (3.1) fully met |
-| 4    | Gestaltungskompetenz          | ✅ All 12 sub-competencies developed                 |
-| 5    | Quality Development           | ✅ Minimum requirements met; synthesis IS the quality development mechanism |
-| 6    | Facilitator Qualification     | ✅ Minimum requirements met                          |
-| 7    | Organisational Conditions     | ✅ Minimum requirements met                          |
+| 1    | Goals and Target Groups       | [OK] All criteria met                                  |
+| 2    | Approach                      | [OK] All criteria met                                  |
+| 3    | Methods                       | [OK] Minimum requirements met; 7/8 sub-criteria (3.1) fully met |
+| 4    | Gestaltungskompetenz          | [OK] All 12 sub-competencies developed                 |
+| 5    | Quality Development           | [OK] Minimum requirements met; synthesis IS the quality development mechanism |
+| 6    | Facilitator Qualification     | [OK] Minimum requirements met                          |
+| 7    | Organisational Conditions     | [OK] Minimum requirements met                          |
 
 The complete criterion-by-criterion mapping is in Part Five.
 
 ### The 4A-Pathway in the Synthesis Context
 
-Every educational sequence at Erdpuls follows the 4A-Pathway (Awareness → Acknowledgment → Attitude → Action). The January synthesis ritual is an educational sequence for its participants — typically facilitators, Quality Ambassadors, and returning participants from across the year — and follows the same arc:
+Every educational sequence at Erdpuls follows the 4A-Pathway (Awareness -> Acknowledgment -> Attitude -> Action). The January synthesis ritual is an educational sequence for its participants — typically facilitators, Quality Ambassadors, and returning participants from across the year — and follows the same arc:
 
 | Stage         | In the Synthesis Ritual                                                                                                                              |
 |---------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -265,17 +265,17 @@ A south-facing masonry wall of sufficient thermal mass (≥40 cm brick or stone)
 - How does the lime leaching affect which plants thrive in the strip? (pH-pattern intersection?)
 - Do other heritage buildings in Müllrose show the same pattern? (Ring 3 extension?)
 
-**Status:** ☒ Confirmed across multiple observations
+**Status:** [x] Confirmed across multiple observations
 
 **Sustainability Dimensions:**
-- ☒ Ecological (microclimate, pollinator habitat, soil health)
-- ☒ Economic (extended growing season = reduced food import dependence; heritage wall maintenance avoided by valuing the planting function)
-- ☒ Social (intergenerational knowledge continuity; elder confirmation grounds current practice in community memory)
-- ☒ Cultural (three-generation gardening tradition; place-specific knowledge embedded in the pattern name)
+- [x] Ecological (microclimate, pollinator habitat, soil health)
+- [x] Economic (extended growing season = reduced food import dependence; heritage wall maintenance avoided by valuing the planting function)
+- [x] Social (intergenerational knowledge continuity; elder confirmation grounds current practice in community memory)
+- [x] Cultural (three-generation gardening tradition; place-specific knowledge embedded in the pattern name)
 
 **Primary Gestaltungskompetenzen (Transfer 21):**
 - 4.1.2 — Anticipatory thinking (projecting impacts of wall removal)
-- 4.1.3 — Interdisciplinary reasoning (geology → architecture → ecology → culture in one chain)
+- 4.1.3 — Interdisciplinary reasoning (geology -> architecture -> ecology -> culture in one chain)
 - 4.3.3 — Empathy (the elder's voice in the pattern; recognizing knowledge across generations)
 
 **SDG Connections:**
@@ -291,13 +291,13 @@ Once you have 15–30 pattern cards from the first year, lay them out on the Zon
 
 The dependency chain often reveals the deep structure of the place:
 
-**Ring 4** (Bioregion): The Weichselian glaciation deposited sandy outwash plain at Müllrose → which determines the sandy soil →
+**Ring 4** (Bioregion): The Weichselian glaciation deposited sandy outwash plain at Müllrose -> which determines the sandy soil ->
 
-**Ring 3** (Settlement): The sandy soil is easy to dig, hard to farm richly, good for brick-making → the settlement tradition uses brick → which creates thick masonry walls →
+**Ring 3** (Settlement): The sandy soil is easy to dig, hard to farm richly, good for brick-making -> the settlement tradition uses brick -> which creates thick masonry walls ->
 
-**Ring 1** (Site): The thick masonry walls retain heat → creating the Warm Wall microclimate →
+**Ring 1** (Site): The thick masonry walls retain heat -> creating the Warm Wall microclimate ->
 
-**Ring 2** (Garden): The microclimate supports early-season planting and pollinator habitat → enabling the garden to produce food 2–4 weeks earlier →
+**Ring 2** (Garden): The microclimate supports early-season planting and pollinator habitat -> enabling the garden to produce food 2–4 weeks earlier ->
 
 **Ring 0** (Body): Standing by the warm wall on a cool April morning, you can feel the radiant heat on your skin — the geological history of the last ice age, transformed through ten thousand years of deposition, centuries of building tradition, and decades of gardening practice, is detectable by your body at intimate proxemic distance.
 
@@ -457,8 +457,8 @@ The pattern language assembly process addresses a documented gap in sustainabili
 
 | Criterion | How the Assembly Process Addresses It | Status |
 |---|---|---|
-| 1.1.1 Life-world and life-phase relevance | The synthesis process is designed for facilitators working in rural Brandenburg — their professional life-world. The January timing (agricultural slow season) and the five-day structure fit the rhythm of community life in the region. Target group roles in synthesis (children: first observations; elders: temporal depth) are calibrated to the life-phase competencies and knowledge forms of each group. | ✅ |
-| 1.1.2 Environmental/needs analysis | The toolkit is grounded in the Transfer 21 analysis of the values-action gap (84% of young Europeans value sustainability, ~30% act on it). The synthesis addresses the specific structural reason this gap persists in citizen science: data without narrative is not actionable. The Brandenburg context (rural depopulation, cross-border positioning, heritage building stock, glacial landscape) informs both the pattern potential and the synthesis methodology. | ✅ |
+| 1.1.1 Life-world and life-phase relevance | The synthesis process is designed for facilitators working in rural Brandenburg — their professional life-world. The January timing (agricultural slow season) and the five-day structure fit the rhythm of community life in the region. Target group roles in synthesis (children: first observations; elders: temporal depth) are calibrated to the life-phase competencies and knowledge forms of each group. | [OK] |
+| 1.1.2 Environmental/needs analysis | The toolkit is grounded in the Transfer 21 analysis of the values-action gap (84% of young Europeans value sustainability, ~30% act on it). The synthesis addresses the specific structural reason this gap persists in citizen science: data without narrative is not actionable. The Brandenburg context (rural depopulation, cross-border positioning, heritage building stock, glacial landscape) informs both the pattern potential and the synthesis methodology. | [OK] |
 
 *Minimum requirement (1.1.1): Met.*
 
@@ -466,10 +466,10 @@ The pattern language assembly process addresses a documented gap in sustainabili
 
 | Criterion | How the Assembly Process Addresses It | Status |
 |---|---|---|
-| 1.2.1 Target groups concretely described | Five target groups are defined with specific roles in synthesis (see Pedagogical Framework section). Synthesis participants are concretely: facilitators, Quality Ambassadors, and 2–4 cross-target-group participants. The Day 1 material encounter and Day 2 critical review are designed for this composite group. | ✅ |
-| 1.2.2 Needs described target-group-specifically | Each target group's output is described with its specific knowledge form and synthesis role. Children's observations: phenomenologically precise, visually vivid. Elder testimony: temporally deep, locally specific. Artist/researcher notes: theoretically framed, spatially creative. Cross-border data: comparatively valuable. | ✅ |
-| 1.2.3 Goals concrete and target-group-specific | Year 1: 20–40 pattern cards, preliminary wall display, first narrative. Year 3: 60–100 patterns, cross-scale dependency chains, longitudinal comparisons. Year 5: community knowledge resource usable for planning. Goals are progressive and measurable. | ✅ |
-| 1.2.4 Need, goals, and target groups are coherent | The synthesis method (collective, multi-perspective, iterative) directly matches the participatory, intergenerational, multilingual nature of the programme it assembles. The Roter Faden is: observations → patterns → language → narrative → community knowledge. | ✅ |
+| 1.2.1 Target groups concretely described | Five target groups are defined with specific roles in synthesis (see Pedagogical Framework section). Synthesis participants are concretely: facilitators, Quality Ambassadors, and 2–4 cross-target-group participants. The Day 1 material encounter and Day 2 critical review are designed for this composite group. | [OK] |
+| 1.2.2 Needs described target-group-specifically | Each target group's output is described with its specific knowledge form and synthesis role. Children's observations: phenomenologically precise, visually vivid. Elder testimony: temporally deep, locally specific. Artist/researcher notes: theoretically framed, spatially creative. Cross-border data: comparatively valuable. | [OK] |
+| 1.2.3 Goals concrete and target-group-specific | Year 1: 20–40 pattern cards, preliminary wall display, first narrative. Year 3: 60–100 patterns, cross-scale dependency chains, longitudinal comparisons. Year 5: community knowledge resource usable for planning. Goals are progressive and measurable. | [OK] |
+| 1.2.4 Need, goals, and target groups are coherent | The synthesis method (collective, multi-perspective, iterative) directly matches the participatory, intergenerational, multilingual nature of the programme it assembles. The Roter Faden is: observations -> patterns -> language -> narrative -> community knowledge. | [OK] |
 
 *Minimum requirements (all 1.2.x): All met.*
 
@@ -479,9 +479,9 @@ The pattern language assembly process addresses a documented gap in sustainabili
 
 | Criterion | How the Assembly Process Addresses It | Status |
 |---|---|---|
-| 2.1.1 Multidimensional | The synthesis explicitly integrates all four sustainability dimensions. Ecological: soil, microclimate, biodiversity, and phenology patterns. Economic: reciprocal exchange, skill gaps, repair-as-relationship, token economy data. Social: intergenerational knowledge transfer, cross-border exchange, community memory. Cultural: heritage building practices, multilingual pattern naming, toponymy, settlement history. The Annual Pattern Language Narrative is evaluated against all four dimensions before publication. | ✅ |
-| 2.1.2 Inter-/transdisciplinary | Every dependency chain crossing rings is an act of interdisciplinary synthesis — the Glacial Substrate → Brick Tradition → Warm Wall → Early Pollinator chain integrates geology, architecture, agronomy, and ecology. The synthesis process requires facilitators and participants to hold multiple disciplinary lenses simultaneously. | ✅ |
-| 2.1.3 Current and SDG-relevant | The synthesis addresses SDGs 4, 11, 13, 15, and 17 (see Pedagogical Framework section). Contested patterns are the locus of current controversy: where ecological boundaries cross administrative ones (the Schlaubetal/border pattern), where traditional knowledge contradicts current practice, where sensor data and phenomenological observation diverge. | ✅ |
+| 2.1.1 Multidimensional | The synthesis explicitly integrates all four sustainability dimensions. Ecological: soil, microclimate, biodiversity, and phenology patterns. Economic: reciprocal exchange, skill gaps, repair-as-relationship, token economy data. Social: intergenerational knowledge transfer, cross-border exchange, community memory. Cultural: heritage building practices, multilingual pattern naming, toponymy, settlement history. The Annual Pattern Language Narrative is evaluated against all four dimensions before publication. | [OK] |
+| 2.1.2 Inter-/transdisciplinary | Every dependency chain crossing rings is an act of interdisciplinary synthesis — the Glacial Substrate -> Brick Tradition -> Warm Wall -> Early Pollinator chain integrates geology, architecture, agronomy, and ecology. The synthesis process requires facilitators and participants to hold multiple disciplinary lenses simultaneously. | [OK] |
+| 2.1.3 Current and SDG-relevant | The synthesis addresses SDGs 4, 11, 13, 15, and 17 (see Pedagogical Framework section). Contested patterns are the locus of current controversy: where ecological boundaries cross administrative ones (the Schlaubetal/border pattern), where traditional knowledge contradicts current practice, where sensor data and phenomenological observation diverge. | [OK] |
 
 *Minimum requirements (2.1.1 two dimensions linked; 2.1.3 one SDG referenced): Met, substantially exceeded.*
 
@@ -489,8 +489,8 @@ The pattern language assembly process addresses a documented gap in sustainabili
 
 | Criterion | How the Assembly Process Addresses It | Status |
 |---|---|---|
-| 2.2.1 Controversial | Contested patterns are structurally built into the synthesis. The boundary deliberation (Ring 4) produces competing boundary proposals that are preserved rather than resolved. The "Same Landscape, Different Systems" cross-border table documents the controversy between German and Polish environmental management approaches to the same glacial landscape. Status categories ("Contested") ensure that unresolved disagreement is documented rather than erased. | ✅ |
-| 2.2.2 Global-local | Local patterns connect to global knowledge systems through citizen science platforms (iNaturalist, openSenseMap). The Ubuntu principle — operationalised in the token economy and named explicitly in the synthesis narrative — connects local reciprocal exchange to a global ethical framework. Cross-border patterns demonstrate that the glacial landscape is a global bioregional phenomenon that human borders do not divide. | ✅ |
+| 2.2.1 Controversial | Contested patterns are structurally built into the synthesis. The boundary deliberation (Ring 4) produces competing boundary proposals that are preserved rather than resolved. The "Same Landscape, Different Systems" cross-border table documents the controversy between German and Polish environmental management approaches to the same glacial landscape. Status categories ("Contested") ensure that unresolved disagreement is documented rather than erased. | [OK] |
+| 2.2.2 Global-local | Local patterns connect to global knowledge systems through citizen science platforms (iNaturalist, openSenseMap). The Ubuntu principle — operationalised in the token economy and named explicitly in the synthesis narrative — connects local reciprocal exchange to a global ethical framework. Cross-border patterns demonstrate that the glacial landscape is a global bioregional phenomenon that human borders do not divide. | [OK] |
 
 *Minimum requirements (2.2.1): Met.*
 
@@ -500,14 +500,14 @@ The pattern language assembly process addresses a documented gap in sustainabili
 
 | Criterion | How the Assembly Process Addresses It | Status |
 |---|---|---|
-| 3.1.1 Experiential, hands-on (erleben, erproben) | The Day 1 material encounter is a direct sensory engagement with physical materials — handling field sheets, tracing GPS tracks, listening to audio. Pattern card writing is a hands-on act of naming and framing observed relationships. The wall display is constructed physically, with participants placing cards and drawing string connections. | ✅ |
-| 3.1.2 Situated (situiert) | The synthesis is maximally situated: it processes only the data generated by *these participants* at *this place* in *this year*. Patterns are always named in three languages specific to the cross-border community. The wall display occupies a specific wall in Zone E — it cannot be abstracted from its place. | ✅ |
-| 3.1.3 Activating (aktivierend) | Draft pattern card writing begins on Day 1 afternoon — participants are immediately productive. Each confirmed card is a tangible achievement. The string-connection exercise is visually striking and physically engaging. The gap analysis provides clear next steps. Participants leave Day 3 with concrete Year 2 programming commitments. | ✅ |
-| 3.1.4 Self-determined and participatory (selbstbestimmt-partizipativ) | Synthesis participants include cross-target-group representatives who co-author the pattern cards and the narrative. The Collective Threshold Model governs participation in the synthesis event itself. Pattern names are proposed and negotiated by participants, not imposed by the facilitator. The Year 2 gap analysis is a collective democratic decision. | ✅ |
-| 3.1.5 Reflective (reflektiert) | Day 2 morning critical review is an explicit structured reflection: "Is this a pattern (recurring, tension-resolving) or an observation (one-time, place-specific)?" The 4A-Pathway (Attitude stage) governs the narrative writing: "What does this pattern mean for how we want to steward this place?" The Quality Report integration (Day 3) requires reflection on the relationship between learning quality and pattern discovery quality. | ✅ |
-| 3.1.6 Interactive (interaktiv) | The QGIS/analog comparison (Day 2) requires two operators in dialogue with the rest of the group. Collaborative narrative writing (Day 2 afternoon) requires active negotiation of language. The wall display construction is a group exercise in spatial arrangement and connection-drawing. | ✅ |
-| 3.1.7 Holistic (ganzheitlich) | Three-Stream Pedagogy is explicit in the synthesis structure: Head (QGIS analysis, narrative writing, dependency chain logic), Hands (physical layout, card placement, map annotation), Heart (material encounter, audio listening, collaborative naming). No synthesis day is purely intellectual. | ✅ |
-| 3.1.8 Multimedial (multimedial) | The synthesis integrates: GIS (digital, visual), analog maps (physical, visual-haptic), audio recordings (auditory), photographs (visual), written field sheets (textual), and token cards (physical artefacts). Multilingual naming (DE/EN/PL) is a communicative multimodality. Expansion of synthesis documentation to social media publication is planned for Phase 2. | ⚠️ partial |
+| 3.1.1 Experiential, hands-on (erleben, erproben) | The Day 1 material encounter is a direct sensory engagement with physical materials — handling field sheets, tracing GPS tracks, listening to audio. Pattern card writing is a hands-on act of naming and framing observed relationships. The wall display is constructed physically, with participants placing cards and drawing string connections. | [OK] |
+| 3.1.2 Situated (situiert) | The synthesis is maximally situated: it processes only the data generated by *these participants* at *this place* in *this year*. Patterns are always named in three languages specific to the cross-border community. The wall display occupies a specific wall in Zone E — it cannot be abstracted from its place. | [OK] |
+| 3.1.3 Activating (aktivierend) | Draft pattern card writing begins on Day 1 afternoon — participants are immediately productive. Each confirmed card is a tangible achievement. The string-connection exercise is visually striking and physically engaging. The gap analysis provides clear next steps. Participants leave Day 3 with concrete Year 2 programming commitments. | [OK] |
+| 3.1.4 Self-determined and participatory (selbstbestimmt-partizipativ) | Synthesis participants include cross-target-group representatives who co-author the pattern cards and the narrative. The Collective Threshold Model governs participation in the synthesis event itself. Pattern names are proposed and negotiated by participants, not imposed by the facilitator. The Year 2 gap analysis is a collective democratic decision. | [OK] |
+| 3.1.5 Reflective (reflektiert) | Day 2 morning critical review is an explicit structured reflection: "Is this a pattern (recurring, tension-resolving) or an observation (one-time, place-specific)?" The 4A-Pathway (Attitude stage) governs the narrative writing: "What does this pattern mean for how we want to steward this place?" The Quality Report integration (Day 3) requires reflection on the relationship between learning quality and pattern discovery quality. | [OK] |
+| 3.1.6 Interactive (interaktiv) | The QGIS/analog comparison (Day 2) requires two operators in dialogue with the rest of the group. Collaborative narrative writing (Day 2 afternoon) requires active negotiation of language. The wall display construction is a group exercise in spatial arrangement and connection-drawing. | [OK] |
+| 3.1.7 Holistic (ganzheitlich) | Three-Stream Pedagogy is explicit in the synthesis structure: Head (QGIS analysis, narrative writing, dependency chain logic), Hands (physical layout, card placement, map annotation), Heart (material encounter, audio listening, collaborative naming). No synthesis day is purely intellectual. | [OK] |
+| 3.1.8 Multimedial (multimedial) | The synthesis integrates: GIS (digital, visual), analog maps (physical, visual-haptic), audio recordings (auditory), photographs (visual), written field sheets (textual), and token cards (physical artefacts). Multilingual naming (DE/EN/PL) is a communicative multimodality. Expansion of synthesis documentation to social media publication is planned for Phase 2. | [!] partial |
 
 *Minimum requirements (2 of 8): Far exceeded — 7 of 8 fully met, 1 partially (social media/independent research tools, Phase 2 development).*
 
@@ -515,9 +515,9 @@ The pattern language assembly process addresses a documented gap in sustainabili
 
 | Criterion | How the Assembly Process Addresses It | Status |
 |---|---|---|
-| 3.2.1 Appropriate for goals, target groups, and content | The synthesis method — iterative, collective, multi-perspective, place-based — directly fits the goals (a living pattern language) and the target groups (cross-generational, cross-disciplinary, cross-cultural). The structured three-day ritual respects the cognitive demands of synthesis without overwhelming participants. | ✅ |
-| 3.2.2 Practically proven (praktisch bewährt) | The synthesis methodology draws on globally established practices: pattern language methodology (Alexander, decades of application); data synthesis workshops (standard in participatory action research); collaborative narrative writing (used across community education contexts); QGIS for participatory mapping (globally established in GIS-based education). | ✅ |
-| 3.2.3 Theoretically and empirically grounded | Alexander's pattern language theory provides the formal framework for what constitutes a pattern (recurring, tension-resolving, named). Goethean observation grounds the "encounter before analysis" discipline. Transfer 21 Gestaltungskompetenz framework provides the competency mapping. Hall's proxemics grounds the synthesis space design. | ✅ |
+| 3.2.1 Appropriate for goals, target groups, and content | The synthesis method — iterative, collective, multi-perspective, place-based — directly fits the goals (a living pattern language) and the target groups (cross-generational, cross-disciplinary, cross-cultural). The structured three-day ritual respects the cognitive demands of synthesis without overwhelming participants. | [OK] |
+| 3.2.2 Practically proven (praktisch bewährt) | The synthesis methodology draws on globally established practices: pattern language methodology (Alexander, decades of application); data synthesis workshops (standard in participatory action research); collaborative narrative writing (used across community education contexts); QGIS for participatory mapping (globally established in GIS-based education). | [OK] |
+| 3.2.3 Theoretically and empirically grounded | Alexander's pattern language theory provides the formal framework for what constitutes a pattern (recurring, tension-resolving, named). Goethean observation grounds the "encounter before analysis" discipline. Transfer 21 Gestaltungskompetenz framework provides the competency mapping. Hall's proxemics grounds the synthesis space design. | [OK] |
 
 *Minimum requirements (3.2.1 and 3.2.2): Fully met.*
 
@@ -525,9 +525,9 @@ The pattern language assembly process addresses a documented gap in sustainabili
 
 | Criterion | How the Assembly Process Addresses It | Status |
 |---|---|---|
-| 3.3.1 Preparatory (vorbereitend) | This assembly guide is itself the primary preparatory material. It provides: materials checklist, Day 1–3 schedule, synthesis space design, pattern card template, and gap analysis framework. The main toolkit and appendices provide the theoretical background. All materials are available as OER in advance. | ✅ |
-| 3.3.2 Accompanying (begleitend) | The Day 1–3 structure includes explicit facilitated review moments. The QGIS project provides real-time data access during synthesis. The dependency chain methodology provides in-process analytical support. The Quality Report integration (Day 3) provides a parallel meta-reflective track. | ✅ |
-| 3.3.3 Follow-up (nachbereitend) | The Annual Pattern Language Narrative and updated QGIS project are durable outputs. Pattern cards are returned to participants as artefacts of collective authorship. The narrative is published as OER (CC BY-SA 4.0). The wall display remains accessible year-round. The gap analysis produces documented Year 2 commitments that enable continued engagement. | ✅ |
+| 3.3.1 Preparatory (vorbereitend) | This assembly guide is itself the primary preparatory material. It provides: materials checklist, Day 1–3 schedule, synthesis space design, pattern card template, and gap analysis framework. The main toolkit and appendices provide the theoretical background. All materials are available as OER in advance. | [OK] |
+| 3.3.2 Accompanying (begleitend) | The Day 1–3 structure includes explicit facilitated review moments. The QGIS project provides real-time data access during synthesis. The dependency chain methodology provides in-process analytical support. The Quality Report integration (Day 3) provides a parallel meta-reflective track. | [OK] |
+| 3.3.3 Follow-up (nachbereitend) | The Annual Pattern Language Narrative and updated QGIS project are durable outputs. Pattern cards are returned to participants as artefacts of collective authorship. The narrative is published as OER (CC BY-SA 4.0). The wall display remains accessible year-round. The gap analysis produces documented Year 2 commitments that enable continued engagement. | [OK] |
 
 *Minimum requirements (3.3.1 or 3.3.3): Both fully met.*
 
@@ -558,16 +558,16 @@ The annual synthesis ritual IS the Erdpuls quality development mechanism. The sy
 
 | Criterion | How the Assembly Process Addresses It | Status |
 |---|---|---|
-| 5.1.1 Development goal documented | The gap analysis from Step 6 (Part Two) produces a written list of Year 2 development goals — rings under-explored, seasons missing, target groups thinly represented. This list is the documented development goal for the next programme cycle. | ✅ |
-| 5.1.2 Implementation plan with milestones | The gap analysis directly produces Year 2 programming milestones: "Schedule winter transect (January–February); add sound-mapping workshop (April); run second cross-border cycle (June/July)." These are durable, dated, actionable commitments. | ✅ |
-| 5.1.3 Adequate development resources | The synthesis event (2–3 days, 3–5 participants) is built into the annual programme calendar. Its output (pattern cards, narrative, QGIS update) constitutes the programme's primary documentation resource. Token records from the synthesis event are included in the reciprocal economy. | ✅ |
-| 5.2.1 Continuous practice reflection | The annual synthesis is the primary mechanism for continuous practice reflection. Comparing Year N and Year N+1 pattern languages reveals what changed, what deepened, what was contested. The holonic evaluation (five dimensions: Autonomy-Integration, Ubuntu-Alignment, Reciprocity Health, Mutualism Capacity, Regeneration Impact) is applied to the pattern language as a whole. | ✅ |
-| 5.2.2 Systematic self-evaluation with written participant feedback | Day 3 integrates all Quality Star, Quality Compass, Elder Quality Criteria, and Residency Quality Reflection data. Matching quality findings to pattern language gaps ("The children rated proxemic engagement lowest in the GIS phase — next year add sensory anchors during the digital mapping") constitutes systematic evidence-based self-evaluation. | ✅ |
-| 5.2.3 Internal/external impact evaluation (after 2 years of operation) | By Year 3, the longitudinal comparison of pattern language versions (Year 1 draft vs. Year 3 mature language) constitutes the basis for internal impact evaluation. The proportion of "Confirmed" patterns, the growth of cross-scale dependency chains, and the return rate of participants are measurable impact indicators. External evaluation against UNESCO ESD for 2030 framework planned from Phase 3. | ⏳ planned Year 3+ |
-| 5.2.4 Evaluation resources adequately budgeted | The synthesis event is the evaluation mechanism — its costs are the evaluation budget. IoT sensor data provides continuous objective evaluation input at near-zero marginal cost. Token records provide automatic longitudinal documentation of participation patterns. | ✅ |
-| 5.3.1 Active BNE networking | The Annual Pattern Language Narrative is shared with BNE-Netzwerk Brandenburg; synthesis methodology presented at Incubator Village Beeskow cohort events; cross-border synthesis data shared with VULCA European Makerspace Network partners. | ✅ |
-| 5.3.2 Conceptual-methodological cooperation | Cross-border synthesis methodology developed cooperatively with Polish partner organisations. OER publication of the assembly guide invites other initiatives into methodological dialogue. The Framework Comparison Matrix (Appendix D materials) enables comparison with other BNE quality frameworks. | ✅ |
-| 5.3.3 Cooperative implementation | Heritage Renovation Days participants contribute to Ring 1 pattern data; school cooperations contribute Ring 2 citizen science data; elder networks contribute Ring 3 memory data. All contributors are named on pattern cards. | ✅ |
+| 5.1.1 Development goal documented | The gap analysis from Step 6 (Part Two) produces a written list of Year 2 development goals — rings under-explored, seasons missing, target groups thinly represented. This list is the documented development goal for the next programme cycle. | [OK] |
+| 5.1.2 Implementation plan with milestones | The gap analysis directly produces Year 2 programming milestones: "Schedule winter transect (January–February); add sound-mapping workshop (April); run second cross-border cycle (June/July)." These are durable, dated, actionable commitments. | [OK] |
+| 5.1.3 Adequate development resources | The synthesis event (2–3 days, 3–5 participants) is built into the annual programme calendar. Its output (pattern cards, narrative, QGIS update) constitutes the programme's primary documentation resource. Token records from the synthesis event are included in the reciprocal economy. | [OK] |
+| 5.2.1 Continuous practice reflection | The annual synthesis is the primary mechanism for continuous practice reflection. Comparing Year N and Year N+1 pattern languages reveals what changed, what deepened, what was contested. The holonic evaluation (five dimensions: Autonomy-Integration, Ubuntu-Alignment, Reciprocity Health, Mutualism Capacity, Regeneration Impact) is applied to the pattern language as a whole. | [OK] |
+| 5.2.2 Systematic self-evaluation with written participant feedback | Day 3 integrates all Quality Star, Quality Compass, Elder Quality Criteria, and Residency Quality Reflection data. Matching quality findings to pattern language gaps ("The children rated proxemic engagement lowest in the GIS phase — next year add sensory anchors during the digital mapping") constitutes systematic evidence-based self-evaluation. | [OK] |
+| 5.2.3 Internal/external impact evaluation (after 2 years of operation) | By Year 3, the longitudinal comparison of pattern language versions (Year 1 draft vs. Year 3 mature language) constitutes the basis for internal impact evaluation. The proportion of "Confirmed" patterns, the growth of cross-scale dependency chains, and the return rate of participants are measurable impact indicators. External evaluation against UNESCO ESD for 2030 framework planned from Phase 3. | [pending] planned Year 3+ |
+| 5.2.4 Evaluation resources adequately budgeted | The synthesis event is the evaluation mechanism — its costs are the evaluation budget. IoT sensor data provides continuous objective evaluation input at near-zero marginal cost. Token records provide automatic longitudinal documentation of participation patterns. | [OK] |
+| 5.3.1 Active BNE networking | The Annual Pattern Language Narrative is shared with BNE-Netzwerk Brandenburg; synthesis methodology presented at Incubator Village Beeskow cohort events; cross-border synthesis data shared with VULCA European Makerspace Network partners. | [OK] |
+| 5.3.2 Conceptual-methodological cooperation | Cross-border synthesis methodology developed cooperatively with Polish partner organisations. OER publication of the assembly guide invites other initiatives into methodological dialogue. The Framework Comparison Matrix (Appendix D materials) enables comparison with other BNE quality frameworks. | [OK] |
+| 5.3.3 Cooperative implementation | Heritage Renovation Days participants contribute to Ring 1 pattern data; school cooperations contribute Ring 2 citizen science data; elder networks contribute Ring 3 memory data. All contributors are named on pattern cards. | [OK] |
 
 *Minimum requirements (5.2.1 and 5.2.4; 5.3.1): All fully met.*
 
@@ -575,10 +575,10 @@ The annual synthesis ritual IS the Erdpuls quality development mechanism. The sy
 
 | Criterion | How the Assembly Process Addresses It | Status |
 |---|---|---|
-| 6.1.1 Formal pedagogical qualification | Synthesis facilitation requires competence in: participatory facilitation, pattern language methodology, QGIS, and multilingual OER documentation. The assembly guide provides the methodological preparation. Formal BNE pedagogical qualification in development; heritage workshop components led by qualified craftspeople. | ⚠️ partial |
-| 6.1.2 Personal qualification (experience, references) | The synthesis facilitator is demonstrably qualified through: operational delivery of all 20 living experience guides; maintenance of the working sensor network; administration of the functioning token economy; and authorship of the multilingual OER portal. These are evidenced through programme documentation and public-facing outputs. | ✅ |
-| 6.2.1 Preparatory training | This assembly guide is the formal preparatory material for synthesis facilitators. The Pattern Discovery Toolkit Appendices provide additional methodological depth. Quality Ambassadors receive specific preparation through the BNE Quality Framework living experience guide before joining the synthesis. | ✅ |
-| 6.2.2 Annual continuing education (min. 24 hours BNE-related) | Participation in Incubator Village Beeskow programme (6 months); BNE specialist conferences Brandenburg; VULCA European Makerspace Network learning events; Precious Plastic Community Learning; Repair Café International workshops. Total scope substantially exceeds 24-hour minimum. | ✅ |
+| 6.1.1 Formal pedagogical qualification | Synthesis facilitation requires competence in: participatory facilitation, pattern language methodology, QGIS, and multilingual OER documentation. The assembly guide provides the methodological preparation. Formal BNE pedagogical qualification in development; heritage workshop components led by qualified craftspeople. | [!] partial |
+| 6.1.2 Personal qualification (experience, references) | The synthesis facilitator is demonstrably qualified through: operational delivery of all 20 living experience guides; maintenance of the working sensor network; administration of the functioning token economy; and authorship of the multilingual OER portal. These are evidenced through programme documentation and public-facing outputs. | [OK] |
+| 6.2.1 Preparatory training | This assembly guide is the formal preparatory material for synthesis facilitators. The Pattern Discovery Toolkit Appendices provide additional methodological depth. Quality Ambassadors receive specific preparation through the BNE Quality Framework living experience guide before joining the synthesis. | [OK] |
+| 6.2.2 Annual continuing education (min. 24 hours BNE-related) | Participation in Incubator Village Beeskow programme (6 months); BNE specialist conferences Brandenburg; VULCA European Makerspace Network learning events; Precious Plastic Community Learning; Repair Café International workshops. Total scope substantially exceeds 24-hour minimum. | [OK] |
 
 *Minimum requirements (6.1.1 or 6.1.2; 6.2.1 and 6.2.2): Met. Formal qualification pathway under development.*
 
@@ -586,15 +586,15 @@ The annual synthesis ritual IS the Erdpuls quality development mechanism. The sy
 
 | Criterion | How the Assembly Process Addresses It | Status |
 |---|---|---|
-| 7.1 Leitbild documented and lived | The pattern language assembly process is an expression of the Erdpuls Leitbild — "A place to become human again." The Leitbild's five Leitsätze (sustainability in all dimensions; identity and values; internal culture; service profile; partnerships) are all present in the synthesis process. Full Leitbild documentation in *Erdpuls BNE-Qualitätsbewertung und Leitbild* (February 2026). | ✅ |
-| 7.2.1 Conceptual BNE embedding | The synthesis process is explicitly designed as a BNE educational activity, governed by the same pedagogical framework (4A-Pathway, Three Streams, Gestaltungskompetenz) as the workshops it assembles. BNE quality evaluation (Day 3) is structurally embedded in the synthesis, not added as an afterthought. | ✅ |
-| 7.3.1 Written agreements for facilitators and partners | Collective Threshold Model governs synthesis participant access. Token economy records synthesis contributions. Quality Ambassador roles are defined in the BNE Quality Framework living experience guide. | ✅ |
-| 7.3.3 Recognition of voluntary contributions | Participant names appear on pattern cards. Token records document synthesis participation. The collaborative narrative credits all contributors. The QGIS project credits GPS track contributors by initials and session. | ✅ |
-| 7.4.2 Learning spaces appropriate to pedagogical concept | Zone E synthesis space is designed sociopetally (see Proxemic Architecture section above): standing tables, materials at touching height, wall display at personal-to-intimate distance. The 5,000 m² campus provides the outdoor context within which indoor synthesis is grounded. | ✅ |
-| 7.4.4 Equipment and materials fair and eco-efficient | The synthesis uses materials produced during the workshops (field sheets, maps, token cards) — no new material purchase required. QGIS is free and open-source. Pattern cards are printed on recycled paper. The wall display uses reusable materials. | ✅ |
-| 7.5.1 Target-group-appropriate public outreach | Annual Pattern Language Narrative published as OER on trilingual portal. Wall display in Zone E accessible to all campus visitors. Narrative offered to Gemeinde and schools as local curriculum resource. | ✅ |
-| 7.5.2 Content current and accurate | Pattern cards are dated; sensor data is timestamped; the QGIS project records update history. The synthesis produces a current Annual Narrative that supersedes the previous year's draft. | ✅ |
-| 7.5.3 Named contact person reachable | Michel Garand; erdpuls@ubec.network; named on portal and on all OER publications. | ✅ |
+| 7.1 Leitbild documented and lived | The pattern language assembly process is an expression of the Erdpuls Leitbild — "A place to become human again." The Leitbild's five Leitsätze (sustainability in all dimensions; identity and values; internal culture; service profile; partnerships) are all present in the synthesis process. Full Leitbild documentation in *Erdpuls BNE-Qualitätsbewertung und Leitbild* (February 2026). | [OK] |
+| 7.2.1 Conceptual BNE embedding | The synthesis process is explicitly designed as a BNE educational activity, governed by the same pedagogical framework (4A-Pathway, Three Streams, Gestaltungskompetenz) as the workshops it assembles. BNE quality evaluation (Day 3) is structurally embedded in the synthesis, not added as an afterthought. | [OK] |
+| 7.3.1 Written agreements for facilitators and partners | Collective Threshold Model governs synthesis participant access. Token economy records synthesis contributions. Quality Ambassador roles are defined in the BNE Quality Framework living experience guide. | [OK] |
+| 7.3.3 Recognition of voluntary contributions | Participant names appear on pattern cards. Token records document synthesis participation. The collaborative narrative credits all contributors. The QGIS project credits GPS track contributors by initials and session. | [OK] |
+| 7.4.2 Learning spaces appropriate to pedagogical concept | Zone E synthesis space is designed sociopetally (see Proxemic Architecture section above): standing tables, materials at touching height, wall display at personal-to-intimate distance. The 5,000 m² campus provides the outdoor context within which indoor synthesis is grounded. | [OK] |
+| 7.4.4 Equipment and materials fair and eco-efficient | The synthesis uses materials produced during the workshops (field sheets, maps, token cards) — no new material purchase required. QGIS is free and open-source. Pattern cards are printed on recycled paper. The wall display uses reusable materials. | [OK] |
+| 7.5.1 Target-group-appropriate public outreach | Annual Pattern Language Narrative published as OER on trilingual portal. Wall display in Zone E accessible to all campus visitors. Narrative offered to Gemeinde and schools as local curriculum resource. | [OK] |
+| 7.5.2 Content current and accurate | Pattern cards are dated; sensor data is timestamped; the QGIS project records update history. The synthesis produces a current Annual Narrative that supersedes the previous year's draft. | [OK] |
+| 7.5.3 Named contact person reachable | Michel Garand; erdpuls@ubec.network; named on portal and on all OER publications. | [OK] |
 
 *Minimum requirements (7.1 all sub-criteria; 7.2.1; 7.3.1; 7.4.2; 7.4.4; all 7.5.x): All met.*
 

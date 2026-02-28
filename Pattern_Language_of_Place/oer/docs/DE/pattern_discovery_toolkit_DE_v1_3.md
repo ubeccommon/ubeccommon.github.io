@@ -87,7 +87,7 @@ Der Werkzeugkasten setzt voraus, dass teilnehmende Initiativen Zugang zu zuminde
 
 Die Werkstattmethode bewegt sich durch konzentrische Aufmerksamkeitsringe nach außen, vom Intimsten und Unmittelbarsten zum Weiträumigsten. Bei jedem Ring praktizieren die Teilnehmenden denselben Zyklus:
 
-**Beobachten → Muster benennen → Festhalten → Querverweisen → Reflektieren**
+**Beobachten -> Muster benennen -> Festhalten -> Querverweisen -> Reflektieren**
 
 Anzahl und Charakter der Ringe variieren je nach Standort. Was zählt, ist das Prinzip: *beginnen Sie im Zentrum*. Beginnen Sie nicht mit Karten, Plänen oder Abstraktionen. Beginnen Sie mit dem Boden, dem Leib, der unmittelbaren Umgebung.
 
@@ -202,13 +202,13 @@ Der Werkzeugkasten adressiert alle sieben Qualitätsbereiche des Brandenburger B
 
 | Bereich | Titel | Status |
 |---|---|---|
-| 1 | Ziele und Zielgruppen | ✅ Alle Kriterien erfüllt |
-| 2 | Ansatz | ✅ Alle Kriterien erfüllt |
-| 3 | Methoden | ✅ Mindestanforderungen erfüllt; 11/13 vollständig |
-| 4 | Gestaltungskompetenz | ✅ Alle 12 Teilkompetenzen adressiert |
-| 5 | Qualitätsentwicklung | ✅ Mindestanforderungen erfüllt |
-| 6 | Qualifikation Durchführende | ✅ Mindestanforderungen erfüllt |
-| 7 | Organisationale Bedingungen | ✅ Mindestanforderungen erfüllt |
+| 1 | Ziele und Zielgruppen | [OK] Alle Kriterien erfüllt |
+| 2 | Ansatz | [OK] Alle Kriterien erfüllt |
+| 3 | Methoden | [OK] Mindestanforderungen erfüllt; 11/13 vollständig |
+| 4 | Gestaltungskompetenz | [OK] Alle 12 Teilkompetenzen adressiert |
+| 5 | Qualitätsentwicklung | [OK] Mindestanforderungen erfüllt |
+| 6 | Qualifikation Durchführende | [OK] Mindestanforderungen erfüllt |
+| 7 | Organisationale Bedingungen | [OK] Mindestanforderungen erfüllt |
 
 * * *
 
@@ -248,8 +248,8 @@ Steiner schlug vor, dass menschliche Entwicklung durch drei breite Phasen verlä
 | Entwicklungsphase | Primärer 4A-Einstieg | Ringe, wo diese Phase am aktivsten ist |
 |---|---|---|
 | Willenskräfte | **Wahrnehmung** — der Leib weiß, bevor der Verstand erklärt | Ring 0 (Kalibrierung), Ring 1 (Materialkontakt), Ring 2 (Boden und Garten) |
-| Fühlkräfte | **Anerkennung → Haltung** — Erkenntnis und Wertereflexion | Ring 2 (ökologische Muster, die *bedeutsam* sind), Ring 3 (kontestierte soziale Muster) |
-| Denken / Urteil | **Haltung → Handlung** — ethische Synthese und Verpflichtung | Ring 4 (bioregionale Beratung), Abschluss (Intention und Rückkehr) |
+| Fühlkräfte | **Anerkennung -> Haltung** — Erkenntnis und Wertereflexion | Ring 2 (ökologische Muster, die *bedeutsam* sind), Ring 3 (kontestierte soziale Muster) |
+| Denken / Urteil | **Haltung -> Handlung** — ethische Synthese und Verpflichtung | Ring 4 (bioregionale Beratung), Abschluss (Intention und Rückkehr) |
 
 **Der Entwicklungsbogen spiralisiert über die gesamte Lebensspanne.** Diese Phasen sind keine permanenten Altersklammern. Jede Person tritt erneut in die Willenskräfte-Phase ein, wenn sie auf etwas genuinely Unbekanntes trifft — eine neue Landschaft, ein neues Handwerk, eine neue Gemeinschaft. Jede erwachsene Person, die sich Ring 0 zum ersten Mal nähert, ist in diesem Moment eine Willenskräfte-Lernende: Empfindung muss der Erklärung vorausgehen. Das Bestehen des Werkzeugkastens auf verkörperter Beobachtung vor analytischer Interpretation ist keine Konzession an junge Teilnehmende — es ist die Anerkennung, dass Steiners erste Phase die erkenntnistheoretische Bedingung jeder Erstbegegnung mit der lebendigen Welt beschreibt, unabhängig vom Alter der Teilnehmenden.
 
@@ -716,7 +716,7 @@ Dieser Werkzeugkasten steht an der Schnittstelle mehrerer intellektueller Tradit
 
 **Goetheanische Wissenschaft** — Johann Wolfgang von Goethes Ansatz zur Naturbeobachtung, entwickelt in *Die Metamorphose der Pflanzen* (1790) und *Zur Farbenlehre* (1810). Die Disziplin aufmerksamer, sequenzieller Beobachtung vor der Analyse. Die Idee, dass der Beobachtende Teil des Phänomens ist. Im 20. Jahrhundert ausgearbeitet von Henri Bortoft (*The Wholeness of Nature*, 1996). Das Bestehen des Werkzeugkastens auf Empfindung vor Interpretation und seine Ring-0-Leibkalibrierungspraxis sind direkte Anwendungen von Goethes *zarte Empirie*.
 
-**Anthroposophie / Rudolf Steiner** — *Die Erziehung des Kindes vom Gesichtspunkte der Geisteswissenschaft* (1907); *Allgemeine Menschenkunde als Grundlage der Pädagogik* (1919); und die als *Erziehungskunst* (1919) gesammelten Vorträge. Steiner war gleichzeitig der rigoroseste frühe Interpret von Goethes Wissenschaftsmethode im deutschsprachigen Raum und der Begründer der Waldorfpädagogik — zwei Beiträge, die nicht zufällig miteinander verbunden sind. Sein Entwicklungsstufenrahmen — Willenskräfte dominieren in der frühen Kindheit, Fühl-/rhythmische Kräfte in der mittleren Kindheit, Denken/individuelles Urteil erwacht in der Adoleszenz — liefert die Kalibrierungslogik für den 4A-Pfad des Werkzeugkastens (Wahrnehmung → Anerkennung → Haltung → Handlung). Sein dreifältiges Menschenmodell (Denken / Fühlen / Wollen) ist die philosophische Wurzel der Dreistrom-Pädagogik (Kopf / Hände / Herz), die das Design jeder Sitzung in diesem Werkzeugkasten bestimmt. Der Werkzeugkasten greift auf Steiners pädagogische Einsichten zurück — insbesondere seinen Nachdruck, dass verkörperte, sinnliche Begegnung der Begriffsunterweisung vorausgehen muss, und dass moralische Kapazität durch konkrete Erfahrung von Konsequenz entsteht, nicht durch abstrakte ethische Anweisung — als eine Entwicklungspsychologie, die auf alle Altersgruppen und Hintergründe anwendbar ist. Moderierende müssen keine Position zur breiteren anthroposophischen Weltanschauung einnehmen; der pädagogische Rahmen steht eigenständig auf der Grundlage seiner praktischen Wirksamkeit. Siehe auch: Kieran Egan (*Teaching as Storytelling*, 1986) für einen nicht-anthroposophischen Ansatz der gleichen Entwicklungsstufen; David Hay und Rebecca Nye (*The Spirit of the Child*, 1998) für empirische Forschung zum relationalen Bewusstsein von Kindern, die Steiners Willenskräfte-Phase unabhängig bestätigt.
+**Anthroposophie / Rudolf Steiner** — *Die Erziehung des Kindes vom Gesichtspunkte der Geisteswissenschaft* (1907); *Allgemeine Menschenkunde als Grundlage der Pädagogik* (1919); und die als *Erziehungskunst* (1919) gesammelten Vorträge. Steiner war gleichzeitig der rigoroseste frühe Interpret von Goethes Wissenschaftsmethode im deutschsprachigen Raum und der Begründer der Waldorfpädagogik — zwei Beiträge, die nicht zufällig miteinander verbunden sind. Sein Entwicklungsstufenrahmen — Willenskräfte dominieren in der frühen Kindheit, Fühl-/rhythmische Kräfte in der mittleren Kindheit, Denken/individuelles Urteil erwacht in der Adoleszenz — liefert die Kalibrierungslogik für den 4A-Pfad des Werkzeugkastens (Wahrnehmung -> Anerkennung -> Haltung -> Handlung). Sein dreifältiges Menschenmodell (Denken / Fühlen / Wollen) ist die philosophische Wurzel der Dreistrom-Pädagogik (Kopf / Hände / Herz), die das Design jeder Sitzung in diesem Werkzeugkasten bestimmt. Der Werkzeugkasten greift auf Steiners pädagogische Einsichten zurück — insbesondere seinen Nachdruck, dass verkörperte, sinnliche Begegnung der Begriffsunterweisung vorausgehen muss, und dass moralische Kapazität durch konkrete Erfahrung von Konsequenz entsteht, nicht durch abstrakte ethische Anweisung — als eine Entwicklungspsychologie, die auf alle Altersgruppen und Hintergründe anwendbar ist. Moderierende müssen keine Position zur breiteren anthroposophischen Weltanschauung einnehmen; der pädagogische Rahmen steht eigenständig auf der Grundlage seiner praktischen Wirksamkeit. Siehe auch: Kieran Egan (*Teaching as Storytelling*, 1986) für einen nicht-anthroposophischen Ansatz der gleichen Entwicklungsstufen; David Hay und Rebecca Nye (*The Spirit of the Child*, 1998) für empirische Forschung zum relationalen Bewusstsein von Kindern, die Steiners Willenskräfte-Phase unabhängig bestätigt.
 
 **Phänomenologie** — Edmund Husserl, Maurice Merleau-Ponty (*Phénoménologie de la perception*, 1945) und jüngst David Seamon (Umweltphänomenologie, „place-ballet"). Das Bestehen darauf, dass Wissen mit vor-theoretischer Beschreibung der gelebten Erfahrung beginnt. Merleau-Pontys radikale These — dass der Leib kein Objekt in der Welt ist, sondern das Subjekt, durch das es eine Welt gibt — begründet die Behandlung des Leibes als Wahrnehmungsinstrument von gleicher Würde wie elektronische Sensoren.
 
