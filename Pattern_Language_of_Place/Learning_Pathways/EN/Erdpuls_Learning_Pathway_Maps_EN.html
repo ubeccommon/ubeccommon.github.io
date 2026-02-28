@@ -1,0 +1,1289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Erdpuls Müllrose — Learning Pathway Maps</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,300;1,9..40,400&display=swap" rel="stylesheet" />
+
+<style>
+/* ── Design tokens ─────────────────────────────────────────────────────────── */
+:root {
+  /* Brand earth palette */
+  --ink:        #1a1a14;
+  --soil:       #2d3a1e;
+  --moss:       #3d5c28;
+  --fern:       #5a8040;
+  --sage:       #8fb86e;
+  --meadow:     #c8e6a0;
+  --parchment:  #f7f4ed;
+  --cream:      #fefcf7;
+  --warm-white: #fffef9;
+
+  /* 4A stage palette */
+  --awareness:      #e8a020;
+  --awareness-bg:   #fef7e6;
+  --awareness-dark: #92620a;
+  --ack:            #c0521a;
+  --ack-bg:         #fdf1eb;
+  --ack-dark:       #7a3210;
+  --attitude:       #2a5fa8;
+  --attitude-bg:    #eaf1fb;
+  --attitude-dark:  #1a3d6e;
+  --action:         #1a4d2e;
+  --action-bg:      #eaf4ee;
+  --action-dark:    #0d2e1a;
+
+  /* Convergence purple */
+  --convergence:     #5e3da8;
+  --convergence-bg:  #f2eefb;
+  --convergence-bdr: #b09adb;
+
+  /* Token colours */
+  --token-coop:  #3d8f6a;
+  --token-recip: #c0521a;
+  --token-mutu:  #2a5fa8;
+  --token-regen: #1a4d2e;
+
+  /* Typography */
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body:    'DM Sans', system-ui, sans-serif;
+
+  /* Spacing scale */
+  --sp-xs: 0.25rem;
+  --sp-sm: 0.5rem;
+  --sp-md: 1rem;
+  --sp-lg: 1.5rem;
+  --sp-xl: 2rem;
+  --sp-2xl: 3rem;
+
+  /* Group accent colours (bg-grad start/end) — 7 groups */
+  --g0-a: #2d6614; --g0-b: #1a3d0a;  /* Classes 1–4: leaf green */
+  --g1-a: #1a5c7a; --g1-b: #0f3a50;  /* Classes 5–8: teal-blue */
+  --g2-a: #5c3a0a; --g2-b: #3a2206;  /* Classes 9–12: deep amber */
+  --g3-a: #1e5a52; --g3-b: #0f3530;  /* Adults & Families: forest teal */
+  --g4-a: #6b4a10; --g4-b: #402a06;  /* Elders: warm amber */
+  --g5-a: #4a2860; --g5-b: #2a1440;  /* Artists & Researchers: violet */
+  --g6-a: #6b1a28; --g6-b: #400e18;  /* Cross-border DE/PL: deep rose */
+}
+
+/* ── Reset & base ──────────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { font-size: 16px; scroll-behavior: smooth; }
+body {
+  font-family: var(--font-body);
+  font-size: 0.9375rem;
+  line-height: 1.6;
+  color: var(--ink);
+  background: var(--parchment);
+  min-height: 100vh;
+}
+button { font-family: inherit; cursor: pointer; border: none; background: none; }
+img { max-width: 100%; }
+
+/* ── Header ────────────────────────────────────────────────────────────────── */
+.site-header {
+  background: linear-gradient(135deg, var(--soil) 0%, var(--moss) 60%, #4d7030 100%);
+  color: white;
+  padding: var(--sp-lg) var(--sp-xl);
+  position: relative;
+  overflow: hidden;
+}
+.site-header::before {
+  content: '';
+  position: absolute; inset: 0;
+  background:
+    radial-gradient(ellipse at 80% 0%, rgba(255,255,255,0.06) 0%, transparent 55%),
+    radial-gradient(ellipse at 10% 100%, rgba(0,0,0,0.2) 0%, transparent 50%);
+  pointer-events: none;
+}
+.site-header__inner {
+  max-width: 1040px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+}
+.site-header__eyebrow {
+  font-family: var(--font-body);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--meadow);
+  margin-bottom: var(--sp-sm);
+}
+.site-header__title {
+  font-family: var(--font-display);
+  font-size: clamp(1.6rem, 3.5vw, 2.4rem);
+  font-weight: 900;
+  line-height: 1.1;
+  margin-bottom: var(--sp-xs);
+}
+.site-header__subtitle {
+  font-size: 0.875rem;
+  color: rgba(255,255,255,0.75);
+  font-weight: 300;
+  font-style: italic;
+}
+
+/* ── Group selector ────────────────────────────────────────────────────────── */
+.group-nav {
+  background: var(--cream);
+  border-bottom: 1.5px solid rgba(0,0,0,0.08);
+  padding: var(--sp-md) var(--sp-xl);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+}
+.group-nav__inner {
+  max-width: 1040px;
+  margin: 0 auto;
+  display: flex;
+  gap: var(--sp-sm);
+  flex-wrap: wrap;
+}
+.group-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+  padding: 0.45rem 0.9rem;
+  border-radius: 2rem;
+  font-size: 0.84rem;
+  font-weight: 500;
+  border: 1.5px solid rgba(0,0,0,0.12);
+  color: #555;
+  background: white;
+  transition: all 0.18s ease;
+  white-space: nowrap;
+}
+.group-btn:hover:not(.is-active) {
+  border-color: var(--moss);
+  color: var(--moss);
+}
+.group-btn.is-active {
+  color: white;
+  border-color: transparent;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.22);
+}
+.group-btn[data-group="0"].is-active { background: linear-gradient(135deg, var(--g0-a), var(--g0-b)); }
+.group-btn[data-group="1"].is-active { background: linear-gradient(135deg, var(--g1-a), var(--g1-b)); }
+.group-btn[data-group="2"].is-active { background: linear-gradient(135deg, var(--g2-a), var(--g2-b)); }
+.group-btn[data-group="3"].is-active { background: linear-gradient(135deg, var(--g3-a), var(--g3-b)); }
+.group-btn[data-group="4"].is-active { background: linear-gradient(135deg, var(--g4-a), var(--g4-b)); }
+.group-btn[data-group="5"].is-active { background: linear-gradient(135deg, var(--g5-a), var(--g5-b)); }
+.group-btn[data-group="6"].is-active { background: linear-gradient(135deg, var(--g6-a), var(--g6-b)); }
+
+/* ── Main canvas ───────────────────────────────────────────────────────────── */
+.canvas {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: var(--sp-xl) var(--sp-xl) var(--sp-2xl);
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-xl);
+}
+
+/* ── Group hero banner ─────────────────────────────────────────────────────── */
+.group-hero {
+  border-radius: 1.2rem;
+  padding: var(--sp-lg) var(--sp-xl);
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--sp-lg);
+  color: white;
+  position: relative;
+  overflow: hidden;
+  transition: background 0.25s ease;
+}
+.group-hero::before {
+  content: '';
+  position: absolute; inset: 0;
+  background: radial-gradient(ellipse at 90% 10%, rgba(255,255,255,0.12) 0%, transparent 50%);
+  pointer-events: none;
+}
+.group-hero[data-group="0"] { background: linear-gradient(135deg, var(--g0-a) 0%, var(--g0-b) 100%); }
+.group-hero[data-group="1"] { background: linear-gradient(135deg, var(--g1-a) 0%, var(--g1-b) 100%); }
+.group-hero[data-group="2"] { background: linear-gradient(135deg, var(--g2-a) 0%, var(--g2-b) 100%); }
+.group-hero[data-group="3"] { background: linear-gradient(135deg, var(--g3-a) 0%, var(--g3-b) 100%); }
+.group-hero[data-group="4"] { background: linear-gradient(135deg, var(--g4-a) 0%, var(--g4-b) 100%); }
+.group-hero[data-group="5"] { background: linear-gradient(135deg, var(--g5-a) 0%, var(--g5-b) 100%); }
+.group-hero[data-group="6"] { background: linear-gradient(135deg, var(--g6-a) 0%, var(--g6-b) 100%); }
+.group-hero__left { position: relative; z-index: 1; }
+.group-hero__emoji { font-size: 2.2rem; line-height: 1; margin-bottom: 0.3em; display: block; }
+.group-hero__label {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 0.15em;
+}
+.group-hero__ages { font-size: 0.82rem; opacity: 0.78; margin-bottom: 0.3em; }
+.group-hero__tagline { font-size: 0.9rem; font-style: italic; opacity: 0.9; max-width: 36ch; }
+.group-hero__right { position: relative; z-index: 1; text-align: right; flex-shrink: 0; }
+.group-hero__zone-label { font-size: 0.65rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; opacity: 0.65; margin-bottom: 0.25em; }
+.group-hero__zone { font-size: 0.8rem; opacity: 0.88; max-width: 20ch; }
+
+/* ── Layout grid (left panel + right panel) ────────────────────────────────── */
+.pathway-grid {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: var(--sp-lg);
+  align-items: start;
+}
+@media (max-width: 740px) {
+  .pathway-grid { grid-template-columns: 1fr; }
+  .canvas { padding: var(--sp-md); }
+  .group-hero { flex-direction: column; }
+  .group-hero__right { text-align: left; }
+}
+
+/* ── Left panel (pathway nodes list) ──────────────────────────────────────── */
+.panel {
+  background: white;
+  border-radius: 1rem;
+  border: 1.5px solid rgba(0,0,0,0.08);
+  overflow: hidden;
+}
+.panel__head {
+  padding: var(--sp-md) var(--sp-md) var(--sp-sm);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #888;
+  border-bottom: 1px solid rgba(0,0,0,0.06);
+}
+
+/* Node list items */
+.node-list {
+  padding: var(--sp-sm);
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  position: relative;
+}
+/* Vertical progress line */
+.node-list::before {
+  content: '';
+  position: absolute;
+  left: calc(var(--sp-sm) + 19px); /* centre of the node circle */
+  top: calc(var(--sp-sm) + 20px);
+  bottom: calc(var(--sp-sm) + 20px);
+  width: 2px;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.12), rgba(0,0,0,0.04));
+  pointer-events: none;
+  z-index: 0;
+}
+.node-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.65rem;
+  padding: 0.55rem 0.65rem;
+  border-radius: 0.6rem;
+  border: 1.5px solid transparent;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  background: var(--parchment);
+  position: relative;
+  z-index: 1;
+  text-align: left;
+  width: 100%;
+}
+.node-item:hover:not(.is-active) { background: white; border-color: rgba(0,0,0,0.1); }
+.node-item.is-active { background: white; }
+.node-item.is-active[data-stage="Awareness"]      { border-color: var(--awareness); background: var(--awareness-bg); }
+.node-item.is-active[data-stage="Acknowledgment"] { border-color: var(--ack);       background: var(--ack-bg); }
+.node-item.is-active[data-stage="Attitude"]       { border-color: var(--attitude);  background: var(--attitude-bg); }
+.node-item.is-active[data-stage="Action"]         { border-color: var(--action);    background: var(--action-bg); }
+
+.node-circle {
+  width: 38px; height: 38px;
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-weight: 700; font-size: 1rem;
+  color: white;
+  flex-shrink: 0;
+}
+[data-stage="Awareness"]      .node-circle { background: var(--awareness); }
+[data-stage="Acknowledgment"] .node-circle { background: var(--ack); }
+[data-stage="Attitude"]       .node-circle { background: var(--attitude); }
+[data-stage="Action"]         .node-circle { background: var(--action); }
+
+.node-meta { min-width: 0; }
+.node-stage-label {
+  font-size: 0.65rem; font-weight: 700; letter-spacing: 0.07em; text-transform: uppercase;
+  margin-bottom: 0.1em;
+}
+[data-stage="Awareness"]      .node-stage-label { color: var(--awareness-dark); }
+[data-stage="Acknowledgment"] .node-stage-label { color: var(--ack-dark); }
+[data-stage="Attitude"]       .node-stage-label { color: var(--attitude-dark); }
+[data-stage="Action"]         .node-stage-label { color: var(--action-dark); }
+.node-title { font-size: 0.82rem; font-weight: 600; color: var(--ink); line-height: 1.3; }
+.node-ring { font-size: 0.72rem; color: #888; margin-top: 0.1em; }
+
+/* Convergence zone toggle + panel */
+.convergence-toggle {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4em;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--convergence);
+  background: var(--convergence-bg);
+  border-top: 1px solid var(--convergence-bdr);
+  padding: 0.6rem;
+  transition: background 0.15s;
+}
+.convergence-toggle:hover { background: #ebe5f7; }
+.convergence-panel { border-top: 1px solid var(--convergence-bdr); }
+.convergence-item {
+  padding: 0.65rem 0.8rem;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+  display: flex;
+  flex-direction: column;
+  gap: 0.2em;
+}
+.convergence-item:last-child { border-bottom: none; }
+.convergence-event { font-size: 0.78rem; font-weight: 600; color: var(--convergence); }
+.convergence-meta { font-size: 0.72rem; color: #666; }
+.convergence-badge {
+  display: inline-block;
+  padding: 0.1em 0.5em;
+  border-radius: 999px;
+  background: var(--convergence-bg);
+  border: 1px solid var(--convergence-bdr);
+  color: var(--convergence);
+  font-size: 0.65rem;
+  font-weight: 600;
+  margin-top: 0.15em;
+}
+
+/* ── Right panel (node detail) ─────────────────────────────────────────────── */
+.detail-panel {
+  border-radius: 1rem;
+  border: 2px solid rgba(0,0,0,0.1);
+  overflow: hidden;
+  transition: border-color 0.2s ease;
+}
+.detail-panel[data-stage="Awareness"]      { border-color: var(--awareness); }
+.detail-panel[data-stage="Acknowledgment"] { border-color: var(--ack); }
+.detail-panel[data-stage="Attitude"]       { border-color: var(--attitude); }
+.detail-panel[data-stage="Action"]         { border-color: var(--action); }
+
+.detail-header {
+  padding: var(--sp-md) var(--sp-lg);
+  display: flex;
+  align-items: center;
+  gap: var(--sp-md);
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+  transition: background 0.2s ease;
+}
+.detail-panel[data-stage="Awareness"]      .detail-header { background: var(--awareness-bg); }
+.detail-panel[data-stage="Acknowledgment"] .detail-header { background: var(--ack-bg); }
+.detail-panel[data-stage="Attitude"]       .detail-header { background: var(--attitude-bg); }
+.detail-panel[data-stage="Action"]         .detail-header { background: var(--action-bg); }
+
+.detail-header-circle {
+  width: 46px; height: 46px;
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-weight: 800; font-size: 1.2rem;
+  color: white; flex-shrink: 0;
+  transition: background 0.2s ease;
+}
+.detail-panel[data-stage="Awareness"]      .detail-header-circle { background: var(--awareness); }
+.detail-panel[data-stage="Acknowledgment"] .detail-header-circle { background: var(--ack); }
+.detail-panel[data-stage="Attitude"]       .detail-header-circle { background: var(--attitude); }
+.detail-panel[data-stage="Action"]         .detail-header-circle { background: var(--action); }
+
+.detail-header-info {}
+.detail-header-stage {
+  font-size: 0.68rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase;
+}
+.detail-panel[data-stage="Awareness"]      .detail-header-stage { color: var(--awareness-dark); }
+.detail-panel[data-stage="Acknowledgment"] .detail-header-stage { color: var(--ack-dark); }
+.detail-panel[data-stage="Attitude"]       .detail-header-stage { color: var(--attitude-dark); }
+.detail-panel[data-stage="Action"]         .detail-header-stage { color: var(--action-dark); }
+
+.detail-header-title {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.25;
+}
+
+.detail-body { background: white; padding: var(--sp-lg); display: flex; flex-direction: column; gap: var(--sp-md); }
+
+/* Field rows */
+.field { display: flex; flex-direction: column; gap: 0.3em; }
+.field-label {
+  font-size: 0.65rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #999;
+}
+.field-value { font-size: 0.875rem; color: var(--ink); line-height: 1.55; }
+
+/* Workshop pills */
+.workshop-pills { display: flex; flex-wrap: wrap; gap: 0.35em; }
+.pill {
+  display: inline-block;
+  padding: 0.2em 0.65em;
+  background: var(--parchment);
+  border: 1px solid rgba(0,0,0,0.12);
+  border-radius: 999px;
+  font-size: 0.72rem;
+  color: #555;
+}
+
+/* Output box */
+.output-box {
+  background: var(--parchment);
+  border-radius: 0.6rem;
+  border: 1px solid rgba(0,0,0,0.08);
+  padding: 0.75rem 0.9rem;
+}
+
+/* Two-column grid for token + clusters */
+.detail-meta-grid { display: grid; grid-template-columns: 1fr 1fr; gap: var(--sp-sm); }
+@media (max-width: 540px) { .detail-meta-grid { grid-template-columns: 1fr; } }
+
+.meta-card {
+  border-radius: 0.6rem;
+  border: 1px solid rgba(0,0,0,0.08);
+  padding: 0.65rem 0.8rem;
+}
+.meta-card--token { background: white; }
+.meta-card--clusters { background: var(--parchment); }
+
+.token-value {
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+.token-value.cooperation  { color: var(--token-coop); }
+.token-value.reciprocity  { color: var(--token-recip); }
+.token-value.mutualism    { color: var(--token-mutu); }
+.token-value.regeneration { color: var(--token-regen); }
+.token-value.mixed        { color: var(--moss); }
+
+.cluster-tags { display: flex; flex-wrap: wrap; gap: 0.3em; margin-top: 0.3em; }
+.cluster-tag {
+  font-size: 0.68rem;
+  padding: 0.15em 0.55em;
+  border-radius: 999px;
+  background: rgba(90,128,64,0.12);
+  border: 1px solid rgba(90,128,64,0.25);
+  color: var(--moss);
+  font-weight: 500;
+}
+
+/* VAG bridge quote */
+.vag-box {
+  background: linear-gradient(135deg, #fffbee 0%, #fff7d6 100%);
+  border: 1.5px solid #e8c84a;
+  border-radius: 0.75rem;
+  padding: 0.85rem 1rem;
+  position: relative;
+}
+.vag-label {
+  font-size: 0.65rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase;
+  color: #927a10; margin-bottom: 0.4em;
+  display: flex; align-items: center; gap: 0.4em;
+}
+.vag-label::before { content: '◆'; font-size: 0.5rem; }
+.vag-quote { font-style: italic; font-size: 0.875rem; color: #5a4a0a; line-height: 1.6; }
+
+/* Horizontal divider */
+.divider { height: 1px; background: rgba(0,0,0,0.07); margin: 0; }
+
+/* ── Legend bar ────────────────────────────────────────────────────────────── */
+.legend-bar {
+  background: white;
+  border-radius: 1rem;
+  border: 1.5px solid rgba(0,0,0,0.08);
+  padding: var(--sp-md) var(--sp-lg);
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-sm);
+}
+.legend-head {
+  font-size: 0.65rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #888;
+}
+.legend-stages { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; }
+.legend-item { display: flex; align-items: center; gap: 0.4em; }
+.legend-dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
+.legend-dot--awareness      { background: var(--awareness); }
+.legend-dot--acknowledgment { background: var(--ack); }
+.legend-dot--attitude       { background: var(--attitude); }
+.legend-dot--action         { background: var(--action); }
+.legend-dot--convergence    { background: var(--convergence); }
+.legend-text { font-size: 0.78rem; color: #555; font-weight: 500; }
+
+/* Token reference (hidden by default) */
+.token-toggle {
+  font-size: 0.78rem; font-weight: 600; color: #666;
+  display: inline-flex; align-items: center; gap: 0.3em;
+  margin-top: var(--sp-xs);
+  transition: color 0.15s;
+}
+.token-toggle:hover { color: var(--moss); }
+.token-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.5rem;
+  margin-top: var(--sp-sm);
+}
+@media (max-width: 480px) { .token-grid { grid-template-columns: 1fr; } }
+.token-card {
+  background: var(--parchment);
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 0.5rem;
+  padding: 0.6rem 0.75rem;
+}
+.token-card__name { font-size: 0.78rem; font-weight: 700; }
+.token-card__name.cooperation  { color: var(--token-coop); }
+.token-card__name.reciprocity  { color: var(--token-recip); }
+.token-card__name.mutualism    { color: var(--token-mutu); }
+.token-card__name.regeneration { color: var(--token-regen); }
+.token-card__desc { font-size: 0.72rem; color: #777; margin-top: 0.15em; }
+
+/* ── Footer ────────────────────────────────────────────────────────────────── */
+.site-footer {
+  text-align: center;
+  font-size: 0.75rem;
+  color: #aaa;
+  padding-bottom: var(--sp-xl);
+}
+.site-footer a { color: #888; text-decoration: none; }
+.site-footer a:hover { color: var(--moss); }
+
+/* ── Fade-in animation ─────────────────────────────────────────────────────── */
+@keyframes fadeSlideIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.anim-in { animation: fadeSlideIn 0.22s ease forwards; }
+
+/* ── Print tweaks ──────────────────────────────────────────────────────────── */
+@media print {
+  .group-nav { position: static; }
+  .canvas { padding: 1rem; }
+}
+</style>
+</head>
+
+<body>
+
+<!-- ── SITE HEADER ─────────────────────────────────────────────────────────── -->
+<header class="site-header">
+  <div class="site-header__inner">
+    <div class="site-header__eyebrow">Erdpuls Müllrose · Center for Sustainability Literacy, Citizen Science &amp; Reciprocal Economics</div>
+    <h1 class="site-header__title">Learning Pathway Maps</h1>
+    <p class="site-header__subtitle">Five target-group pathways &middot; 4A-Pathway depth &middot; Values-Action Gap bridge questions &middot; Token economy integration</p>
+  </div>
+</header>
+
+<!-- ── GROUP SELECTOR ──────────────────────────────────────────────────────── -->
+<nav class="group-nav" aria-label="Target groups">
+  <div class="group-nav__inner" id="groupNav"></div>
+</nav>
+
+<!-- ── MAIN CANVAS ─────────────────────────────────────────────────────────── -->
+<main class="canvas" id="mainCanvas">
+  <!-- dynamically rendered -->
+</main>
+
+<script>
+// ── ALL DATA ───────────────────────────────────────────────────────────────────
+const GROUPS = [
+  // ── Grade Band A: Classes 1–4 ──────────────────────────────────────────────
+  {
+    id: "band-a",
+    label: "Classes 1–4",
+    labelPlain: "Classes 1–4 · Earth Detectives",
+    emoji: "🪱",
+    ages: "Ages 6–10 | Lower Primary",
+    tagline: "Earth Detectives: First Encounters with Living Ground",
+    entryZone: "Zone B — Outdoor Soil Laboratory · Guide 01",
+    nodes: [
+      {
+        stage: "Awareness",
+        num: 1,
+        title: "Meeting the Living Ground",
+        ring: "Ring 0–1",
+        workshops: ["OER Guide 01 — Phases 1–2 (Stone Circle opening; Body Calibration; Smell Jar)"],
+        experience: "Opening stone circle ritual establishes rhythm and readiness; Ring 0 body calibration — children kneel, touch, smell, and listen before any tool is introduced; Smell Jar comparison (three soil or substrate types, described in own sensory language, no labels); each child draws one Earth Detective Card (what they notice, in their own image-language); entry on the Class Community Observation Board",
+        output: "Earth Detective Card (individual illustrated observation); entry on the Class Community Observation Board",
+        token: "Token Seed",
+        vag: "You found something alive in the soil. What do you think it eats? Where do you think it sleeps at night? You just asked a scientist's question — because that's exactly what scientists ask.",
+        clusters: ["Environmental Literacy", "Social-Emotional Learning"],
+      },
+      {
+        stage: "Acknowledgment",
+        num: 2,
+        title: "The Soil Speaks Numbers",
+        ring: "Ring 1–2",
+        workshops: ["OER Guide 01 — Phase 3 (senseBox as conversation partner; facilitated iNaturalist)"],
+        experience: "senseBox MCU introduced as a 'conversation partner' — it notices temperature and moisture; we notice texture and smell; Sensor Dialogue at introductory level: facilitator reads out the senseBox numbers while children hold the same soil, inviting comparison without hierarchy; first iNaturalist observation record (facilitator uploads, children receive their observation IDs); Class Soil Portrait begun — collaborative drawing showing above/at/below-ground layers with senseBox readings labelled",
+        output: "Class Soil Portrait (in progress); iNaturalist observation IDs assigned to the class; senseBox data printout — the class's first openSenseMap network contribution",
+        token: "Token Seed",
+        vag: "Someone in Japan or Brazil could look at the number your senseBox sent and know what the air is like in Müllrose today. You sent a message to the whole world. What else do you know that the world should hear?",
+        clusters: ["Environmental Literacy", "Scientific Inquiry"],
+      },
+      {
+        stage: "Attitude",
+        num: 3,
+        title: "What Does the Ground Need from Us?",
+        ring: "Ring 1–2 (garden zone)",
+        workshops: ["OER Guide 01 — Token Seed ceremony; introductory garden care activity"],
+        experience: "Hands-on garden care (watering, weeding, planting) as an embodied act of contribution — not instruction but participation; Token Seed ceremony: each group shares its most surprising discovery from prior visits, tokens flow to those who found and to those who listened; picture-based Values-Action Map (drawn not written: what I know / what I do — two image columns); facilitator names the Reciprocity in caring for the garden explicitly",
+        output: "Planted or tended garden area (documented with photograph); picture Values-Action Map kept by child; Token Seed jar count celebrated as class collective achievement",
+        token: "Token Seed + first Reciprocity introduction",
+        vag: "The seeds we planted today won't be ready to eat until you come back. What will you do to make sure the soil is ready for them — between now and your next visit?",
+        clusters: ["Economic Understanding", "Social-Emotional Learning"],
+      },
+      {
+        stage: "Action",
+        num: 4,
+        title: "Earth Detectives Share Their Science",
+        ring: "Ring 0–2",
+        workshops: ["OER Guide 01 — Phase 4 (Class Soil Portrait completion; Closing Circle; presentation to audience)"],
+        experience: "Class Soil Portrait completed collaboratively and formally titled; children present findings to a real audience (another class, parent afternoon, or school assembly) in their own words with no script; facilitator supports but does not speak for the children; iNaturalist observation IDs reviewed and shared; Closing Circle — each child names one thing they are taking home in their memory",
+        output: "Completed and presented Class Soil Portrait (archived at Erdpuls, printed copy returns to classroom); iNaturalist observation record; Closing Circle record (one word per child, photographed)",
+        token: "Token Seed + Cooperation",
+        vag: "You just taught another class something about soil that they didn't know before. What does it feel like to be the one who knows? What do you want to find out next time you come back?",
+        clusters: ["Environmental Literacy", "Social-Emotional Learning"],
+      },
+    ],
+    convergences: [
+      { event: "Seasonal Observational Cycle", with: "All groups (spring baseline node)", nodes: "N2", tokens: "Mutualism" },
+      { event: "Class Soil Portrait archive", with: "Artists & Researchers (pattern source)", nodes: "N4", tokens: "Mutualism" },
+      { event: "Intergenerational presentation", with: "Elders & Intergenerational", nodes: "N4", tokens: "Reciprocity" },
+    ],
+  },
+
+  // ── Grade Band B: Classes 5–8 ──────────────────────────────────────────────
+  {
+    id: "band-b",
+    label: "Classes 5–8",
+    labelPlain: "Classes 5–8 · Field Investigators",
+    emoji: "🔬",
+    ages: "Ages 11–14 | Middle School",
+    tagline: "Field Investigators: Measuring the Living World",
+    entryZone: "Zone B — Outdoor Soil Laboratory · Guide 02",
+    nodes: [
+      {
+        stage: "Awareness",
+        num: 1,
+        title: "First Systematic Encounter",
+        ring: "Ring 0–2",
+        workshops: ["OER Guide 02 — Questions 1–8 of the 13-Question soil protocol; Pattern Discovery Toolkit Ring 0–1"],
+        experience: "Ring 0 body calibration with Sensor Dialogue framing from the first moment — students make two measurements of everything, one with body, one with instrument; Tier 1 full sensory encounter followed by Questions 1–8 of the soil protocol (touch, smell, colour, texture, organism count, moisture estimate, temperature estimate, pH estimate); senseBox MCU introduced and operated in pairs with facilitator guidance",
+        output: "Completed Soil Field Sheet (Questions 1–8); first Mein Wert / Sensor-Wert comparison journal page; group photograph of soil profile with measurement labels",
+        token: "Cooperation",
+        vag: "Your nose said 'wet and earthy' and the sensor said 87% humidity. You were both right — they were measuring different things. What can your nose tell you that the sensor never can? And what can the sensor tell you that your nose cannot?",
+        clusters: ["Environmental Literacy", "Scientific Inquiry", "Technology Competence"],
+      },
+      {
+        stage: "Acknowledgment",
+        num: 2,
+        title: "Measuring What Matters",
+        ring: "Ring 1–3",
+        workshops: ["OER Guide 02 — full 13-Question protocol; iNaturalist upload; openSenseMap; Comparative Data Board"],
+        experience: "Full 13-Question soil protocol completed — extending Node 1 baseline to include soil horizon reading, comparison between two contrasting patches, and classification of organisms by feeding guild; iNaturalist species observations uploaded independently (minimum 3 confirmed species); openSenseMap data contribution to the Erdpuls station; Comparative Data Board updated — students place their patch data alongside data from prior classes and prior seasons",
+        output: "Complete 13-Question Field Sheet dataset; verified iNaturalist observations; openSenseMap data point in the Erdpuls longitudinal record; Comparative Data Board entry with student's name and date",
+        token: "Mutualism",
+        vag: "Your data is now part of a global monitoring network that scientists actually use. Compare your patch against the one by the wall — what is different, and why might that difference matter for the organisms living there?",
+        clusters: ["Environmental Literacy", "Scientific Inquiry", "Technology Competence"],
+      },
+      {
+        stage: "Attitude",
+        num: 3,
+        title: "The Economy of the Garden",
+        ring: "Ring 2–3",
+        workshops: ["Token Economy Guide (four elements — intermediate intro)", "Bioregion Mapping Guide (introductory Ring 3 transect)"],
+        experience: "Garden Economy Game — both rounds played in full; four-element discussion: students name one personal example of Cooperation, Reciprocity, Mutualism, and Regeneration from their own lives; introductory bioregion boundary deliberation (Ring 3 walk: where does the ecosystem we have been measuring end?); first written Values-Action Map (three-column format: what I know / what I do / what stands between — image-supported option available)",
+        output: "Token card set with all four elements named in the student's own words; bioregion boundary proposal with ecological criteria stated; written Values-Action Map",
+        token: "Reciprocity",
+        vag: "In Round 2, who won? [No clear winner — everyone got what they needed.] What would have to change about how your school works for Round 2 to be the normal way of doing things? Who in your school has the power to make one of those changes?",
+        clusters: ["Economic Understanding", "Social-Emotional Learning"],
+      },
+      {
+        stage: "Action",
+        num: 4,
+        title: "Field Investigators Contribute",
+        ring: "Ring 2–4",
+        workshops: ["OER Guide 02 — independent investigation design", "Optional: Memory Market (elder convergence)"],
+        experience: "Independent investigation question designed and written in the student's own words, derived from their own prior Field Sheet data; minimum two return visits to the same patch with senseBox, data recorded each visit; seasonal comparison against the Comparative Data Board; optional Memory Market participation — students paired with an elder to exchange observation skills for landscape memory",
+        output: "Written investigation question with documented methodology; seasonal comparison dataset in openSenseMap; updated Comparative Data Board entry; optional Memory Market exchange record",
+        token: "Mutualism + optional Reciprocity",
+        vag: "You designed a question that no one has answered before about this specific patch of soil. Who would need to care about it besides you — and how would you get them to care?",
+        clusters: ["Scientific Inquiry", "Technology Competence", "Social-Emotional Learning"],
+      },
+    ],
+    convergences: [
+      { event: "Seasonal Observational Cycle", with: "All groups (summer layer)", nodes: "N2", tokens: "Mutualism" },
+      { event: "Memory Market", with: "Elders & Intergenerational", nodes: "N4", tokens: "Reciprocity" },
+      { event: "Comparative Data Board", with: "Classes 9–12 (shared longitudinal commons)", nodes: "N2–N4", tokens: "Mutualism" },
+    ],
+  },
+
+  // ── Grade Band C: Classes 9–12 ─────────────────────────────────────────────
+  {
+    id: "band-c",
+    label: "Classes 9–12",
+    labelPlain: "Classes 9–12 · Place as Laboratory",
+    emoji: "🧪",
+    ages: "Ages 15–18 | Upper Secondary",
+    tagline: "Place as Laboratory: Research Methods for the Living World",
+    entryZone: "Full campus including GIS workstation and makerspace · Guide 03",
+    nodes: [
+      {
+        stage: "Awareness",
+        num: 1,
+        title: "Research Entry and Question Design",
+        ring: "Ring 0–4",
+        workshops: ["OER Guide 03 — Goethean depth protocol; research question formulation; Pattern Discovery Toolkit (full)"],
+        experience: "Full Goethean observation protocol at Ring 0–4 — students distinguish explicitly between perception and interpretation in written field notes; full senseBox MCU deployment with independent operation (students configure and deploy the station themselves); research question formulation workshop: 'what genuinely interests me about this soil and this place?'; iNaturalist observations uploaded with student as documenter of record",
+        output: "Written research question (own words, documented and dated); full Sensor Dialogue record across all measured parameters; iNaturalist observations with student attributed as observer",
+        token: "Cooperation",
+        vag: "You just wrote a research question that no published paper has answered for this specific sub-bioregion. What would it mean to you if someone found that question in five years and built on it? What would need to be true about your documentation for that to be possible?",
+        clusters: ["Environmental Literacy", "Scientific Inquiry", "Technology Competence"],
+      },
+      {
+        stage: "Acknowledgment",
+        num: 2,
+        title: "Data Collection and Pattern Recognition",
+        ring: "Ring 2–4",
+        workshops: ["OER Guide 03 — systematic data collection and GIS introduction; Pattern Discovery Toolkit (pattern card methodology)"],
+        experience: "Systematic data collection across minimum two return visits; GIS introduction with QGIS (students produce one basic map layer from their own data); pattern card methodology — students name and describe minimum two patterns independently using Alexander-derived format; openSenseMap longitudinal data entry with student as data owner; connection of own pattern cards to the evolving Erdpuls pattern language",
+        output: "Minimum two-season dataset in openSenseMap with student attribution; minimum 2 named pattern cards in Erdpuls programme commons; GIS map layer draft; written pattern description following standard Erdpuls pattern card format",
+        token: "Mutualism",
+        vag: "Your data shows a pattern that no single visit and no single instrument would have found — because you came back across seasons and compared. Who else needs to see this? What changes when you imagine a scientist, a farmer, and a ten-year-old all reading it simultaneously?",
+        clusters: ["Environmental Literacy", "Scientific Inquiry", "Technology Competence"],
+      },
+      {
+        stage: "Attitude",
+        num: 3,
+        title: "Ethics, Economics, and Systems Thinking",
+        ring: "Ring 1–3 (workshop and community)",
+        workshops: ["Token Economy Guide — UBECrc design exercise (upper secondary level)", "BNE Quality Guide (critical values reflection)"],
+        experience: "UBECrc design exercise: students design the parameters of a reciprocal economy for a specific community context of their own choosing; critical examination of what the current economic system fails to measure (soil health, biodiversity, intergenerational equity, elder knowledge); full self-administered Values-Action Map (three-column adult format); written ethical positioning statement: 'what do I owe the ecosystems that sustain me?'",
+        output: "UBECrc design document (minimum 2 pages, with at least three token flows described); full self-administered Values-Action Map; one-paragraph written ethical positioning statement (portfolio copy + Erdpuls archive)",
+        token: "Reciprocity + Mutualism",
+        vag: "Your UBECrc design makes visible something that the current economy makes invisible. Who has the power to implement something like this in your community? What is the most important conversation you would need to have with them — and what would you say in the first thirty seconds?",
+        clusters: ["Economic Understanding", "Social-Emotional Learning"],
+      },
+      {
+        stage: "Action",
+        num: 4,
+        title: "From Learner to Co-Researcher",
+        ring: "Full bioregion → open science",
+        workshops: ["OER Guide 03 — open science contribution protocol", "Co-facilitation of Grade Band A or B session", "Annual Pattern Language Assembly", "Optional INTERREG youth connection"],
+        experience: "Open science contribution: research findings documented and submitted to openSenseMap and iNaturalist as public record attributed to the student by name under CC BY-SA 4.0; co-facilitation of minimum one Grade Band A or B session (supervised) — student leads Ring 0 calibration or Sensor Dialogue independently; Pattern Language Assembly participation as contributor; optional INTERREG youth programme connection for cross-border engagement",
+        output: "Published open-science data contribution with student attribution (persistent URL or Zenodo record); documented co-facilitation with written evaluation from lead facilitator; Pattern Language Assembly contribution; optional INTERREG youth network participation record",
+        token: "Regeneration",
+        vag: "You have now facilitated a session for younger students and published your findings under your own name. What changed in your understanding of the soil when you had to explain it to a ten-year-old? What investigation do you most want to continue — and what would need to be true for you to still be working on it at university?",
+        clusters: ["Scientific Inquiry", "Technology Competence", "Social-Emotional Learning"],
+      },
+    ],
+    convergences: [
+      { event: "Cross-band co-facilitation", with: "Classes 1–4 or 5–8 (as student facilitator)", nodes: "N4", tokens: "Regeneration" },
+      { event: "Annual Pattern Language Assembly", with: "All groups", nodes: "N4", tokens: "Mutualism" },
+      { event: "Seasonal Observational Cycle", with: "All groups (autumn/winter research layer)", nodes: "N2–N4", tokens: "Mutualism" },
+    ],
+  },
+  {
+    id: "adults",
+    label: "Adults &amp; Families",
+    labelPlain: "Adults & Families",
+    emoji: "🌿",
+    ages: "Ages 18+",
+    tagline: "Honouring existing knowledge before building new frameworks",
+    entryZone: "Full campus — Ring sequence and Repair Café",
+    nodes: [
+      {
+        stage: "Awareness",
+        num: 1,
+        title: "Sensory Re-entry",
+        ring: "Ring 0–4",
+        workshops: ["Questions to the Soil Guide 2", "Full ring sequence"],
+        experience: "Full ring sequence (Rings 0–4); Goethean observation protocol; Soil Explorer Notebook; Sensor Dialogue (Tier 1→2); Ring 3 oral history prompt — what has changed in this landscape in your lifetime?",
+        output: "Completed Soil Explorer Notebook; Ring 3 landscape memory record; first Mein Wert / Sensor-Wert comparison journal entry",
+        token: "Cooperation",
+        vag: "You estimated the soil temperature correctly within 2 degrees. When did you learn that? What else do you know that you have forgotten you know?",
+        clusters: ["Environmental Literacy", "Social-Emotional Learning"],
+      },
+      {
+        stage: "Acknowledgment",
+        num: 2,
+        title: "Seeing What We Already Exchange",
+        ring: "Ring 1–2",
+        workshops: ["Token Economy Guide 2 — Seeing What We Already Exchange"],
+        experience: "'Seeing What We Already Exchange' workshop; mapping non-monetary exchanges already in daily life; four-element identification in own exchanges; Values-Action Map (full adult version — three columns)",
+        output: "Personal exchange map (A3, visual); Values-Action Map (what I know / what I do / what stands between); Cooperation and Reciprocity tokens recorded",
+        token: "Reciprocity",
+        vag: "Three exchanges appeared on your map that you never thought of as economic before. Which of those would disappear if they had to be paid for?",
+        clusters: ["Economic Understanding", "Social-Emotional Learning"],
+      },
+      {
+        stage: "Attitude",
+        num: 3,
+        title: "Values in Space",
+        ring: "Ring 3–4",
+        workshops: ["Bioregion Mapping Guide 2", "Repair Café (learner/fixer role)"],
+        experience: "Bioregion boundary deliberation (Ring 4 walking transect); home garden comparison dataset entered into Erdpuls commons; Personal Quality Commitment card; Repair Café first participation as learner or fixer",
+        output: "GPS transect data and boundary proposal; home garden soil data in Erdpuls longitudinal record; Personal Quality Commitment card; repaired object documentation with photograph",
+        token: "Mutualism + Regeneration",
+        vag: "Your garden data shows the same pH shift we see in Zone B after rain. You have been monitoring soil without knowing it. What else in your daily life might qualify as citizen science?",
+        clusters: ["Environmental Literacy", "Economic Understanding"],
+      },
+      {
+        stage: "Action",
+        num: 4,
+        title: "Token Holder &amp; Community Anchor",
+        ring: "Full campus",
+        workshops: ["Token Holder status activation", "Repair Café (facilitator role)", "BNE Quality Guide 2 — season-end session"],
+        experience: "Token Holder status activated on Stellar blockchain; Repair Café facilitator training and facilitation; season-end Values-Action Map review and comparison against Node 2 map; optional co-facilitator role in adult Node 1 sessions",
+        output: "Active Stellar token holder account; documented Repair Café facilitation session; season-end VAG comparison map showing movement between seasons",
+        token: "Regeneration + Mutualism",
+        vag: "Compare your Values-Action Map from Node 2 with this one. What has actually moved? Design one specific action for next season targeting the most stubborn remaining gap.",
+        clusters: ["Economic Understanding", "Technology Competence", "Social-Emotional Learning"],
+      },
+    ],
+    convergences: [
+      { event: "Memory Market", with: "Elders & Intergenerational", nodes: "N3", tokens: "Reciprocity" },
+      { event: "Repair Café", with: "Elders (craft knowledge)", nodes: "N3–N4", tokens: "Reciprocity" },
+      { event: "Annual Pattern Language Assembly", with: "All groups", nodes: "N4", tokens: "Mutualism" },
+    ],
+  },
+  {
+    id: "elders",
+    label: "Elders &amp; Intergenerational",
+    labelPlain: "Elders & Intergenerational",
+    emoji: "🧠",
+    ages: "Ages 60+ | Mixed-age",
+    tagline: "Elder memory as primary ecological science data",
+    entryZone: "Zone E — Heritage & Community Hub + Ring 3",
+    nodes: [
+      {
+        stage: "Awareness",
+        num: 1,
+        title: "The Landscape Remembers",
+        ring: "Ring 3",
+        workshops: ["Questions to the Soil Guide 3 — Elder Memory Prompts"],
+        experience: "Ring 3 oral history walk guided by Elder Memory Prompts (what grew here? where did water flow differently? what disappeared first?); sensory comparison of current landscape against elder memory",
+        output: "Elder Memory Record — oral testimony transcribed or recorded with consent; Ring 3 annotated campus map with memory locations marked",
+        token: "Reciprocity",
+        vag: "You just described a species that is no longer here. Is that knowledge written down anywhere? What would be lost to future generations if it stayed only in your memory?",
+        clusters: ["Environmental Literacy", "Social-Emotional Learning"],
+      },
+      {
+        stage: "Acknowledgment",
+        num: 2,
+        title: "Memory as Science",
+        ring: "Ring 3–4",
+        workshops: ["BNE Quality Guide 3 — Memory Market", "GIS Elder Memory Map session"],
+        experience: "Memory Market workshop: elder knowledge stations (plants, soils, traditional crafts, seasonal rhythms) paired with younger participants; Elder Memory Map — memory locations overlaid on current GIS map; comparison with current iNaturalist data from the same locations",
+        output: "Memory Market exchange documentation; Elder Memory Map draft (GIS layer, attributed with consent); Reciprocity token flows documented",
+        token: "Reciprocity + Mutualism",
+        vag: "Your memory of the willow stand by the stream matched exactly what the soil data shows. Your knowledge was scientific all along. What else would you like to contribute to the record?",
+        clusters: ["Environmental Literacy", "Scientific Inquiry"],
+      },
+      {
+        stage: "Attitude",
+        num: 3,
+        title: "From Memory to Future",
+        ring: "Ring 3–4",
+        workshops: ["Token Economy Guide 3 — Memory Market token integration", "Wisdom Circle", "Erzählcafé"],
+        experience: "Wisdom Circle session: past → present → future temporal arc discussion; intergenerational values dialogue (what do we owe this landscape?); Personal Stewardship Commitment card; Erzählcafé contribution — one extended oral testimony for the archive",
+        output: "Wisdom Circle collective reflection record; Personal Stewardship Commitment card; contributed testimony in Erzählcafé archive",
+        token: "Regeneration",
+        vag: "You described what you want to hand on. What specific knowledge needs to be documented before it is lost — and who is the right person to sit with you and record it?",
+        clusters: ["Social-Emotional Learning", "Environmental Literacy"],
+      },
+      {
+        stage: "Action",
+        num: 4,
+        title: "Custodian of Place-Knowledge",
+        ring: "Full bioregion — OER",
+        workshops: ["Elder Memory Map OER publication", "Wisdom Circle facilitation", "Annual Pattern Language Assembly"],
+        experience: "Elder Memory Map published as OER with Creative Commons attribution (with elder's informed consent); Wisdom Circle facilitator role; pattern card custodian — elder names, authenticates and adds historical depth to patterns from other groups; Pattern Language Assembly participation as place-knowledge holder",
+        output: "Published OER Elder Memory Map with CC attribution; facilitated Wisdom Circle session record; authenticated pattern cards in programme commons (minimum 3)",
+        token: "Regeneration + Mutualism",
+        vag: "Your memory map is now searchable by researchers, planners, and children you will never meet. What else should be in that map?",
+        clusters: ["Environmental Literacy", "Social-Emotional Learning", "Technology Competence"],
+      },
+    ],
+    convergences: [
+      { event: "Memory Market", with: "Children & Youth + Adults & Families", nodes: "N2", tokens: "Reciprocity + Mutualism" },
+      { event: "Repair Café", with: "Adults & Families", nodes: "N3", tokens: "Reciprocity (craft knowledge)" },
+      { event: "Annual Pattern Language Assembly", with: "All groups (as authenticator)", nodes: "N4", tokens: "Mutualism" },
+    ],
+  },
+  {
+    id: "artists",
+    label: "Artists &amp; Researchers",
+    labelPlain: "Artists & Researchers",
+    emoji: "🎨",
+    ages: "Any age",
+    tagline: "Defamiliarisation and methodological depth as a public good",
+    entryZone: "Full campus — sustained multi-session residency",
+    nodes: [
+      {
+        stage: "Awareness",
+        num: 1,
+        title: "Slowing Down to See",
+        ring: "Ring 0–4 (sustained)",
+        workshops: ["Pattern Discovery Toolkit — Goethean depth protocol (minimum 3 sessions)"],
+        experience: "Full ring sequence at Goethean observation depth: sustained single-location observation across minimum 3 sessions in different weather and times of day; Ring 0 body calibration explicitly documented each session; written distinction between perception and interpretation maintained throughout",
+        output: "Daily observation journal (minimum 5 entries); Goethean field notes with perception/interpretation distinction; first Tier 1 / Tier 2 Sensor Dialogue record",
+        token: "Cooperation",
+        vag: "What did the fifth visit show that the first did not? What did your body notice that your notebook did not initially record?",
+        clusters: ["Environmental Literacy", "Scientific Inquiry"],
+      },
+      {
+        stage: "Acknowledgment",
+        num: 2,
+        title: "Patterns Beyond Disciplines",
+        ring: "Ring 2–4",
+        workshops: ["Pattern Discovery Toolkit — non-standard cartography", "GIS integration session"],
+        experience: "Non-standard cartography: artist-researcher maps the campus using own discipline's perceptual categories (sound, light, proxemic comfort, aesthetic charge); GIS layer integration with existing iNaturalist and openSenseMap data; pattern documentation across multiple media (photo, drawing, written description, audio)",
+        output: "Non-standard cartographic work contributed to Erdpuls archive; minimum 3 named pattern cards in programme commons; minimum 1 open data contribution to Erdpuls longitudinal record",
+        token: "Mutualism",
+        vag: "Your acoustic map and the soil pH map show the same boundary — discovered by two completely different methods. What is the pattern that connects them, and who needs to know about it?",
+        clusters: ["Environmental Literacy", "Technology Competence", "Scientific Inquiry"],
+      },
+      {
+        stage: "Attitude",
+        num: 3,
+        title: "Value Beyond Price",
+        ring: "Ring 1–3 (community)",
+        workshops: ["Token Economy Guide 4 — Value Beyond Price", "Community integration session with another target group"],
+        experience: "'Value Beyond Price' workshop: critical examination of what market price fails to measure; four-element token design applied to own practice; critical dialogue on tokenisation and the colonial knowledge-extraction dynamic; community integration session — equal participant in a session designed for another target group",
+        output: "Written responses to four critical dialogue questions (archived as quality development input); token economy design sketch for own practice; community integration session record",
+        token: "Reciprocity + Mutualism",
+        vag: "Describe your work as embedded in the community that made it possible. What changes in the description? What obligations appear?",
+        clusters: ["Economic Understanding", "Social-Emotional Learning"],
+      },
+      {
+        stage: "Action",
+        num: 4,
+        title: "Residency as Living Research",
+        ring: "Full bioregion → OER",
+        workshops: ["OER publication process", "GIS synthesis session", "Annual Pattern Language Assembly", "Optional: senseBox sensor station design"],
+        experience: "Residency output developed and published as OER (CC BY-SA 4.0, artist-researcher named as author); GIS synthesis of all pattern language contributions across the full residency — the primary integration document in the annual pattern language cycle; Pattern Language Assembly presentation; optional sensor station design contribution",
+        output: "Published OER residency output; full-residency pattern language synthesis (GIS map + narrative); Pattern Language Assembly presentation; optional sensor station documentation",
+        token: "Regeneration + Mutualism",
+        vag: "Your work is now searchable by anyone. Which of the five target groups is most likely to encounter it? What do you most want them to find in it?",
+        clusters: ["Environmental Literacy", "Scientific Inquiry", "Technology Competence", "Economic Understanding"],
+      },
+    ],
+    convergences: [
+      { event: "Community Integration Session", with: "Any other target group", nodes: "N3", tokens: "Reciprocity (bidirectional)" },
+      { event: "Annual Pattern Language Assembly", with: "All groups (GIS synthesis)", nodes: "N4", tokens: "Mutualism" },
+      { event: "Value Beyond Price dialogue", with: "Programme quality development", nodes: "N3", tokens: "Mutualism" },
+    ],
+  },
+  {
+    id: "crossborder",
+    label: "Cross-Border DE/PL",
+    labelPlain: "Cross-Border DE/PL",
+    emoji: "🇩🇪🇵🇱",
+    ages: "Any age | Trilingual DE / EN / PL",
+    tagline: "One landscape, two languages, a shared future",
+    entryZone: "Zone E — trilingual, balanced DE/PL composition required",
+    nodes: [
+      {
+        stage: "Awareness",
+        num: 1,
+        title: "One Landscape, Two Languages",
+        ring: "Ring 0–1 (trilingual)",
+        workshops: ["Questions to the Soil Guide 5", "Trilingual Ring 0 calibration protocol"],
+        experience: "Shared glacial landscape introduction as common ground predating the border; trilingual Ring 0 body calibration — participants document in own language then exchange; multilingual Life Count (same organisms in German, Polish, and English); soil observation in mixed DE/PL pairs; proxemic observation notes on cultural distance norms",
+        output: "Trilingual Life Count record (DE/EN/PL); individual Ring 0 calibration notes in own language; first cross-cultural proxemic observation documented",
+        token: "Cooperation",
+        vag: "You just used three languages to describe the same living organism. Which description felt most alive to you — and why might that matter for the science?",
+        clusters: ["Environmental Literacy", "Social-Emotional Learning"],
+      },
+      {
+        stage: "Acknowledgment",
+        num: 2,
+        title: "Frameworks That Converge",
+        ring: "Ring 2–4",
+        workshops: ["BNE Quality Guide 5 — Quality Without Borders", "Cross-border iNaturalist project"],
+        experience: "'Quality Without Borders' framework comparison: each delegation presents its sustainability education framework in accessible format; minimum 5 convergences and 2 genuine divergences identified; shared bioregion boundary deliberation using Ring 4 methodology; cross-border citizen science data linked in a shared iNaturalist project",
+        output: "Framework comparison matrix (5+ convergences, 2+ divergences, bilingual); cross-border bioregion boundary proposal; iNaturalist observations from both national sides linked in shared project",
+        token: "Mutualism + Reciprocity",
+        vag: "Your two frameworks agreed on the same principle but called it completely different things. What was lost in that naming difference? What would it mean to act on that converged principle together?",
+        clusters: ["Environmental Literacy", "Social-Emotional Learning", "Scientific Inquiry"],
+      },
+      {
+        stage: "Attitude",
+        num: 3,
+        title: "Designing Cross-Border Reciprocity",
+        ring: "Zone E — shared meal",
+        workshops: ["Token Economy Guide 5 — One Economy, Two Languages", "Shared meal protocol"],
+        experience: "'One Economy, Two Languages' design workshop: mixed DE/PL working groups design a reciprocal economy operating across the border; cultural proxemic differences named as design input; shared meal prepared jointly as an embodied reciprocal economy; bilateral Personal Quality Commitment cards signed by both sides",
+        output: "Cross-border token economy design document (bilingual); shared meal documentation; bilateral Personal Quality Commitment (signed by participants from both national sides)",
+        token: "Cooperation + Reciprocity + Mutualism",
+        vag: "The meal crossed the border because you crossed the border first. What else that currently stops at the border would you like to see crossing it — and what specifically is preventing it?",
+        clusters: ["Economic Understanding", "Social-Emotional Learning"],
+      },
+      {
+        stage: "Action",
+        num: 4,
+        title: "Partnership as Infrastructure",
+        ring: "Full bioregion + institutional",
+        workshops: ["Cross-border quality principles OER production", "INTERREG / bilateral partnership proposal", "Reciprocal facilitation exchange"],
+        experience: "Shared cross-border quality principles document produced (bilingual, CC BY-SA 4.0); formal partnership proposal drafted for INTERREG or bilateral funding; cross-border citizen science network protocol designed; reciprocal facilitation exchange — German facilitator leads session at Polish site; Polish facilitator leads session at Erdpuls Müllrose",
+        output: "Bilingual cross-border quality principles document (OER-licensed); partnership proposal framework; citizen science network protocol; documented reciprocal facilitation event (evaluated from both sides)",
+        token: "Regeneration + Mutualism",
+        vag: "You now have a working document, a network, and a facilitation exchange. What is the one specific barrier that remains? Who in this room has the power to address it — and what happens if you leave today without making the ask?",
+        clusters: ["Economic Understanding", "Social-Emotional Learning", "Technology Competence"],
+      },
+    ],
+    convergences: [
+      { event: "Cross-border iNaturalist project", with: "Artists & Researchers (GIS layer)", nodes: "N2", tokens: "Mutualism" },
+      { event: "Reciprocal Facilitation Exchange", with: "Any facilitated group", nodes: "N4", tokens: "Regeneration" },
+      { event: "Annual Pattern Language Assembly", with: "All groups", nodes: "N4", tokens: "Mutualism" },
+    ],
+  },
+];
+
+const TOKEN_DESCS = [
+  { key: "Cooperation",  desc: "Collaborative action with others toward a shared goal" },
+  { key: "Reciprocity",  desc: "Bidirectional value exchange — giving and receiving" },
+  { key: "Mutualism",   desc: "Benefit extending beyond the participants to the wider community" },
+  { key: "Regeneration", desc: "Demonstrable ecological or social improvement" },
+];
+
+// ── State ─────────────────────────────────────────────────────────────────────
+let activeGroup = 0;
+let activeNode  = 0;
+let showConvergence = false;
+let showTokens  = false;
+
+// ── Helpers ───────────────────────────────────────────────────────────────────
+function tokenClass(token) {
+  const t = token.toLowerCase();
+  if (t.includes("+") || t.includes("cooperation") && t.includes("recip")) return "mixed";
+  if (t.includes("cooperation"))  return "cooperation";
+  if (t.includes("reciprocity"))  return "reciprocity";
+  if (t.includes("mutualism"))    return "mutualism";
+  if (t.includes("regeneration")) return "regeneration";
+  return "mixed";
+}
+
+function escHTML(str) {
+  return str
+    .replace(/&(?!amp;|lt;|gt;|quot;|#)/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+}
+
+// ── Build group nav ───────────────────────────────────────────────────────────
+function buildNav() {
+  const nav = document.getElementById("groupNav");
+  nav.innerHTML = GROUPS.map((g, i) =>
+    `<button class="group-btn${i === activeGroup ? " is-active" : ""}" data-group="${i}" onclick="selectGroup(${i})">
+      <span>${g.emoji}</span><span>${g.label}</span>
+    </button>`
+  ).join("");
+}
+
+// ── Build node list (left panel) ─────────────────────────────────────────────
+function buildNodeList(group) {
+  const items = group.nodes.map((n, i) =>
+    `<button class="node-item${i === activeNode ? " is-active" : ""}"
+        data-stage="${n.stage}"
+        onclick="selectNode(${i})"
+        aria-pressed="${i === activeNode ? "true" : "false"}">
+      <div class="node-circle">${n.num}</div>
+      <div class="node-meta">
+        <div class="node-stage-label">${n.stage}</div>
+        <div class="node-title">${n.title}</div>
+        <div class="node-ring">${n.ring}</div>
+      </div>
+    </button>`
+  ).join("");
+
+  const convergenceItems = group.convergences.map(c =>
+    `<div class="convergence-item">
+      <div class="convergence-event">${c.event}</div>
+      <div class="convergence-meta">With: <strong>${c.with}</strong></div>
+      <div><span class="convergence-badge">${c.nodes}</span> <span class="convergence-badge">${c.tokens}</span></div>
+    </div>`
+  ).join("");
+
+  return `<div class="panel">
+    <div class="panel__head">Pathway Map</div>
+    <div class="node-list">${items}</div>
+    <button class="convergence-toggle" onclick="toggleConvergence()">
+      ${showConvergence ? "▲ Hide" : "▼ Show"} Convergence Zones
+    </button>
+    ${showConvergence ? `<div class="convergence-panel">${convergenceItems}</div>` : ""}
+  </div>`;
+}
+
+// ── Build detail panel (right panel) ─────────────────────────────────────────
+function buildDetail(node) {
+  const workshopPills = node.workshops.map(w => `<span class="pill">${w}</span>`).join("");
+  const clusterTags   = node.clusters.map(c => `<span class="cluster-tag">${c}</span>`).join("");
+
+  return `<div class="detail-panel anim-in" data-stage="${node.stage}">
+    <div class="detail-header">
+      <div class="detail-header-circle">${node.num}</div>
+      <div class="detail-header-info">
+        <div class="detail-header-stage">${node.stage} · ${node.ring}</div>
+        <div class="detail-header-title">${node.title}</div>
+      </div>
+    </div>
+    <div class="detail-body">
+
+      <div class="field">
+        <div class="field-label">Linked Workshops</div>
+        <div class="workshop-pills">${workshopPills}</div>
+      </div>
+
+      <div class="divider"></div>
+
+      <div class="field">
+        <div class="field-label">Core Experience</div>
+        <div class="field-value">${escHTML(node.experience)}</div>
+      </div>
+
+      <div class="output-box">
+        <div class="field-label" style="margin-bottom:0.35em">Output / Evidence Artefact</div>
+        <div class="field-value">${escHTML(node.output)}</div>
+      </div>
+
+      <div class="detail-meta-grid">
+        <div class="meta-card meta-card--token">
+          <div class="field-label">Token Earned</div>
+          <div class="token-value ${tokenClass(node.token)}" style="margin-top:0.3em">${node.token}</div>
+        </div>
+        <div class="meta-card meta-card--clusters">
+          <div class="field-label">Competency Clusters</div>
+          <div class="cluster-tags">${clusterTags}</div>
+        </div>
+      </div>
+
+      <div class="vag-box">
+        <div class="vag-label">Values-Action Gap Bridge</div>
+        <div class="vag-quote">"${escHTML(node.vag)}"</div>
+      </div>
+
+    </div>
+  </div>`;
+}
+
+// ── Build legend ──────────────────────────────────────────────────────────────
+function buildLegend() {
+  const stages = [
+    { key: "awareness",      label: "Awareness" },
+    { key: "acknowledgment", label: "Acknowledgment" },
+    { key: "attitude",       label: "Attitude" },
+    { key: "action",         label: "Action" },
+    { key: "convergence",    label: "Convergence Zone" },
+  ];
+  const stageItems = stages.map(s =>
+    `<div class="legend-item">
+      <div class="legend-dot legend-dot--${s.key}"></div>
+      <span class="legend-text">${s.label}</span>
+    </div>`
+  ).join("");
+
+  const tokenCards = TOKEN_DESCS.map(t =>
+    `<div class="token-card">
+      <div class="token-card__name ${t.key.toLowerCase()}">${t.key}</div>
+      <div class="token-card__desc">${t.desc}</div>
+    </div>`
+  ).join("");
+
+  return `<div class="legend-bar">
+    <div class="legend-head">Stage Legend</div>
+    <div class="legend-stages">${stageItems}</div>
+    <div class="divider" style="margin:0.3rem 0"></div>
+    <button class="token-toggle" onclick="toggleTokens()">
+      ${showTokens ? "▲ Hide" : "▼ Show"} Token Economy Reference
+    </button>
+    ${showTokens ? `<div class="token-grid">${tokenCards}</div>` : ""}
+  </div>`;
+}
+
+// ── Build footer ──────────────────────────────────────────────────────────────
+function buildFooter() {
+  return `<div class="site-footer">
+    <div>© 2025–2026 Erdpuls Müllrose · CC BY-NC-SA 4.0</div>
+    <div style="margin-top:0.2em"><a href="mailto:erdpuls@ubec.network">erdpuls@ubec.network</a> · <a href="https://erdpuls.ubec.network">erdpuls.ubec.network</a></div>
+  </div>`;
+}
+
+// ── Full render ───────────────────────────────────────────────────────────────
+function render() {
+  const group = GROUPS[activeGroup];
+  const node  = group.nodes[activeNode];
+
+  // Nav
+  buildNav();
+
+  // Hero banner
+  const heroHTML = `<div class="group-hero" data-group="${activeGroup}">
+    <div class="group-hero__left">
+      <span class="group-hero__emoji">${group.emoji}</span>
+      <div class="group-hero__label">${group.label}</div>
+      <div class="group-hero__ages">${group.ages}</div>
+      <div class="group-hero__tagline">${group.tagline}</div>
+    </div>
+    <div class="group-hero__right">
+      <div class="group-hero__zone-label">Entry Zone</div>
+      <div class="group-hero__zone">${group.entryZone}</div>
+    </div>
+  </div>`;
+
+  const gridHTML = `<div class="pathway-grid">
+    ${buildNodeList(group)}
+    ${buildDetail(node)}
+  </div>`;
+
+  document.getElementById("mainCanvas").innerHTML =
+    heroHTML + gridHTML + buildLegend() + buildFooter();
+}
+
+// ── Event handlers ────────────────────────────────────────────────────────────
+function selectGroup(idx) {
+  activeGroup = idx;
+  activeNode  = 0;
+  showConvergence = false;
+  render();
+}
+
+function selectNode(idx) {
+  activeNode = idx;
+  render();
+  // Scroll detail into view on mobile
+  const detail = document.querySelector(".detail-panel");
+  if (detail && window.innerWidth < 741) {
+    setTimeout(() => detail.scrollIntoView({ behavior: "smooth", block: "start" }), 50);
+  }
+}
+
+function toggleConvergence() {
+  showConvergence = !showConvergence;
+  render();
+}
+
+function toggleTokens() {
+  showTokens = !showTokens;
+  render();
+}
+
+// ── Initial render ────────────────────────────────────────────────────────────
+render();
+</script>
+</body>
+</html>
