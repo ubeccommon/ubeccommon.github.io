@@ -220,6 +220,58 @@
   }
   @keyframes spin { to { transform: rotate(360deg); } }
 
+  /* ── FRONT MATTER CARD ── */
+  .fm-card {
+    background: white;
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--clay);
+    border-radius: 8px;
+    padding: 0.1rem 0;
+    margin-bottom: 2rem;
+    overflow: hidden;
+  }
+
+  .fm-row {
+    display: flex;
+    gap: 1rem;
+    padding: 0.55rem 1.1rem;
+    border-bottom: 1px solid var(--border);
+    font-size: 0.85rem;
+    align-items: baseline;
+  }
+  .fm-row:last-child { border-bottom: none; }
+
+  .fm-key {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.72rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    flex-shrink: 0;
+    width: 100px;
+  }
+
+  .fm-val {
+    color: var(--soil-mid);
+    font-weight: 400;
+    line-height: 1.4;
+    flex: 1;
+  }
+
+  .fm-row:first-child .fm-val {
+    font-family: 'Lora', serif;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--soil-dark);
+  }
+
+  .file-badge.fm-status {
+    background: rgba(74,124,89,0.08);
+    border-color: var(--leaf-light);
+    color: var(--leaf);
+  }
+
   /* ── ARTICLE ── */
   .article {
     max-width: 780px;
@@ -625,20 +677,59 @@ async function loadDocument(filePath) {
   // Configure marked
   marked.setOptions({ breaks: false, gfm: true });
 
-  // Render markdown
-  const rawHtml = marked.parse(text);
+  // ── Strip & parse YAML front matter ──────────────────────────────────────
+  let frontMatter = {};
+  let bodyText = text;
 
-  // Detect language
-  const lang = detectLang(filePath);
+  const fmMatch = text.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?/);
+  if (fmMatch) {
+    bodyText = text.slice(fmMatch[0].length);
+    // Parse simple key: "value" or key: value YAML lines
+    fmMatch[1].split('\n').forEach(line => {
+      const m = line.match(/^([\w_]+):\s*"?([^"]*)"?\s*$/);
+      if (m) frontMatter[m[1].trim()] = m[2].trim();
+    });
+  }
+
+  // Render markdown body (front matter stripped)
+  const rawHtml = marked.parse(bodyText);
+
+  // ── Detect language & version ─────────────────────────────────────────────
+  const lang = frontMatter.lang || detectLang(filePath);
   const versionMatch = fname.match(/v[\d._]+/);
-  const version = versionMatch ? versionMatch[0] : null;
+  const version = frontMatter.version || (versionMatch ? versionMatch[0] : null);
 
-  // Build article
+  // ── Build metadata bar ────────────────────────────────────────────────────
   const metaBadges = [
     '<span class="file-badge">📄 Markdown</span>',
     langBadge(lang),
     version ? `<span class="file-badge">v ${version.replace('v','')}</span>` : '',
+    frontMatter.status ? `<span class="file-badge fm-status">${frontMatter.status}</span>` : '',
   ].filter(Boolean).join('');
+
+  // ── Build front matter card (if present) ──────────────────────────────────
+  const FM_LABELS = {
+    title: 'Title', subtitle: 'Subtitle', author: 'Author',
+    date: 'Date', license: 'License', project: 'Project',
+    status: 'Status', version: 'Version', lang: 'Language'
+  };
+  const FM_ICONS = {
+    title: '📌', subtitle: '📎', author: '✍️', date: '📅',
+    license: '⚖️', project: '🏛️', status: '🔖', version: '🏷️', lang: '🌐'
+  };
+  // Keys to show in card (exclude lang/version already in badges)
+  const FM_SHOW = ['title','subtitle','author','date','license','project','status'];
+
+  let fmCardHtml = '';
+  const fmEntries = FM_SHOW.filter(k => frontMatter[k]);
+  if (fmEntries.length) {
+    const rows = fmEntries.map(k => `
+      <div class="fm-row">
+        <span class="fm-key">${FM_ICONS[k] || ''} ${FM_LABELS[k] || k}</span>
+        <span class="fm-val">${frontMatter[k]}</span>
+      </div>`).join('');
+    fmCardHtml = `<div class="fm-card">${rows}</div>`;
+  }
 
   const article = document.createElement('article');
   article.className = 'article';
@@ -647,6 +738,7 @@ async function loadDocument(filePath) {
       ${metaBadges}
       <a href="${rawUrl}" class="raw-link" target="_blank">⬇ view raw ↗</a>
     </div>
+    ${fmCardHtml}
     <div class="md-body" id="mdBody">${rawHtml}</div>`;
 
   setContent('');
