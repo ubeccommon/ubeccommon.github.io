@@ -13,11 +13,20 @@ A lightweight, human-scaled protocol for sustainability literacy, citizen scienc
 
 ## Quick Links
 - 👉 [About](#about)  
+- 👉 [Open Educational Resources](#-open-educational-resources)  
 - 👉 [Get Involved](#get-involved)  
 - 👉 [Roadmap](#roadmap)
 
 ## About
 UBEC explores practical, alternative economic frameworks through open-source tools and place-based experiments.
+
+## 📚 Open Educational Resources
+
+Browse the full OER document repository for the **Erdpuls Müllrose** sustainability education centre — learning guides, soil science materials, BNE quality frameworks, pattern discovery toolkits, and more, organised by language and topic.
+
+➡️ **[Open the OER Repository Index](/Pattern_Language_of_Place/)**
+
+Includes materials in 🇩🇪 Deutsch · 🇬🇧 English · 🇵🇱 Polski
 
 ## Get Involved
 - Start a local living lab
