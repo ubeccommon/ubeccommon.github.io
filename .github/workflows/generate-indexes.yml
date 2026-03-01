@@ -12,6 +12,13 @@ on:
   # Allow manual trigger from the GitHub Actions tab
   workflow_dispatch:
 
+# Cancel any in-progress run for the same branch when a newer push arrives.
+# This prevents the "higher priority waiting request" cancellation noise from
+# the built-in pages build and deployment workflow.
+concurrency:
+  group: regenerate-indexes-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   generate-indexes:
     runs-on: ubuntu-latest
@@ -21,8 +28,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0   # full history so git blame/log works if needed
+        # fetch-depth: 1 (default) is sufficient — gen_indexes_dynamic.py does
+        # not use git log or blame, so full history is unnecessary overhead.
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -43,6 +50,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add '**/index.html'
+          # Unquoted glob so the shell expands it correctly across subdirectories
+          git add **/index.html index.html 2>/dev/null || git add **/index.html
           git commit -m "chore: regenerate directory indexes [skip ci]"
           git push
