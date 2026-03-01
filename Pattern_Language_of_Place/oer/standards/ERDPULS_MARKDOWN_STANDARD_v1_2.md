@@ -1,5 +1,5 @@
 # Erdpuls Markdown Authoring Standard
-## Version 1.1 | February 2026
+## Version 1.2 — March 2026
 ## For all files in the Erdpuls OER Collection
 
 ---
@@ -24,15 +24,40 @@ Every file must begin with a YAML front matter block. No exceptions.
 ---
 title: "Full Document Title"
 subtitle: "Optional Subtitle — No pipe characters here"
+author: "Michel Garand"
 date: "Month YYYY"
+version: "1.x"
 lang: en
-version: "1.1"
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
+status: "Concept Document — for review and programme development"
 ---
 ```
 
-**Rules:**
+**Required fields (all nine must be present in every file):**
+
+| Field | Value |
+|---|---|
+| `title` | Primary document identity — always first |
+| `subtitle` | Secondary identity — always second |
+| `author` | `"Michel Garand"` — human responsibility, before date |
+| `date` | `"Month YYYY"` — this edition |
+| `version` | `"1.x"` — this edition's revision |
+| `lang` | BCP 47 code: `en`, `de`, or `pl` |
+| `license` | `"CC BY-SA 4.0"` or `"CC BY-NC-SA 4.0"` |
+| `project` | `"Erdpuls Müllrose OER Collection"` (EN) or `"Erdpuls Müllrose OER-Sammlung"` (DE) |
+| `status` | Lifecycle state — most volatile field, always last |
+
+**Status values:**
+- EN: `"Concept Document — for review and programme development"`
+- DE: `"Konzeptdokument — zur Prüfung und Programmentwicklung"`
+
+**Optional fields** (append after `status` when present, in this order):
+- `document` — document reference within a series
+- `part_of` — parent collection reference
+- `translated_from` — source document for translation pairs
+
+**Additional rules:**
 - Titles and subtitles must be in double quotes
 - Never use `|` in YAML values — use `:` or `—` instead
 - `lang` must be a valid BCP 47 code: `en`, `de`, `pl`
@@ -440,12 +465,17 @@ The "Level" column (col 3 in 4- and 5-column tables) is always a single word (Pr
 Before committing any file to GitHub, verify:
 
 - [ ] YAML front matter present and correctly closed with `---`
+- [ ] All nine required YAML fields present: `title`, `subtitle`, `author`, `date`, `version`, `lang`, `license`, `project`, `status`
+- [ ] YAML fields in canonical order (title → subtitle → author → date → version → lang → license → project → status)
+- [ ] `author` value is `"Michel Garand"`
+- [ ] `status` value matches language: EN or DE variant
 - [ ] No `---` horizontal rules in body (replaced with `* * *`)
 - [ ] No H5/H6 headings
 - [ ] No `|` in heading lines or YAML values
 - [ ] All `&` inside table cells written as `\&`
 - [ ] All tables use `-` separators (no em dashes)
 - [ ] All code blocks fenced with triple backticks
+- [ ] Colophon present and uses canonical heading and template (see §14)
 - [ ] File named according to naming convention
 - [ ] Language suffix present if file has translations
 
@@ -495,6 +525,77 @@ Trilingual terms appear in this order: German / English / Polish, separated by `
 | UBECrc | UBECrc (exact case) |
 | QGIS | QGIS (all caps) |
 | BNE | BNE (all caps) |
+
+### Canonical colophon
+
+Every document ends with a canonical colophon block. The colophon is always at the **bottom** of the document, separated from the body by `* * *`. It is never at the top.
+
+**Colophon element order** (industry standard — identity → rights → permissions → provenance → contact → series):
+
+1. `* * *` — section divider
+2. `## License and Attribution` / `## Lizenz und Impressum` — heading
+3. Copyright notice — `© 2025–2026 Michel Garand | Erdpuls Müllrose…`
+4. Location line — `Müllrose, Brandenburg, Germany` / `Deutschland`
+5. Licence statement — linked CC licence matching the `license` YAML field
+6. Permissions summary — human-readable freedoms sentence
+7. Software licence — AGPL-3.0
+8. Provenance / AI disclosure — `*This document and its translations were developed with assistance from Claude…*`
+9. Contact — `**Contact:** erdpuls@ubec.network`
+10. Series / translation note + date stamp — `*Alle Dokumente und ihre Übersetzungen…*`
+
+**Canonical templates** (select by `lang` × `license`):
+
+*EN — CC BY-SA 4.0:*
+```markdown
+* * *
+
+## License and Attribution
+
+© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
+Müllrose, Brandenburg, Germany
+
+Licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+You are free to share and adapt this material for any purpose, including commercially, provided you give appropriate credit, provide a link to the license, indicate if changes were made, and distribute any adaptations under the same license.
+
+All software components referenced in this document are licensed under the [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html)
+
+*This document and its translations were developed with assistance from Claude (Anthropic PBC). All strategic decisions, philosophical positions, and project commitments are those of the author.*
+
+**Contact:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
+
+*Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
+*Müllrose, Brandenburg — {Month YYYY}*
+```
+
+*EN — CC BY-NC-SA 4.0:* identical but with `Attribution-NonCommercial-ShareAlike` licence link and `for non-commercial purposes` in the permissions line.
+
+*DE — CC BY-SA 4.0:*
+```markdown
+* * *
+
+## Lizenz und Impressum
+
+© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
+Müllrose, Brandenburg, Deutschland
+
+Lizenziert unter [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+
+Sie dürfen dieses Material für beliebige Zwecke, auch kommerziell, teilen und anpassen, sofern Sie angemessene Namensnennung angeben, einen Link zur Lizenz beifügen, angeben ob Änderungen vorgenommen wurden, und etwaige Anpassungen unter derselben Lizenz verbreiten.
+
+Alle in diesem Dokument genannten Softwarekomponenten sind lizenziert unter der [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html)
+
+*Dieses Dokument und seine Übersetzungen wurden mit Unterstützung von Claude (Anthropic PBC) entwickelt. Alle strategischen Entscheidungen, philosophischen Positionen und Projektverpflichtungen liegen beim Autor.*
+
+**Kontakt:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
+
+*Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
+*Müllrose, Brandenburg — {Monat JJJJ}*
+```
+
+*DE — CC BY-NC-SA 4.0:* identical but with `Namensnennung – Nicht kommerziell – Weitergabe` licence link and `für nicht-kommerzielle Zwecke` in the permissions line.
+
+**Important:** The `00_METADATA_PACKAGE` files use a specialised compilation provenance note in place of a colophon — they are excluded from this requirement.
 
 ---
 
