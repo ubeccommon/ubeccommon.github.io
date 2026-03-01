@@ -62,9 +62,9 @@ Die zentrale Projektthese (*„Die innere Haltung einer Landwirtin oder eines La
 Eisen liegt im Boden hauptsächlich als Fe³⁺ (dreiwertiges Eisen) vor. Das Fe³⁺-Ion hat fünf ungepaarte d-Elektronen. Wenn es von Sauerstoffliganden umgeben ist (wie in allen Eisenoxidmineralen), werden diese d-Elektronen durch das Ligandenfeld in zwei Energieniveaus aufgespalten. Licht mit der richtigen Energie kann ein Elektron vom unteren auf das höhere Niveau anregen — das entfernt diese Wellenlänge aus dem reflektierten Spektrum.
 
 Die genaue Energie der Aufspaltung hängt von der Geometrie und dem Abstand der Sauerstoffliganden ab — der zwischen Goethit, Hämatit, Lepidokrokit und Ferrihydrit variiert. Deshalb hat jedes Eisenoxidmineral eine charakteristische Farbe:
-- Goethit (oktaedrisches Fe³⁺ mit OH-Liganden): absorbiert Violett-Blau → gelb
-- Hämatit (Korundstruktur, kantenverknüpfte Oktaeder): absorbiert Blau-Grün → rot
-- Lepidokrokit (andere Schichtstruktur): absorbiert Blau → orange
+- Goethit (oktaedrisches Fe³⁺ mit OH-Liganden): absorbiert Violett-Blau -> gelb
+- Hämatit (Korundstruktur, kantenverknüpfte Oktaeder): absorbiert Blau-Grün -> rot
+- Lepidokrokit (andere Schichtstruktur): absorbiert Blau -> orange
 
 ### CIELAB-Farbraum
 
@@ -156,7 +156,7 @@ Sicherheitsprotokoll besprechen — Masken und Schutzbrillen anlegen, bevor die 
 In Paaren, eine Probe pro Paar arbeitend:
 
 1. Gesamtprobe wiegen (als M_gesamt erfassen).
-2. Siebe stapeln: 500 μm (oben) → 250 μm → 100 μm → 63 μm → Auffangschale (unten).
+2. Siebe stapeln: 500 μm (oben) -> 250 μm -> 100 μm -> 63 μm -> Auffangschale (unten).
 3. Probe 10 Minuten im Mörser mahlen. FFP2-Masken durchgehend tragen.
 4. Gemahlene Probe in das oberste Sieb geben. 5 Minuten schütteln (mechanisch oder von Hand).
 5. Jede Fraktion wiegen. Erfassen.
@@ -210,7 +210,7 @@ Jedes Paar zeichnet Reflexionsspektren auf von:
 Wellenlänge des Absorptionsmaximums notieren (wo reflektiertes Licht am niedrigsten ist = am meisten absorbiert).
 
 Teil 2 — CIELAB-Konversion und Δ*E* (10 Min):
-Jeden Pigmentfleck mit einer kalibrierten Handykamera fotografieren. In GIMP importieren. RGB-Werte ablesen (Farbe → Farbe-Balance-Werkzeug oder Farbaufnahme-Werkzeug). RGB zu CIELAB konvertieren mithilfe des GIMP-Farbaufnahme-Berichts oder manuell über die Standard-Transformationsmatrix (Lehrkraft stellt Konversionstabelle oder Tabellenkalkulation bereit).
+Jeden Pigmentfleck mit einer kalibrierten Handykamera fotografieren. In GIMP importieren. RGB-Werte ablesen (Farbe -> Farbe-Balance-Werkzeug oder Farbaufnahme-Werkzeug). RGB zu CIELAB konvertieren mithilfe des GIMP-Farbaufnahme-Berichts oder manuell über die Standard-Transformationsmatrix (Lehrkraft stellt Konversionstabelle oder Tabellenkalkulation bereit).
 
 Δ*E* berechnen zwischen:
 - Hof A vs. Hof B
@@ -233,7 +233,7 @@ Laborheft: Spektren gezeichnet oder fotografiert, Δ*E*-Werte erfasst, RRUFF-Ver
 
 **Dauer:** 45 Minuten
 **Lernort:** Erdpuls Zone B
-**4A-Weg-Stufe:** Anerkennung → Haltung
+**4A-Weg-Stufe:** Anerkennung -> Haltung
 **Benötigte Materialien:** Gemahlenes Pigment, fünf Bindemittel (Wasser, Leinöl, Gummi-arabicum-Lösung, Eigelb, Kasein), Aquarellpapier, Pinsel, Waage, Timer, GIMP oder Farb-App für Δ*E*-Messung beim Trocknen; optional: Polarisationsfilter für Brechungsindex-Demonstration
 
 ### Lernziele
@@ -258,7 +258,7 @@ Für jedes Bindemittel:
 1. Pigment zu einer einheitlichen Paste mischen (Waage verwenden: 1 g Pigment + Bindemittelmenge nach Standardrezept).
 2. 1 cm × 5 cm-Streifen auf Aquarellpapier auftragen. Sofort fotografieren.
 3. Nach 10 Min, 20 Min, 30 Min und einmal vollständig trocken erneut fotografieren.
-4. RGB-Werte aus jedem Foto ablesen. In CIELAB konvertieren. Δ*E* (nass → trocken) berechnen.
+4. RGB-Werte aus jedem Foto ablesen. In CIELAB konvertieren. Δ*E* (nass -> trocken) berechnen.
 
 Außerdem notieren:
 - Sichtbare Rissbildung (Rissbreite in mm wenn vorhanden)
@@ -271,7 +271,7 @@ Diskussion während der Arbeit: *„Warum nimmt Leinöl beim Trocknen tatsächli
 Δ*E*-Werte für den Nass-Trocken-Übergang über die fünf Bindemittel vergleichen. Als Balkendiagramm darstellen.
 Schlüsselfrage: *„Welches Bindemittel zeigt das kleinste Δ*E* (geringste Aufhellung)? Was hat der Brechungsindex des Bindemittels damit zu tun?"*
 
-Theorie: Die Farbveränderung beim Trocknen ist näherungsweise proportional zum Brechungsindexunterschied zwischen Bindemittel und Luft. Leinöl hat einen relativ hohen Brechungsindex (n ≈ 1,48); Wasser n ≈ 1,33; Luft n = 1,0. Ein höherbrechendes Bindemittel widersteht der Zunahme der Lichtstreuung beim Ersetzen durch Luft → weniger Aufhellung.
+Theorie: Die Farbveränderung beim Trocknen ist näherungsweise proportional zum Brechungsindexunterschied zwischen Bindemittel und Luft. Leinöl hat einen relativ hohen Brechungsindex (n ≈ 1,48); Wasser n ≈ 1,33; Luft n = 1,0. Ein höherbrechendes Bindemittel widersteht der Zunahme der Lichtstreuung beim Ersetzen durch Luft -> weniger Aufhellung.
 
 **Abschluss (2 Min):**
 Laborheft: Δ*E*-Tabelle und Balkendiagramm. Ein Absatz Empfehlung: welches Bindemittel für die WP4-Ausstellungsgemälde und warum.
@@ -357,7 +357,7 @@ Als Streudiagramm darstellen. Trendlinie einzeichnen (per Augenmaß oder Tabelle
 
 Teil 3 — Pearson-Korrelationskoeffizient (10 Min):
 Mithilfe der bereitgestellten Formel (oder einer Tabellenkalkulationsfunktion) r (Pearsons r) für die Feuchte-L*-Beziehung berechnen.
-Interpretieren: r nahe -1 bedeutet starke negative Korrelation (feuchter → dunkler, wie erwartet). r nahe 0 bedeutet keine Korrelation. r nahe +1 bedeutet feuchter → heller (unerwartet, aber für einige Bodentypen möglich).
+Interpretieren: r nahe -1 bedeutet starke negative Korrelation (feuchter -> dunkler, wie erwartet). r nahe 0 bedeutet keine Korrelation. r nahe +1 bedeutet feuchter -> heller (unerwartet, aber für einige Bodentypen möglich).
 
 Besprechen: *„Ist unser Ergebnis mit nur 9 Datenpunkten statistisch bedeutsam? Was wäre nötig, um das Vertrauen in diesen Befund zu erhöhen?"*
 
@@ -382,7 +382,7 @@ Laborheft: Streudiagramm, r-Wert, überarbeiteter Hypothesenaussage.
 
 Am Ende dieser Einheit können die Schülerinnen und Schüler:
 - Einen Forschungsbefund klar und präzise einem nichtspezialisierten Publikum vorstellen
-- Ein wissenschaftliches Argument strukturieren: Frage → Methode → Daten → Interpretation → Schlussfolgerung
+- Ein wissenschaftliches Argument strukturieren: Frage -> Methode -> Daten -> Interpretation -> Schlussfolgerung
 - Zwischen dem, was die Daten zeigen, und dem, was sie nahelegen, unterscheiden
 - Grenzen ihrer Untersuchung identifizieren und zukünftige Richtungen vorschlagen
 

@@ -118,7 +118,7 @@ Pack and label all samples. Preview: *"In the next session we will process these
 
 **Duration:** 45 minutes
 **Location:** Erdpuls Zone B or school laboratory
-**4A-Pathway stage:** Awareness → Acknowledgment
+**4A-Pathway stage:** Awareness -> Acknowledgment
 **Materials needed:** Collected soil samples (from Unit 1 or pre-prepared by teacher), oven or dehydrator (set to 50°C), shallow trays, sieves (500/250/100/63 μm), balance (1 mg), dishes, FFP2 masks, safety goggles, mortar and pestle; also water and glass plates for the wet route
 
 ### Learning Objectives
@@ -198,9 +198,9 @@ Each pair conducts the following experiment in sequence:
 | Step | Action | Record |
 |---|---|---|
 | 0 min (raw) | Apply unground soil paste (add a few drops of water) to paper. | Colour description + photo |
-| After 5 min grinding | Sieve → record fraction passing 100 μm. Apply paste to paper. | Colour description + photo |
-| After 15 min grinding | Sieve → record fraction. Apply paste. | Colour description + photo |
-| After 30 min grinding | Sieve → record fraction. Apply paste. | Colour description + photo |
+| After 5 min grinding | Sieve -> record fraction passing 100 μm. Apply paste to paper. | Colour description + photo |
+| After 15 min grinding | Sieve -> record fraction. Apply paste. | Colour description + photo |
+| After 30 min grinding | Sieve -> record fraction. Apply paste. | Colour description + photo |
 
 For each sample, note:
 - Visual colour saturation (1–5 scale, class-agreed rubric)
@@ -226,7 +226,7 @@ Record graph in lab book. Journal: one sentence describing the relationship you 
 
 **Duration:** 45 minutes
 **Location:** Classroom or laboratory
-**4A-Pathway stage:** Acknowledgment → Attitude
+**4A-Pathway stage:** Acknowledgment -> Attitude
 **Materials needed:** Ground pigment paste from Unit 3, watercolour paper, brushes, water, phone camera for documentation, timer, colour comparison chart or app
 
 ### Learning Objectives
@@ -270,7 +270,7 @@ Journal: the wet-dry diagram. Label the air pores, water, and pigment particles.
 
 **Duration:** 45 minutes
 **Location:** Laboratory or classroom
-**4A-Pathway stage:** Acknowledgment → Action
+**4A-Pathway stage:** Acknowledgment -> Action
 **Materials needed:** Ground pigment paste (from Units 2–3), five binders in labelled containers: water only, linseed oil, gum arabic solution (10%), egg yolk diluted 1:1 with water, casein (from quark, dissolved); watercolour paper strips, flat brushes (1 per binder), timer, ruler for test strips
 
 ### Learning Objectives

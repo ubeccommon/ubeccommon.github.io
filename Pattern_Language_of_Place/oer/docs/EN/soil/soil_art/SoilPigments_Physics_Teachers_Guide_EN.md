@@ -160,7 +160,7 @@ Fine quartz dust (particles below 10 μm) is a lung hazard with prolonged repeat
 
 ## The 4A-Pathway in Your Lessons
 
-Every lesson sequence at Erdpuls follows the **4A-Pathway**: Awareness → Acknowledgment → Attitude → Action. You do not need to announce this structure to students — it is a teacher's map, not a student handout.
+Every lesson sequence at Erdpuls follows the **4A-Pathway**: Awareness -> Acknowledgment -> Attitude -> Action. You do not need to announce this structure to students — it is a teacher's map, not a student handout.
 
 | Stage | What it looks like in your lesson |
 |---|---|

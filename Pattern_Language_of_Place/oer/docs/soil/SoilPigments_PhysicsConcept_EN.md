@@ -34,7 +34,7 @@ project: "Erdpuls Müllrose OER Collection"
 | **Duration** | 8–12 lessons across four phases (fieldwork, lab, measurement, production) |
 | **Location** | Zone B (Bio-Materialien-Gartenlabor) \& field sites; partner farms |
 | **Season** | February–June (main sequence); September (deepening experiment) |
-| **4A-Pathway Focus** | All four stages: Awareness (field) → Acknowledgment (lab) → Attitude (correlation) → Action (pigment production for WP4) |
+| **4A-Pathway Focus** | All four stages: Awareness (field) -> Acknowledgment (lab) -> Attitude (correlation) -> Action (pigment production for WP4) |
 
 * * *
 
@@ -53,9 +53,9 @@ This document is part of the Erdpuls OER Collection and is designed to support f
 | Area | Title | Status |
 |---|---|---|
 | 1 | Goals and Target Groups | All criteria met — three explicitly differentiated grade bands (5–8, 9–10, 11–12) with distinct learning objectives, methods, and cognitive demands; project connection to partner farms grounds the content in students' regional Lebenswelt (1.1.1) |
-| 2 | Approach | All criteria met — ecological (soil mineralogy), economic (farming method), social (farmer dialogue), and cultural (art tradition of earth pigments) dimensions are linked (2.1.1); SDG 4, 13, 15, and 2 addressed; controversial thesis (inner attitude → soil quality) opens genuine perspective plurality (2.2.1) |
+| 2 | Approach | All criteria met — ecological (soil mineralogy), economic (farming method), social (farmer dialogue), and cultural (art tradition of earth pigments) dimensions are linked (2.1.1); SDG 4, 13, 15, and 2 addressed; controversial thesis (inner attitude -> soil quality) opens genuine perspective plurality (2.2.1) |
 | 3 | Methods | Minimum requirements met — action-oriented (pigment production), experiential (fieldwork, wet grinding), reflective (wet–dry diagrams, spectroscopy), and participatory (partner farm soil samples); theoretical grounding (ligand field theory, Mie scattering, colloid physics) fully meets 3.2; teacher preparation resources in Section 9 meet 3.3 |
-| 4 | Gestaltungskompetenz | Key sub-competencies addressed — 4.1.1 (world-open, new perspectives: three farming systems; mineralogy across cultures); 4.1.2 (forward-looking analysis: senior thesis scenarios); 4.1.3 (interdisciplinary: physics/chemistry/art/biology); 4.1.4 (risk recognition: silicosis safety protocol); 4.3.1 (values reflection: farming attitude → soil → colour); 4.2.1 (collaborative planning: correlation study design) |
+| 4 | Gestaltungskompetenz | Key sub-competencies addressed — 4.1.1 (world-open, new perspectives: three farming systems; mineralogy across cultures); 4.1.2 (forward-looking analysis: senior thesis scenarios); 4.1.3 (interdisciplinary: physics/chemistry/art/biology); 4.1.4 (risk recognition: silicosis safety protocol); 4.3.1 (values reflection: farming attitude -> soil -> colour); 4.2.1 (collaborative planning: correlation study design) |
 | 5 | Quality Development | Minimum requirements met — experimental data (spectra, Δ*E* values, grain size distributions) constitute longitudinal evaluation evidence; seasonal deepening experiment (September) supports 5.2.1 continuous reflection |
 | 6 | Facilitator Qualification | Minimum requirements met — Section 9 (Further Resources) provides structured teacher preparation materials; differentiation-by-grade-level tables serve as facilitator preparation tools (6.2.1) |
 | 7 | Organisational Conditions | Addressed at programme level; equipment in Zone B (Boden-Labor) and Zone C (sensor dashboard) supports 7.4 (infrastructure) |
@@ -131,10 +131,10 @@ Müllrose lies in the Naturpark Schlaubetal in the Oder-Spree region of Brandenb
 
 Iron is the most common colour-forming element in Brandenburg soils. Its compounds produce the complete spectrum from yellow through orange to dark red:
 
-- **Goethite (α-FeOOH):** The most common iron mineral in soils → Yellow to yellow-brown
-- **Lepidocrocite (γ-FeOOH):** Forms under redox cycling → Orange-red
-- **Haematite (α-Fe₂O₃):** Produced under warm weathering → Red-brown to red
-- **Ferrihydrite (Fe₅O₈H·4H₂O):** Freshly precipitated, poorly crystalline → Red-orange
+- **Goethite (α-FeOOH):** The most common iron mineral in soils -> Yellow to yellow-brown
+- **Lepidocrocite (γ-FeOOH):** Forms under redox cycling -> Orange-red
+- **Haematite (α-Fe₂O₃):** Produced under warm weathering -> Red-brown to red
+- **Ferrihydrite (Fe₅O₈H·4H₂O):** Freshly precipitated, poorly crystalline -> Red-orange
 
 **Organic matter — the dark witness of life**
 
@@ -172,10 +172,10 @@ Colour arises through **selective absorption** of portions of light. White light
 Goethite preferentially absorbs violet and blue light (380–480 nm) through ligand-field transitions of the Fe³⁺ ion. The remaining reflected light appears yellow-orange.
 
 **Why is haematite red?**
-Haematite has a different crystal structure. The Fe³⁺ ions are differently coordinated, shifting the absorption band toward the blue-green region → the remaining reflected light appears red.
+Haematite has a different crystal structure. The Fe³⁺ ions are differently coordinated, shifting the absorption band toward the blue-green region -> the remaining reflected light appears red.
 
 **Why does wet soil appear darker?**
-Water fills the air pores in the soil. Dry soil scatters light through countless air-mineral interfaces (Mie scattering) → strongly brightened. Wet soil has fewer interfaces → less scattering → darker. This phenomenon can be measured quantitatively in class.
+Water fills the air pores in the soil. Dry soil scatters light through countless air-mineral interfaces (Mie scattering) -> strongly brightened. Wet soil has fewer interfaces -> less scattering -> darker. This phenomenon can be measured quantitatively in class.
 
 ### 3.2 Pigments vs. Dyes — a Fundamental Physical Distinction
 
@@ -213,7 +213,7 @@ The binder determines how pigment particles are held within the paint film. Phys
 | **Casein (from quark)** | Protein polymer, insoluble after drying | Very strong, weather-resistant film |
 | **Water (fresco technique)** | No binder — pigment embedded in lime plaster | Permanent but brittle |
 
-**Experiment:** Same earth colour with five different binders → compare covering power, drying time, crack formation, colour shift on drying (all colours lighten as they dry — why?).
+**Experiment:** Same earth colour with five different binders -> compare covering power, drying time, crack formation, colour shift on drying (all colours lighten as they dry — why?).
 
 * * *
 
@@ -267,11 +267,11 @@ The binder determines how pigment particles are held within the paint film. Phys
 
 **Dry route (for most soils):**
 
-1. Dry soil at 50°C (24 h) — why not higher? → Goethite converts to haematite above approximately 250°C (becomes more reddish!)
+1. Dry soil at 50°C (24 h) — why not higher? -> Goethite converts to haematite above approximately 250°C (becomes more reddish!)
 2. Remove largest particles (stones, roots) by hand
 3. Grind in the mortar — 5 minutes initially, then sieve analysis
 4. Keep sieve fractions separately and compare
-5. Weigh each fraction → grain size distribution as histogram
+5. Weigh each fraction -> grain size distribution as histogram
 
 **Wet route (for clay-rich samples):**
 
@@ -390,10 +390,10 @@ All pigments are stored in labelled jars — they form the **Müllrose Earth Col
 
 **Focus:** Phenomenology and experience-based learning
 
-- Collect soil samples and "sort them by colour" without explanation → spark curiosity
+- Collect soil samples and "sort them by colour" without explanation -> spark curiosity
 - Wet grinding by hand (clay samples) — tactile access
 - Simple binder comparison: water vs. linseed oil vs. egg yolk
-- Paint with the students' own pigments → direct connection to WP4
+- Paint with the students' own pigments -> direct connection to WP4
 - Question: "Why does soil become lighter when it dries?" as an entry point into optics
 
 **Cross-curricular connections:** Biology (soil organisms), Art (colour theory), Geography (regional geology)
@@ -498,7 +498,7 @@ This question can be combined with the sensor data from the senseBox: does the s
 | 1.2.1 ZG sind konkret beschrieben | Met | Three grade bands (5–8, 9–10, 11–12) with distinct learning objectives, cognitive demands, and cross-curricular connections. Section 5. |
 | 1.2.2 Bedarf ist ZG-spezifisch beschrieben | Met | Each grade band addresses a different developmental need: phenomenological experience (5–8), causal modelling (9–10), independent research (11–12). |
 | 1.2.3 Ziele sind konkret und ZG-spezifisch | Met | Learning objectives stated per phase and per grade band throughout Sections 4 and 5. |
-| 1.2.4 Bedarf, Ziele und Zielgruppe passen zusammen | Met | The progression from sensation → measurement → correlation → production maps coherently onto age-appropriate cognitive development. Red thread is visible. |
+| 1.2.4 Bedarf, Ziele und Zielgruppe passen zusammen | Met | The progression from sensation -> measurement -> correlation -> production maps coherently onto age-appropriate cognitive development. Red thread is visible. |
 
 ### Area 2 — Approach
 

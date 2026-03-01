@@ -108,7 +108,7 @@ Each child draws one colour swatch in their journal and writes or draws where th
 
 **Duration:** 45 minutes
 **Location:** Classroom or outdoor table
-**4A-Pathway stage:** Awareness → Acknowledgment
+**4A-Pathway stage:** Awareness -> Acknowledgment
 **Materials needed:** Pre-collected soil samples (teacher-prepared), two shallow dishes per pair of students, water in a jug, spoons, white paper, camera or phone
 
 ### Learning Objectives
@@ -200,7 +200,7 @@ Journal: draw your mortar and paste. Write one word describing what grinding the
 
 **Duration:** 45 minutes
 **Location:** Classroom
-**4A-Pathway stage:** Awareness → Attitude
+**4A-Pathway stage:** Awareness -> Attitude
 **Materials needed:** Pre-prepared wet-ground pigment pastes from the three partner farms (teacher-prepared, labelled), three small bowls per table group, white watercolour paper, flat brushes, the project map showing the three farm locations
 
 ### Learning Objectives
@@ -246,7 +246,7 @@ Journal: write or draw the farm whose soil colour you liked best, and one reason
 
 **Duration:** 45 minutes
 **Location:** Classroom
-**4A-Pathway stage:** Acknowledgment → Action
+**4A-Pathway stage:** Acknowledgment -> Action
 **Materials needed:** Pre-ground pigment from Unit 3 or 4, small bowls and brushes, three binders in separate labelled cups: water only, linseed oil (a few drops), egg yolk diluted with water; white watercolour paper, ruler for colour test strips
 
 ### Learning Objectives

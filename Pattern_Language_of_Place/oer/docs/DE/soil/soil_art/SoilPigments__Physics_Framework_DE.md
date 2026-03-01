@@ -68,7 +68,7 @@ In Anlehnung an die Proxemik-Theorie (Hall, 1966) bewegt die Einheit Schülerinn
 - **Soziale Distanz** (1,2–3,6 m): Ergebnisse der Klasse vorstellen, Probensets von verschiedenen Höfen vergleichen.
 - **Öffentliche Distanz** (> 3,6 m): Die Ausstellung — das Pigment nun auf Abstand zum Schüler oder zur Schülerin, in die öffentliche Welt eingetreten.
 
-Diese räumliche Progression ist nicht zufällig. Sie spiegelt den 4A-Weg wider: intime Begegnung (Wahrnehmung) → persönliche Untersuchung (Anerkennung) → sozialer Dialog (Haltung) → öffentliche Handlung (Action).
+Diese räumliche Progression ist nicht zufällig. Sie spiegelt den 4A-Weg wider: intime Begegnung (Wahrnehmung) -> persönliche Untersuchung (Anerkennung) -> sozialer Dialog (Haltung) -> öffentliche Handlung (Action).
 
 * * *
 
@@ -161,7 +161,7 @@ Diese Einheit adressiert direkt folgende Kriterien des *Qualitätskatalogs für 
 | 1.2.1 Zielgruppe konkret beschrieben | Drei Jahrgangsbänder mit je eigenen Zielen, Methoden und kognitiven Anforderungen |
 | 2.1.1 Mehrdimensional | Ökologische, wirtschaftliche, soziale und kulturelle Dimensionen explizit verknüpft |
 | 2.1.2 Interdisziplinär | Physik, Chemie, Kunst, Ökologie und Agronomie durchgehend integriert |
-| 2.2.1 Kontroverse These | Die zentrale Projektthese (Haltung → Boden → Farbe) ist eine Hypothese, keine gegebene Tatsache |
+| 2.2.1 Kontroverse These | Die zentrale Projektthese (Haltung -> Boden -> Farbe) ist eine Hypothese, keine gegebene Tatsache |
 | 3.1.1 Handlungsorientiert | Schülerinnen und Schüler sammeln, mahlen, messen und produzieren echte Pigmente |
 | 3.1.2 Erfahrungsorientiert | Geländephase verankert alles Lernen in direkter sinnlicher Begegnung |
 | 3.1.3 Entdeckend | Proben „nach Farbe sortieren ohne Erklärung" (Klassen 5–8) als explizite Entdeckungsmethodik |

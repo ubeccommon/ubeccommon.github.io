@@ -108,7 +108,7 @@ Jedes Kind zeichnet ein Farbmuster in sein Journal und schreibt oder zeichnet, w
 
 **Dauer:** 45 Minuten
 **Lernort:** Klassenraum oder Tisch im Freien
-**4A-Weg-Stufe:** Wahrnehmung → Anerkennung
+**4A-Weg-Stufe:** Wahrnehmung -> Anerkennung
 **Benötigte Materialien:** Vorgesammelte Bodenproben (von der Lehrkraft vorbereitet), zwei flache Schalen pro Paar, Wasser in einem Krug, Löffel, weißes Papier, Kamera oder Handy
 
 ### Lernziele
@@ -200,7 +200,7 @@ Journal: Mörser und Paste zeichnen. Ein Wort aufschreiben, das beschreibt, wie 
 
 **Dauer:** 45 Minuten
 **Lernort:** Klassenraum
-**4A-Weg-Stufe:** Wahrnehmung → Haltung
+**4A-Weg-Stufe:** Wahrnehmung -> Haltung
 **Benötigte Materialien:** Vorbereitete nassgemahle Pigmentpasten von den drei Partnerhöfen (von der Lehrkraft vorbereitet, beschriftet), drei kleine Schalen pro Tischgruppe, weißes Aquarellpapier, flache Pinsel, Projektkarte mit den drei Hofstandorten
 
 ### Lernziele
@@ -246,7 +246,7 @@ Journal: Den Hof aufschreiben oder zeichnen, dessen Bodenfarbe einem am besten g
 
 **Dauer:** 45 Minuten
 **Lernort:** Klassenraum
-**4A-Weg-Stufe:** Anerkennung → Handlung
+**4A-Weg-Stufe:** Anerkennung -> Handlung
 **Benötigte Materialien:** Vorgemahlenes Pigment aus Einheit 3 oder 4, kleine Schalen und Pinsel, drei Bindemittel in separaten beschrifteten Bechern: nur Wasser, Leinöl (einige Tropfen), mit Wasser verdünntes Eigelb; weißes Aquarellpapier, Lineal für Farbtestreifen
 
 ### Lernziele

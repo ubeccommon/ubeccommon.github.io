@@ -62,9 +62,9 @@ The central project thesis (*"A farmer's inner attitude toward the soil is refle
 Iron in soil exists primarily as Fe³⁺ (ferric iron). The Fe³⁺ ion has five unpaired d-electrons. When surrounded by oxygen ligands (as in all iron oxide minerals), these d-electrons are split into two energy levels by the ligand field. Light with the right energy can excite an electron from the lower to the higher level — this removes that wavelength from the reflected spectrum.
 
 The precise energy of the splitting depends on the geometry and spacing of the oxygen ligands — which varies between goethite, haematite, lepidocrocite, and ferrihydrite. This is why each iron oxide mineral has a characteristic colour:
-- Goethite (octahedral Fe³⁺ with OH ligands): absorbs violet-blue → yellow
-- Haematite (corundum structure, edge-sharing octahedra): absorbs blue-green → red
-- Lepidocrocite (different layer structure): absorbs blue → orange
+- Goethite (octahedral Fe³⁺ with OH ligands): absorbs violet-blue -> yellow
+- Haematite (corundum structure, edge-sharing octahedra): absorbs blue-green -> red
+- Lepidocrocite (different layer structure): absorbs blue -> orange
 
 ### CIELAB Colour Space
 
@@ -156,7 +156,7 @@ Review the safety protocol — masks and goggles on before any dry processing be
 Working in pairs, one sample per pair:
 
 1. Weigh total sample (record as M_total).
-2. Stack sieves: 500 μm (top) → 250 μm → 100 μm → 63 μm → receiver dish (bottom).
+2. Stack sieves: 500 μm (top) -> 250 μm -> 100 μm -> 63 μm -> receiver dish (bottom).
 3. Grind sample for 10 minutes in mortar. FFP2 masks on throughout.
 4. Pour ground sample into top sieve. Shake for 5 minutes (mechanical or hand).
 5. Weigh each fraction. Record.
@@ -181,7 +181,7 @@ Lab book: cumulative grain size distribution curves for all three farm samples. 
 **Duration:** 45 minutes
 **Location:** Erdpuls Zone B
 **4A-Pathway stage:** Acknowledgment
-**Materials needed:** Ground pigment samples (from Unit 2), smartphones with Spectroid app (or DIY spectrometer from DVD diffraction grating and cardboard), white reference paper, GIMP on laptop for RGB→CIELAB conversion, RRUFF Project database (online), watercolour paper for sample patches
+**Materials needed:** Ground pigment samples (from Unit 2), smartphones with Spectroid app (or DIY spectrometer from DVD diffraction grating and cardboard), white reference paper, GIMP on laptop for RGB->CIELAB conversion, RRUFF Project database (online), watercolour paper for sample patches
 
 ### Learning Objectives
 
@@ -210,7 +210,7 @@ Each pair records reflection spectra of:
 Note the wavelength of the absorption maximum (where reflected light is lowest = most absorbed).
 
 Part 2 — CIELAB conversion and Δ*E* (10 min):
-Photograph each pigment patch with a calibrated phone camera. Import into GIMP. Read RGB values (Color → Color Balance tool, or use the Color Picker). Convert RGB to CIELAB using the GIMP Color Picker report, or manually using the standard transformation matrix (teacher provides the conversion table or spreadsheet).
+Photograph each pigment patch with a calibrated phone camera. Import into GIMP. Read RGB values (Color -> Color Balance tool, or use the Color Picker). Convert RGB to CIELAB using the GIMP Color Picker report, or manually using the standard transformation matrix (teacher provides the conversion table or spreadsheet).
 
 Calculate Δ*E* between:
 - Farm A vs. Farm B
@@ -233,7 +233,7 @@ Lab book: spectra plotted or photographed, Δ*E* values recorded, RRUFF comparis
 
 **Duration:** 45 minutes
 **Location:** Erdpuls Zone B
-**4A-Pathway stage:** Acknowledgment → Attitude
+**4A-Pathway stage:** Acknowledgment -> Attitude
 **Materials needed:** Ground pigment, five binders (water, linseed oil, gum arabic solution, egg yolk, casein), watercolour paper, brushes, balance, timer, GIMP or colour app for Δ*E* measurement on drying; optional: polarising filters for refractive index demonstration
 
 ### Learning Objectives
@@ -258,7 +258,7 @@ For each binder:
 1. Mix pigment to a consistent paste (use the balance: 1 g pigment + binder quantity per standard recipe).
 2. Apply 1 cm × 5 cm stripe to watercolour paper. Photograph immediately.
 3. Photograph again after 10 min, 20 min, 30 min, and once fully dry.
-4. Read RGB values from each photograph. Convert to CIELAB. Calculate Δ*E* (wet → dry).
+4. Read RGB values from each photograph. Convert to CIELAB. Calculate Δ*E* (wet -> dry).
 
 Also note:
 - Visual crack formation (crack width in mm if visible)
@@ -271,7 +271,7 @@ Discussion during work: *"Why does linseed oil actually gain mass as it dries? (
 Compare Δ*E* values for the wet-dry transition across the five binders. Plot as a bar chart.
 Key question: *"Which binder shows the smallest Δ*E* (least lightening)? What does the refractive index of the binder have to do with it?"*
 
-Theory: the colour-shift on drying is approximately proportional to the difference in refractive index between the binder and air. Linseed oil has a relatively high refractive index (n ≈ 1.48); water n ≈ 1.33; air n = 1.0. A higher-index binder resists the light-scattering increase on replacement by air → less lightening.
+Theory: the colour-shift on drying is approximately proportional to the difference in refractive index between the binder and air. Linseed oil has a relatively high refractive index (n ≈ 1.48); water n ≈ 1.33; air n = 1.0. A higher-index binder resists the light-scattering increase on replacement by air -> less lightening.
 
 **Closing (2 min):**
 Lab book: Δ*E* table and bar chart. One-paragraph recommendation: which binder for the WP4 exhibition paintings and why.
@@ -357,7 +357,7 @@ Plot as a scatter diagram. Fit a trend line (by eye or using spreadsheet).
 
 Part 3 — Pearson correlation coefficient (10 min):
 Using the formula provided (or a spreadsheet function), calculate r (Pearson's r) for the moisture-L* relationship.
-Interpret: r close to -1 means strong negative correlation (wetter → darker, as expected). r close to 0 means no correlation. r close to +1 means wetter → lighter (unexpected, but possible for some soil types).
+Interpret: r close to -1 means strong negative correlation (wetter -> darker, as expected). r close to 0 means no correlation. r close to +1 means wetter -> lighter (unexpected, but possible for some soil types).
 
 Discuss: *"Is our result statistically meaningful with only 9 data points? What would we need to increase the confidence of this finding?"*
 
@@ -382,7 +382,7 @@ Lab book: scatter diagram, r value, revised hypothesis statement.
 
 By the end of this unit, students will be able to:
 - Present a research finding to a non-specialist audience clearly and accurately
-- Structure a scientific argument: question → method → data → interpretation → conclusion
+- Structure a scientific argument: question -> method -> data -> interpretation -> conclusion
 - Distinguish between what the data shows and what it suggests
 - Identify the limitations of their investigation and propose future directions
 

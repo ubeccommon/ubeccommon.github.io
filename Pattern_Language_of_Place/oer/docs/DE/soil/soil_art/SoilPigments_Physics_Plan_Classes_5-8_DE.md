@@ -118,7 +118,7 @@ Alle Proben einpacken und beschriften. Vorschau: *„In der nächsten Sitzung ve
 
 **Dauer:** 45 Minuten
 **Lernort:** Erdpuls Zone B oder Schullabor
-**4A-Weg-Stufe:** Wahrnehmung → Anerkennung
+**4A-Weg-Stufe:** Wahrnehmung -> Anerkennung
 **Benötigte Materialien:** Gesammelte Bodenproben (aus Einheit 1 oder von der Lehrkraft vorbereitet), Backofen oder Dörrgerät (auf 50 °C), flache Schalen, Siebe (500/250/100/63 μm), Waage (1 mg), Schalen, FFP2-Masken, Schutzbrillen, Mörser und Pistill; außerdem Wasser und Glasplatten für die Nassroute
 
 ### Lernziele
@@ -192,9 +192,9 @@ Jedes Paar führt das folgende Experiment in Folge durch:
 | Schritt | Aktion | Erfassen |
 |---|---|---|
 | 0 Min (roh) | Ungemahlene Bodenspaste (einige Tropfen Wasser) auf Papier auftragen. | Farbbeschreibung + Foto |
-| Nach 5 Min Mahlen | Sieben → Fraktion unter 100 μm erfassen. Paste auftragen. | Farbbeschreibung + Foto |
-| Nach 15 Min Mahlen | Sieben → Fraktion erfassen. Paste auftragen. | Farbbeschreibung + Foto |
-| Nach 30 Min Mahlen | Sieben → Fraktion erfassen. Paste auftragen. | Farbbeschreibung + Foto |
+| Nach 5 Min Mahlen | Sieben -> Fraktion unter 100 μm erfassen. Paste auftragen. | Farbbeschreibung + Foto |
+| Nach 15 Min Mahlen | Sieben -> Fraktion erfassen. Paste auftragen. | Farbbeschreibung + Foto |
+| Nach 30 Min Mahlen | Sieben -> Fraktion erfassen. Paste auftragen. | Farbbeschreibung + Foto |
 
 Für jede Probe notieren:
 - Visuelle Farbsättigung (1–5-Skala, von der Klasse vereinbarte Bewertung)
@@ -220,7 +220,7 @@ Diagramm ins Laborheft eintragen. Journal: ein Satz, der die gefundene Beziehung
 
 **Dauer:** 45 Minuten
 **Lernort:** Klassenraum oder Labor
-**4A-Weg-Stufe:** Anerkennung → Haltung
+**4A-Weg-Stufe:** Anerkennung -> Haltung
 **Benötigte Materialien:** Gemahlene Pigmentpaste aus Einheit 3, Aquarellpapier, Pinsel, Wasser, Handykamera zur Dokumentation, Timer, Farbvergleichskarte oder App
 
 ### Lernziele
@@ -264,7 +264,7 @@ Journal: das Nass-Trocken-Diagramm. Luftporen, Wasser und Pigmentpartikel beschr
 
 **Dauer:** 45 Minuten
 **Lernort:** Labor oder Klassenraum
-**4A-Weg-Stufe:** Anerkennung → Handlung
+**4A-Weg-Stufe:** Anerkennung -> Handlung
 **Benötigte Materialien:** Gemahlene Pigmentpaste (aus Einheiten 2–3), fünf Bindemittel in beschrifteten Behältern: nur Wasser, Leinöl, Gummi-arabicum-Lösung (10 %), Eigelb 1:1 mit Wasser verdünnt, Kasein (aus Quark, aufgelöst); Aquarellpapierstreifen, flache Pinsel (1 pro Bindemittel), Timer, Lineal für Testreifen
 
 ### Lernziele

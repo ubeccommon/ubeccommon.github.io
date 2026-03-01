@@ -68,7 +68,7 @@ Drawing on Proxemics Theory (Hall, 1966), the unit deliberately moves students t
 - **Social distance** (1.2–3.6 m): Presenting findings to the class, comparing sample sets from different farms.
 - **Public distance** (> 3.6 m): The exhibition — the pigment now at a distance from the student, entering the public world.
 
-This spatial progression is not accidental. It mirrors the 4A-Pathway: intimate encounter (Awareness) → personal investigation (Acknowledgment) → social dialogue (Attitude) → public action (Action).
+This spatial progression is not accidental. It mirrors the 4A-Pathway: intimate encounter (Awareness) -> personal investigation (Acknowledgment) -> social dialogue (Attitude) -> public action (Action).
 
 * * *
 
@@ -161,7 +161,7 @@ This unit directly addresses the following criteria of the *Qualitätskatalog f�
 | 1.2.1 Target groups concretely described | Three grade bands with distinct objectives, methods, and cognitive demands |
 | 2.1.1 Multidimensional | Ecological, economic, social, and cultural dimensions explicitly connected |
 | 2.1.2 Interdisciplinary | Physics, chemistry, art, ecology, and agronomy integrated throughout |
-| 2.2.1 Controversial thesis | The central project thesis (attitude → soil → colour) is a hypothesis, not a given fact |
+| 2.2.1 Controversial thesis | The central project thesis (attitude -> soil -> colour) is a hypothesis, not a given fact |
 | 3.1.1 Action-oriented | Students physically collect, grind, measure, and produce real pigments |
 | 3.1.2 Experience-oriented | Fieldwork phase grounds all learning in direct sensory encounter |
 | 3.1.3 Discovery-based | Sorting samples by colour "without explanation" (Grades 5–8) as explicit discovery methodology |

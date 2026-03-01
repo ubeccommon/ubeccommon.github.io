@@ -160,7 +160,7 @@ Feiner Quarzstaub (Partikel unter 10 μm) ist bei wiederholter längerer Exposit
 
 ## Der 4A-Weg in Ihren Unterrichtsstunden
 
-Jede Unterrichtssequenz bei Erdpuls folgt dem **4A-Weg**: Awareness (Wahrnehmung) → Acknowledgment (Anerkennung) → Attitude (Haltung) → Action (Handlung). Sie müssen diese Struktur den Schülerinnen und Schülern nicht ankündigen — sie ist eine Karte für Lehrende, kein Arbeitsblatt für Lernende.
+Jede Unterrichtssequenz bei Erdpuls folgt dem **4A-Weg**: Awareness (Wahrnehmung) -> Acknowledgment (Anerkennung) -> Attitude (Haltung) -> Action (Handlung). Sie müssen diese Struktur den Schülerinnen und Schülern nicht ankündigen — sie ist eine Karte für Lehrende, kein Arbeitsblatt für Lernende.
 
 | Stufe | Wie sie im Unterricht aussieht |
 |---|---|
