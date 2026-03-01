@@ -9,6 +9,7 @@ project: "Erdpuls Müllrose OER-Sammlung"
 document: "01 — Leitfaden 1: Kinder und Jugendliche"
 part_of: "Fragen an den Boden — Praxisleitfäden für lebendige Erfahrungen (5-Leitfäden-Reihe)"
 translated_from: "questions_to_the_soil_guide1_children_EN_v1.2.md"
+author: "Michel Garand"
 ---
 
 # Leitfaden 1: Erdreich-Entdecker — The Soil Explorers
@@ -342,14 +343,22 @@ Nach dem Besuch an Lehrkräfte und Schüler*innen weitergeben: (a) Datenexport d
 
 * * *
 
----
+* * *
 
-## Lizenz & Quellenangabe
+## Lizenz und Impressum
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics
-Lizenziert unter [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
+Müllrose, Brandenburg, Deutschland
 
-Alle in diesem Dokument referenzierten Software-Komponenten sind lizenziert unter der
-[GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html)
+Lizenziert unter [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
-*Dieses Projekt nutzt die Dienste von Claude und Anthropic PBC zur Unterstützung unserer Entscheidungen und Empfehlungen. Dieses Dokument und seine Übersetzungen wurden mit Unterstützung von Claude (Anthropic PBC) entwickelt. Alle strategischen Entscheidungen, philosophischen Positionen und Projektverpflichtungen liegen beim Autor.*
+Sie dürfen dieses Material für beliebige Zwecke, auch kommerziell, teilen und anpassen, sofern Sie angemessene Namensnennung angeben, einen Link zur Lizenz beifügen, angeben ob Änderungen vorgenommen wurden, und etwaige Anpassungen unter derselben Lizenz verbreiten.
+
+Alle in diesem Dokument genannten Softwarekomponenten sind lizenziert unter der [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html)
+
+*Dieses Dokument und seine Übersetzungen wurden mit Unterstützung von Claude (Anthropic PBC) entwickelt. Alle strategischen Entscheidungen, philosophischen Positionen und Projektverpflichtungen liegen beim Autor.*
+
+**Kontakt:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
+
+*Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
+*Müllrose, Brandenburg — Februar 2026*

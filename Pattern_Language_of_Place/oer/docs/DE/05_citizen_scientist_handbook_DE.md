@@ -6,6 +6,7 @@ lang: de
 version: "1.1"
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
+author: "Michel Garand"
 ---
 # Erdpuls Handbuch für Citizen Scientists
 ## Beobachten, Beitragen und Vernetzen
@@ -372,12 +373,20 @@ Um eine Beobachtung als Musterkandidaten einzureichen, wenden Sie sich an Erdpul
 
 * * *
 
-## Lizenz und Quellenangabe
+## Lizenz und Impressum
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics  
+© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
+Müllrose, Brandenburg, Deutschland
+
 Lizenziert unter [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
-Alle in diesem Dokument referenzierten Softwarekomponenten stehen unter der  
-[GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html)
+Sie dürfen dieses Material für beliebige Zwecke, auch kommerziell, teilen und anpassen, sofern Sie angemessene Namensnennung angeben, einen Link zur Lizenz beifügen, angeben ob Änderungen vorgenommen wurden, und etwaige Anpassungen unter derselben Lizenz verbreiten.
 
-*Dieses Projekt nutzt die Dienste von Claude und Anthropic PBC, um Entscheidungen und Empfehlungen zu informieren. Dieses Dokument und seine Übersetzungen wurden mit Unterstützung von Claude (Anthropic PBC) entwickelt. Alle strategischen Entscheidungen, philosophischen Positionen und Projektverpflichtungen liegen beim Autor.*
+Alle in diesem Dokument genannten Softwarekomponenten sind lizenziert unter der [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html)
+
+*Dieses Dokument und seine Übersetzungen wurden mit Unterstützung von Claude (Anthropic PBC) entwickelt. Alle strategischen Entscheidungen, philosophischen Positionen und Projektverpflichtungen liegen beim Autor.*
+
+**Kontakt:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
+
+*Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
+*Müllrose, Brandenburg — Februar 2026*

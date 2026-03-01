@@ -6,6 +6,7 @@ lang: de
 version: "1.2"
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER-Sammlung"
+author: "Michel Garand"
 ---
 # Bioregion-Kartierung — Praxisleitfäden für lebendige Erfahrung
 
@@ -1066,16 +1067,20 @@ Bereiche 6 und 7 sind Programmebenen-Kriterien, keine Leitfaden-Kriterien. Die v
 
 * * *
 
-## Lizenz und Quellenangabe
+## Lizenz und Impressum
 
-Dieses Dokument ist Teil der **Erdpuls Müllrose OER-Sammlung** und steht unter der Lizenz **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.
+© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
+Müllrose, Brandenburg, Deutschland
 
-Sie dürfen dieses Material frei teilen (kopieren und in beliebigen Formaten oder Medien weiterverbreiten) und bearbeiten (remixen, transformieren und darauf aufbauen), für jeden Zweck, auch kommerziell, unter folgenden Bedingungen:
+Lizenziert unter [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
-**Namensnennung (BY):** Sie müssen angemessene Quellenangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+Sie dürfen dieses Material für beliebige Zwecke, auch kommerziell, teilen und anpassen, sofern Sie angemessene Namensnennung angeben, einen Link zur Lizenz beifügen, angeben ob Änderungen vorgenommen wurden, und etwaige Anpassungen unter derselben Lizenz verbreiten.
 
-**Weitergabe unter gleichen Bedingungen (SA):** Wenn Sie das Material remixen, transformieren oder darauf aufbauen, müssen Sie Ihre Beiträge unter derselben Lizenz verbreiten wie das Original.
+Alle in diesem Dokument genannten Softwarekomponenten sind lizenziert unter der [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html)
 
-**Quellenangabe:** Erdpuls Müllrose — Living Laboratory & Makerspace Garden, Müllrose, Brandenburg, Deutschland. *Bioregion-Kartierung — Praxisleitfäden für lebendige Erfahrung (und ihre Übersetzungen)*, Version 1.2, Februar 2026. CC BY-SA 4.0.
+*Dieses Dokument und seine Übersetzungen wurden mit Unterstützung von Claude (Anthropic PBC) entwickelt. Alle strategischen Entscheidungen, philosophischen Positionen und Projektverpflichtungen liegen beim Autor.*
 
-Für die vollständige Lizenz: https://creativecommons.org/licenses/by-sa/4.0/
+**Kontakt:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
+
+*Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
+*Müllrose, Brandenburg — Februar 2026*

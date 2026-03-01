@@ -8,6 +8,7 @@ license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER-Sammlung"
 document: "FM-01 — Umschlagseite"
 part_of: "Fragen an den Boden — Praxisleitfäden für lebendige Erfahrungen (5-Leitfaden-Reihe)"
+author: "Michel Garand"
 ---
 
 &nbsp;
@@ -51,18 +52,22 @@ Müllrose · Brandenburg · Deutschland
 
 &nbsp;
 
----
+* * *
 
-Dreisprachige Ausgabe · DE / EN / PL
+## Lizenz und Impressum
 
-Version 1.2 · Februar 2026
+© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
+Müllrose, Brandenburg, Deutschland
 
-&nbsp;
+Lizenziert unter [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
-Open Educational Resource (OER)
+Sie dürfen dieses Material für beliebige Zwecke, auch kommerziell, teilen und anpassen, sofern Sie angemessene Namensnennung angeben, einen Link zur Lizenz beifügen, angeben ob Änderungen vorgenommen wurden, und etwaige Anpassungen unter derselben Lizenz verbreiten.
 
-Lizenziert unter [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+Alle in diesem Dokument genannten Softwarekomponenten sind lizenziert unter der [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html)
 
-&nbsp;
+*Dieses Dokument und seine Übersetzungen wurden mit Unterstützung von Claude (Anthropic PBC) entwickelt. Alle strategischen Entscheidungen, philosophischen Positionen und Projektverpflichtungen liegen beim Autor.*
 
-*Diese Reihe und ihre Übersetzungen wurden mit Unterstützung von Claude (Anthropic PBC) entwickelt. Alle strategischen Entscheidungen, philosophischen Positionen und Projektverpflichtungen liegen beim Autor.*
+**Kontakt:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
+
+*Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
+*Müllrose, Brandenburg — 2026*

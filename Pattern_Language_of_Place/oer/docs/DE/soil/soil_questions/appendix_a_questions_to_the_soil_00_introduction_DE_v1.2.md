@@ -8,6 +8,7 @@ license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER-Sammlung"
 document: "00 — Einführungsleitfaden"
 translated_from: "questions_to_the_soil_00_introduction_EN_v1.2.md"
+author: "Michel Garand"
 ---
 
 # Fragen an den Boden — Praxisleitfäden für lebendige Erfahrungen
@@ -96,14 +97,22 @@ Dieser Jahreszyklus spiegelt den saisonalen Erdpuls-Rhythmus wider (Frühling: P
 
 **Proxemische Akkumulation über das Jahr:** Wenn mehrere Zielgruppen im Laufe eines Jahres dieselben Bodenstellen aufsuchen, akkumuliert sich die proxemische Tiefe der Gemeinschaftsbeziehung zu diesen Stellen. Die energiegeladene intime Begegnung der Kinder (Frühling) wird von der reflektierten persönlichen Begegnung der Erwachsenen (Sommer) gefolgt, vertieft durch die anhaltende tägliche Intimität der Residenzperson (Hochsommer), ergänzt durch das zeitliche proxemische Gedächtnis der älteren Menschen (Herbst) und über eine kulturelle Grenze hinaus ausgedehnt durch die Grenzgruppe (Spätherbst). Bei der Wintersynthese sind die Bodenstellen von Dutzenden von Menschen aus allen fünf Zielgruppen auf intime Distanz erfahren worden — über mehrere Sinneskanäle, in mehreren Jahreszeiten. Die in der Wintersynthese erstellten Musterkarten repräsentieren Wissen, das durch diesen akkumulierten proxemischen Kontakt entstanden ist — nicht durch Forschung auf öffentlicher Distanz, sondern durch wiederholtes, vielsinnnliches, verkörpertes Engagement auf intimer und persönlicher Distanz zu einem bestimmten Boden.
 
----
+* * *
 
-## Lizenz & Quellenangabe
+## Lizenz und Impressum
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics
-Lizenziert unter [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
+Müllrose, Brandenburg, Deutschland
 
-Alle in diesem Dokument referenzierten Software-Komponenten sind lizenziert unter der
-[GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html)
+Lizenziert unter [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
-*Dieses Projekt nutzt die Dienste von Claude und Anthropic PBC zur Unterstützung unserer Entscheidungen und Empfehlungen. Dieses Dokument und seine Übersetzungen wurden mit Unterstützung von Claude (Anthropic PBC) entwickelt. Alle strategischen Entscheidungen, philosophischen Positionen und Projektverpflichtungen liegen beim Autor.*
+Sie dürfen dieses Material für beliebige Zwecke, auch kommerziell, teilen und anpassen, sofern Sie angemessene Namensnennung angeben, einen Link zur Lizenz beifügen, angeben ob Änderungen vorgenommen wurden, und etwaige Anpassungen unter derselben Lizenz verbreiten.
+
+Alle in diesem Dokument genannten Softwarekomponenten sind lizenziert unter der [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html)
+
+*Dieses Dokument und seine Übersetzungen wurden mit Unterstützung von Claude (Anthropic PBC) entwickelt. Alle strategischen Entscheidungen, philosophischen Positionen und Projektverpflichtungen liegen beim Autor.*
+
+**Kontakt:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
+
+*Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
+*Müllrose, Brandenburg — Februar 2026*

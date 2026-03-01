@@ -6,6 +6,7 @@ lang: en
 version: "1.0"
 license: "CC BY-NC-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
+author: "Michel Garand"
 ---
 
 # Brücken bauen durch Boden – 13 Questions to the Soil
@@ -282,6 +283,20 @@ In keeping with anthroposophic pedagogy, the project does not use grades as the 
 
 * * *
 
-*This material is available as an Open Educational Resource (OER) and is licensed under the Creative Commons Attribution – NonCommercial – ShareAlike 4.0 International licence (CC BY-NC-SA 4.0). To view a copy of this licence, visit [https://creativecommons.org/licenses/by-nc-sa/4.0/.*](https://creativecommons.org/licenses/by-nc-sa/4.0/.*)
+## License and Attribution
 
-© Living-Lab Erdpuls Müllrose / Michel Garand (2026) | Funded by Änderwerk gGmbH through the "Vor Ort Vereint" programme with support from the Robert Bosch Stiftung and the Christian und Dorothee Bürkert Stiftung
+© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
+Müllrose, Brandenburg, Germany
+
+Licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+You are free to share and adapt this material for non-commercial purposes, provided you give appropriate credit, provide a link to the license, indicate if changes were made, and distribute any adaptations under the same license.
+
+All software components referenced in this document are licensed under the [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html)
+
+*This document and its translations were developed with assistance from Claude (Anthropic PBC). All strategic decisions, philosophical positions, and project commitments are those of the author.*
+
+**Contact:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
+
+*Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
+*Müllrose, Brandenburg — February 2026*
