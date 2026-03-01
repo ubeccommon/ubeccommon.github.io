@@ -1,14 +1,14 @@
 ---
 title: "Questions to the Soil — Guide 4: Boden-Tiefe"
 subtitle: "For Artists and Researchers (Residency-Depth Immersion)"
+author: "Michel Garand"
 date: "February 2026"
-lang: en
 version: "1.2"
+lang: en
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
 document: "04 — Guide 4: Artists and Researchers"
 part_of: "Questions to the Soil — Living Experience Guides (5-Guide Series)"
-author: "Michel Garand"
 ---
 
 # Guide 4: Boden-Tiefe — Soil Depth

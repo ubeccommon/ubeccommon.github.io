@@ -1,12 +1,12 @@
 ---
 title: "Pattern Discovery Toolkit — Appendices A-D"
 subtitle: "Questions to the Soil, Token Economy, Bioregion Mapping, BNE Quality Framework"
+author: "Michel Garand"
 date: "February 2026"
-lang: en
 version: "1.1"
+lang: en
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
-author: "Michel Garand"
 ---
 # Discovering a Pattern Language of Place — Appendices
 

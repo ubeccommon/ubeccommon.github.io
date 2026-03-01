@@ -1,12 +1,12 @@
 ---
 title: "Erdpuls Müllrose — Dokument-Gesamtindex"
 subtitle: "Vollständiger Überblick über alle Projektdokumente"
+author: "Michel Garand"
 date: "Februar 2026"
-lang: de
 version: "1.4"
+lang: de
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER-Sammlung"
-author: "Michel Garand"
 ---
 # Erdpuls Dokument-Ökosystem — Gesamtindex
 

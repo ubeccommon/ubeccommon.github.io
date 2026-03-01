@@ -1,14 +1,14 @@
 ---
 title: "Preface"
 subtitle: "To the Series Questions to the Soil"
+author: "Michel Garand"
 date: "February 2026"
-lang: en
 version: "1.2"
+lang: en
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
 document: "FM-02 — Preface"
 part_of: "Questions to the Soil — Living Experience Guides (5-Guide Series)"
-author: "Michel Garand"
 ---
 
 # Preface

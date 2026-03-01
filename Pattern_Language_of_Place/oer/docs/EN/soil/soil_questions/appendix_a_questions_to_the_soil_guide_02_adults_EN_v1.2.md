@@ -1,14 +1,14 @@
 ---
 title: "Questions to the Soil — Guide 2: Boden-Begegnung"
 subtitle: "For Adults and Families (Open Community Format)"
+author: "Michel Garand"
 date: "February 2026"
-lang: en
 version: "1.2"
+lang: en
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
 document: "02 — Guide 2: Adults and Families"
 part_of: "Questions to the Soil — Living Experience Guides (5-Guide Series)"
-author: "Michel Garand"
 ---
 
 # Guide 2: Boden-Begegnung — Encountering the Soil

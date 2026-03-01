@@ -1,12 +1,12 @@
 ---
 title: "Beobachten, Beitragen und Vernetzen"
 subtitle: "Handbuch für Bürgerwissenschaftler*innen (05)"
+author: "Michel Garand"
 date: "Februar 2026"
-lang: de
 version: "1.1"
+lang: de
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
-author: "Michel Garand"
 ---
 # Erdpuls Handbuch für Citizen Scientists
 ## Beobachten, Beitragen und Vernetzen

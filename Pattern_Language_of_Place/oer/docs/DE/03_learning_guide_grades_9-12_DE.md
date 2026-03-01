@@ -1,12 +1,12 @@
 ---
 title: "Ort als Labor: Forschungsmethoden für die lebendige Welt"
 subtitle: "Lernleitfaden 03 — Klassen 9-12"
+author: "Michel Garand"
 date: "Februar 2026"
-lang: de
 version: "1.1"
+lang: de
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
-author: "Michel Garand"
 ---
 # Erdpuls Lernleitfaden 03 — Klassen 9–12
 ## Ort als Labor: Forschungsmethoden für die lebendige Welt

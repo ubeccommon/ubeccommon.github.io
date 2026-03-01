@@ -1,14 +1,14 @@
 ---
 title: "Questions to the Soil — Guide 3: Boden-Gedächtnis"
 subtitle: "For Elders and Intergenerational Groups"
+author: "Michel Garand"
 date: "February 2026"
-lang: en
 version: "1.2"
+lang: en
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
 document: "03 — Guide 3: Elders and Intergenerational Groups"
 part_of: "Questions to the Soil — Living Experience Guides (5-Guide Series)"
-author: "Michel Garand"
 ---
 
 # Guide 3: Boden-Gedächtnis — The Soil's Memory

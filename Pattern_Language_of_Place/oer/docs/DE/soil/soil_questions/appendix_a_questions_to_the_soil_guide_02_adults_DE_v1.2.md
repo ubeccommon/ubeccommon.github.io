@@ -1,15 +1,15 @@
 ---
 title: "Fragen an den Boden — Leitfaden 2: Boden-Begegnung"
 subtitle: "Für Erwachsene und Familien (Offenes Gemeinschaftsformat)"
+author: "Michel Garand"
 date: "Februar 2026"
-lang: de
 version: "1.2"
+lang: de
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER-Sammlung"
 document: "02 — Leitfaden 2: Erwachsene und Familien"
 part_of: "Fragen an den Boden — Praxisleitfäden für lebendige Erfahrungen (5-Leitfaden-Reihe)"
 translated_from: "questions_to_the_soil_guide2_adults_EN_v1.2.md"
-author: "Michel Garand"
 ---
 
 # Leitfaden 2: Boden-Begegnung — Encountering the Soil

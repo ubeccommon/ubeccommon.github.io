@@ -1,12 +1,12 @@
 ---
 title: "How to Monitor, Contribute, and Connect"
 subtitle: "Citizen Scientist Handbook (05)"
+author: "Michel Garand"
 date: "February 2026"
-lang: en
 version: "1.1"
+lang: en
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
-author: "Michel Garand"
 ---
 # Erdpuls Citizen Scientist Handbook
 ## How to Monitor, Contribute, and Connect

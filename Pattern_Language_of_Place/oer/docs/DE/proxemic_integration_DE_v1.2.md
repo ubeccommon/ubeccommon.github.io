@@ -1,12 +1,12 @@
 ---
 title: "Proxemische Integration"
 subtitle: "Edward T. Halls Proxemik als räumliche Grammatik für das Pattern Discovery Toolkit"
+author: "Michel Garand"
 date: "Februar 2026"
-lang: de
 version: "1.2"
+lang: de
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER-Sammlung"
-author: "Michel Garand"
 ---
 # Proxemische Integration — Die verborgene Dimension des ortsbezogenen Lernens
 

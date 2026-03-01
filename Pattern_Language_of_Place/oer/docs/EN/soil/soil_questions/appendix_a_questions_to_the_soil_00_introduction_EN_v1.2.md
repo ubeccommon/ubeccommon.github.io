@@ -1,13 +1,13 @@
 ---
 title: "Questions to the Soil — Living Experience Guides: Introduction"
 subtitle: "How to Use the Five Target-Group Guides — Appendix A"
+author: "Michel Garand"
 date: "February 2026"
-lang: en
 version: "1.2"
+lang: en
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
 document: "00 — Introduction Guide"
-author: "Michel Garand"
 ---
 
 # Questions to the Soil — Living Experience Guides

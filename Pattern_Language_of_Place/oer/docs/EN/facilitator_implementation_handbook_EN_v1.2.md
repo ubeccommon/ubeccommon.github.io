@@ -1,12 +1,12 @@
 ---
 title: "Facilitator's Implementation Handbook"
 subtitle: "Annual Calendar, Checklists, and Spatial Design Guide"
+author: "Michel Garand"
 date: "February 2026"
-lang: en
 version: "1.2"
+lang: en
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
-author: "Michel Garand"
 ---
 # Erdpuls Facilitator's Implementation Handbook
 

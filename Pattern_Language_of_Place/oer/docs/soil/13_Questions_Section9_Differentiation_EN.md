@@ -1,12 +1,12 @@
 ---
 title: "Brücken bauen durch Boden – 13 Questions to the Soil"
 subtitle: "Section 9: Differentiation and Extensions"
+author: "Michel Garand"
 date: "February 2026"
-lang: en
 version: "1.0"
+lang: en
 license: "CC BY-NC-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
-author: "Michel Garand"
 ---
 
 # Brücken bauen durch Boden – 13 Questions to the Soil

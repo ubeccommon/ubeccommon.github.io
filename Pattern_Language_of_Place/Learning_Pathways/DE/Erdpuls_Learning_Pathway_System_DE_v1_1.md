@@ -1,12 +1,12 @@
 ---
 title: "Erdpuls Müllrose — Lernpfadsystem"
 subtitle: "Allgemeines Konzept, Umsetzungsstrategie & Zielgruppen-Lernpfadkarten"
+author: "Michel Garand"
 date: "Februar 2026"
-lang: de
 version: "1.1"
+lang: de
 license: "CC BY-NC-SA 4.0"
 project: "Erdpuls Müllrose OER-Sammlung"
-author: "Michel Garand"
 status: "Konzeptdokument — zur Prüfung und Programmentwicklung"
 ---
 

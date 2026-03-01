@@ -1,12 +1,12 @@
 ---
 title: "Bioregion-Kartierung — Praxisleitfäden für lebendige Erfahrung"
 subtitle: "Fünf zielgruppenspezifische Workshop-Leitfäden — Anhang C"
+author: "Michel Garand"
 date: "Februar 2026"
-lang: de
 version: "1.2"
+lang: de
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER-Sammlung"
-author: "Michel Garand"
 ---
 # Bioregion-Kartierung — Praxisleitfäden für lebendige Erfahrung
 

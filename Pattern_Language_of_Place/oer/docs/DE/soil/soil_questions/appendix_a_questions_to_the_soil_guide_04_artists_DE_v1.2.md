@@ -1,15 +1,15 @@
 ---
 title: "Fragen an den Boden — Leitfaden 4: Boden-Tiefe"
 subtitle: "Für Künstler*innen und Forscher*innen (Residenz-Immersion)"
+author: "Michel Garand"
 date: "Februar 2026"
-lang: de
 version: "1.2"
+lang: de
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER-Sammlung"
 document: "04 — Leitfaden 4: Künstler*innen und Forscher*innen"
 part_of: "Fragen an den Boden — Praxisleitfäden für lebendige Erfahrungen (5-Leitfaden-Reihe)"
 translated_from: "questions_to_the_soil_guide4_artists_EN_v1.2.md"
-author: "Michel Garand"
 ---
 
 # Leitfaden 4: Boden-Tiefe — Soil Depth

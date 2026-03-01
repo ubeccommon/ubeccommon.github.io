@@ -1,12 +1,12 @@
 ---
 title: "Reciprocal Token Economy — Living Experience Guides"
 subtitle: "Five Target-Group-Specific Workshop Guides — Appendix B"
+author: "Michel Garand"
 date: "February 2026"
-lang: en
 version: "1.2"
+lang: en
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
-author: "Michel Garand"
 ---
 # Reciprocal Token Economy — Living Experience Guides
 

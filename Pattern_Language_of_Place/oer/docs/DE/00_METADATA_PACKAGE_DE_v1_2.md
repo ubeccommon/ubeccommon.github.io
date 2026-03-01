@@ -1,12 +1,12 @@
 ---
 title: "OER-Metadaten-Paket"
 subtitle: "Erdpuls Müllrose Living-Lab-Initiative — Von Samen zur Blockchain"
+author: "Michel Garand"
 date: "Februar 2026"
-lang: de
 version: "1.2"
+lang: de
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER-Sammlung"
-author: "Michel Garand"
 ---
 
 # So verwenden Sie dieses Dokument

@@ -1,14 +1,14 @@
 ---
 title: "Questions to the Soil — Guide 5: Boden-Brücke"
 subtitle: "For Cross-Border Groups (DE/PL Trilingual, Intercultural)"
+author: "Michel Garand"
 date: "February 2026"
-lang: en
 version: "1.2"
+lang: en
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
 document: "05 — Guide 5: Cross-Border Groups (Grenzregion DE/PL)"
 part_of: "Questions to the Soil — Living Experience Guides (5-Guide Series)"
-author: "Michel Garand"
 ---
 
 # Guide 5: Boden-Brücke — The Soil Bridge

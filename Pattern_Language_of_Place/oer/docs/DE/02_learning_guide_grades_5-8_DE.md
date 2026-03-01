@@ -1,12 +1,12 @@
 ---
 title: "Feldforscher: Die lebendige Welt messen"
 subtitle: "Lernleitfaden 02 — Klassen 5-8"
+author: "Michel Garand"
 date: "Februar 2026"
-lang: de
 version: "1.1"
+lang: de
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
-author: "Michel Garand"
 ---
 # Erdpuls Lernleitfaden 02 — Klassen 5–8
 ## Feldforscher: Die lebendige Welt messen

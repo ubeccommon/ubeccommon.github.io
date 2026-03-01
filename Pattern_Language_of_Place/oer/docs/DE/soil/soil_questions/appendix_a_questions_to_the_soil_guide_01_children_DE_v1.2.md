@@ -1,15 +1,15 @@
 ---
 title: "Fragen an den Boden — Leitfaden 1: Erdreich-Entdecker"
 subtitle: "Für Kinder und Jugendliche (Alter 8–18, Schulklassen)"
+author: "Michel Garand"
 date: "Februar 2026"
-lang: de
 version: "1.2"
+lang: de
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER-Sammlung"
 document: "01 — Leitfaden 1: Kinder und Jugendliche"
 part_of: "Fragen an den Boden — Praxisleitfäden für lebendige Erfahrungen (5-Leitfäden-Reihe)"
 translated_from: "questions_to_the_soil_guide1_children_EN_v1.2.md"
-author: "Michel Garand"
 ---
 
 # Leitfaden 1: Erdreich-Entdecker — The Soil Explorers

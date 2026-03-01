@@ -1,12 +1,12 @@
 ---
 title: "Soil Colour as Physics — Earth Pigments from the Soils of Müllrose"
 subtitle: "A Concept for Physics Education — From Soil Sample to Artwork"
+author: "Michel Garand"
 date: "February 2026"
-lang: en
 version: "1.1"
+lang: en
 license: "CC BY-NC-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
-author: "Michel Garand"
 ---
 # Soil Colour as Physics — Earth Pigments from the Soils of Müllrose
 

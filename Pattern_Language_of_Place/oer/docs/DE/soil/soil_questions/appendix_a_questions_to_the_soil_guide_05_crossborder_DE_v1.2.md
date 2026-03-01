@@ -1,15 +1,15 @@
 ---
 title: "Fragen an den Boden — Leitfaden 5: Boden-Brücke"
 subtitle: "Für Grenzgruppen (DE/PL Dreisprachig, Interkulturell)"
+author: "Michel Garand"
 date: "Februar 2026"
-lang: de
 version: "1.2"
+lang: de
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER-Sammlung"
 document: "05 — Leitfaden 5: Grenzgruppen (Grenzregion DE/PL)"
 part_of: "Fragen an den Boden — Praxisleitfäden für lebendige Erfahrungen (5-Leitfaden-Reihe)"
 translated_from: "questions_to_the_soil_guide5_crossborder_EN_v1.2.md"
-author: "Michel Garand"
 ---
 
 # Leitfaden 5: Boden-Brücke — The Soil Bridge

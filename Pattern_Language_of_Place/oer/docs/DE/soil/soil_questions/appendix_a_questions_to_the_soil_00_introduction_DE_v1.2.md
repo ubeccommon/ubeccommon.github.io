@@ -1,14 +1,14 @@
 ---
 title: "Fragen an den Boden — Praxisleitfäden für lebendige Erfahrungen: Einführung"
 subtitle: "Verwendung der fünf zielgruppenspezifischen Leitfäden — Anhang A"
+author: "Michel Garand"
 date: "Februar 2026"
-lang: de
 version: "1.2"
+lang: de
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER-Sammlung"
 document: "00 — Einführungsleitfaden"
 translated_from: "questions_to_the_soil_00_introduction_EN_v1.2.md"
-author: "Michel Garand"
 ---
 
 # Fragen an den Boden — Praxisleitfäden für lebendige Erfahrungen

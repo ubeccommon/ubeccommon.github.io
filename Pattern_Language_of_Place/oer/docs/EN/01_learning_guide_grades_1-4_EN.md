@@ -1,12 +1,12 @@
 ---
 title: "Earth Detectives: First Encounters with Living Ground"
 subtitle: "Learning Guide 01 — Grades 1-4"
+author: "Michel Garand"
 date: "February 2026"
-lang: en
 version: "1.1"
+lang: en
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
-author: "Michel Garand"
 ---
 # Erdpuls Learning Guide 01 — Grades 1–4
 ## Earth Detectives: First Encounters with Living Ground

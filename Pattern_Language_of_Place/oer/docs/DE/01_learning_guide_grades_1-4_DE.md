@@ -1,12 +1,12 @@
 ---
 title: "Erddetektive: Erste Begegnungen mit lebendigem Boden"
 subtitle: "Lernleitfaden 01 — Klassen 1-4"
+author: "Michel Garand"
 date: "Februar 2026"
-lang: de
 version: "1.1"
+lang: de
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
-author: "Michel Garand"
 ---
 # Erdpuls Lernleitfaden 01 — Klassen 1–4
 ## Erddetektive: Erste Begegnungen mit lebendigem Boden

@@ -1,12 +1,12 @@
 ---
 title: "Pattern Language Assembly Guide"
 subtitle: "How Workshop Outputs Become Collective Knowledge"
+author: "Michel Garand"
 date: "February 2026"
-lang: en
 version: "1.2"
+lang: en
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
-author: "Michel Garand"
 ---
 # Assembling the Pattern Language of Place
 

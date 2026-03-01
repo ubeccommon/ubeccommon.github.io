@@ -1,12 +1,12 @@
 ---
 title: "Place as Laboratory: Research Methods for the Living World"
 subtitle: "Learning Guide 03 — Grades 9-12"
+author: "Michel Garand"
 date: "February 2026"
-lang: en
 version: "1.1"
+lang: en
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
-author: "Michel Garand"
 ---
 # Erdpuls Learning Guide 03 — Grades 9–12
 ## Place as Laboratory: Research Methods for the Living World

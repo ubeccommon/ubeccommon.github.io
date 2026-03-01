@@ -1,12 +1,12 @@
 ---
 title: "Bringing Your Class to the Living Laboratory"
 subtitle: "Teachers' Comprehensive Guide (04)"
+author: "Michel Garand"
 date: "February 2026"
-lang: en
 version: "1.1"
+lang: en
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
-author: "Michel Garand"
 ---
 # Erdpuls Teachers' Guide
 ## Bringing Your Class to the Living Laboratory

@@ -1,15 +1,15 @@
 ---
 title: "Fragen an den Boden — Leitfaden 3: Boden-Gedächtnis"
 subtitle: "Für ältere Menschen und Generationengruppen"
+author: "Michel Garand"
 date: "Februar 2026"
-lang: de
 version: "1.2"
+lang: de
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER-Sammlung"
 document: "03 — Leitfaden 3: Ältere Menschen und Generationengruppen"
 part_of: "Fragen an den Boden — Praxisleitfäden für lebendige Erfahrungen (5-Leitfaden-Reihe)"
 translated_from: "questions_to_the_soil_guide3_elders_EN_v1.2.md"
-author: "Michel Garand"
 ---
 
 # Leitfaden 3: Boden-Gedächtnis — The Soil's Memory

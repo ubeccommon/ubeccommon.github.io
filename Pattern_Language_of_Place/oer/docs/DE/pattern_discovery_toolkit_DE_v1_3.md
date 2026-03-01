@@ -1,12 +1,12 @@
 ---
 title: "Mustersprachen-Werkzeugkasten"
 subtitle: "Teile 1–5: Theorie, Methode und Feldanwendung"
+author: "Michel Garand"
 date: "Februar 2026"
-lang: de
 version: "1.3"
+lang: de
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER-Sammlung"
-author: "Michel Garand"
 ---
 # ERDPULS MÜLLROSE
 

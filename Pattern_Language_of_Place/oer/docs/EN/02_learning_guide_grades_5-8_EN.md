@@ -1,12 +1,12 @@
 ---
 title: "Field Investigators: Measuring the Living World"
 subtitle: "Learning Guide 02 — Grades 5-8"
+author: "Michel Garand"
 date: "February 2026"
-lang: en
 version: "1.1"
+lang: en
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
-author: "Michel Garand"
 ---
 # Erdpuls Learning Guide 02 — Grades 5–8
 ## Field Investigators: Measuring the Living World

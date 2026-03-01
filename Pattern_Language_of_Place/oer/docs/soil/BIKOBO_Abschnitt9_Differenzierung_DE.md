@@ -1,12 +1,12 @@
 ---
 title: "BIKOBO – Bildungskonzept Bodengesundheit"
 subtitle: "Abschnitt 9: Differenzierung und Erweiterungen"
+author: "Michel Garand"
 date: "Februar 2026"
-lang: de
 version: "1.0"
+lang: de
 license: "CC BY-NC-SA 4.0"
 project: "Erdpuls Müllrose OER-Sammlung"
-author: "Michel Garand"
 ---
 
 # BIKOBO – Bildungskonzept Bodengesundheit

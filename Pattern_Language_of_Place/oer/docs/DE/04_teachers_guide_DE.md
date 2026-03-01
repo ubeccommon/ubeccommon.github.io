@@ -1,12 +1,12 @@
 ---
 title: "Mit der Klasse ins Lebendige Labor"
 subtitle: "Lehrerhandbuch (04)"
+author: "Michel Garand"
 date: "Februar 2026"
-lang: de
 version: "1.1"
+lang: de
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
-author: "Michel Garand"
 ---
 # Erdpuls Lehrerhandbuch
 ## Mit der Klasse ins Lebendige Labor

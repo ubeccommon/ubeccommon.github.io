@@ -1,12 +1,12 @@
 ---
 title: "BNE Quality Framework — Living Experience Guides"
 subtitle: "Five Target-Group-Specific Workshop Guides — Appendix D"
+author: "Michel Garand"
 date: "February 2026"
-lang: en
 version: "1.2"
+lang: en
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
-author: "Michel Garand"
 ---
 # BNE Quality Framework — Living Experience Guides
 

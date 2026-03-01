@@ -1,12 +1,12 @@
 ---
 title: "Proxemic Integration"
 subtitle: "Edward T. Hall's Proxemics as Spatial Grammar for the Pattern Discovery Toolkit"
+author: "Michel Garand"
 date: "February 2026"
-lang: en
 version: "1.2"
+lang: en
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
-author: "Michel Garand"
 ---
 # Proxemic Integration — The Hidden Dimension of Place-Based Learning
 

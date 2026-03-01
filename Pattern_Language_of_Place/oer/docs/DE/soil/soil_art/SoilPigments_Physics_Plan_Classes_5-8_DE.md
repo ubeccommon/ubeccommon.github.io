@@ -1,12 +1,12 @@
 ---
 title: "Bodenfarbe als Physik — Detaillierter Unterrichtsplan: Klassen 5–8"
 subtitle: "Erdpigmente aus den Böden von Müllrose"
-project: "Erdpuls Müllrose OER-Sammlung"
-date: "Februar 2026"
-lang: de
-version: "1.0"
-license: "CC BY-NC-SA 4.0"
 author: "Michel Garand"
+date: "Februar 2026"
+version: "1.0"
+lang: de
+license: "CC BY-NC-SA 4.0"
+project: "Erdpuls Müllrose OER-Sammlung"
 ---
 
 # Bodenfarbe als Physik — Detaillierter Unterrichtsplan: Klassen 5–8

@@ -1,14 +1,14 @@
 ---
 title: "Questions to the Soil"
 subtitle: "Living Experience Guides — A Series in Five Volumes"
+author: "Michel Garand"
 date: "2026"
-lang: en
 version: "1.2"
+lang: en
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
 document: "FM-01 — Cover Page"
 part_of: "Questions to the Soil — Living Experience Guides (5-Guide Series)"
-author: "Michel Garand"
 ---
 
 &nbsp;

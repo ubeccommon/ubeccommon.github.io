@@ -1,14 +1,14 @@
 ---
 title: "Inhaltsübersicht"
 subtitle: "Fragen an den Boden — Praxisleitfäden für lebendige Erfahrungen"
+author: "Michel Garand"
 date: "Februar 2026"
-lang: de
 version: "1.2"
+lang: de
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER-Sammlung"
 document: "FM-03 — Inhaltsübersicht"
 part_of: "Fragen an den Boden — Praxisleitfäden für lebendige Erfahrungen (5-Leitfaden-Reihe)"
-author: "Michel Garand"
 ---
 
 # Inhaltsübersicht

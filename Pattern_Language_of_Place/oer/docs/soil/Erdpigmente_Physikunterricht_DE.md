@@ -1,12 +1,12 @@
 ---
 title: "Bodenfarbe als Physik — Erdpigmente aus Müllroser Böden"
 subtitle: "Konzept für den Physikunterricht — Von der Bodenprobe zum Kunstwerk"
+author: "Michel Garand"
 date: "Februar 2026"
-lang: de
 version: "1.1"
+lang: de
 license: "CC BY-NC-SA 4.0"
 project: "Erdpuls Müllrose OER-Sammlung"
-author: "Michel Garand"
 ---
 # Bodenfarbe als Physik — Erdpigmente aus Müllroser Böden
 

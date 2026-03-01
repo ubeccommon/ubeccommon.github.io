@@ -1,12 +1,12 @@
 ---
 title: "Erdpuls Müllrose — Master Document Index"
 subtitle: "Complete Guide to All Project Documents"
+author: "Michel Garand"
 date: "February 2026"
-lang: en
 version: "1.4"
+lang: en
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER Collection"
-author: "Michel Garand"
 ---
 # Erdpuls Document Ecosystem — Master Index
 

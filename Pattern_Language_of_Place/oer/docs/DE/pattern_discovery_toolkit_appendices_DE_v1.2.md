@@ -1,12 +1,12 @@
 ---
 title: "Pattern Discovery Toolkit — Anhänge A–D"
 subtitle: "Fragen an den Boden, Token-Ökonomie, Bioregions-Kartierung, BNE-Qualitätsrahmen"
+author: "Michel Garand"
 date: "Februar 2026"
-lang: de
 version: "1.2"
+lang: de
 license: "CC BY-SA 4.0"
 project: "Erdpuls Müllrose OER-Sammlung"
-author: "Michel Garand"
 ---
 # Eine Mustersprache des Ortes entdecken — Anhänge
 
