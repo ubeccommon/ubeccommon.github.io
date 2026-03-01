@@ -1,12 +1,22 @@
+---
+title: "BIKOBO – Bildungskonzept Bodengesundheit"
+subtitle: "Abschnitt 9: Differenzierung und Erweiterungen"
+date: "Februar 2026"
+lang: de
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+project: "Erdpuls Müllrose OER-Sammlung"
+---
+
 # BIKOBO – Bildungskonzept Bodengesundheit
 ## Waldorfpädagogisch orientiertes Curriculum
 
----
+* * *
 
 # 9. Differenzierung und Erweiterungen
 ### Klassenspezifische Anpassungen für Klassen 1–4, 5–8 und 9–12
 
----
+* * *
 
 > **Leitprinzip: Jung lehrt Technik – Alt lehrt Tradition**
 >
@@ -14,7 +24,7 @@
 
 Dieser Abschnitt beschreibt, wie die Kernaktivitäten des BIKOBO-Projekts – Bodenbeobachtung, Sensorik, Dialog und künstlerische Dokumentation – für unterschiedliche Entwicklungsstufen angepasst und erweitert werden. Die waldorfpädagogischen Prinzipien bilden dabei den Rahmen: Das fühlende Erleben in der Unterstufe, das entdeckende Verstehen in der Mittelstufe und das urteilende Handeln in der Oberstufe.
 
----
+* * *
 
 ## 9.1 Überblick: Differenzierungsmatrix
 
@@ -28,7 +38,7 @@ Die folgende Matrix zeigt, wie die fünf Projektbausteine (Fragebogen-Dialoge, M
 | **Tandem-Rolle** | Senior*innen als Geschichtenerzähler*innen | Gemeinsame Arbeit an Messstationen | Senior*innen als Fachexpert*innen im Dialog |
 | **Sprache** | Märchenhafte und bildreiche Sprache | Sachliche Fachsprache, erste Statistik | Wissenschaftliche Fachsprache, Metakritik |
 
----
+* * *
 
 ## 9.2 Klassen 1–4: Das fühlende Erleben
 **Unterstufe · Alter 6–10 Jahre · Waldorf-Entwicklungsphase: Nachahmung und Autorität**
@@ -85,7 +95,7 @@ In den ersten vier Klassen steht die unmittelbare sinnliche Begegnung mit dem Bo
 - Elternabend: Kinder präsentieren ihre Bodenentdeckungen und beantworten Fragen
 - Verbindung zur Gartenbauepoche in Klasse 3: Boden als lebendiger Organismus erleben
 
----
+* * *
 
 ## 9.3 Klassen 5–8: Das entdeckende Verstehen
 **Mittelstufe · Alter 11–14 Jahre · Waldorf-Entwicklungsphase: Kausalität und Empathie**
@@ -153,7 +163,7 @@ Die Mittelstufe ist die Phase des Forschens und Entdeckens. Kausalzusammenhänge
 - Jahresarbeit-Vorbereitung Klasse 8: BIKOBO als mögliches Thema für die Oberstufe
 - Schulgarten-Experiment: Drei Flächen mit verschiedener Bewirtschaftung – Messungen über ein Jahr
 
----
+* * *
 
 ## 9.4 Klassen 9–12: Das urteilende Handeln
 **Oberstufe · Alter 15–18 Jahre · Waldorf-Entwicklungsphase: Abstraktion und Selbstständigkeit**
@@ -179,7 +189,7 @@ Die Oberstufe arbeitet wissenschaftlich, gesellschaftlich-kritisch und künstler
 - Klasse 10–11: Datenauswertung mit Python oder R
   - Zeitreihenanalyse, saisonale Muster, Anomalieerkennung
   - Korrelationsanalyse zwischen den drei Partnerbetrieben
-- Klasse 11–12: Mitwirkung an der Korrelationsstudie (Einstellung ↔ Bodenqualität)
+- Klasse 11–12: Mitwirkung an der Korrelationsstudie (Einstellung <-> Bodenqualität)
   - Datenvisualisierung für die Ausstellung und für wissenschaftliche Präsentationen
 - Klasse 12 Jahresarbeit: „Statistische Analyse der Bodenparameter-Unterschiede" als mögliches Thema
 - Erweiterung: Eigenen Sensor entwickeln und in die senseBox integrieren (MINKT-Framework)
@@ -222,7 +232,7 @@ Die Oberstufe arbeitet wissenschaftlich, gesellschaftlich-kritisch und künstler
 - Praktikum auf einem der drei Partnerbetriebe als Berufsorientierungsmaßnahme
 - Seminar „Landwirtschaft und Gerechtigkeit": BIKOBO-Daten als Ausgangspunkt für gesellschaftliche Analyse
 
----
+* * *
 
 ## 9.5 Klassenübergreifende Verbindungen
 
@@ -233,11 +243,11 @@ Obwohl jede Stufe ihren eigenen Zugang hat, sind die Verbindungen zwischen den K
 | **Mentoring** | Oberstufe begleitet Mittelstufe bei Sensor-Wartung und Datenauswertung | Kl. 5–8 + Kl. 9–12 |
 | **Tandem-Kette** | Generationen-Tandems verbinden Senior*in, Schüler*in (Mitte) und jüngeres Kind | Kl. 1–4 + Kl. 7–8 + Senior*in |
 | **Kunst-Übergabe** | Unterstufen-Bild wird von Mittelstufe kuratiert und von Oberstufe ausgestellt | Alle Stufen |
-| **Fragebogen-Staffel** | Klasse 4 entwickelt Kinderfragen, Kl. 8 adaptiert, Kl. 12 analysiert | Kl. 4 → Kl. 8 → Kl. 12 |
+| **Fragebogen-Staffel** | Klasse 4 entwickelt Kinderfragen, Kl. 8 adaptiert, Kl. 12 analysiert | Kl. 4 -> Kl. 8 -> Kl. 12 |
 | **Podcast** | Oberstufe produziert, Mittelstufe interviewt Unterstufe und Senior*innen | Kl. 5–6 + Kl. 11–12 |
 | **Jahresbericht** | Jede Stufe trägt ein Kapitel bei; entsteht als gemeinsames Dokument | Alle Stufen |
 
----
+* * *
 
 ## 9.6 Inklusion und besondere Förderung
 
@@ -257,7 +267,7 @@ Das BIKOBO-Curriculum ist so gestaltet, dass es für unterschiedliche Lernvoraus
 - Hörschädigung: Visuelle Darstellung von Sensordaten statt akustischer Signale
 - Motorische Einschränkungen: Tablet-basierte Dokumentation statt Feldarbeit
 
----
+* * *
 
 ## 9.7 Beurteilung und Rückmeldung
 
@@ -270,8 +280,8 @@ Im Sinne der Waldorfpädagogik verzichtet BIKOBO auf Noten als primäres Bewertu
 | **Tandem** | Senior*in gibt persönliche Rückmeldung | Tandem-Bewertungsgespräch | Selbstevaluation und Methodenkritik |
 | **Ausstellung** | Participation als Anerkennung | Kuratierung als Kompetenznachweis | Kuratorische Verantwortung als Leadership-Erfahrung |
 
----
+* * *
 
-*Das Material bzw. der Inhalt steht als Open Educational Resource (OER) zur Verfügung und ist lizenziert unter Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-NC-SA 4.0). Um eine Kopie dieser Lizenz einzusehen, besuchen Sie https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de.*
+*Das Material bzw. der Inhalt steht als Open Educational Resource (OER) zur Verfügung und ist lizenziert unter Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-NC-SA 4.0). Um eine Kopie dieser Lizenz einzusehen, besuchen Sie [https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de.*](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de.*)
 
 © Living-Lab Erdpuls Müllrose / Michel Garand (2026) | Gefördert durch die Änderwerk gGmbH im Programm „Vor Ort Vereint" mit Unterstützung der Robert Bosch Stiftung und der Christian und Dorothee Bürkert Stiftung

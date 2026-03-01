@@ -34,7 +34,7 @@ project: "Erdpuls Müllrose OER-Sammlung"
 | **Dauer** | 8–12 Unterrichtsstunden in vier Phasen (Feldarbeit, Labor, Messungen, Herstellung) |
 | **Lernort** | Zone B (Bio-Materialien-Gartenlabor) \& Feldstandorte; Partnerbetriebe |
 | **Jahreszeit** | Februar–Juni (Hauptsequenz); September (Vertiefungsexperiment) |
-| **4A-Lernpfad-Schwerpunkt** | Alle vier Stufen: Awareness (Feld) → Acknowledgment (Labor) → Attitude (Korrelation) → Action (Pigmentherstellung für AP4) |
+| **4A-Lernpfad-Schwerpunkt** | Alle vier Stufen: Awareness (Feld) -> Acknowledgment (Labor) -> Attitude (Korrelation) -> Action (Pigmentherstellung für AP4) |
 
 * * *
 
@@ -53,7 +53,7 @@ Dieses Dokument ist Teil der Erdpuls OER-Sammlung und auf vollständige Konformi
 | Bereich | Titel | Status |
 |---|---|---|
 | 1 | Ziele und Zielgruppen | Alle Kriterien erfüllt — drei explizit differenzierte Klassenstufenbänder (5–8, 9–10, 11–12) mit jeweils eigenen Lernzielen, Methoden und kognitiven Anforderungen; Einbettung in Partnerbetriebe verankert den Inhalt im regionalen Lebensweltbezug der Schüler\*innen (1.1.1) |
-| 2 | Ansatz | Alle Kriterien erfüllt — ökologische (Eisenoxid-Mineralogie), ökonomische (Bewirtschaftungsform und Bodengesundheit), soziale (Landwirtsdialog, drei Betriebssysteme) und kulturelle (Erdpigment-Tradition, AP4-Ausstellung) Dimensionen sind explizit verknüpft (2.1.1); SDG 4, 13, 15 und 2 adressiert; kontroverse Kernthese (innere Einstellung → Bodenqualität) öffnet echte Perspektivenvielfalt (2.2.1) |
+| 2 | Ansatz | Alle Kriterien erfüllt — ökologische (Eisenoxid-Mineralogie), ökonomische (Bewirtschaftungsform und Bodengesundheit), soziale (Landwirtsdialog, drei Betriebssysteme) und kulturelle (Erdpigment-Tradition, AP4-Ausstellung) Dimensionen sind explizit verknüpft (2.1.1); SDG 4, 13, 15 und 2 adressiert; kontroverse Kernthese (innere Einstellung -> Bodenqualität) öffnet echte Perspektivenvielfalt (2.2.1) |
 | 3 | Methoden | Mindestanforderungen erfüllt — handlungsorientiert (Pigmentherstellung), erfahrungsorientiert (Feldarbeit, nasses Mahlen), reflektiert (Feucht-Trocken-Diagramme, Spektroskopie), partizipativ (Bodenproben der Partnerbetriebe); theoretische Fundierung (Ligandenfeldtheorie, Mie-Streuung, Kolloidphysik) erfüllt 3.2 vollständig; Lehrkraft-Ressourcen in Abschnitt 9 erfüllen 3.3 |
 | 4 | Gestaltungskompetenz | Wichtige Teilkompetenzen adressiert — 4.1.1 (weltoffen, neue Perspektiven: drei Bewirtschaftungssysteme; Mineralogie als globales Phänomen); 4.1.2 (vorausschauend: Jahresarbeit-Szenarien); 4.1.3 (interdisziplinär: Physik/Chemie/Kunst/Biologie); 4.1.4 (Risiken erkennen: Silikose-Sicherheitsprotokoll); 4.3.1 (Motivation: Pigmentherstellung für ein reales Ausstellungswerk); 4.2.1 (gemeinsam planen: Korrelationsstudie) |
 | 5 | Qualitätsentwicklung | Mindestanforderungen erfüllt — experimentelle Daten (Spektren, Δ*E*-Werte, Korngrößenverteilungen) bilden messbare Lernergebnisse; saisonales Vertiefungsexperiment (September) unterstützt kontinuierliche Praxisreflexion (5.2.1) |
@@ -131,10 +131,10 @@ Müllrose liegt im Naturpark Schlaubetal in der Oder-Spree-Region Brandenburgs. 
 
 Eisen ist das häufigste farbgebende Element in Brandenburger Böden. Seine Verbindungen erzeugen das komplette Spektrum von Gelb über Orange bis Dunkelrot:
 
-- **Goethit (α-FeOOH):** Das häufigste Eisenmineral in Böden → Gelb bis Gelbbraun
-- **Lepidokrokit (γ-FeOOH):** Entsteht bei Redox-Wechsel → Orange-Rot
-- **Hämatit (α-Fe₂O₃):** Bei Verwitterung unter Wärme → Rotbraun bis Rot
-- **Ferrihydrit (Fe₅O₈H·4H₂O):** Frisch gefällt, schlecht kristallisiert → Rotorange
+- **Goethit (α-FeOOH):** Das häufigste Eisenmineral in Böden -> Gelb bis Gelbbraun
+- **Lepidokrokit (γ-FeOOH):** Entsteht bei Redox-Wechsel -> Orange-Rot
+- **Hämatit (α-Fe₂O₃):** Bei Verwitterung unter Wärme -> Rotbraun bis Rot
+- **Ferrihydrit (Fe₅O₈H·4H₂O):** Frisch gefällt, schlecht kristallisiert -> Rotorange
 
 **Organische Substanz — der dunkle Zeuge des Lebens**
 
@@ -172,10 +172,10 @@ Farbe entsteht durch **selektive Absorption** von Lichtanteilen. Weißes Licht (
 Goethit absorbiert bevorzugt violettes und blaues Licht (380–480 nm) durch Ligandenfeldübergänge des Fe³⁺-Ions. Das verbleibende reflektierte Licht erscheint gelb-orange.
 
 **Warum ist Hämatit rot?**
-Hämatit hat eine andere Kristallstruktur. Die Fe³⁺-Ionen sind anders koordiniert, was die Absorptionsbande in den Blau-Grün-Bereich verschiebt → die verbleibende Reflexion erscheint rot.
+Hämatit hat eine andere Kristallstruktur. Die Fe³⁺-Ionen sind anders koordiniert, was die Absorptionsbande in den Blau-Grün-Bereich verschiebt -> die verbleibende Reflexion erscheint rot.
 
 **Warum erscheint nasser Boden dunkler?**
-Wasser füllt die Luftporen im Boden. Trockener Boden streut Licht durch unzählige Luft-Mineral-Grenzflächen (Mie-Streuung) → stark aufgehellt. Nasser Boden hat weniger Grenzflächen → weniger Streuung → dunkler. Dieses Phänomen lässt sich quantitativ im Unterricht messen.
+Wasser füllt die Luftporen im Boden. Trockener Boden streut Licht durch unzählige Luft-Mineral-Grenzflächen (Mie-Streuung) -> stark aufgehellt. Nasser Boden hat weniger Grenzflächen -> weniger Streuung -> dunkler. Dieses Phänomen lässt sich quantitativ im Unterricht messen.
 
 ### 3.2 Pigmente vs. Farbstoffe — ein grundlegender physikalischer Unterschied
 
@@ -213,7 +213,7 @@ Das Bindemittel bestimmt, wie die Pigmentpartikel in der Malfläche gehalten wer
 | **Kasein (aus Quark)** | Proteinpolymer, unlöslich nach Trocknung | Sehr fester, witterungsbeständiger Film |
 | **Wasser (Fresko-Technik)** | Kein Binder — Pigment in Kalkputz eingebettet | Dauerhaft, aber spröde |
 
-**Experiment:** Gleiche Erdfarbe, fünf verschiedene Bindemittel → Vergleich von Deckkraft, Trocknungszeit, Rissbildung, Farbveränderung beim Trocknen (alle Farben hellen beim Trocknen auf — warum?).
+**Experiment:** Gleiche Erdfarbe, fünf verschiedene Bindemittel -> Vergleich von Deckkraft, Trocknungszeit, Rissbildung, Farbveränderung beim Trocknen (alle Farben hellen beim Trocknen auf — warum?).
 
 * * *
 
@@ -267,11 +267,11 @@ Das Bindemittel bestimmt, wie die Pigmentpartikel in der Malfläche gehalten wer
 
 **Trockener Weg (für die meisten Böden):**
 
-1. Boden bei 50°C trocknen (24 h) — Warum nicht höher? → Goethit wandelt sich ab ca. 250°C in Hämatit um (rötlicher!)
+1. Boden bei 50°C trocknen (24 h) — Warum nicht höher? -> Goethit wandelt sich ab ca. 250°C in Hämatit um (rötlicher!)
 2. Größte Partikel (Steine, Wurzeln) per Hand entfernen
 3. Im Mörser mahlen — zunächst 5 Minuten, dann Siebanalyse
 4. Siebfraktionen getrennt aufbewahren und vergleichen
-5. Wägung jeder Fraktion → Korngrößenverteilung als Histogramm
+5. Wägung jeder Fraktion -> Korngrößenverteilung als Histogramm
 
 **Nasser Weg (für tonreiche Proben):**
 
@@ -390,10 +390,10 @@ Alle Pigmente werden in beschrifteten Gläsern archiviert — sie bilden die **M
 
 **Schwerpunkt:** Phänomenologie und erfahrungsbasiertes Lernen
 
-- Bodenproben sammeln und „nach Farbe sortieren" ohne Erklärung → Neugier wecken
+- Bodenproben sammeln und „nach Farbe sortieren" ohne Erklärung -> Neugier wecken
 - Nasses Mahlen mit den Händen (Ton-Proben) — taktiler Zugang
 - Einfacher Bindemittelvergleich: Wasser vs. Leinöl vs. Eigelb
-- Malen mit den eigenen Pigmenten → direkte Verbindung zu AP4
+- Malen mit den eigenen Pigmenten -> direkte Verbindung zu AP4
 - Frage: „Warum wird der Boden heller, wenn er trocknet?" als Einstieg in Optik
 
 **Unterrichtsfach-Verbindungen:** Biologie (Bodenorganismen), Kunst (Farbenlehre), Geographie (Regionalgeologie)
@@ -498,7 +498,7 @@ Diese Frage kann mit den Sensorik-Daten der senseBox kombiniert werden: Untersch
 | 1.2.1 ZG sind konkret beschrieben | Erfüllt | Drei Klassenstufenbänder (5–8, 9–10, 11–12) mit eigenen Lernzielen, kognitiven Anforderungen und Fachanbindungen. Abschnitt 5. |
 | 1.2.2 Bedarf ist ZG-spezifisch beschrieben | Erfüllt | Jedes Klassenstufenband adressiert ein anderes Entwicklungsbedürfnis: Phänomenologisches Erleben (5–8), kausale Modellbildung (9–10), eigenständige Forschung (11–12). |
 | 1.2.3 Ziele sind konkret und ZG-spezifisch | Erfüllt | Lernziele je Phase und je Klassenstufenband in den Abschnitten 4 und 5 angegeben. |
-| 1.2.4 Bedarf, Ziele und Zielgruppe passen zusammen | Erfüllt | Die Progression von Sinneswahrnehmung → Messung → Korrelation → Herstellung bildet eine kohärente, altersentsprechende kognitive Entwicklung ab. Roter Faden erkennbar. |
+| 1.2.4 Bedarf, Ziele und Zielgruppe passen zusammen | Erfüllt | Die Progression von Sinneswahrnehmung -> Messung -> Korrelation -> Herstellung bildet eine kohärente, altersentsprechende kognitive Entwicklung ab. Roter Faden erkennbar. |
 
 ### Bereich 2 — Ansatz
 

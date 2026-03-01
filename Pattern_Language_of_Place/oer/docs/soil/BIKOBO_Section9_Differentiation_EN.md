@@ -1,12 +1,22 @@
+---
+title: "BIKOBO – Soil Health Education Concept"
+subtitle: "Section 9: Differentiation and Extensions"
+date: "February 2026"
+lang: en
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+project: "Erdpuls Müllrose OER Collection"
+---
+
 # BIKOBO – Soil Health Education Concept
 ## Waldorf-Pedagogically Oriented Curriculum
 
----
+* * *
 
 # 9. Differentiation and Extensions
 ### Grade-Specific Adaptations for Grades 1–4, 5–8, and 9–12
 
----
+* * *
 
 > **Guiding Principle: Youth teaches technology – Age teaches tradition**
 >
@@ -14,7 +24,7 @@
 
 This section describes how the core activities of the BIKOBO project — soil observation, sensor technology, dialogue, and artistic documentation — are adapted and extended for different developmental stages. The principles of Waldorf pedagogy provide the framework: feeling-based experience in the lower school, discovery-based understanding in the middle school, and judgment-based action in the upper school.
 
----
+* * *
 
 ## 9.1 Overview: Differentiation Matrix
 
@@ -28,7 +38,7 @@ The following matrix shows how the five project modules (Questionnaire Dialogues
 | **Tandem role** | Seniors as storytellers | Joint work at sensor stations | Seniors as subject-matter experts in dialogue |
 | **Language** | Imaginative, picture-rich language | Subject-specific vocabulary, introductory statistics | Scientific language, meta-critique |
 
----
+* * *
 
 ## 9.2 Grades 1–4: Feeling-Based Experience
 **Lower School · Ages 6–10 · Waldorf Developmental Phase: Imitation and Authority**
@@ -85,7 +95,7 @@ In the first four grades, direct sensory encounter with the soil takes centre st
 - Parent evening: children present their soil discoveries and answer questions
 - Connection to the farming epoch in Grade 3: experiencing soil as a living organism
 
----
+* * *
 
 ## 9.3 Grades 5–8: Discovery-Based Understanding
 **Middle School · Ages 11–14 · Waldorf Developmental Phase: Causality and Empathy**
@@ -153,7 +163,7 @@ The middle school years are the phase of inquiry and discovery. Causal connectio
 - Grade 8 senior thesis preparation: BIKOBO as a possible topic for upper school
 - School garden experiment: three plots under different management — measurements over one year
 
----
+* * *
 
 ## 9.4 Grades 9–12: Judgment-Based Action
 **Upper School · Ages 15–18 · Waldorf Developmental Phase: Abstraction and Independence**
@@ -179,7 +189,7 @@ The upper school works scientifically, socio-critically, and with conceptual art
 - Grades 10–11: data analysis using Python or R
   - Time-series analysis, seasonal patterns, anomaly detection
   - Correlation analysis across the three partner farms
-- Grades 11–12: contributing to the correlation study (attitudes ↔ soil quality)
+- Grades 11–12: contributing to the correlation study (attitudes <-> soil quality)
   - Data visualisation for the exhibition and for scientific presentations
 - Grade 12 senior thesis: "Statistical analysis of differences in soil parameters" as a possible topic
 - Extension: developing a custom sensor and integrating it into the senseBox (MINKT framework)
@@ -222,7 +232,7 @@ The upper school works scientifically, socio-critically, and with conceptual art
 - Internship at one of the three partner farms as a career-orientation experience
 - Seminar "Agriculture and Justice": BIKOBO data as a starting point for societal analysis
 
----
+* * *
 
 ## 9.5 Cross-Grade Connections
 
@@ -233,11 +243,11 @@ Although each level has its own distinct approach, the connections between grade
 | **Mentoring** | Upper school accompanies middle school in sensor maintenance and data analysis | Gr. 5–8 + Gr. 9–12 |
 | **Tandem chain** | Intergenerational tandems link senior, student (middle), and younger child | Gr. 1–4 + Gr. 7–8 + Senior |
 | **Artwork handover** | Lower school paintings are curated by middle school and exhibited by upper school | All levels |
-| **Questionnaire relay** | Grade 4 develops children's questions; Gr. 8 adapts; Gr. 12 analyses | Gr. 4 → Gr. 8 → Gr. 12 |
+| **Questionnaire relay** | Grade 4 develops children's questions; Gr. 8 adapts; Gr. 12 analyses | Gr. 4 -> Gr. 8 -> Gr. 12 |
 | **Podcast** | Upper school produces; middle school interviews lower school and seniors | Gr. 5–6 + Gr. 11–12 |
 | **Annual report** | Each level contributes a chapter; produced as a shared document | All levels |
 
----
+* * *
 
 ## 9.6 Inclusion and Special Support
 
@@ -257,7 +267,7 @@ The BIKOBO curriculum is designed to be open to diverse learning needs. The vari
 - Hearing impairment: visual representation of sensor data instead of acoustic signals
 - Motor impairments: tablet-based documentation instead of fieldwork
 
----
+* * *
 
 ## 9.7 Assessment and Feedback
 
@@ -270,8 +280,8 @@ In keeping with Waldorf pedagogy, BIKOBO does not use grades as the primary asse
 | **Tandem** | Senior gives personal feedback | Tandem review conversation | Self-evaluation and methodological critique |
 | **Exhibition** | Participation as recognition | Curatorship as evidence of competence | Curatorial responsibility as leadership experience |
 
----
+* * *
 
-*This material is available as an Open Educational Resource (OER) and is licensed under the Creative Commons Attribution – NonCommercial – ShareAlike 4.0 International licence (CC BY-NC-SA 4.0). To view a copy of this licence, visit https://creativecommons.org/licenses/by-nc-sa/4.0/.*
+*This material is available as an Open Educational Resource (OER) and is licensed under the Creative Commons Attribution – NonCommercial – ShareAlike 4.0 International licence (CC BY-NC-SA 4.0). To view a copy of this licence, visit [https://creativecommons.org/licenses/by-nc-sa/4.0/.*](https://creativecommons.org/licenses/by-nc-sa/4.0/.*)
 
 © Living-Lab Erdpuls Müllrose / Michel Garand (2026) | Funded by Änderwerk gGmbH through the "Vor Ort Vereint" programme with support from the Robert Bosch Stiftung and the Christian und Dorothee Bürkert Stiftung
