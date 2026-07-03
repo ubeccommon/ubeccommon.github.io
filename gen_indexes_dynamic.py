@@ -12,6 +12,7 @@ Called automatically by GitHub Actions on every push.
 
 Version: 1.1.0
 Changelog:
+    1.2.1 - Renamed site logo/footer text "Erdpuls" -> "Erdpuls".
     1.2.0 - Added language switcher + hreflang alternates + per-directory
             <html lang> for directories inside a language subtree.
     1.1.0 - Added Ukrainian (UK / uk) to DIR_LABELS language labels.
@@ -24,7 +25,7 @@ decisions and recommendations. This project was made possible with the
 assistance of Claude and Anthropic PBC.
 """
 
-__version__ = "1.2.0"
+__version__ = "1.2.1"
 
 import os
 import argparse
@@ -512,7 +513,7 @@ def generate_html(rel_path, subdirs, files, repo_root):
 <body>
 <header class="header">
   <div class="header-inner">
-    <a href="{BASE_URL}/" class="site-logo">🌱 Erdpuls Müllrose — Open Educational Resources</a>
+    <a href="{BASE_URL}/" class="site-logo">🌱 Erdpuls — Open Educational Resources</a>
     <div class="header-divider"></div>
     <nav class="breadcrumb">{bc_html}</nav>
   </div>
@@ -532,7 +533,7 @@ def generate_html(rel_path, subdirs, files, repo_root):
   {empty_html}
 </main>
 <footer class="footer">
-  Erdpuls Müllrose · Open Educational Resources · ubeccommon.github.io
+  Erdpuls · Open Educational Resources · ubeccommon.github.io
 </footer>
 </body>
 </html>'''

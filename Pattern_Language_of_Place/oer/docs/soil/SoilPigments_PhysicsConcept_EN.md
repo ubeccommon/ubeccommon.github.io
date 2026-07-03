@@ -6,13 +6,13 @@ date: "February 2026"
 version: "1.1"
 lang: en
 license: "CC BY-NC-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---
 # Soil Colour as Physics — Earth Pigments from the Soils of Müllrose
 
 ## A Concept for Physics Education within "Brücken bauen durch Boden — 13 Questions to the Soil"
 
-**Erdpuls Müllrose — Living Laboratory \& Makerspace Garden**
+**Erdpuls — Living Laboratory \& Makerspace Garden**
 
 **Version**: 1.1
 **Date**: February 2026
@@ -578,8 +578,7 @@ This question can be combined with the sensor data from the senseBox: does the s
 
 ## License and Attribution
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Germany
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
@@ -592,4 +591,4 @@ All software components referenced in this document are licensed under the [GNU 
 **Contact:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — February 2026*
+*February 2026*

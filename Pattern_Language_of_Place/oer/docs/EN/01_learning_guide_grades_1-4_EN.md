@@ -6,14 +6,13 @@ date: "February 2026"
 version: "1.1"
 lang: en
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---
 # Erdpuls Learning Guide 01 — Grades 1–4
 ## Earth Detectives: First Encounters with Living Ground
 ### For Children Ages 6–10 — Lower Primary School
 
-**Institution:** Erdpuls Müllrose - Center for Sustainability Literacy, Citizen Science and Reciprocal Economics  
-**Location:** Müllrose, Brandenburg, Germany
+**Institution:** Erdpuls - Center for Sustainability Literacy, Citizen Science and Reciprocal Economics  
 
 **Version:** 1.1  
 **Date:** February 2026  
@@ -244,7 +243,7 @@ Children work together to:
 - Add the senseBox readings as number labels
 - Add the smell descriptions from the Smell Jar comparison
 
-The facilitator writes the title at the top: *"Soil at Erdpuls Müllrose, [date], observed by [Class Name]."*
+The facilitator writes the title at the top: *"Soil at Erdpuls, [date], observed by [Class Name]."*
 
 The portrait is photographed and archived. A printed copy returns to the classroom. Any identified species are uploaded to iNaturalist by the facilitator, and children receive their observation IDs.
 
@@ -312,8 +311,7 @@ Bring a small jar of school garden soil. Compare it to the Erdpuls soil portrait
 
 ## License and Attribution
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Germany
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -326,4 +324,4 @@ All software components referenced in this document are licensed under the [GNU 
 **Contact:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — February 2026*
+*February 2026*

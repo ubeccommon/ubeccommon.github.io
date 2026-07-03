@@ -6,7 +6,7 @@ date: "February 2026"
 version: "1.2"
 lang: en
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 document: "02 — Guide 2: Adults and Families"
 part_of: "Questions to the Soil — Living Experience Guides (5-Guide Series)"
 ---
@@ -60,7 +60,7 @@ part_of: "Questions to the Soil — Living Experience Guides (5-Guide Series)"
 *A four-page folded A4 booklet. More sophisticated than the children's field sheet but still field-practical — writing in soil-stained conditions.*
 
 **Page 1 (Cover):**
-Boden-Begegnung — Erdpuls Müllrose
+Boden-Begegnung — Erdpuls
 Date: _____ Season: _____ Weather: _____
 Name: _____ Patch location: _____
 
@@ -217,8 +217,7 @@ As in Guide 1. Additional for adults: some participants may have mobility limita
 
 ## License and Attribution
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Germany
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -231,4 +230,4 @@ All software components referenced in this document are licensed under the [GNU 
 **Contact:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — February 2026*
+*February 2026*

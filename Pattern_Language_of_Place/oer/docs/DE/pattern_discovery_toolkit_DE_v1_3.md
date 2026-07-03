@@ -6,7 +6,7 @@ date: "Februar 2026"
 version: "1.3"
 lang: de
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER-Sammlung"
+project: "Erdpuls OER-Sammlung"
 ---
 # ERDPULS MÜLLROSE
 
@@ -16,7 +16,7 @@ project: "Erdpuls Müllrose OER-Sammlung"
 
 ## Ein übertragbarer Werkzeugkasten für Nachhaltigkeitsbildung und Bürgerwissenschaft
 
-**Entwickelt bei Erdpuls Müllrose — Lebendes Labor & Makerspace-Garten**
+**Entwickelt bei Erdpuls — Lebendes Labor & Makerspace-Garten**
 
 **Version**: 1.3  
 **Datum**: Februar 2026
@@ -42,7 +42,7 @@ Die Methode greift Christopher Alexanders Einsicht auf, dass jede lebendige Umwe
 
 Das Ergebnis dieses Prozesses ist kein abzuheftender Bericht. Es ist eine gemeinschaftlich verfasste, ortsspezifische Mustersprache: ein praktisches Dokument, das die Beziehungen benennt, die einen bestimmten Ort lebendig machen, die (sensorischen wie instrumentalen) Belege für jedes Muster festhält und vorschlägt, wie diese Muster aufrechterhalten, wiederhergestellt oder erweitert werden könnten. Es ist gleichzeitig ein Akt der Bürgerwissenschaft, eine Nachhaltigkeitsbildungsübung und eine gemeinschaftsbildende Praxis.
 
-Dieser Werkzeugkasten wurde bei Erdpuls Müllrose, Brandenburg, am Tor zum Naturpark Schlaubetal, prototypisch erprobt. Die Methode ist jedoch für den Transfer konzipiert. Wo wir die spezifischen Aufmerksamkeitsringe beschreiben, die wir in Müllrose verwendet haben, sollten andere Initiativen diese als *Beispiele der Methode* verstehen, nicht als Vorgaben. Ihr Zentrum wird anders sein. Ihre Ringe werden anders sein. Ihre Muster werden Ihre eigenen sein.
+Dieser Werkzeugkasten wurde bei Erdpuls, Brandenburg, am Tor zum Naturpark Schlaubetal, prototypisch erprobt. Die Methode ist jedoch für den Transfer konzipiert. Wo wir die spezifischen Aufmerksamkeitsringe beschreiben, die wir in Müllrose verwendet haben, sollten andere Initiativen diese als *Beispiele der Methode* verstehen, nicht als Vorgaben. Ihr Zentrum wird anders sein. Ihre Ringe werden anders sein. Ihre Muster werden Ihre eigenen sein.
 
 * * *
 
@@ -739,8 +739,7 @@ Die adressierten UN-SDGs sind in Abschnitt 1.6 dargelegt und im OER-Metadatenpak
 
 ## Lizenz und Impressum
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Deutschland
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Lizenziert unter [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
@@ -753,4 +752,4 @@ Alle in diesem Dokument genannten Softwarekomponenten sind lizenziert unter der 
 **Kontakt:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — Februar 2026*
+*Februar 2026*

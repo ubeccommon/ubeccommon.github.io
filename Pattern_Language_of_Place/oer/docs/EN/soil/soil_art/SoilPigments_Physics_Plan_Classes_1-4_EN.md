@@ -6,14 +6,14 @@ date: "February 2026"
 version: "1.0"
 lang: en
 license: "CC BY-NC-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---
 
 # Soil Colour as Physics — Detailed Lesson Plan: Classes 1–4
 
 ## Earth Pigments from the Soils of Müllrose
 
-**Erdpuls Müllrose — Living Laboratory & Makerspace Garden**
+**Erdpuls — Living Laboratory & Makerspace Garden**
 
 *Part of the "Brücken bauen durch Boden — 13 Questions to the Soil" project*
 
@@ -378,8 +378,7 @@ The quality of a child's answer to this question — the specificity of place, t
 
 ## License and Attribution
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Germany
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
@@ -392,4 +391,4 @@ All software components referenced in this document are licensed under the [GNU 
 **Contact:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — February 2026*
+*February 2026*

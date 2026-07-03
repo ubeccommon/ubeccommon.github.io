@@ -6,13 +6,13 @@ date: "Februar 2026"
 version: "1.2"
 lang: de
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER-Sammlung"
+project: "Erdpuls OER-Sammlung"
 ---
 # Die Mustersprache des Ortes zusammenführen
 
 ## Wie Workshop-Ergebnisse zu kollektivem Wissen werden
 
-**Erdpuls Müllrose — Living Laboratory & Makerspace Garden**
+**Erdpuls — Living Laboratory & Makerspace Garden**
 
 **Version**: 1.2  
 **Datum**: Februar 2026
@@ -363,7 +363,7 @@ Am Jahresende schreibt die moderierende Person (oder moderiert eine kollaborativ
 
 Die Erzählung folgt den Ringen nach außen, wie der Werkzeugkasten, aber jetzt mit Inhalt:
 
-„Erdpuls Müllrose liegt auf glazialen Schmelzwassersanden, die vor 15.000 Jahren von der Weichsel-Eiszeit abgelagert wurden [Ring 4: Das Glaziale Substrat]. Der Sand entwässert schnell und erwärmt sich früh — zwei Eigenschaften, die alles hier Gebaute und Gewachsene geprägt haben. Die Siedlung wuchs dort, wo Wasser entlang der Seenkette zugänglich war [Ring 3: Die Seenketten-Siedlung], und die Bautradition nutzte Ziegel, gebrannt aus lokalen Tonvorkommen am Moränenrand [Ring 3: Die Ziegeltradition]. Diese dicken Ziegelmauern, orientiert nach dem mittelalterlichen Straßenmuster, schaffen Mikroklimate an ihren südausgerichteten Oberflächen [Ring 1: Die Warme Mauer], die seit mindestens drei Generationen kultiviert werden [Ring 2: Der Frühsaison-Pflanzstreifen]. An dieser Mauer an einem kühlen Frühlingsmorgen stehend, ist die Strahlungswärme auf der Haut wahrnehmbar [Ring 0: Die Körperempfindung-Warme-Mauer] — eine direkte, verkörperte Begegnung mit der geologischen und kulturellen Geschichte des Ortes…"
+„Erdpuls liegt auf glazialen Schmelzwassersanden, die vor 15.000 Jahren von der Weichsel-Eiszeit abgelagert wurden [Ring 4: Das Glaziale Substrat]. Der Sand entwässert schnell und erwärmt sich früh — zwei Eigenschaften, die alles hier Gebaute und Gewachsene geprägt haben. Die Siedlung wuchs dort, wo Wasser entlang der Seenkette zugänglich war [Ring 3: Die Seenketten-Siedlung], und die Bautradition nutzte Ziegel, gebrannt aus lokalen Tonvorkommen am Moränenrand [Ring 3: Die Ziegeltradition]. Diese dicken Ziegelmauern, orientiert nach dem mittelalterlichen Straßenmuster, schaffen Mikroklimate an ihren südausgerichteten Oberflächen [Ring 1: Die Warme Mauer], die seit mindestens drei Generationen kultiviert werden [Ring 2: Der Frühsaison-Pflanzstreifen]. An dieser Mauer an einem kühlen Frühlingsmorgen stehend, ist die Strahlungswärme auf der Haut wahrnehmbar [Ring 0: Die Körperempfindung-Warme-Mauer] — eine direkte, verkörperte Begegnung mit der geologischen und kulturellen Geschichte des Ortes…"
 
 Die Erzählung setzt sich durch alle entdeckten Muster fort und verbindet sie durch ihre Abhängigkeitsketten und Resonanzen. Sie ist die Mustersprache in ihrer kommuniziertesten Form — eine Geschichte, die Neuankömmlinge erzählt werden kann, veröffentlicht, mit Partnerorganisationen geteilt und als Grundlage für Bildungsprogrammierung in den Folgejahren genutzt werden kann.
 
@@ -667,8 +667,7 @@ Wenn der Qualitätsbericht gleichzeitig zusammengestellt wird:
 
 ## Lizenz und Impressum
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Deutschland
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Lizenziert unter [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
@@ -681,4 +680,4 @@ Alle in diesem Dokument genannten Softwarekomponenten sind lizenziert unter der 
 **Kontakt:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — Februar 2026*
+*Februar 2026*

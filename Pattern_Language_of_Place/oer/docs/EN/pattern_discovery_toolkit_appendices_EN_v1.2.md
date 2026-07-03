@@ -6,13 +6,13 @@ date: "February 2026"
 version: "1.1"
 lang: en
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---
 # Discovering a Pattern Language of Place — Appendices
 
 ## Standalone Appendices to the Transferable Toolkit
 
-**Developed at Erdpuls Müllrose — Living Laboratory & Makerspace Garden**
+**Developed at Erdpuls — Living Laboratory & Makerspace Garden**
 
 **Version**: 1.2  
 **Date**: February 2026
@@ -241,7 +241,7 @@ The arc moves: approach -> intimate immersion -> gradual widening -> re-embeddin
 
 The main toolkit is designed to work without any economic or blockchain infrastructure — the minimum requirements are a place, a facilitator, participants, and notebooks. However, the question of how pattern-discovery work is *valued*, sustained, and incentivized is not trivial. If the patterns a community discovers remain in a binder on a shelf, the process has failed. If participants contribute their time, knowledge, and data but receive no recognition or return, the process is extractive — the very opposite of what it intends.
 
-This appendix describes how a reciprocal token economy — specifically one modeled on the four-element system developed at Erdpuls Müllrose — can be integrated into the pattern-discovery process. It is written as a general framework, not as a technical manual for a specific blockchain platform. Initiatives may implement the principles using the Stellar blockchain (as Erdpuls does), other distributed ledger systems, local paper currencies, time-banking systems, or even simple tracking spreadsheets. The economic principles matter more than the technology.
+This appendix describes how a reciprocal token economy — specifically one modeled on the four-element system developed at Erdpuls — can be integrated into the pattern-discovery process. It is written as a general framework, not as a technical manual for a specific blockchain platform. Initiatives may implement the principles using the Stellar blockchain (as Erdpuls does), other distributed ledger systems, local paper currencies, time-banking systems, or even simple tracking spreadsheets. The economic principles matter more than the technology.
 
 **This appendix is optional.** Not every initiative will want or need a token economy. But for those working to embed pattern discovery in a longer-term community practice — beyond a one-time workshop — the question of economic reciprocity will eventually arise.
 
@@ -817,8 +817,7 @@ Over time, accumulated Proxemic Audit data across multiple workshops creates a q
 
 ## License and Attribution
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Germany
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -831,4 +830,4 @@ All software components referenced in this document are licensed under the [GNU 
 **Contact:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — February 2026*
+*February 2026*

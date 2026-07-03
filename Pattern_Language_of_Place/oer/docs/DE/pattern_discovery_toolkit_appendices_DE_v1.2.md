@@ -6,13 +6,13 @@ date: "Februar 2026"
 version: "1.2"
 lang: de
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER-Sammlung"
+project: "Erdpuls OER-Sammlung"
 ---
 # Eine Mustersprache des Ortes entdecken — Anhänge
 
 ## Eigenständige Anhänge zum übertragbaren Toolkit
 
-**Entwickelt bei Erdpuls Müllrose — Living Laboratory & Makerspace Garden**
+**Entwickelt bei Erdpuls — Living Laboratory & Makerspace Garden**
 
 **Version**: 1.2  
 **Datum**: Februar 2026
@@ -241,7 +241,7 @@ Der Bogen bewegt sich: Annäherung -> intime Immersion -> allmähliche Erweiteru
 
 Das Haupt-Toolkit ist so konzipiert, dass es ohne jegliche wirtschaftliche oder Blockchain-Infrastruktur funktioniert — die Mindestanforderungen sind ein Ort, eine Facilitierung, Teilnehmende und Notizbücher. Die Frage jedoch, wie die Musterentdeckungsarbeit *bewertet*, aufrechterhalten und angereizt wird, ist nicht trivial. Wenn die Muster, die eine Gemeinschaft entdeckt, in einem Ordner im Regal verbleiben, ist der Prozess gescheitert. Wenn Teilnehmende Zeit, Wissen und Daten einbringen, aber keine Anerkennung oder Gegenleistung erhalten, ist der Prozess extraktiv — das genaue Gegenteil dessen, was er beabsichtigt.
 
-Dieser Anhang beschreibt, wie eine reziproke Token-Ökonomie — konkret eine, die nach dem Vier-Elemente-System von Erdpuls Müllrose modelliert ist — in den Musterentdeckungsprozess integriert werden kann. Er ist als allgemeiner Rahmen geschrieben, nicht als technisches Handbuch für eine bestimmte Blockchain-Plattform. Initiativen können die Prinzipien mit der Stellar-Blockchain (wie Erdpuls), anderen verteilten Ledger-Systemen, lokalen Papierwährungen, Zeitbanken oder sogar einfachen Tracking-Tabellen umsetzen. Die wirtschaftlichen Prinzipien sind wichtiger als die Technologie.
+Dieser Anhang beschreibt, wie eine reziproke Token-Ökonomie — konkret eine, die nach dem Vier-Elemente-System von Erdpuls modelliert ist — in den Musterentdeckungsprozess integriert werden kann. Er ist als allgemeiner Rahmen geschrieben, nicht als technisches Handbuch für eine bestimmte Blockchain-Plattform. Initiativen können die Prinzipien mit der Stellar-Blockchain (wie Erdpuls), anderen verteilten Ledger-Systemen, lokalen Papierwährungen, Zeitbanken oder sogar einfachen Tracking-Tabellen umsetzen. Die wirtschaftlichen Prinzipien sind wichtiger als die Technologie.
 
 **Dieser Anhang ist optional.** Nicht jede Initiative wird eine Token-Ökonomie wollen oder brauchen. Für diejenigen jedoch, die Musterentdeckung in einer längerfristigen Gemeinschaftspraxis verankern wollen — über einen einmaligen Workshop hinaus —, wird die Frage der wirtschaftlichen Reziprozität früher oder später auftauchen.
 
@@ -817,8 +817,7 @@ Im Laufe der Zeit schafft akkumulierte Proxemik-Audit-Daten über mehrere Worksh
 
 ## Lizenz und Impressum
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Deutschland
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Lizenziert unter [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
@@ -831,4 +830,4 @@ Alle in diesem Dokument genannten Softwarekomponenten sind lizenziert unter der 
 **Kontakt:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — Februar 2026*
+*Februar 2026*

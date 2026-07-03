@@ -29,7 +29,7 @@ date: "Month YYYY"
 version: "1.x"
 lang: en
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 status: "Concept Document — for review and programme development"
 ---
 ```
@@ -45,7 +45,7 @@ status: "Concept Document — for review and programme development"
 | `version` | `"1.x"` — this edition's revision |
 | `lang` | BCP 47 code: `en`, `de`, `pl`, or `uk` |
 | `license` | `"CC BY-SA 4.0"` or `"CC BY-NC-SA 4.0"` |
-| `project` | `"Erdpuls Müllrose OER Collection"` (EN) or `"Erdpuls Müllrose OER-Sammlung"` (DE) |
+| `project` | `"Erdpuls OER Collection"` (EN) or `"Erdpuls OER-Sammlung"` (DE) |
 | `status` | Lifecycle state — most volatile field, always last |
 
 **Status values:**
@@ -538,7 +538,7 @@ Every document ends with a canonical colophon block. The colophon is always at t
 
 1. `* * *` — section divider
 2. `## License and Attribution` / `## Lizenz und Impressum` — heading
-3. Copyright notice — `© 2025–2026 Michel Garand | Erdpuls Müllrose…`
+3. Copyright notice — `© 2025–2026 Michel Garand | Erdpuls…`
 4. Location line — `Müllrose, Brandenburg, Germany` / `Deutschland`
 5. Licence statement — linked CC licence matching the `license` YAML field
 6. Permissions summary — human-readable freedoms sentence
@@ -555,8 +555,7 @@ Every document ends with a canonical colophon block. The colophon is always at t
 
 ## License and Attribution
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Germany
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -569,7 +568,7 @@ All software components referenced in this document are licensed under the [GNU 
 **Contact:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — {Month YYYY}*
+*{Month YYYY}*
 ```
 
 *EN — CC BY-NC-SA 4.0:* identical but with `Attribution-NonCommercial-ShareAlike` licence link and `for non-commercial purposes` in the permissions line.
@@ -580,8 +579,7 @@ All software components referenced in this document are licensed under the [GNU 
 
 ## Lizenz und Impressum
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Deutschland
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Lizenziert unter [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
@@ -594,7 +592,7 @@ Alle in diesem Dokument genannten Softwarekomponenten sind lizenziert unter der 
 **Kontakt:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — {Monat JJJJ}*
+*{Monat JJJJ}*
 ```
 
 *DE — CC BY-NC-SA 4.0:* identical but with `Namensnennung – Nicht kommerziell – Weitergabe` licence link and `für nicht-kommerzielle Zwecke` in the permissions line.
@@ -603,7 +601,7 @@ Alle in diesem Dokument genannten Softwarekomponenten sind lizenziert unter der 
 
 ---
 
-*This standard is maintained by Erdpuls Müllrose. Questions: erdpuls@ubec.network*
+*This standard is maintained by Erdpuls. Questions: erdpuls@ubec.network*
 *Licensed under CC BY-SA 4.0*
 
 * * *

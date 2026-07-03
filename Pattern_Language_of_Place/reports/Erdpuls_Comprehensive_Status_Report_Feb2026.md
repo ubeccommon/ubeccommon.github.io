@@ -1,18 +1,18 @@
 ---
-title: "Erdpuls Müllrose — Comprehensive Project Status Report"
+title: "Erdpuls — Comprehensive Project Status Report"
 subtitle: "All documents, models, conversations, and open items as of 24 February 2026"
 date: "February 2026"
 lang: en
 version: "1.1"
 license: "CC BY-NC-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---
 
 | | |
 |---|---|
 | **Prepared by** | Claude, from all project knowledge, documented conversations, and project files |
 | **Contact** | Michel Garand — [erdpuls@ubec.network](mailto:erdpuls@ubec.network) — [https://erdpuls.ubec.network](https://erdpuls.ubec.network) |
-| **Colophon** | *Alle Dokumente und ihre Übersetzungen / All documents and their translations.* CC BY-NC-SA 4.0 — Müllrose, Brandenburg |
+| **Colophon** | *Alle Dokumente und ihre Übersetzungen / All documents and their translations.* CC BY-NC-SA 4.0 |
 
 *This report is compiled strictly from facts present in the 14 operational project documents, the Master Index (v1.3), the BNE Quality Assessment and Leitbild, the Soil Laboratory Concept (EN + DE), the Shopping List (77 line items, February 2026 pricing), the five OER Publication Layer guides, the OER Metadata Package (v1.2), the Authoring Standards in the `standards/` folder, and the documented conversation history for this project. No information has been inferred or assumed beyond what is explicitly stated in those sources.*
 
@@ -22,8 +22,7 @@ project: "Erdpuls Müllrose OER Collection"
 
 | Field | Value |
 |---|---|
-| **Full Name** | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science \& Reciprocal Economics |
-| **Location** | Müllrose, Brandenburg, Germany |
+| **Full Name** | Erdpuls — Center for Sustainability Literacy, Citizen Science \& Reciprocal Economics |
 | **Geographic Role** | Gateway to the Naturpark Schlaubetal |
 | **Tagline** | *Ein Ort, um wieder Mensch zu werden. / A place to become human again.* |
 | **Format** | Living Laboratory \& Makerspace Garden |
@@ -40,7 +39,7 @@ project: "Erdpuls Müllrose OER Collection"
 
 ### Vision (from BNE-Leitbild, February 2026)
 
-> *Erdpuls Müllrose ist ein Ort, an dem Menschen wieder lernen,*
+> *Erdpuls ist ein Ort, an dem Menschen wieder lernen,*
 > *wie eine Pflanze zu denken:*
 > *verwurzelt im Ort, großzügig im Teilen, geduldig im Wachsen.*
 > **Ein Ort, um wieder Mensch zu werden.**
@@ -444,5 +443,5 @@ The following items are documented as planned or in development and do not yet h
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
 © Michel Garand — Lizenz: CC BY-NC-SA 4.0
-Erdpuls Müllrose — Müllrose, Brandenburg — 24 Februar 2026
+Erdpuls — 24 Februar 2026
 [erdpuls@ubec.network](mailto:erdpuls@ubec.network) — [https://erdpuls.ubec.network](https://erdpuls.ubec.network)

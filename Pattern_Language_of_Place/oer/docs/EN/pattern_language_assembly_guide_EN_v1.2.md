@@ -6,13 +6,13 @@ date: "February 2026"
 version: "1.2"
 lang: en
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---
 # Assembling the Pattern Language of Place
 
 ## How Workshop Outputs Become Collective Knowledge
 
-**Erdpuls Müllrose — Living Laboratory & Makerspace Garden**
+**Erdpuls — Living Laboratory & Makerspace Garden**
 
 **Version**: 1.2  
 **Date**: February 2026
@@ -363,7 +363,7 @@ At year's end, the facilitator writes (or facilitates a collaborative writing se
 
 The narrative follows the rings outward, as the toolkit does, but now with content:
 
-"Erdpuls Müllrose sits on glacial outwash sand deposited 15,000 years ago by the Weichselian ice sheet [Ring 4: The Glacial Substrate]. The sand drains quickly and warms early — two properties that have shaped everything built and grown here. The settlement grew where water was accessible along the lake chain [Ring 3: The Lake-Chain Settlement], and the building tradition used brick fired from local clay deposits at the moraine edge [Ring 3: The Brick Tradition]. These thick brick walls, oriented to the medieval street pattern, create microclimates against their south-facing surfaces [Ring 1: The Warm Wall] that have been cultivated for at least three generations [Ring 2: The Early Planting Strip]. Standing against this wall on a cool spring morning, the radiant heat is perceptible on the skin [Ring 0: The Warm-Wall Body Sensation] — a direct, embodied encounter with the geological and cultural history of the place…"
+"Erdpuls sits on glacial outwash sand deposited 15,000 years ago by the Weichselian ice sheet [Ring 4: The Glacial Substrate]. The sand drains quickly and warms early — two properties that have shaped everything built and grown here. The settlement grew where water was accessible along the lake chain [Ring 3: The Lake-Chain Settlement], and the building tradition used brick fired from local clay deposits at the moraine edge [Ring 3: The Brick Tradition]. These thick brick walls, oriented to the medieval street pattern, create microclimates against their south-facing surfaces [Ring 1: The Warm Wall] that have been cultivated for at least three generations [Ring 2: The Early Planting Strip]. Standing against this wall on a cool spring morning, the radiant heat is perceptible on the skin [Ring 0: The Warm-Wall Body Sensation] — a direct, embodied encounter with the geological and cultural history of the place…"
 
 The narrative continues through all discovered patterns, connecting them through their dependency chains and resonances. It is the pattern language in its most communicable form — a story that can be told to a newcomer, published, shared with partner organisations, and used as the basis for educational programming in subsequent years.
 
@@ -667,8 +667,7 @@ If the Quality Report is compiled simultaneously:
 
 ## License and Attribution
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Germany
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -681,4 +680,4 @@ All software components referenced in this document are licensed under the [GNU 
 **Contact:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — February 2026*
+*February 2026*

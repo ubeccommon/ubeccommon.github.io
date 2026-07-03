@@ -6,14 +6,13 @@ date: "February 2026"
 version: "1.1"
 lang: en
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---
 # Erdpuls Citizen Scientist Handbook
 ## How to Monitor, Contribute, and Connect
 ### For Adult Citizen Scientists and Community Observers
 
-**Institution:** Erdpuls Müllrose - Center for Sustainability Literacy, Citizen Science and Reciprocal Economics  
-**Location:** Müllrose, Brandenburg, Germany
+**Institution:** Erdpuls - Center for Sustainability Literacy, Citizen Science and Reciprocal Economics  
 
 **Version:** 1.1  
 **Date:** February 2026  
@@ -340,7 +339,7 @@ After 5–10 years, your records become one of the most valuable kinds of local 
 
 ### The Schlaubetal as a Place in the Global Record
 
-The Naturpark Schlaubetal — the landscape within which Erdpuls Müllrose is embedded — is a relatively well-preserved glacial landscape with high biodiversity value and low industrial pollution pressure. This makes it an important **reference site** for environmental monitoring: a baseline against which more disturbed landscapes can be compared.
+The Naturpark Schlaubetal — the landscape within which Erdpuls is embedded — is a relatively well-preserved glacial landscape with high biodiversity value and low industrial pollution pressure. This makes it an important **reference site** for environmental monitoring: a baseline against which more disturbed landscapes can be compared.
 
 When you observe at or near Müllrose, you are contributing to the environmental record of one of Germany's more ecologically intact sub-regions. Your observations of soil organism diversity, water infiltration rates, and species presence are not simply local curiosities — they are reference data for researchers studying how healthy soils and intact landscapes function, which informs restoration efforts in degraded areas elsewhere.
 
@@ -377,8 +376,7 @@ To contribute an observation as a pattern candidate, contact Erdpuls or bring it
 
 ## License and Attribution
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Germany
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -391,4 +389,4 @@ All software components referenced in this document are licensed under the [GNU 
 **Contact:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — February 2026*
+*February 2026*

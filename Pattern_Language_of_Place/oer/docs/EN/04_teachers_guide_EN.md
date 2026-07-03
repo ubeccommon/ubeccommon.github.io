@@ -6,14 +6,13 @@ date: "February 2026"
 version: "1.1"
 lang: en
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---
 # Erdpuls Teachers' Guide
 ## Bringing Your Class to the Living Laboratory
 ### For Classroom Teachers and Educators
 
-**Institution:** Erdpuls Müllrose - Center for Sustainability Literacy, Citizen Science and Reciprocal Economics  
-**Location:** Müllrose, Brandenburg, Germany
+**Institution:** Erdpuls - Center for Sustainability Literacy, Citizen Science and Reciprocal Economics  
 
 **Version:** 1.1  
 **Date:** February 2026  
@@ -32,7 +31,7 @@ project: "Erdpuls Müllrose OER Collection"
 
 ## Who This Guide Is For
 
-This guide is written for the **classroom teacher** accompanying a school group to Erdpuls Müllrose. It is a companion to the three student learning guides (Guides 01, 02, 03 for Grades 1–4, 5–8, and 9–12). Your role during the Erdpuls visit is not to teach — the Erdpuls facilitators manage the session — but you are the essential bridge between what happens in the field and what happens in the classroom before and after.
+This guide is written for the **classroom teacher** accompanying a school group to Erdpuls. It is a companion to the three student learning guides (Guides 01, 02, 03 for Grades 1–4, 5–8, and 9–12). Your role during the Erdpuls visit is not to teach — the Erdpuls facilitators manage the session — but you are the essential bridge between what happens in the field and what happens in the classroom before and after.
 
 This guide gives you: the theoretical framework that underpins the Erdpuls program, the Brandenburg curriculum connections, practical pre-visit and post-visit classroom activities, assessment approaches that work for place-based learning, and a template for communicating with parents and guardians.
 
@@ -218,10 +217,10 @@ Assess the Research Question Design Sheet on:
 
 Dear Parents and Guardians,
 
-Our class will be visiting **Erdpuls Müllrose** on **[date]** for a **[half-day / full-day]** learning program as part of our **[subject/topic]** unit.
+Our class will be visiting **Erdpuls** on **[date]** for a **[half-day / full-day]** learning program as part of our **[subject/topic]** unit.
 
 **What is Erdpuls?**  
-Erdpuls Müllrose is an educational living laboratory and makerspace garden located at Müllrose, Brandenburg. It offers hands-on sustainability education programs for school groups, combining soil science, environmental monitoring, and community economics.
+Erdpuls is an educational living laboratory and makerspace garden. It offers hands-on sustainability education programs for school groups, combining soil science, environmental monitoring, and community economics.
 
 **What will your child do?**  
 Your child will spend time outdoors observing and measuring soil in the Erdpuls garden using simple instruments (magnifying glasses, pH strips, temperature probes). They will also encounter a small sensor system (called a senseBox) that monitors environmental conditions continuously, and will contribute their observations to an open environmental data platform.
@@ -254,7 +253,6 @@ If your school is able to schedule two or more visits per year to the same progr
 ## Operational Information
 
 **Booking:** Contact Erdpuls at erdpuls@ubec.network or [https://erdpuls.ubec.network](https://erdpuls.ubec.network)  
-**Location:** Müllrose, Brandenburg, Germany — approximately [insert transit details from major nearby towns]  
 **Cost:** Contact Erdpuls for current program pricing; reduced rates available for Brandenburg state schools  
 **Maximum group size:** 30 students per session; larger groups can be split across simultaneous sessions with advance notice  
 **Accessibility:** Contact Erdpuls in advance for participants with mobility, sensory, or other access requirements — the program can be adapted significantly  
@@ -264,8 +262,7 @@ If your school is able to schedule two or more visits per year to the same progr
 
 ## License and Attribution
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Germany
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -278,4 +275,4 @@ All software components referenced in this document are licensed under the [GNU 
 **Contact:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — February 2026*
+*February 2026*

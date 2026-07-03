@@ -6,13 +6,13 @@ date: "Februar 2026"
 version: "1.2"
 lang: de
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER-Sammlung"
+project: "Erdpuls OER-Sammlung"
 ---
 # Erdpuls Moderations-Implementierungshandbuch
 
 ## Ein Praxisleitfaden zur Durchführung des vollständigen Workshop-Programms
 
-**Erdpuls Müllrose — Lebendes Labor & Makerspace-Garten**
+**Erdpuls — Lebendes Labor & Makerspace-Garten**
 
 **Version**: 1.2  
 **Datum**: Februar 2026
@@ -357,7 +357,7 @@ Die folgenden Materialien werden in den 20 Leitfäden referenziert. Jedes ist na
 *Referenziert in: D.1 (Kinder)*
 - Kreditkartengroß, doppelseitig
 - Vorderseite: 12 Gestaltungskompetenzen in kindgerechter Ich-Sprache
-- Rückseite: Erdpuls-Logo, „Diese Kompetenz habe ich bei Erdpuls Müllrose geübt" mit Datum-/Unterschriftsfeld
+- Rückseite: Erdpuls-Logo, „Diese Kompetenz habe ich bei Erdpuls geübt" mit Datum-/Unterschriftsfeld
 - Dreisprachig (DE/EN/PL)
 
 **9. Token-Karten (vier Farben)**
@@ -565,8 +565,7 @@ Dann: Jahr 2 planen. Der Kalender wiederholt sich, aber mit neuen Kohorten, ange
 
 ## Lizenz und Impressum
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Deutschland
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Lizenziert unter [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
@@ -579,4 +578,4 @@ Alle in diesem Dokument genannten Softwarekomponenten sind lizenziert unter der 
 **Kontakt:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — Februar 2026*
+*Februar 2026*

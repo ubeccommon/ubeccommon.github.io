@@ -6,14 +6,13 @@ date: "February 2026"
 version: "1.1"
 lang: en
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---
 # Erdpuls Learning Guide 02 — Grades 5–8
 ## Field Investigators: Measuring the Living World
 ### For Students Ages 11–14 — Middle School
 
-**Institution:** Erdpuls Müllrose - Center for Sustainability Literacy, Citizen Science and Reciprocal Economics  
-**Location:** Müllrose, Brandenburg, Germany
+**Institution:** Erdpuls - Center for Sustainability Literacy, Citizen Science and Reciprocal Economics  
 
 **Version:** 1.1  
 **Date:** February 2026  
@@ -282,8 +281,7 @@ These are shared briefly around the circle. The facilitator notes them on a visi
 
 ## License and Attribution
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Germany
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -296,4 +294,4 @@ All software components referenced in this document are licensed under the [GNU 
 **Contact:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — February 2026*
+*February 2026*

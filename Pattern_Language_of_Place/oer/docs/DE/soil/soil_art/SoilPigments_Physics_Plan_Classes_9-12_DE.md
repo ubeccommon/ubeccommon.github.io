@@ -6,14 +6,14 @@ date: "Februar 2026"
 version: "1.0"
 lang: de
 license: "CC BY-NC-SA 4.0"
-project: "Erdpuls Müllrose OER-Sammlung"
+project: "Erdpuls OER-Sammlung"
 ---
 
 # Bodenfarbe als Physik — Detaillierter Unterrichtsplan: Klassen 9–12
 
 ## Erdpigmente aus den Böden von Müllrose
 
-**Erdpuls Müllrose — Living Laboratory & Makerspace Garden**
+**Erdpuls — Living Laboratory & Makerspace Garden**
 
 *Teil des Projekts „Brücken bauen durch Boden — 13 Fragen an den Boden"*
 
@@ -490,8 +490,7 @@ Eine starke Antwort wird: Δ*E* korrekt definieren, festhalten, dass 4,7 klar wa
 
 ## Lizenz und Impressum
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Deutschland
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Lizenziert unter [Creative Commons Namensnennung – Nicht kommerziell – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
 
@@ -504,4 +503,4 @@ Alle in diesem Dokument genannten Softwarekomponenten sind lizenziert unter der 
 **Kontakt:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — Februar 2026*
+*Februar 2026*

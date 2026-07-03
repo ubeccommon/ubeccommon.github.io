@@ -6,14 +6,13 @@ date: "Februar 2026"
 version: "1.1"
 lang: de
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---
 # Erdpuls Lehrerhandbuch
 ## Mit der Klasse ins Lebendige Labor
 ### Für Lehrerinnen und Lehrer sowie pädagogische Fachkräfte
 
-**Institution:** Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics  
-**Standort:** Müllrose, Brandenburg, Deutschland
+**Institution:** Erdpuls — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics  
 
 **Version:** 1.1  
 **Datum:** Februar 2026  
@@ -32,7 +31,7 @@ project: "Erdpuls Müllrose OER Collection"
 
 ## Für wen dieses Handbuch ist
 
-Dieses Handbuch wurde für die **Klassenlehrer/in** geschrieben, die eine Schulgruppe zu Erdpuls Müllrose begleitet. Es ist ein Begleitdokument zu den drei Schüler-Lernführern (Lernführer 01, 02, 03 für Klassen 1–4, 5–8 und 9–12). Ihre Rolle während des Erdpuls-Besuchs besteht nicht darin zu unterrichten — die Erdpuls-Facilitatoren leiten die Sitzung — aber Sie sind die unverzichtbare Brücke zwischen dem, was im Feld geschieht, und dem, was im Klassenraum davor und danach passiert.
+Dieses Handbuch wurde für die **Klassenlehrer/in** geschrieben, die eine Schulgruppe zu Erdpuls begleitet. Es ist ein Begleitdokument zu den drei Schüler-Lernführern (Lernführer 01, 02, 03 für Klassen 1–4, 5–8 und 9–12). Ihre Rolle während des Erdpuls-Besuchs besteht nicht darin zu unterrichten — die Erdpuls-Facilitatoren leiten die Sitzung — aber Sie sind die unverzichtbare Brücke zwischen dem, was im Feld geschieht, und dem, was im Klassenraum davor und danach passiert.
 
 Dieses Handbuch gibt Ihnen: den theoretischen Rahmen des Erdpuls-Programms, die Brandenburgischen Lehrplanbezüge, praktische Vor- und Nachbereitungsaktivitäten für den Unterricht, Beurteilungsansätze für ortsbezogenes Lernen sowie eine Vorlage für die Kommunikation mit Eltern und Erziehungsberechtigten.
 
@@ -203,10 +202,10 @@ Den Forschungsfrage-Designbogen bewerten nach:
 
 Liebe Eltern und Erziehungsberechtigte,
 
-unsere Klasse wird am **[Datum]** für ein **[halbtägiges / ganztägiges]** Lernprogramm **Erdpuls Müllrose** im Rahmen unserer Unterrichtseinheit zu **[Fach/Thema]** besuchen.
+unsere Klasse wird am **[Datum]** für ein **[halbtägiges / ganztägiges]** Lernprogramm **Erdpuls** im Rahmen unserer Unterrichtseinheit zu **[Fach/Thema]** besuchen.
 
 **Was ist Erdpuls?**  
-Erdpuls Müllrose ist ein pädagogisches Lebendiges Labor und Makerspace-Garten in Müllrose, Brandenburg. Es bietet praxisorientierte Programme zur Nachhaltigkeitsbildung für Schulgruppen, die Bodenkunde, Umweltmonitoring und Gemeinschaftsökonomie verbinden.
+Erdpuls ist ein pädagogisches Lebendiges Labor und Makerspace-Garten. Es bietet praxisorientierte Programme zur Nachhaltigkeitsbildung für Schulgruppen, die Bodenkunde, Umweltmonitoring und Gemeinschaftsökonomie verbinden.
 
 **Was wird Ihr Kind tun?**  
 Ihr Kind wird Zeit draußen damit verbringen, Boden im Erdpuls-Garten mit einfachen Instrumenten (Lupen, pH-Streifen, Temperatursonden) zu beobachten und zu messen. Es wird auch ein kleines Sensorsystem (genannt senseBox) kennenlernen, das Umweltbedingungen kontinuierlich überwacht, und wird seine Beobachtungen zu einer offenen Umweltdatenplattform beitragen.
@@ -239,7 +238,6 @@ Wenn Ihre Schule in der Lage ist, zwei oder mehr Besuche pro Jahr am selben Prog
 ## Operative Informationen
 
 **Buchung:** Kontaktieren Sie Erdpuls unter erdpuls@ubec.network oder [https://erdpuls.ubec.network](https://erdpuls.ubec.network)  
-**Standort:** Müllrose, Brandenburg, Deutschland — [BITTE ERGÄNZEN: Anfahrtsbeschreibung von umliegenden Städten]  
 **Kosten:** Kontaktieren Sie Erdpuls für aktuelle Programmpreise; ermäßigte Tarife für Brandenburgische Landesschulen verfügbar  
 **Maximale Gruppengröße:** 30 Schülerinnen und Schüler pro Sitzung; größere Gruppen können auf simultane Sitzungen aufgeteilt werden mit Voranmeldung  
 **Barrierefreiheit:** Kontaktieren Sie Erdpuls im Voraus für Teilnehmende mit Mobilitäts-, Sinnes- oder anderen Zugangsanforderungen — das Programm kann erheblich angepasst werden  
@@ -249,8 +247,7 @@ Wenn Ihre Schule in der Lage ist, zwei oder mehr Besuche pro Jahr am selben Prog
 
 ## Lizenz und Impressum
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Deutschland
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Lizenziert unter [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
@@ -263,4 +260,4 @@ Alle in diesem Dokument genannten Softwarekomponenten sind lizenziert unter der 
 **Kontakt:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — Februar 2026*
+*Februar 2026*

@@ -16,7 +16,7 @@ Example:
 ---
 
 ```
-You are writing a document for the Erdpuls Müllrose OER Collection. 
+You are writing a document for the Erdpuls OER Collection. 
 Follow the Erdpuls Markdown Authoring Standard (summarised below) exactly.
 Do not deviate from these rules even if the content seems to call for it.
 
@@ -37,7 +37,7 @@ date: "Month YYYY"
 version: "1.x"
 lang: [en|de|pl]
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 status: "Concept Document — for review and programme development"
 ---
 
@@ -220,6 +220,6 @@ The standard governs file structure and syntax. The following are content decisi
 
 ---
 
-*This prompt document is maintained by Erdpuls Müllrose.*
+*This prompt document is maintained by Erdpuls.*
 *Licensed under CC BY-SA 4.0*
 *Contact: erdpuls@ubec.network*

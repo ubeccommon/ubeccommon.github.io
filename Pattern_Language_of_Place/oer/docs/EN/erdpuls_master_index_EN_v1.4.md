@@ -1,19 +1,18 @@
 ---
-title: "Erdpuls Müllrose — Master Document Index"
+title: "Erdpuls — Master Document Index"
 subtitle: "Complete Guide to All Project Documents"
 author: "Michel Garand"
 date: "February 2026"
 version: "1.4"
 lang: en
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---
 # Erdpuls Document Ecosystem — Master Index
 
 ## Complete Guide to the Pattern Discovery Toolkit and Supporting Documents
 
-**Erdpuls Müllrose — Living Laboratory & Makerspace Garden**  
-**Location:** Müllrose, Brandenburg, Germany
+**Erdpuls — Living Laboratory & Makerspace Garden**  
 
 **Version:** 1.4  
 **Date:** February 2026
@@ -320,8 +319,7 @@ The toolkit draws on ten named intellectual traditions. This table shows where e
 
 ## License and Attribution
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Germany
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -334,4 +332,4 @@ All software components referenced in this document are licensed under the [GNU 
 **Contact:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — February 2026*
+*February 2026*

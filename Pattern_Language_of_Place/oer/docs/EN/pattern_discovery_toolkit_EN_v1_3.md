@@ -6,7 +6,7 @@ date: "February 2026"
 version: "1.3"
 lang: en
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---
 # ERDPULS MÜLLROSE
 
@@ -16,7 +16,7 @@ project: "Erdpuls Müllrose OER Collection"
 
 ## A Transferable Toolkit for Sustainability Literacy and Citizen Science
 
-**Developed at Erdpuls Müllrose — Living Laboratory & Makerspace Garden**
+**Developed at Erdpuls — Living Laboratory & Makerspace Garden**
 
 **Version**: 1.3  
 **Date**: February 2026
@@ -42,7 +42,7 @@ The method draws on Christopher Alexander's insight that every living environmen
 
 The output of this process is not a report to be filed. It is a collectively authored, place-specific pattern language: a practical document that names the relationships that make a particular place alive, records the evidence (sensory and instrumental) that supports each pattern, and proposes how those patterns might be maintained, restored, or extended. It is simultaneously an act of citizen science, a sustainability literacy exercise, and a community-building practice.
 
-This toolkit was prototyped at Erdpuls Müllrose, Brandenburg, Germany, at the gateway to the Naturpark Schlaubetal. But the method is designed to be transferable. Where we describe the specific rings of attention we used in Müllrose, other initiatives should understand these as *examples of the method*, not prescriptions. Your center will be different. Your rings will be different. Your patterns will be your own.
+This toolkit was prototyped at Erdpuls, Brandenburg, Germany, at the gateway to the Naturpark Schlaubetal. But the method is designed to be transferable. Where we describe the specific rings of attention we used in Müllrose, other initiatives should understand these as *examples of the method*, not prescriptions. Your center will be different. Your rings will be different. Your patterns will be your own.
 
 * * *
 
@@ -739,8 +739,7 @@ The UN SDGs addressed by this toolkit are set out in Section 1.6 above, and evid
 
 ## License and Attribution
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Germany
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -753,4 +752,4 @@ All software components referenced in this document are licensed under the [GNU 
 **Contact:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — February 2026*
+*February 2026*

@@ -1,16 +1,16 @@
 ---
-title: "Erdpuls Müllrose — Lernpfadsystem"
+title: "Erdpuls — Lernpfadsystem"
 subtitle: "Allgemeines Konzept, Umsetzungsstrategie & Zielgruppen-Lernpfadkarten"
 author: "Michel Garand"
 date: "Februar 2026"
 version: "1.1"
 lang: de
 license: "CC BY-NC-SA 4.0"
-project: "Erdpuls Müllrose OER-Sammlung"
+project: "Erdpuls OER-Sammlung"
 status: "Konzeptdokument — zur Prüfung und Programmentwicklung"
 ---
 
-# Erdpuls Müllrose — Lernpfadsystem
+# Erdpuls — Lernpfadsystem
 
 **Allgemeines Konzept, Umsetzungsstrategie & Zielgruppen-Lernpfadkarten**
 
@@ -18,7 +18,7 @@ status: "Konzeptdokument — zur Prüfung und Programmentwicklung"
 |---|---|
 | **Version** | 1.1 — Februar 2026 |
 | **Status** | Konzeptdokument — zur Prüfung und Programmentwicklung |
-| **Autor** | Erdpuls Müllrose |
+| **Autor** | Erdpuls |
 | **Lizenz** | CC BY-NC-SA 4.0 |
 | **Kontakt** | erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network) |
 | **Leitbild** | *Ein Ort, um wieder Mensch zu werden. / A place to become human again.* |
@@ -65,7 +65,7 @@ Die Werte-Handlungs-Lücke (WHL) ist kein Wissensdefizit. Dies ist die grundlege
 
 Mehr Information auf die Seite des Wissens zu geben, schließt die Lücke nicht. Es kann sie sogar vergrößern, indem das Problem überwältigender wirkt und die individuelle Handlungsfähigkeit noch geringer erscheint. Konventionelle Nachhaltigkeitsbildung begeht diesen Fehler immer wieder: mehr Fakten über den Klimawandel, mehr Statistiken über den Biodiversitätsverlust, mehr SDG-Rahmenwerke — präsentiert an Menschen, die bereits genug Informationen haben, um zu handeln, und die dennoch nicht handeln.
 
-Was die Lücke schließt, ist strukturierte Erfahrung gefolgt von strukturierter Reflexion, wiederholt über Zeit, an einem Ort, den die Lernenden kennen und zu dem sie zurückkehren können. Dies ist die pädagogische Kernerkenntnis hinter Erdpuls Müllrose: Der Campus ist kein Veranstaltungsort für die Vermittlung von Nachhaltigkeitsinhalten. Er ist ein Ort, an dem die Distanz zwischen Wissen und Handeln — konkret, körperlich und mit sozialen Zeugen — überwunden werden kann.
+Was die Lücke schließt, ist strukturierte Erfahrung gefolgt von strukturierter Reflexion, wiederholt über Zeit, an einem Ort, den die Lernenden kennen und zu dem sie zurückkehren können. Dies ist die pädagogische Kernerkenntnis hinter Erdpuls: Der Campus ist kein Veranstaltungsort für die Vermittlung von Nachhaltigkeitsinhalten. Er ist ein Ort, an dem die Distanz zwischen Wissen und Handeln — konkret, körperlich und mit sozialen Zeugen — überwunden werden kann.
 
 Ein Lernpfadsystem adressiert dies auf einer Ebene, die selbst gut gestaltete Einzelworkshops allein nicht erreichen können. Es stellt die longitudinale Architektur bereit, über die die WHL schrittweise geschlossen werden kann — über mehrere Erfahrungen und einen längeren Zeitraum. Es macht Wachstum sichtbar, macht den nächsten Schritt navigierbar und verwandelt die Beziehung zwischen Werten und Handeln von einem unmöglichen Sprung in eine lesbare Reise.
 
@@ -752,7 +752,7 @@ Alle Pfadkarten teilen dieselbe Strukturlogik: vier Meilensteinstationen, die je
 | **Konzentrischer Ring** | Vollständige Bioregion und institutionell |
 | **Einstiegsbedingung** | Hat die Stationen 1–3 abgeschlossen; Delegationen haben Mandat von ihren Institutionen, formelle Partnerschaft vorzuschlagen; bereit, Dokumente zu produzieren, die dauerhafte Programminfrastruktur darstellen |
 | **Verknüpfte Workshops** | Grenzüberschreitende Qualitätsgrundsätze OER-Produktion; INTERREG- oder bilateraler Partnerschaftsvorschlags-Entwurf; reziprokes Facilitator-Austauschprotokoll |
-| **Kernerfahrung** | Gemeinsames grenzüberschreitendes Qualitätsgrundsätze-Dokument erstellt (mindestens 5 Grundsätze, zweisprachig DE/PL, unter CC BY-SA 4.0 veröffentlicht); formeller Partnerschaftsvorschlags-Rahmen für INTERREG- oder bilaterale Programmfinanzierung entworfen; grenzüberschreitendes Citizen-Science-Netzwerk-Gestaltungsdokument erstellt; reziproker Facilitator-Austausch: Eine Facilitator:in der deutschen Seite leitet eine Sitzung am polnischen Partnerstandort; eine Facilitator:in der polnischen Seite leitet eine Sitzung bei Erdpuls Müllrose (beide Ereignisse dokumentiert und evaluiert) |
+| **Kernerfahrung** | Gemeinsames grenzüberschreitendes Qualitätsgrundsätze-Dokument erstellt (mindestens 5 Grundsätze, zweisprachig DE/PL, unter CC BY-SA 4.0 veröffentlicht); formeller Partnerschaftsvorschlags-Rahmen für INTERREG- oder bilaterale Programmfinanzierung entworfen; grenzüberschreitendes Citizen-Science-Netzwerk-Gestaltungsdokument erstellt; reziproker Facilitator-Austausch: Eine Facilitator:in der deutschen Seite leitet eine Sitzung am polnischen Partnerstandort; eine Facilitator:in der polnischen Seite leitet eine Sitzung bei Erdpuls (beide Ereignisse dokumentiert und evaluiert) |
 | **Ausgabe- / Beweisartefakt** | Zweisprachiges grenzüberschreitendes Qualitätsgrundsätze-Dokument (OER-lizenziert, öffentlich zugänglich); Partnerschaftsvorschlags-Rahmen-Dokument; grenzüberschreitendes Citizen-Science-Netzwerk-Protokoll; dokumentiertes reziprokes Begleitungsereignis (Evaluation von beiden Seiten) |
 | **Token-Element** | Regeneration (OER-Veröffentlichung macht grenzüberschreitende Qualitätsgrundsätze dauerhaft zugänglich) + Mutualismus (grenzüberschreitendes Citizen-Science-Netzwerk erweitert die Datenbeitragsinfrastruktur über beide nationalen Standorte hinaus) |
 | **Aktive Kompetenzcluster** | Wirtschaftliches Verstehen · Sozial-emotionales Lernen · Technologiekompetenz |
@@ -780,8 +780,7 @@ Die gruppenübergreifenden Konvergenzzonen sind die wertvollsten Lernmomente des
 
 ## Lizenz und Impressum
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Deutschland
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Lizenziert unter [Creative Commons Namensnennung – Nicht kommerziell – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
 
@@ -794,4 +793,4 @@ Alle in diesem Dokument genannten Softwarekomponenten sind lizenziert unter der 
 **Kontakt:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — Februar 2026*
+*Februar 2026*

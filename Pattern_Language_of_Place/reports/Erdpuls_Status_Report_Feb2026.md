@@ -1,4 +1,4 @@
-# Erdpuls Müllrose — Comprehensive Project Status Report
+# Erdpuls — Comprehensive Project Status Report
 **Date:** February 23, 2026  
 **Prepared by:** Claude (based on all project knowledge and documentation)  
 **Contact:** Michel Garand · erdpuls@ubec.network · https://erdpuls.ubec.network
@@ -7,8 +7,7 @@
 
 ## 1. Project Identity
 
-**Full name:** Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics  
-**Location:** Müllrose, Brandenburg, Germany — Gateway to the Naturpark Schlaubetal  
+**Full name:** Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics  
 **Tagline:** *Ein Ort, um wieder Mensch zu werden.* / A place to become human again.  
 **Format:** Living Laboratory & Makerspace Garden  
 **Languages:** Trilingual — German / English / Polish  
@@ -21,7 +20,7 @@
 
 ### Vision (verbatim from the BNE-Leitbild, February 2026)
 
-> *Erdpuls Müllrose ist ein Ort, an dem Menschen wieder lernen,*  
+> *Erdpuls ist ein Ort, an dem Menschen wieder lernen,*  
 > *wie eine Pflanze zu denken:*  
 > *verwurzelt im Ort, großzügig im Teilen, geduldig im Wachsen.*  
 > **Ein Ort, um wieder Mensch zu werden.**
@@ -282,7 +281,7 @@ The following areas are documented as planned or in development and do not yet h
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*  
 © Michel Garand · Lizenz: CC BY-NC-SA 4.0  
-Erdpuls Müllrose · Müllrose, Brandenburg · Februar 2026  
+Erdpuls · Müllrose, Brandenburg · Februar 2026  
 erdpuls@ubec.network · https://erdpuls.ubec.network
 
 ---

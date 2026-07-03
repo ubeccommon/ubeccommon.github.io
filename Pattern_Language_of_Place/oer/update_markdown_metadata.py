@@ -29,15 +29,15 @@ def update_markdown_file(file_path):
         
         # Replace author
         content, author_count = re.subn(
-            r'author:\s*"Erdpuls Müllrose"',
+            r'author:\s*"Erdpuls"',
             'author: "Michel Garand"',
             content
         )
         
         # Replace copyright (handles both em-dash — and regular hyphen -)
         content, copyright_count = re.subn(
-            r'©\s*2025[–-]2026\s+Erdpuls Müllrose\s*[–-]\s*Center for Sustainability Literacy, Citizen Science and Reciprocal Economics',
-            '© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics',
+            r'©\s*2025[–-]2026\s+Erdpuls\s*[–-]\s*Center for Sustainability Literacy, Citizen Science and Reciprocal Economics',
+            '© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics',
             content
         )
         

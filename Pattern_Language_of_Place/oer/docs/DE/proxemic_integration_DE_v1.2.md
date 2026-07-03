@@ -6,13 +6,13 @@ date: "Februar 2026"
 version: "1.2"
 lang: de
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER-Sammlung"
+project: "Erdpuls OER-Sammlung"
 ---
 # Proxemische Integration — Die verborgene Dimension des ortsbezogenen Lernens
 
 ## Edward T. Halls Proxemik als räumliche Grammatik für das Pattern Discovery Toolkit
 
-**Erdpuls Müllrose — Living Laboratory & Makerspace Garden**
+**Erdpuls — Living Laboratory & Makerspace Garden**
 
 **Version**: 1.2  
 **Datum**: Februar 2026
@@ -688,8 +688,7 @@ Dieser Abschnitt bietet die kriterienweise Zuordnung für die Kriterien des Bran
 
 ## Lizenz und Impressum
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Deutschland
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Lizenziert unter [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
@@ -702,4 +701,4 @@ Alle in diesem Dokument genannten Softwarekomponenten sind lizenziert unter der 
 **Kontakt:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — Februar 2026*
+*Februar 2026*

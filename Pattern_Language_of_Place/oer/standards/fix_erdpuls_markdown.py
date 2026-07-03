@@ -47,7 +47,7 @@ date: "February 2026"
 lang: en
 version: "1.1"
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---""",
 
     "02_learning_guide_grades_5-8_EN.md": """\
@@ -58,7 +58,7 @@ date: "February 2026"
 lang: en
 version: "1.1"
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---""",
 
     "03_learning_guide_grades_9-12_EN.md": """\
@@ -69,7 +69,7 @@ date: "February 2026"
 lang: en
 version: "1.1"
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---""",
 
     "04_teachers_guide_EN.md": """\
@@ -80,7 +80,7 @@ date: "February 2026"
 lang: en
 version: "1.1"
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---""",
 
     "05_citizen_scientist_handbook_EN.md": """\
@@ -91,7 +91,7 @@ date: "February 2026"
 lang: en
 version: "1.1"
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---""",
 
     # ── Group B: DE Lernleitfäden ─────────────────────────────
@@ -103,7 +103,7 @@ date: "Februar 2026"
 lang: de
 version: "1.1"
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---""",
 
     "02_lernleitfaden_klassen_5-8_DE.md": """\
@@ -114,7 +114,7 @@ date: "Februar 2026"
 lang: de
 version: "1.1"
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---""",
 
     "03_lernleitfaden_klassen_9-12_DE.md": """\
@@ -125,7 +125,7 @@ date: "Februar 2026"
 lang: de
 version: "1.1"
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---""",
 
     "04_lehrerhandbuch_DE.md": """\
@@ -136,7 +136,7 @@ date: "Februar 2026"
 lang: de
 version: "1.1"
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---""",
 
     "05_citizen_scientist_handbuch_DE.md": """\
@@ -147,7 +147,7 @@ date: "Februar 2026"
 lang: de
 version: "1.1"
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---""",
 
     # ── Group C: Living Experience Guide Collections ───────────
@@ -159,7 +159,7 @@ date: "February 2026"
 lang: en
 version: "1.1"
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---""",
 
     "token_economy_living_guides_EN.md": """\
@@ -170,7 +170,7 @@ date: "February 2026"
 lang: en
 version: "1.1"
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---""",
 
     "bioregion_mapping_living_guides_EN.md": """\
@@ -181,7 +181,7 @@ date: "February 2026"
 lang: en
 version: "1.1"
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---""",
 
     "bne_quality_living_guides_EN.md": """\
@@ -192,7 +192,7 @@ date: "February 2026"
 lang: en
 version: "1.1"
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---""",
 
     # ── Group D: Operational Documents ───────────────────────
@@ -204,7 +204,7 @@ date: "February 2026"
 lang: en
 version: "1.1"
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---""",
 
     "pattern_language_assembly_guide_EN.md": """\
@@ -215,7 +215,7 @@ date: "February 2026"
 lang: en
 version: "1.1"
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---""",
 
     # ── Group E: Theoretical Foundation ──────────────────────
@@ -227,7 +227,7 @@ date: "February 2026"
 lang: en
 version: "1.1"
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---""",
 
     "pattern_discovery_toolkit_EN.md": """\
@@ -238,7 +238,7 @@ date: "February 2026"
 lang: en
 version: "1.1"
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---""",
 
     "pattern_discovery_toolkit_appendices_EN.md": """\
@@ -249,19 +249,19 @@ date: "February 2026"
 lang: en
 version: "1.1"
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---""",
 
     # ── Group F: Master Index ─────────────────────────────────
     "erdpuls_master_index_v1_3_EN.md": """\
 ---
-title: "Erdpuls Müllrose — Master Document Index"
+title: "Erdpuls — Master Document Index"
 subtitle: "Complete Guide to All Project Documents"
 date: "February 2026"
 lang: en
 version: "1.3"
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---""",
 
     # ── Group G: Standards Documents ─────────────────────────
@@ -273,7 +273,7 @@ date: "February 2026"
 lang: en
 version: "1.1"
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---""",
 
     "ERDPULS_CLAUDE_PROMPT_v1_1.md": """\
@@ -284,7 +284,7 @@ date: "February 2026"
 lang: en
 version: "1.1"
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---""",
 }
 

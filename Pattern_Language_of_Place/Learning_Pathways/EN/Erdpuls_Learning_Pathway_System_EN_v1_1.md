@@ -1,16 +1,16 @@
 ---
-title: "Erdpuls Müllrose — Learning Pathway System"
+title: "Erdpuls — Learning Pathway System"
 subtitle: "General Concept, Implementation Strategy & Target-Group Pathway Maps"
 author: "Michel Garand"
 date: "February 2026"
 version: "1.1"
 lang: en
 license: "CC BY-NC-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 status: "Concept Document — for review and programme development"
 ---
 
-# Erdpuls Müllrose — Learning Pathway System
+# Erdpuls — Learning Pathway System
 
 **General Concept, Implementation Strategy & Target-Group Pathway Maps**
 
@@ -18,7 +18,7 @@ status: "Concept Document — for review and programme development"
 |---|---|
 | **Version** | 1.1 — February 2026 |
 | **Status** | Concept Document — for review and programme development |
-| **Author** | Erdpuls Müllrose |
+| **Author** | Erdpuls |
 | **License** | CC BY-NC-SA 4.0 |
 | **Contact** | erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network) |
 | **Mission** | *Ein Ort, um wieder Mensch zu werden. / A place to become human again.* |
@@ -65,7 +65,7 @@ The Values-Action Gap (VAG) is not a knowledge deficit. This is the foundational
 
 Adding more information to the knowing side of the equation does not close the gap. It can widen it, by making the problem feel more overwhelming and the individual's capacity to respond feel more negligible. Conventional sustainability education makes this mistake repeatedly: more facts about climate change, more statistics on biodiversity loss, more SDG frameworks — delivered to people who already have enough information to act, and who are not acting.
 
-What closes the gap is structured experience followed by structured reflection, repeated over time, in a place the learner knows and can return to. This is the core pedagogical insight behind Erdpuls Müllrose: the campus is not a venue for delivering sustainability content. It is a place where the distance between knowing and doing can be traversed — concretely, bodily, and with social witnesses.
+What closes the gap is structured experience followed by structured reflection, repeated over time, in a place the learner knows and can return to. This is the core pedagogical insight behind Erdpuls: the campus is not a venue for delivering sustainability content. It is a place where the distance between knowing and doing can be traversed — concretely, bodily, and with social witnesses.
 
 A learning pathway system addresses this at a level that even well-designed individual workshops cannot reach alone. It provides the longitudinal architecture across which the VAG can be closed progressively, across multiple experiences and over time. It makes growth visible, makes the next step navigable, and transforms the relationship between values and action from an impossible leap into a legible journey.
 
@@ -753,7 +753,7 @@ All pathway maps share the same structural logic: four milestone nodes, each def
 | **Concentric Ring** | Full bioregion and institutional |
 | **Entry Condition** | Has completed Nodes 1–3; delegations have mandate from their institutions to propose formal partnership; ready to produce documents that constitute lasting programme infrastructure |
 | **Linked Workshops** | Cross-border quality principles OER production; INTERREG or bilateral partnership proposal drafting; reciprocal facilitation exchange protocol |
-| **Core Experience** | Shared cross-border quality principles document produced (minimum 5 principles, bilingual DE/PL, published under CC BY-SA 4.0); formal partnership proposal framework drafted for INTERREG or bilateral programme funding; cross-border citizen science network design document produced; reciprocal facilitation exchange: a German-side facilitator leads one session at the Polish partner site; a Polish-side facilitator leads one session at Erdpuls Müllrose (both events documented and evaluated) |
+| **Core Experience** | Shared cross-border quality principles document produced (minimum 5 principles, bilingual DE/PL, published under CC BY-SA 4.0); formal partnership proposal framework drafted for INTERREG or bilateral programme funding; cross-border citizen science network design document produced; reciprocal facilitation exchange: a German-side facilitator leads one session at the Polish partner site; a Polish-side facilitator leads one session at Erdpuls (both events documented and evaluated) |
 | **Output / Evidence Artefact** | Bilingual cross-border quality principles document (OER-licensed, publicly accessible); partnership proposal framework document; cross-border citizen science network protocol; documented reciprocal facilitation event (evaluation from both sides) |
 | **Token Element** | Regeneration (OER publication makes cross-border quality principles permanently accessible) + Mutualism (cross-border citizen science network extends data contribution infrastructure beyond both national sites) |
 | **Active Competency Clusters** | Economic Understanding · Social-Emotional Learning · Technology Competence |
@@ -781,8 +781,7 @@ The cross-group convergence zones are the programme's highest-value learning mom
 
 ## License and Attribution
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Germany
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
@@ -795,4 +794,4 @@ All software components referenced in this document are licensed under the [GNU 
 **Contact:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — February 2026*
+*February 2026*

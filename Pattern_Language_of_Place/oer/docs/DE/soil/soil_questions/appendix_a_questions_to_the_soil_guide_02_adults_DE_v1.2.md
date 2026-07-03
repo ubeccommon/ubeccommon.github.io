@@ -6,7 +6,7 @@ date: "Februar 2026"
 version: "1.2"
 lang: de
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER-Sammlung"
+project: "Erdpuls OER-Sammlung"
 document: "02 — Leitfaden 2: Erwachsene und Familien"
 part_of: "Fragen an den Boden — Praxisleitfäden für lebendige Erfahrungen (5-Leitfaden-Reihe)"
 translated_from: "questions_to_the_soil_guide2_adults_EN_v1.2.md"
@@ -65,7 +65,7 @@ translated_from: "questions_to_the_soil_guide2_adults_EN_v1.2.md"
 *Ein vierseitiges gefaltetes A4-Heft. Anspruchsvoller als das Feldblatt für Kinder, aber weiterhin praxistauglich für den Feldeinsatz — auch unter erdbeschmutzten Bedingungen beschreibbar.*
 
 **Seite 1 (Umschlag):**
-Boden-Begegnung — Erdpuls Müllrose
+Boden-Begegnung — Erdpuls
 Datum: _____ Jahreszeit: _____ Wetter: _____
 Name: _____ Standort der Bodenstelle: _____
 
@@ -242,8 +242,7 @@ Wie in Leitfaden 1. Zusätzlich für Erwachsene: Manche Teilnehmenden haben mög
 
 ## Lizenz und Impressum
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Deutschland
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Lizenziert unter [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
@@ -256,4 +255,4 @@ Alle in diesem Dokument genannten Softwarekomponenten sind lizenziert unter der 
 **Kontakt:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — Februar 2026*
+*Februar 2026*

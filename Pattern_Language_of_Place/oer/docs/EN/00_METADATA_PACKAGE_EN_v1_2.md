@@ -1,17 +1,17 @@
 ---
 title: "OER Metadata Package"
-subtitle: "Erdpuls Müllrose Living Lab Initiative — From Seeds to Blockchain"
+subtitle: "Erdpuls Living Lab Initiative — From Seeds to Blockchain"
 author: "Michel Garand"
 date: "February 2026"
 version: "1.2"
 lang: en
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---
 
 # How to Use This Document
 
-This file contains all metadata needed to submit the Erdpuls Müllrose OER learning materials to OER portals including WirLernenOnline, Zenodo, OER Commons, and Jointly.info. It is structured as (1) a human-readable reference for the initiative, (2) a copy-paste source for platform submission forms, and (3) a structured record for future LRMI/Schema.org export.
+This file contains all metadata needed to submit the Erdpuls OER learning materials to OER portals including WirLernenOnline, Zenodo, OER Commons, and Jointly.info. It is structured as (1) a human-readable reference for the initiative, (2) a copy-paste source for platform submission forms, and (3) a structured record for future LRMI/Schema.org export.
 
 Fields marked **[TO BE COMPLETED BY AUTHOR]** require information only the project coordinator can provide before submission. Fields marked **[POST-SUBMISSION]** will only be available after the upload is complete (e.g. DOI, accession numbers). Fields marked **[NOT SPECIFIED IN DOCUMENT]** were not found in any project file.
 
@@ -25,11 +25,10 @@ Fields marked **[TO BE COMPLETED BY AUTHOR]** require information only the proje
 
 | Field | Value |
 |---|---|
-| **Collection title (EN)** | Erdpuls Müllrose Learning Materials — From Seeds to Blockchain: A Trilingual OER Collection for Sustainability Literacy, Citizen Science, and Reciprocal Economics |
-| **Collection title (DE)** | Erdpuls Müllrose Lernmaterialien — Von Samen zur Blockchain: Eine dreisprachige OER-Sammlung für Nachhaltigkeitsbildung, Bürgerwissenschaft und Reziproke Wirtschaft |
-| **Collection title (PL)** | Erdpuls Müllrose Materiały edukacyjne — Od nasion do łańcucha bloków: Trójjęzyczna kolekcja OER dla edukacji zrównoważonego rozwoju, nauki obywatelskiej i ekonomii wzajemnej |
-| **Creator / Publisher** | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics |
-| **Location** | Müllrose, Brandenburg, Germany |
+| **Collection title (EN)** | Erdpuls Learning Materials — From Seeds to Blockchain: A Trilingual OER Collection for Sustainability Literacy, Citizen Science, and Reciprocal Economics |
+| **Collection title (DE)** | Erdpuls Lernmaterialien — Von Samen zur Blockchain: Eine dreisprachige OER-Sammlung für Nachhaltigkeitsbildung, Bürgerwissenschaft und Reziproke Wirtschaft |
+| **Collection title (PL)** | Erdpuls Materiały edukacyjne — Od nasion do łańcucha bloków: Trójjęzyczna kolekcja OER dla edukacji zrównoważonego rozwoju, nauki obywatelskiej i ekonomii wzajemnej |
+| **Creator / Publisher** | Erdpuls — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics |
 | **Contact** | erdpuls@ubec.network / [https://erdpuls.ubec.network](https://erdpuls.ubec.network) |
 | **Publication date** | February 2026 |
 | **Version** | 1.2 (Draft — OER Publication Ready, EN) |
@@ -40,7 +39,7 @@ Fields marked **[TO BE COMPLETED BY AUTHOR]** require information only the proje
 | **License URL** | [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/) |
 | **Software license** | GNU Affero General Public License v3.0 (AGPL-3.0) — applies to all software components referenced |
 | **Software license URL** | [https://www.gnu.org/licenses/agpl-3.0.html](https://www.gnu.org/licenses/agpl-3.0.html) |
-| **Copyright year and holder** | © 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics |
+| **Copyright year and holder** | © 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics |
 
 
 * * *
@@ -50,15 +49,15 @@ Fields marked **[TO BE COMPLETED BY AUTHOR]** require information only the proje
 
 #### Abstract (EN)
 
-The Erdpuls Müllrose OER collection comprises five audience-differentiated learning guides developed at a living laboratory and makerspace garden in Müllrose, Brandenburg, Germany. The collection supports sustainability education through a phenomenological approach — "sense before interpret" — in which learners encounter soil, landscape, and economic exchange through direct sensory observation before receiving conceptual frameworks. Three student guides (Grades 1–4, 5–8, 9–12) differentiate the program by developmental stage, drawing on anthroposophical frameworks and the 4A-Pathway (Awareness, Acknowledgment, Attitude, Action). A Teachers' Guide supports classroom integration and Brandenburg curriculum alignment. A Citizen Scientist Handbook supports adult community observers in contributing to open environmental monitoring networks (openSenseMap, iNaturalist). All five guides integrate citizen science data contribution, a reciprocal token economy (UBECrc), and alignment with all 12 Brandenburg BNE Gestaltungskompetenzen. The collection is currently available in English; German and Polish translations are planned for Phase 3. All materials are freely reusable under CC BY-SA 4.0.
+The Erdpuls OER collection comprises five audience-differentiated learning guides developed at a living laboratory and makerspace garden. The collection supports sustainability education through a phenomenological approach — "sense before interpret" — in which learners encounter soil, landscape, and economic exchange through direct sensory observation before receiving conceptual frameworks. Three student guides (Grades 1–4, 5–8, 9–12) differentiate the program by developmental stage, drawing on anthroposophical frameworks and the 4A-Pathway (Awareness, Acknowledgment, Attitude, Action). A Teachers' Guide supports classroom integration and Brandenburg curriculum alignment. A Citizen Scientist Handbook supports adult community observers in contributing to open environmental monitoring networks (openSenseMap, iNaturalist). All five guides integrate citizen science data contribution, a reciprocal token economy (UBECrc), and alignment with all 12 Brandenburg BNE Gestaltungskompetenzen. The collection is currently available in English; German and Polish translations are planned for Phase 3. All materials are freely reusable under CC BY-SA 4.0.
 
 #### Abstract (DE)
 
-Die Erdpuls Müllrose OER-Sammlung umfasst fünf zielgruppenspezifische Lernführer, die in einem Lebendlabor und Makerspace-Garten in Müllrose, Brandenburg, entwickelt wurden. Die Sammlung fördert Bildung für nachhaltige Entwicklung durch einen phänomenologischen Ansatz — „Wahrnehmen vor Interpretieren" — bei dem Lernende Boden, Landschaft und Wirtschaft durch direkte sensorische Beobachtung begegnen, bevor sie konzeptionelle Rahmungen erhalten. Drei Schülerführer (Klassen 1–4, 5–8, 9–12) differenzieren das Programm nach Entwicklungsstand auf Basis anthroposophischer Entwicklungstheorie und des 4A-Pfades (Awareness, Acknowledgment, Attitude, Action). Ein Lehrerhandbuch unterstützt die Unterrichtsintegration und Lehrplanbezüge in Brandenburg. Ein Citizen-Science-Handbuch begleitet erwachsene Bürgerbeobachter bei der Beitragsleistung zu offenen Umweltbeobachtungsnetzen (openSenseMap, iNaturalist). Alle fünf Leitfäden integrieren Citizen-Science-Datenbeiträge, eine reziproke Tokenwirtschaft (UBECrc) sowie die Ausrichtung an allen 12 brandenburgischen BNE-Gestaltungskompetenzen. Die Sammlung ist derzeit auf Englisch verfügbar; deutsche und polnische Übersetzungen sind für Phase 3 geplant. Alle Materialien sind unter CC BY-SA 4.0 frei nachnutzbar.
+Die Erdpuls OER-Sammlung umfasst fünf zielgruppenspezifische Lernführer, die in einem Lebendlabor und Makerspace-Garten entwickelt wurden. Die Sammlung fördert Bildung für nachhaltige Entwicklung durch einen phänomenologischen Ansatz — „Wahrnehmen vor Interpretieren" — bei dem Lernende Boden, Landschaft und Wirtschaft durch direkte sensorische Beobachtung begegnen, bevor sie konzeptionelle Rahmungen erhalten. Drei Schülerführer (Klassen 1–4, 5–8, 9–12) differenzieren das Programm nach Entwicklungsstand auf Basis anthroposophischer Entwicklungstheorie und des 4A-Pfades (Awareness, Acknowledgment, Attitude, Action). Ein Lehrerhandbuch unterstützt die Unterrichtsintegration und Lehrplanbezüge in Brandenburg. Ein Citizen-Science-Handbuch begleitet erwachsene Bürgerbeobachter bei der Beitragsleistung zu offenen Umweltbeobachtungsnetzen (openSenseMap, iNaturalist). Alle fünf Leitfäden integrieren Citizen-Science-Datenbeiträge, eine reziproke Tokenwirtschaft (UBECrc) sowie die Ausrichtung an allen 12 brandenburgischen BNE-Gestaltungskompetenzen. Die Sammlung ist derzeit auf Englisch verfügbar; deutsche und polnische Übersetzungen sind für Phase 3 geplant. Alle Materialien sind unter CC BY-SA 4.0 frei nachnutzbar.
 
 #### Abstract (PL)
 
-Kolekcja OER Erdpuls Müllrose obejmuje pięć przewodników edukacyjnych dostosowanych do różnych grup odbiorców, opracowanych w żywym laboratorium i ogrodzie makerspace w Müllrose w Brandenburgii w Niemczech. Kolekcja wspiera edukację na rzecz zrównoważonego rozwoju poprzez podejście fenomenologiczne — „percepcja przed interpretacją" — w którym uczący się poznają glebę, krajobraz i wymianę ekonomiczną poprzez bezpośrednie doświadczenie zmysłowe, zanim otrzymają ramy pojęciowe. Trzy przewodniki uczniowskie (klasy 1–4, 5–8, 9–12) różnicują program według etapu rozwojowego, opierając się na antropozoficznej teorii rozwoju i ścieżce 4A (Awareness, Acknowledgment, Attitude, Action). Przewodnik dla nauczycieli wspiera integrację z programem nauczania i powiązania z brandenburgską podstawą programową. Podręcznik naukowca-obywatela wspiera dorosłych obserwatorów społecznościowych w wnoszeniu wkładu do otwartych sieci monitoringu środowiska (openSenseMap, iNaturalist). Wszystkie pięć przewodników integruje wkład danych citizen science, wzajemną ekonomię tokenową (UBECrc) oraz zgodność ze wszystkimi 12 brandenburskimi kompetencjami projektowymi BNE (Gestaltungskompetenzen). Kolekcja jest obecnie dostępna w języku angielskim; tłumaczenia na język niemiecki i polski są planowane w fazie 3. Wszystkie materiały są dostępne na zasadach CC BY-SA 4.0.
+Kolekcja OER Erdpuls obejmuje pięć przewodników edukacyjnych dostosowanych do różnych grup odbiorców, opracowanych w żywym laboratorium i ogrodzie makerspace. Kolekcja wspiera edukację na rzecz zrównoważonego rozwoju poprzez podejście fenomenologiczne — „percepcja przed interpretacją" — w którym uczący się poznają glebę, krajobraz i wymianę ekonomiczną poprzez bezpośrednie doświadczenie zmysłowe, zanim otrzymają ramy pojęciowe. Trzy przewodniki uczniowskie (klasy 1–4, 5–8, 9–12) różnicują program według etapu rozwojowego, opierając się na antropozoficznej teorii rozwoju i ścieżce 4A (Awareness, Acknowledgment, Attitude, Action). Przewodnik dla nauczycieli wspiera integrację z programem nauczania i powiązania z brandenburgską podstawą programową. Podręcznik naukowca-obywatela wspiera dorosłych obserwatorów społecznościowych w wnoszeniu wkładu do otwartych sieci monitoringu środowiska (openSenseMap, iNaturalist). Wszystkie pięć przewodników integruje wkład danych citizen science, wzajemną ekonomię tokenową (UBECrc) oraz zgodność ze wszystkimi 12 brandenburskimi kompetencjami projektowymi BNE (Gestaltungskompetenzen). Kolekcja jest obecnie dostępna w języku angielskim; tłumaczenia na język niemiecki i polski są planowane w fazie 3. Wszystkie materiały są dostępne na zasadach CC BY-SA 4.0.
 
 #### Table of Contents — Five Guides
 
@@ -560,9 +559,9 @@ The Erdpuls program employs a phenomenological learning method in which sensory 
 | Zenodo Field | Value to Enter |
 |---|---|
 | **Upload type** | Educational resource |
-| **Title** | Erdpuls Müllrose Learning Materials — From Seeds to Blockchain: A Trilingual OER Collection for Sustainability Literacy, Citizen Science, and Reciprocal Economics |
-| **Authors** | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics |
-| **Affiliation** | Erdpuls Müllrose, Müllrose, Brandenburg, Germany |
+| **Title** | Erdpuls Learning Materials — From Seeds to Blockchain: A Trilingual OER Collection for Sustainability Literacy, Citizen Science, and Reciprocal Economics |
+| **Authors** | Erdpuls — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics |
+| **Affiliation** | Erdpuls |
 | **Description** | Paste English Abstract from Section 1.2 above |
 | **License** | Creative Commons Attribution Share Alike 4.0 International |
 | **Keywords** | (paste EN keyword list from Section 1.5, comma-separated) |
@@ -587,12 +586,12 @@ The Erdpuls program employs a phenomenological learning method in which sensory 
 
 | WLO / LRMI Field | Value to Enter |
 |---|---|
-| **Titel (Title)** | Erdpuls Müllrose Lernmaterialien — Von Samen zur Blockchain |
+| **Titel (Title)** | Erdpuls Lernmaterialien — Von Samen zur Blockchain |
 | **Beschreibung (Description)** | Paste German Abstract from Section 1.2 above |
 | **Schlagwörter (Keywords)** | Paste DE keyword list from Section 1.5 |
 | **Sprache (inLanguage)** | de (primary for WLO), en, pl |
 | **Lizenz (license)** | CC BY-SA 4.0 — [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/) |
-| **Urheber / Herausgeber** | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics |
+| **Urheber / Herausgeber** | Erdpuls — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics |
 | **educationalLevel** | Primarstufe (Guide 01); Sekundarstufe I (Guides 02); Sekundarstufe II (Guide 03); Berufliche Bildung / Erwachsenenbildung (Guide 04 and 05) |
 | **typicalAgeRange** | 6–10 (Guide 01); 11–14 (Guide 02); 15–18 (Guide 03); adult (Guides 04–05) |
 | **learningResourceType** | Unterrichtsplanung; Arbeitsblatt; Handbuch; Leitfaden |
@@ -613,7 +612,7 @@ The Erdpuls program employs a phenomenological learning method in which sensory 
 
 | OER Commons Field | Value to Enter |
 |---|---|
-| **Title** | Erdpuls Müllrose Learning Materials: Sustainability Literacy, Citizen Science, and Reciprocal Economics |
+| **Title** | Erdpuls Learning Materials: Sustainability Literacy, Citizen Science, and Reciprocal Economics |
 | **Description** | Paste English Abstract from Section 1.2 above |
 | **Subject area(s)** | Science and Technology; Environmental Education; Social Studies; Mathematics; Language Arts |
 | **Education level(s)** | Lower Primary; Upper Primary; Middle School; High School; Vocational / Professional Education; Adult and Continuing Education |
@@ -623,7 +622,7 @@ The Erdpuls program employs a phenomenological learning method in which sensory 
 | **License** | Creative Commons Attribution-ShareAlike |
 | **License version** | 4.0 |
 | **Standards alignment** | ESD for 2030 (UNESCO); Brandenburg BNE Quality Catalog; GreenComp (EU Sustainability Competence Framework) |
-| **Author / Publisher** | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics |
+| **Author / Publisher** | Erdpuls — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics |
 | **Date published** | February 2026 |
 
 
@@ -632,12 +631,12 @@ The Erdpuls program employs a phenomenological learning method in which sensory 
 
 ### 3.4 EU-Citizen.Science Listing Checklist
 
-To register Erdpuls Müllrose on eu-citizen.science as both a project and a resource provider:
+To register Erdpuls on eu-citizen.science as both a project and a resource provider:
 
 | Field | Value |
 |---|---|
-| **Project name** | Erdpuls Müllrose — Living Laboratory for Sustainability Literacy and Citizen Science |
-| **Project description** | Erdpuls Müllrose is a living laboratory and makerspace garden in Müllrose, Brandenburg, Germany. It combines phenomenological place-based education, open environmental monitoring (openSenseMap, iNaturalist), and a reciprocal token economy to engage school groups, families, elders, and adult citizen scientists in understanding their local ecosystem. Citizen scientists contribute soil, biodiversity, and atmospheric data to global open platforms; the accumulated dataset builds a longitudinal record of the Naturpark Schlaubetal sub-bioregion. |
+| **Project name** | Erdpuls — Living Laboratory for Sustainability Literacy and Citizen Science |
+| **Project description** | Erdpuls is a living laboratory and makerspace garden. It combines phenomenological place-based education, open environmental monitoring (openSenseMap, iNaturalist), and a reciprocal token economy to engage school groups, families, elders, and adult citizen scientists in understanding their local ecosystem. Citizen scientists contribute soil, biodiversity, and atmospheric data to global open platforms; the accumulated dataset builds a longitudinal record of the Naturpark Schlaubetal sub-bioregion. |
 | **Start date** | October 2025 |
 | **Keywords** | citizen science, soil monitoring, biodiversity, environmental monitoring, sustainability education, senseBox, openSenseMap, iNaturalist, token economy, Brandenburg, Germany, cross-border, Germany-Poland |
 | **Participation tasks** | Environmental monitoring (soil, atmosphere, biodiversity); species observation and upload to iNaturalist; sensor station deployment and operation; open data contribution; community workshop participation |
@@ -660,7 +659,7 @@ To register Erdpuls Müllrose on eu-citizen.science as both a project and a reso
 
 ### Attribution Block (EN)
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics, Müllrose, Brandenburg, Germany.
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics.
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
@@ -676,7 +675,7 @@ Contact: erdpuls@ubec.network | [https://erdpuls.ubec.network](https://erdpuls.u
 
 ### Attribution Block (DE)
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics, Müllrose, Brandenburg, Deutschland.
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics.
 
 Lizenziert unter [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 
@@ -692,7 +691,7 @@ Kontakt: erdpuls@ubec.network | [https://erdpuls.ubec.network](https://erdpuls.u
 
 ### Attribution Block (PL)
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics, Müllrose, Brandenburgia, Niemcy.
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics.
 
 Licencjonowane na zasadach [Creative Commons Uznanie autorstwa – Na tych samych warunkach 4.0 Międzynarodowe (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.pl).
 

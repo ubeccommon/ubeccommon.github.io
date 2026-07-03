@@ -6,14 +6,13 @@ date: "Februar 2026"
 version: "1.1"
 lang: de
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---
 # Erdpuls Handbuch für Citizen Scientists
 ## Beobachten, Beitragen und Vernetzen
 ### Für erwachsene Citizen Scientists und Gemeinschaftsbeobachter/innen
 
-**Institution:** Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics  
-**Standort:** Müllrose, Brandenburg, Deutschland
+**Institution:** Erdpuls — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics  
 
 **Version:** 1.1  
 **Datum:** Februar 2026  
@@ -338,7 +337,7 @@ Nach 5–10 Jahren werden Ihre Aufzeichnungen zu einer der wertvollsten Arten lo
 
 ### Das Schlaubetal als Ort im globalen Datensatz
 
-Der Naturpark Schlaubetal — die Landschaft, in die Erdpuls Müllrose eingebettet ist — ist eine relativ gut erhaltene glaziale Landschaft mit hohem Biodiversitätswert und geringem industriellen Verschmutzungsdruck. Das macht ihn zu einem wichtigen **Referenzstandort** für das Umweltmonitoring: einer Basislinie, mit der störungsintensivere Landschaften verglichen werden können.
+Der Naturpark Schlaubetal — die Landschaft, in die Erdpuls eingebettet ist — ist eine relativ gut erhaltene glaziale Landschaft mit hohem Biodiversitätswert und geringem industriellen Verschmutzungsdruck. Das macht ihn zu einem wichtigen **Referenzstandort** für das Umweltmonitoring: einer Basislinie, mit der störungsintensivere Landschaften verglichen werden können.
 
 Wenn Sie bei oder in der Nähe von Müllrose beobachten, tragen Sie zum Umweltdatensatz einer der ökologisch intakteren Teilregionen Deutschlands bei. Ihre Beobachtungen zur Bodenorganismenvielfalt, zu Wassereindringstzeiten und zur Artenanwesenheit sind nicht einfach lokale Kuriositäten — sie sind Referenzdaten für Forschende, die untersuchen, wie gesunde Böden und intakte Landschaften funktionieren, was Wiederherstellungsmaßnahmen in degradierten Gebieten anderswo informiert.
 
@@ -375,8 +374,7 @@ Um eine Beobachtung als Musterkandidaten einzureichen, wenden Sie sich an Erdpul
 
 ## Lizenz und Impressum
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Deutschland
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Lizenziert unter [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
@@ -389,4 +387,4 @@ Alle in diesem Dokument genannten Softwarekomponenten sind lizenziert unter der 
 **Kontakt:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — Februar 2026*
+*Februar 2026*

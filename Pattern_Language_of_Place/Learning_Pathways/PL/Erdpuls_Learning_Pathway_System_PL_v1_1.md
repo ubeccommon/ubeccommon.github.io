@@ -1,16 +1,16 @@
 ---
-title: "Erdpuls Müllrose — System Ścieżek Edukacyjnych"
+title: "Erdpuls — System Ścieżek Edukacyjnych"
 subtitle: "Koncepcja ogólna, strategia wdrożenia i mapy ścieżek dla grup docelowych"
 author: "Michel Garand"
 date: "Luty 2026"
 version: "1.1"
 lang: pl
 license: "CC BY-NC-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 status: "Dokument koncepcyjny — do przeglądu i opracowania programu"
 ---
 
-# Erdpuls Müllrose — System Ścieżek Edukacyjnych
+# Erdpuls — System Ścieżek Edukacyjnych
 
 **Koncepcja ogólna, strategia wdrożenia i mapy ścieżek dla grup docelowych**
 
@@ -18,7 +18,7 @@ status: "Dokument koncepcyjny — do przeglądu i opracowania programu"
 |---|---|
 | **Wersja** | 1.1 — Luty 2026 |
 | **Status** | Dokument koncepcyjny — do przeglądu i opracowania programu |
-| **Autor** | Erdpuls Müllrose |
+| **Autor** | Erdpuls |
 | **Licencja** | CC BY-NC-SA 4.0 |
 | **Kontakt** | erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network) |
 | **Misja** | *Ein Ort, um wieder Mensch zu werden. / A place to become human again. / Miejsce, by znów stać się człowiekiem.* |
@@ -65,7 +65,7 @@ Luka wartości-działania (LLD) nie jest deficytem wiedzy. To fundamentalne spos
 
 Dodawanie kolejnych informacji do strony wiedzy równania nie zamyka tej luki. Może ją poszerzać, sprawiając, że problem wydaje się jeszcze bardziej przytłaczający, a zdolność jednostki do odpowiedzi — jeszcze bardziej znikoma. Konwencjonalna edukacja na rzecz zrównoważonego rozwoju popełnia ten błąd wielokrotnie: więcej faktów o zmianach klimatu, więcej statystyk dotyczących utraty bioróżnorodności, więcej ram SDG — dostarczanych ludziom, którzy mają już wystarczająco dużo informacji, by działać, i którzy nie działają.
 
-To, co zamyka lukę, to ustrukturyzowane doświadczenie, po którym następuje ustrukturyzowana refleksja, powtarzana w czasie, w miejscu, które uczący się zna i do którego może wracać. To jest sedno pedagogicznego wglądu Erdpuls Müllrose: kampus nie jest miejscem dostarczania treści z zakresu zrównoważonego rozwoju. Jest miejscem, w którym dystans między wiedzą a działaniem może być pokonany — konkretnie, cieleśnie i w obecności społecznych świadków.
+To, co zamyka lukę, to ustrukturyzowane doświadczenie, po którym następuje ustrukturyzowana refleksja, powtarzana w czasie, w miejscu, które uczący się zna i do którego może wracać. To jest sedno pedagogicznego wglądu Erdpuls: kampus nie jest miejscem dostarczania treści z zakresu zrównoważonego rozwoju. Jest miejscem, w którym dystans między wiedzą a działaniem może być pokonany — konkretnie, cieleśnie i w obecności społecznych świadków.
 
 System ścieżek edukacyjnych odpowiada na to na poziomie, którego nawet dobrze zaprojektowane pojedyncze warsztaty nie mogą samodzielnie osiągnąć. Zapewnia podłużną architekturę, poprzez którą LLD może być stopniowo zamykana, w ramach wielu doświadczeń i w czasie. Czyni wzrost widocznym, sprawia, że następny krok jest czytelny, i przekształca relację między wartościami a działaniem z niemożliwego skoku w czytelną podróż.
 
@@ -748,7 +748,7 @@ Wszystkie mapy ścieżek mają tę samą logikę strukturalną: cztery węzły m
 | **Pierścień koncentryczny** | Pełny bioregion i instytucjonalny |
 | **Warunek wejścia** | Ukończył Węzły 1–3; delegacje mają mandat od swoich instytucji do zaproponowania formalnego partnerstwa; gotowe do wyprodukowania dokumentów stanowiących trwałą infrastrukturę programu |
 | **Powiązane warsztaty** | Produkcja OER transgranicznych zasad jakości; opracowanie wniosku partnerskiego INTERREG lub bilateralnego; protokół wzajemnej wymiany facylitacyjnej |
-| **Główne doświadczenie** | Wyprodukowanie wspólnego transgranicznego dokumentu zasad jakości (minimum 5 zasad, dwujęzyczny DE/PL, opublikowany na licencji CC BY-SA 4.0); opracowanie szkieletu wniosku o formalną współpracę dla finansowania INTERREG lub programu bilateralnego; wyprodukowanie dokumentu projektu transgranicznej sieci nauki obywatelskiej; wzajemna wymiana facylitacyjna: facylitator po stronie niemieckiej prowadzi jedną sesję w polskim miejscu partnerskim; facylitator po stronie polskiej prowadzi jedną sesję w Erdpuls Müllrose (oba wydarzenia udokumentowane i ocenione) |
+| **Główne doświadczenie** | Wyprodukowanie wspólnego transgranicznego dokumentu zasad jakości (minimum 5 zasad, dwujęzyczny DE/PL, opublikowany na licencji CC BY-SA 4.0); opracowanie szkieletu wniosku o formalną współpracę dla finansowania INTERREG lub programu bilateralnego; wyprodukowanie dokumentu projektu transgranicznej sieci nauki obywatelskiej; wzajemna wymiana facylitacyjna: facylitator po stronie niemieckiej prowadzi jedną sesję w polskim miejscu partnerskim; facylitator po stronie polskiej prowadzi jedną sesję w Erdpuls (oba wydarzenia udokumentowane i ocenione) |
 | **Produkt / Artefakt dowodowy** | Dwujęzyczny transgraniczny dokument zasad jakości (licencjonowany OER, publicznie dostępny); szkielet dokumentu wniosku partnerskiego; protokół transgranicznej sieci nauki obywatelskiej; udokumentowane wzajemne wydarzenie facylitacyjne (ocena z obu stron) |
 | **Element tokenowy** | Regeneracja (publikacja OER czyni transgraniczne zasady jakości trwale dostępnymi) + Mutualizm (transgraniczna sieć nauki obywatelskiej rozszerza infrastrukturę wkładu danych poza oba krajowe miejsca) |
 | **Aktywne klastry kompetencji** | Rozumienie ekonomii · Uczenie się społeczno-emocjonalne · Kompetencja technologiczna |
@@ -776,8 +776,7 @@ Strefy zbieżności między grupami są momentami uczenia się o najwyższej war
 
 ## Licencja i atrybucja
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Centrum Edukacji na rzecz Zrównoważonego Rozwoju, Nauki Obywatelskiej i Wzajemnej Ekonomii
-Müllrose, Brandenburgia, Niemcy
+© 2025–2026 Michel Garand | Erdpuls — Centrum Edukacji na rzecz Zrównoważonego Rozwoju, Nauki Obywatelskiej i Wzajemnej Ekonomii
 
 Licencjonowane na warunkach [Creative Commons Uznanie autorstwa-Użycie niekomercyjne-Na tych samych warunkach 4.0 Międzynarodowe (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 

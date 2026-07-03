@@ -502,7 +502,7 @@ export default function LearningPathwayMaps() {
       <div className="bg-gradient-to-r from-emerald-900 to-emerald-700 text-white px-6 py-5">
         <div className="max-w-5xl mx-auto">
           <div className="text-xs font-bold uppercase tracking-widest text-emerald-300 mb-1">
-            Erdpuls Müllrose · Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
+            Erdpuls · Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
           </div>
           <h1 className="text-2xl font-bold">Learning Pathway Maps</h1>
           <p className="text-sm text-emerald-200 mt-1">
@@ -617,7 +617,7 @@ export default function LearningPathwayMaps() {
 
         {/* Footer */}
         <div className="text-center text-xs text-gray-400 pb-4">
-          <div>© 2025–2026 Erdpuls Müllrose · CC BY-NC-SA 4.0</div>
+          <div>© 2025–2026 Erdpuls · CC BY-NC-SA 4.0</div>
           <div className="mt-0.5">erdpuls@ubec.network · https://erdpuls.ubec.network</div>
         </div>
       </div>

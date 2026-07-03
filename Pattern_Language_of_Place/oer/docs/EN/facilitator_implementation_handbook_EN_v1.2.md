@@ -6,13 +6,13 @@ date: "February 2026"
 version: "1.2"
 lang: en
 license: "CC BY-SA 4.0"
-project: "Erdpuls Müllrose OER Collection"
+project: "Erdpuls OER Collection"
 ---
 # Erdpuls Facilitator's Implementation Handbook
 
 ## A Practical Guide to Running the Full Workshop Program
 
-**Erdpuls Müllrose — Living Laboratory & Makerspace Garden**
+**Erdpuls — Living Laboratory & Makerspace Garden**
 
 **Version**: 1.2  
 **Date**: February 2026
@@ -357,7 +357,7 @@ The following materials are referenced across the 20 guides. Each is described b
 *Referenced in: D.1 (Children)*
 - Credit-card sized, double-sided
 - Front: 12 Gestaltungskompetenzen in child-friendly first-person language
-- Back: Erdpuls logo, "I practiced this competency at Erdpuls Müllrose" with date/signature space
+- Back: Erdpuls logo, "I practiced this competency at Erdpuls" with date/signature space
 - Trilingual (DE/EN/PL)
 
 **9. Token Cards (Four Colors)**
@@ -565,8 +565,7 @@ Then: plan Year 2. The calendar repeats, but with new cohorts, accumulated data,
 
 ## License and Attribution
 
-© 2025–2026 Michel Garand | Erdpuls Müllrose — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
-Müllrose, Brandenburg, Germany
+© 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -579,4 +578,4 @@ All software components referenced in this document are licensed under the [GNU 
 **Contact:** erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
 
 *Alle Dokumente und ihre Übersetzungen / All documents and their translations.*
-*Müllrose, Brandenburg — February 2026*
+*February 2026*
