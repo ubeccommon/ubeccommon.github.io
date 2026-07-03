@@ -12,6 +12,8 @@ Called automatically by GitHub Actions on every push.
 
 Version: 1.1.0
 Changelog:
+    1.2.0 - Added language switcher + hreflang alternates + per-directory
+            <html lang> for directories inside a language subtree.
     1.1.0 - Added Ukrainian (UK / uk) to DIR_LABELS language labels.
     1.0.0 - Baseline (pre-versioning): initial dynamic index generator.
 
@@ -22,7 +24,7 @@ decisions and recommendations. This project was made possible with the
 assistance of Claude and Anthropic PBC.
 """
 
-__version__ = "1.1.0"
+__version__ = "1.2.0"
 
 import os
 import argparse
@@ -75,6 +77,35 @@ DIR_LABELS = {
     'Learning_Pathways':        '🗺️ Learning Pathways',
     'Pattern_Language_of_Place':'🏛️ Pattern Language of Place',
 }
+
+# Language directory codes (keys of DIR_LABELS that denote a content language)
+# mapped to their BCP 47 code used in <html lang> / hreflang.
+LANG_HTML = {'DE': 'de', 'EN': 'en', 'PL': 'pl', 'UK': 'uk'}
+LANG_ORDER = ['DE', 'EN', 'PL', 'UK']   # stable display order for the switcher
+
+
+def lang_context(rel_path, repo_root):
+    """Compute language-switch context for a directory.
+
+    If rel_path lies inside a language subtree (one path segment is a known
+    language code), return (current_code, available) where available is a list
+    of (code, url) pairs for the sibling-language directories that ACTUALLY
+    exist on disk (including the current one). Otherwise return (None, []).
+
+    Existence is checked so we never link to languages that have no content yet.
+    """
+    parts = list(rel_path.parts)
+    idx = next((i for i, part in enumerate(parts) if part in LANG_HTML), None)
+    if idx is None:
+        return None, []
+    current = parts[idx]
+    available = []
+    for code in LANG_ORDER:
+        cand = parts.copy()
+        cand[idx] = code
+        if (repo_root / Path(*cand)).is_dir():
+            available.append((code, f"{BASE_URL}/{'/'.join(cand)}/"))
+    return current, available
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
@@ -138,7 +169,7 @@ def file_badge(filename):
 
 # ── HTML generation ───────────────────────────────────────────────────────────
 
-def generate_html(rel_path, subdirs, files):
+def generate_html(rel_path, subdirs, files, repo_root):
     """Generate a complete index.html for a directory."""
 
     if rel_path == Path(''):
@@ -152,6 +183,28 @@ def generate_html(rel_path, subdirs, files):
         parent_url = BASE_URL + ('/' + str(parent).replace('\\','/') if str(parent) != '.' else '') + '/'
 
     breadcrumbs = build_breadcrumb(rel_path)
+
+    # Language switch context (only inside a language subtree)
+    current_code, available = lang_context(rel_path, repo_root)
+    html_lang = LANG_HTML.get(current_code, 'en')
+    hreflang_html = ''
+    switcher_html = ''
+    if current_code and len(available) >= 2:
+        alt_links = [f'<link rel="alternate" hreflang="{LANG_HTML[c]}" href="{u}">'
+                     for c, u in available]
+        xdef = next((u for c, u in available if c == 'EN'), available[0][1])
+        alt_links.append(f'<link rel="alternate" hreflang="x-default" href="{xdef}">')
+        hreflang_html = '\n'.join(alt_links)
+
+        chips = []
+        for c, u in available:
+            label = DIR_LABELS.get(c, c)
+            if c == current_code:
+                chips.append(f'<span class="lang-chip current">{label}</span>')
+            else:
+                chips.append(f'<a class="lang-chip" href="{u}">{label}</a>')
+        switcher_html = ('<div class="lang-switch"><span class="lang-switch-label">'
+                         'Languages</span>' + ''.join(chips) + '</div>')
 
     # Breadcrumb HTML
     bc_parts = []
@@ -214,11 +267,12 @@ def generate_html(rel_path, subdirs, files):
     dir_path_display = '/' + repo_rel if repo_rel else '/'
 
     return f'''<!DOCTYPE html>
-<html lang="en">
+<html lang="{html_lang}">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{dir_name} — Erdpuls OER Repository</title>
+{hreflang_html}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
 <style>
@@ -329,6 +383,24 @@ def generate_html(rel_path, subdirs, files):
     transition: all 0.2s;
   }}
   .back-btn:hover {{ background: var(--leaf); color: white; }}
+  .lang-switch {{
+    display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap;
+    margin-top: 1rem;
+  }}
+  .lang-switch-label {{
+    font-family: 'DM Mono', monospace; font-size: 0.62rem; font-weight: 500;
+    letter-spacing: 0.12em; text-transform: uppercase; color: var(--text-muted);
+    margin-right: 0.2rem;
+  }}
+  .lang-chip {{
+    font-size: 0.8rem; text-decoration: none; padding: 0.25rem 0.7rem;
+    border-radius: 20px; border: 1px solid var(--border); color: var(--soil-mid);
+    background: white; transition: all 0.18s;
+  }}
+  .lang-chip:hover {{ border-color: var(--clay); color: var(--clay); }}
+  .lang-chip.current {{
+    background: var(--leaf); color: white; border-color: var(--leaf); cursor: default;
+  }}
   .section-label {{
     font-family: 'DM Mono', monospace;
     font-size: 0.68rem;
@@ -453,6 +525,7 @@ def generate_html(rel_path, subdirs, files):
       <span>{count_info}</span>
       {back_btn}
     </div>
+    {switcher_html}
   </div>
   {dirs_html}
   {files_html}
@@ -492,7 +565,7 @@ def scan_and_generate(repo_root: Path, dry_run: bool = False):
             if f not in SKIP_FILES and not f.startswith('.')
         )
 
-        html = generate_html(rel, dirnames[:], visible_files)
+        html = generate_html(rel, dirnames[:], visible_files, repo_root)
 
         out_path = current / 'index.html'
 
