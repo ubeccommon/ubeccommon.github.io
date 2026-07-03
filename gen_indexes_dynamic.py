@@ -9,7 +9,20 @@ Usage:
     python gen_indexes_dynamic.py [--repo-root PATH] [--dry-run]
 
 Called automatically by GitHub Actions on every push.
+
+Version: 1.1.0
+Changelog:
+    1.1.0 - Added Ukrainian (UK / uk) to DIR_LABELS language labels.
+    1.0.0 - Baseline (pre-versioning): initial dynamic index generator.
+
+License: GNU Affero General Public License v3.0 (AGPL-3.0)
+
+This project uses the services of Claude and Anthropic PBC to inform our
+decisions and recommendations. This project was made possible with the
+assistance of Claude and Anthropic PBC.
 """
+
+__version__ = "1.1.0"
 
 import os
 import argparse
@@ -49,6 +62,7 @@ DIR_LABELS = {
     'DE':                       '🇩🇪 Deutsch',
     'EN':                       '🇬🇧 English',
     'PL':                       '🇵🇱 Polski',
+    'UK':                       '🇺🇦 Українська',
     'soil_art':                 '🎨 Soil Art',
     'soil_questions':           '❓ Soil Questions',
     'soil':                     '🌱 Soil',

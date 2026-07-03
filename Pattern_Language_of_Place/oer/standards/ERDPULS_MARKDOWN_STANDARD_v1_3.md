@@ -1,5 +1,5 @@
 # Erdpuls Markdown Authoring Standard
-## Version 1.2 — March 2026
+## Version 1.3 — July 2026
 ## For all files in the Erdpuls OER Collection
 
 ---
@@ -43,7 +43,7 @@ status: "Concept Document — for review and programme development"
 | `author` | `"Michel Garand"` — human responsibility, before date |
 | `date` | `"Month YYYY"` — this edition |
 | `version` | `"1.x"` — this edition's revision |
-| `lang` | BCP 47 code: `en`, `de`, or `pl` |
+| `lang` | BCP 47 code: `en`, `de`, `pl`, or `uk` |
 | `license` | `"CC BY-SA 4.0"` or `"CC BY-NC-SA 4.0"` |
 | `project` | `"Erdpuls Müllrose OER Collection"` (EN) or `"Erdpuls Müllrose OER-Sammlung"` (DE) |
 | `status` | Lifecycle state — most volatile field, always last |
@@ -60,7 +60,7 @@ status: "Concept Document — for review and programme development"
 **Additional rules:**
 - Titles and subtitles must be in double quotes
 - Never use `|` in YAML values — use `:` or `—` instead
-- `lang` must be a valid BCP 47 code: `en`, `de`, `pl`
+- `lang` must be a valid BCP 47 code: `en`, `de`, `pl`, `uk`
 - The front matter block opens and closes with `---` on its own line
 - Body content begins on the line immediately after the closing `---`
 
@@ -200,12 +200,13 @@ Never use Unicode bullet characters (`•`, `·`, `▪`) directly — they may n
 ### 6.1 Always safe (use directly)
 German: `ä ö ü Ä Ö Ü ß`
 Polish: `ą ę ś ź ż ó ł ć ń`
+Ukrainian (Cyrillic): `а б в г ґ д е є ж з и і ї й к л м н о п р с т у ф х ц ч ш щ ь ю я` — safe in GitHub and HTML (see §6.2 for PDF).
 Math/units: `°C µg/m³ CO₂ PM₂.₅ pH`
 Punctuation: `— – " " ' '`
 Arrows: `→ ← ↑ ↓`
 
 ### 6.2 Use with caution
-Emoji (`✅ ⛔ ⏳ 🇩🇪 🇵🇱`) render correctly in GitHub and HTML but may render as boxes in PDF without a dedicated emoji font. For PDF-bound documents, replace with text equivalents:
+Emoji (`✅ ⛔ ⏳ 🇩🇪 🇵🇱 🇺🇦`) render correctly in GitHub and HTML but may render as boxes in PDF without a dedicated emoji font. For PDF-bound documents, replace with text equivalents:
 
 | Emoji | Text equivalent |
 |---|---|
@@ -214,6 +215,9 @@ Emoji (`✅ ⛔ ⏳ 🇩🇪 🇵🇱`) render correctly in GitHub and HTML but 
 | ⏳ | `(pending)` |
 | 🇩🇪 | `[DE]` |
 | 🇵🇱 | `[PL]` |
+| 🇺🇦 | `[UA]` |
+
+**Cyrillic in PDF:** Ukrainian text renders directly in GitHub and HTML. PDF conversion must use a Cyrillic-capable engine (XeLaTeX or LuaLaTeX) with a font covering Cyrillic (e.g. the Noto or DejaVu families); verify the `md_to_pdf.py` pipeline before publishing Ukrainian PDFs.
 
 ### 6.3 Box-drawing characters
 The ASCII box-drawing diagram (`┌─┐│└┘`) in the master index must be inside a fenced code block to render correctly in both GitHub and PDF:
@@ -601,3 +605,14 @@ Alle in diesem Dokument genannten Softwarekomponenten sind lizenziert unter der 
 
 *This standard is maintained by Erdpuls Müllrose. Questions: erdpuls@ubec.network*
 *Licensed under CC BY-SA 4.0*
+
+* * *
+
+## Changelog
+
+| Version | Date | Changes |
+|---|---|---|
+| 1.3 | July 2026 | Added Ukrainian (`uk`) to allowed `lang` codes; added 🇺🇦 → `[UA]` PDF text-equivalent and a Cyrillic-in-PDF note. |
+| 1.2 | March 2026 | Prior baseline. |
+
+*This project uses the services of Claude and Anthropic PBC to inform our decisions and recommendations. This project was made possible with the assistance of Claude and Anthropic PBC.*

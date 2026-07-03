@@ -1,4 +1,16 @@
 <!DOCTYPE html>
+<!--
+  Erdpuls OER - Document Viewer
+  Version: 1.1.0
+  Changelog:
+    1.1.0 - Added Ukrainian (uk) language detection, badge, colour, and
+            dynamic <html lang> based on the rendered document.
+    1.0.0 - Baseline (pre-versioning): initial client-side markdown viewer.
+  License: GNU Affero General Public License v3.0 (AGPL-3.0)
+  This project uses the services of Claude and Anthropic PBC to inform our
+  decisions and recommendations. This project was made possible with the
+  assistance of Claude and Anthropic PBC.
+-->
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -305,6 +317,7 @@
   .file-badge.lang-de { border-color: #3c78d8; color: #3c78d8; background: rgba(60,120,216,0.06); }
   .file-badge.lang-en { border-color: #6d9eeb; color: #2a5db0; background: rgba(109,158,235,0.06); }
   .file-badge.lang-pl { border-color: #cc0000; color: #cc0000; background: rgba(204,0,0,0.05); }
+  .file-badge.lang-uk { border-color: #0057B7; color: #0057B7; background: rgba(255,215,0,0.12); }
 
   .raw-link {
     margin-left: auto;
@@ -555,12 +568,13 @@ function detectLang(filePath) {
   if (/_DE[_v.]/.test(filePath) || filePath.includes('/DE/')) return 'de';
   if (/_EN[_v.]/.test(filePath) || filePath.includes('/EN/')) return 'en';
   if (/_PL[_v.]/.test(filePath) || filePath.includes('/PL/')) return 'pl';
+  if (/_UK[_v.]/.test(filePath) || filePath.includes('/UK/')) return 'uk';
   return null;
 }
 
 function langBadge(lang) {
   if (!lang) return '';
-  const map = { de: ['🇩🇪', 'Deutsch', 'lang-de'], en: ['🇬🇧', 'English', 'lang-en'], pl: ['🇵🇱', 'Polski', 'lang-pl'] };
+  const map = { de: ['🇩🇪', 'Deutsch', 'lang-de'], en: ['🇬🇧', 'English', 'lang-en'], pl: ['🇵🇱', 'Polski', 'lang-pl'], uk: ['🇺🇦', 'Українська', 'lang-uk'] };
   const [flag, label, cls] = map[lang];
   return `<span class="file-badge ${cls}">${flag} ${label}</span>`;
 }
@@ -696,6 +710,7 @@ async function loadDocument(filePath) {
 
   // ── Detect language & version ─────────────────────────────────────────────
   const lang = frontMatter.lang || detectLang(filePath);
+  document.documentElement.lang = lang || 'en';
   const versionMatch = fname.match(/v[\d._]+/);
   const version = frontMatter.version || (versionMatch ? versionMatch[0] : null);
 

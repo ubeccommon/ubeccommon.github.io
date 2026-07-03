@@ -46,3 +46,7 @@ Includes materials in 🇩🇪 Deutsch · 🇬🇧 English · 🇵🇱 Polski
 ---
 
 *Built with the Cayman theme on GitHub Pages.*
+
+*Content licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); code under [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html).*
+
+*This project uses the services of Claude and Anthropic PBC to inform our decisions and recommendations. This project was made possible with the assistance of Claude and Anthropic PBC.*
