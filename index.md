@@ -22,7 +22,7 @@ UBEC explores practical, alternative economic frameworks through open-source too
 
 ## 📚 Open Educational Resources
 
-Browse the full OER document repository for the **Erdpuls Müllrose** sustainability education centre — learning guides, soil science materials, BNE quality frameworks, pattern discovery toolkits, and more, organised by language and topic.
+Browse the full OER document repository for the **Erdpuls** sustainability education centre — learning guides, soil science materials, BNE quality frameworks, pattern discovery toolkits, and more, organised by language and topic.
 
 ➡️ **[Open the OER Repository Index](/Pattern_Language_of_Place/)**
 
