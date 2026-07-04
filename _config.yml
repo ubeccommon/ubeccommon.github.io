@@ -46,3 +46,8 @@ defaults:
     values:
       layout: none
       sitemap: false
+
+# Copy the OER content tree into _site verbatim as static files (no Jekyll
+# processing) so viewer.html can fetch the raw .md and the generated index.html.
+keep_files:
+  - Pattern_Language_of_Place
