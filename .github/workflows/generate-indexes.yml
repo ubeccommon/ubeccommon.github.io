@@ -1,56 +1,78 @@
-name: Regenerate Directory Indexes
+name: Regenerate Indexes & Deploy to Pages
 
 on:
   push:
     branches:
       - main
-    # Only trigger when actual content changes — not when indexes update themselves
+    # Content-only trigger: ignore the bot's own regenerated indexes and CI edits,
+    # otherwise the index-commit below would loop the workflow.
     paths-ignore:
       - '**/index.html'
       - '.github/**'
-
-  # Allow manual trigger from the GitHub Actions tab
+  # Manual trigger — run this from the Actions tab to force a rebuild + redeploy
+  # of whatever is currently on main (used to un-stick a stale Pages deployment).
   workflow_dispatch:
 
-# Cancel any in-progress run for the same branch when a newer push arrives.
-# This prevents the "higher priority waiting request" cancellation noise from
-# the built-in pages build and deployment workflow.
+# Least-privilege tokens: commit regenerated indexes (contents), publish to
+# Pages (pages), and OIDC auth required by actions/deploy-pages (id-token).
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Serialise Pages publishes; never cancel an in-flight deployment.
 concurrency:
-  group: regenerate-indexes-${{ github.ref }}
-  cancel-in-progress: true
+  group: pages
+  cancel-in-progress: false
 
 jobs:
-  generate-indexes:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write   # needed to commit the generated index.html files back
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        # fetch-depth: 1 (default) is sufficient — gen_indexes_dynamic.py does
-        # not use git log or blame, so full history is unnecessary overhead.
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Run index generator
-        run: |
-          python gen_indexes_dynamic.py --repo-root .
+      - name: Regenerate directory indexes
+        run: python gen_indexes_dynamic.py --repo-root .
 
-      - name: Check for changes
-        id: changes
-        run: |
-          git diff --quiet && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
-
-      - name: Commit and push updated indexes
-        if: steps.changes.outputs.changed == 'true'
+      - name: Commit regenerated indexes (only if changed)
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # Unquoted glob so the shell expands it correctly across subdirectories
-          git add **/index.html index.html 2>/dev/null || git add **/index.html
-          git commit -m "chore: regenerate directory indexes"
-          git push
+          if git diff --quiet; then
+            echo "No index changes to commit."
+          else
+            git add -A
+            git commit -m "chore: regenerate directory indexes"
+            git push
+          fi
+
+      # Build the CURRENT working tree (already contains the freshly regenerated
+      # indexes) — so the published artifact and the repo are always in lock-step.
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
