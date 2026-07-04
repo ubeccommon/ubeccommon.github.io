@@ -52,5 +52,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           # Unquoted glob so the shell expands it correctly across subdirectories
           git add **/index.html index.html 2>/dev/null || git add **/index.html
-          git commit -m "chore: regenerate directory indexes [skip ci]"
+          git commit -m "chore: regenerate directory indexes"
           git push
