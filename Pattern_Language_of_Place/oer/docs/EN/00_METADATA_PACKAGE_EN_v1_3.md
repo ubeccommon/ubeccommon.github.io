@@ -2,8 +2,8 @@
 title: "OER Metadata Package"
 subtitle: "Erdpuls Living Lab Initiative — From Seeds to Blockchain"
 author: "Michel Garand"
-date: "February 2026"
-version: "1.2"
+date: "July 2026"
+version: "1.3"
 lang: en
 license: "CC BY-SA 4.0"
 project: "Erdpuls OER Collection"
@@ -25,13 +25,14 @@ Fields marked **[TO BE COMPLETED BY AUTHOR]** require information only the proje
 
 | Field | Value |
 |---|---|
-| **Collection title (EN)** | Erdpuls Learning Materials — From Seeds to Blockchain: A Trilingual OER Collection for Sustainability Literacy, Citizen Science, and Reciprocal Economics |
-| **Collection title (DE)** | Erdpuls Lernmaterialien — Von Samen zur Blockchain: Eine dreisprachige OER-Sammlung für Nachhaltigkeitsbildung, Bürgerwissenschaft und Reziproke Wirtschaft |
-| **Collection title (PL)** | Erdpuls Materiały edukacyjne — Od nasion do łańcucha bloków: Trójjęzyczna kolekcja OER dla edukacji zrównoważonego rozwoju, nauki obywatelskiej i ekonomii wzajemnej |
+| **Collection title (EN)** | Erdpuls Learning Materials — From Seeds to Blockchain: A Multilingual OER Collection for Sustainability Literacy, Citizen Science, and Reciprocal Economics |
+| **Collection title (DE)** | Erdpuls Lernmaterialien — Von Samen zur Blockchain: Eine mehrsprachige OER-Sammlung für Nachhaltigkeitsbildung, Bürgerwissenschaft und Reziproke Wirtschaft |
+| **Collection title (PL)** | Erdpuls Materiały edukacyjne — Od nasion do łańcucha bloków: Wielojęzyczna kolekcja OER dla edukacji zrównoważonego rozwoju, nauki obywatelskiej i ekonomii wzajemnej |
+| **Collection title (UK)** | Erdpuls Навчальні матеріали — Від насіння до блокчейну: багатомовна колекція ВОР для грамотності зі сталого розвитку, громадянської науки та економіки взаємності |
 | **Creator / Publisher** | Erdpuls — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics |
 | **Contact** | erdpuls@ubec.network / [https://erdpuls.ubec.network](https://erdpuls.ubec.network) |
 | **Publication date** | February 2026 |
-| **Version** | 1.2 (Draft — OER Publication Ready, EN) |
+| **Version** | 1.3 (Draft — OER Publication Ready, EN) |
 | **DOI / Persistent identifier** | [TO BE COMPLETED BY AUTHOR — assigned after Zenodo upload] |
 | **Source URL / Repository URL** | [TO BE COMPLETED BY AUTHOR] |
 | **License** | Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) |
@@ -49,15 +50,20 @@ Fields marked **[TO BE COMPLETED BY AUTHOR]** require information only the proje
 
 #### Abstract (EN)
 
-The Erdpuls OER collection comprises five audience-differentiated learning guides developed at a living laboratory and makerspace garden. The collection supports sustainability education through a phenomenological approach — "sense before interpret" — in which learners encounter soil, landscape, and economic exchange through direct sensory observation before receiving conceptual frameworks. Three student guides (Grades 1–4, 5–8, 9–12) differentiate the program by developmental stage, drawing on anthroposophical frameworks and the 4A-Pathway (Awareness, Acknowledgment, Attitude, Action). A Teachers' Guide supports classroom integration and Brandenburg curriculum alignment. A Citizen Scientist Handbook supports adult community observers in contributing to open environmental monitoring networks (openSenseMap, iNaturalist). All five guides integrate citizen science data contribution, a reciprocal token economy (UBECrc), and alignment with all 12 Brandenburg BNE Gestaltungskompetenzen. The collection is currently available in English; German and Polish translations are planned for Phase 3. All materials are freely reusable under CC BY-SA 4.0.
+The Erdpuls OER collection comprises five audience-differentiated learning guides developed at a living laboratory and makerspace garden. The collection supports sustainability education through a phenomenological approach — "sense before interpret" — in which learners encounter soil, landscape, and economic exchange through direct sensory observation before receiving conceptual frameworks. Three student guides (Grades 1–4, 5–8, 9–12) differentiate the program by developmental stage, drawing on anthroposophical frameworks and the 4A-Pathway (Awareness, Acknowledgment, Attitude, Action). A Teachers' Guide supports classroom integration and Brandenburg curriculum alignment. A Citizen Scientist Handbook supports adult community observers in contributing to open environmental monitoring networks (openSenseMap, iNaturalist). All five guides integrate citizen science data contribution, a reciprocal token economy (UBECrc), and alignment with all 12 Brandenburg BNE Gestaltungskompetenzen. The collection is available in English and German; a Ukrainian translation is in progress (guides 01, 02, and 04 published); a Polish translation is planned. All materials are freely reusable under CC BY-SA 4.0.
 
 #### Abstract (DE)
 
-Die Erdpuls OER-Sammlung umfasst fünf zielgruppenspezifische Lernführer, die in einem Lebendlabor und Makerspace-Garten entwickelt wurden. Die Sammlung fördert Bildung für nachhaltige Entwicklung durch einen phänomenologischen Ansatz — „Wahrnehmen vor Interpretieren" — bei dem Lernende Boden, Landschaft und Wirtschaft durch direkte sensorische Beobachtung begegnen, bevor sie konzeptionelle Rahmungen erhalten. Drei Schülerführer (Klassen 1–4, 5–8, 9–12) differenzieren das Programm nach Entwicklungsstand auf Basis anthroposophischer Entwicklungstheorie und des 4A-Pfades (Awareness, Acknowledgment, Attitude, Action). Ein Lehrerhandbuch unterstützt die Unterrichtsintegration und Lehrplanbezüge in Brandenburg. Ein Citizen-Science-Handbuch begleitet erwachsene Bürgerbeobachter bei der Beitragsleistung zu offenen Umweltbeobachtungsnetzen (openSenseMap, iNaturalist). Alle fünf Leitfäden integrieren Citizen-Science-Datenbeiträge, eine reziproke Tokenwirtschaft (UBECrc) sowie die Ausrichtung an allen 12 brandenburgischen BNE-Gestaltungskompetenzen. Die Sammlung ist derzeit auf Englisch verfügbar; deutsche und polnische Übersetzungen sind für Phase 3 geplant. Alle Materialien sind unter CC BY-SA 4.0 frei nachnutzbar.
+Die Erdpuls OER-Sammlung umfasst fünf zielgruppenspezifische Lernführer, die in einem Lebendlabor und Makerspace-Garten entwickelt wurden. Die Sammlung fördert Bildung für nachhaltige Entwicklung durch einen phänomenologischen Ansatz — „Wahrnehmen vor Interpretieren" — bei dem Lernende Boden, Landschaft und Wirtschaft durch direkte sensorische Beobachtung begegnen, bevor sie konzeptionelle Rahmungen erhalten. Drei Schülerführer (Klassen 1–4, 5–8, 9–12) differenzieren das Programm nach Entwicklungsstand auf Basis anthroposophischer Entwicklungstheorie und des 4A-Pfades (Awareness, Acknowledgment, Attitude, Action). Ein Lehrerhandbuch unterstützt die Unterrichtsintegration und Lehrplanbezüge in Brandenburg. Ein Citizen-Science-Handbuch begleitet erwachsene Bürgerbeobachter bei der Beitragsleistung zu offenen Umweltbeobachtungsnetzen (openSenseMap, iNaturalist). Alle fünf Leitfäden integrieren Citizen-Science-Datenbeiträge, eine reziproke Tokenwirtschaft (UBECrc) sowie die Ausrichtung an allen 12 brandenburgischen BNE-Gestaltungskompetenzen. Die Sammlung ist auf Englisch und Deutsch verfügbar; eine ukrainische Übersetzung ist in Arbeit (Leitfäden 01, 02 und 04 veröffentlicht); eine polnische Übersetzung ist geplant. Alle Materialien sind unter CC BY-SA 4.0 frei nachnutzbar.
 
 #### Abstract (PL)
 
-Kolekcja OER Erdpuls obejmuje pięć przewodników edukacyjnych dostosowanych do różnych grup odbiorców, opracowanych w żywym laboratorium i ogrodzie makerspace. Kolekcja wspiera edukację na rzecz zrównoważonego rozwoju poprzez podejście fenomenologiczne — „percepcja przed interpretacją" — w którym uczący się poznają glebę, krajobraz i wymianę ekonomiczną poprzez bezpośrednie doświadczenie zmysłowe, zanim otrzymają ramy pojęciowe. Trzy przewodniki uczniowskie (klasy 1–4, 5–8, 9–12) różnicują program według etapu rozwojowego, opierając się na antropozoficznej teorii rozwoju i ścieżce 4A (Awareness, Acknowledgment, Attitude, Action). Przewodnik dla nauczycieli wspiera integrację z programem nauczania i powiązania z brandenburgską podstawą programową. Podręcznik naukowca-obywatela wspiera dorosłych obserwatorów społecznościowych w wnoszeniu wkładu do otwartych sieci monitoringu środowiska (openSenseMap, iNaturalist). Wszystkie pięć przewodników integruje wkład danych citizen science, wzajemną ekonomię tokenową (UBECrc) oraz zgodność ze wszystkimi 12 brandenburskimi kompetencjami projektowymi BNE (Gestaltungskompetenzen). Kolekcja jest obecnie dostępna w języku angielskim; tłumaczenia na język niemiecki i polski są planowane w fazie 3. Wszystkie materiały są dostępne na zasadach CC BY-SA 4.0.
+Kolekcja OER Erdpuls obejmuje pięć przewodników edukacyjnych dostosowanych do różnych grup odbiorców, opracowanych w żywym laboratorium i ogrodzie makerspace. Kolekcja wspiera edukację na rzecz zrównoważonego rozwoju poprzez podejście fenomenologiczne — „percepcja przed interpretacją" — w którym uczący się poznają glebę, krajobraz i wymianę ekonomiczną poprzez bezpośrednie doświadczenie zmysłowe, zanim otrzymają ramy pojęciowe. Trzy przewodniki uczniowskie (klasy 1–4, 5–8, 9–12) różnicują program według etapu rozwojowego, opierając się na antropozoficznej teorii rozwoju i ścieżce 4A (Awareness, Acknowledgment, Attitude, Action). Przewodnik dla nauczycieli wspiera integrację z programem nauczania i powiązania z brandenburgską podstawą programową. Podręcznik naukowca-obywatela wspiera dorosłych obserwatorów społecznościowych w wnoszeniu wkładu do otwartych sieci monitoringu środowiska (openSenseMap, iNaturalist). Wszystkie pięć przewodników integruje wkład danych citizen science, wzajemną ekonomię tokenową (UBECrc) oraz zgodność ze wszystkimi 12 brandenburskimi kompetencjami projektowymi BNE (Gestaltungskompetenzen). Kolekcja jest dostępna w językach angielskim i niemieckim; trwa tłumaczenie na język ukraiński (przewodniki 01, 02 i 04 opublikowane); tłumaczenie na język polski jest planowane. Wszystkie materiały są dostępne na zasadach CC BY-SA 4.0.
+
+#### Abstract (UK)
+
+Колекція ВОР Erdpuls складається з п'яти навчальних посібників, диференційованих за аудиторією, розроблених у живій лабораторії та makerspace-саду. Колекція підтримує освіту для сталого розвитку через феноменологічний підхід — «сприйняття перед тлумаченням» — за якого учні зустрічаються з ґрунтом, ландшафтом та економічним обміном через безпосереднє чуттєве спостереження, перш ніж отримати концептуальні рамки. Три учнівські посібники (1–4, 5–8, 9–12 класи) диференціюють програму за стадією розвитку, спираючись на антропософські рамки та Шлях 4A (Awareness, Acknowledgment, Attitude, Action). Посібник для вчителів підтримує інтеграцію в клас та узгодження з навчальною програмою Бранденбургу. Посібник громадянського науковця підтримує дорослих спостерігачів спільноти у внеску до відкритих мереж моніторингу довкілля (openSenseMap, iNaturalist). Усі п'ять посібників інтегрують внесок даних громадянської науки, взаємну токенову економіку (UBECrc) та узгодження з усіма 12 бранденбурзькими компетентностями проєктування BNE (Gestaltungskompetenzen). Колекція доступна англійською та німецькою мовами; триває переклад українською (опубліковано посібники 01, 02 та 04); переклад польською заплановано. Усі матеріали вільно доступні для повторного використання на умовах CC BY-SA 4.0.
+
 
 #### Table of Contents — Five Guides
 
@@ -101,6 +107,10 @@ Bodenökologie, Umweltwissenschaften, Bildung für nachhaltige Entwicklung (BNE)
 
 Ekologia gleby, nauki o środowisku, edukacja dla zrównoważonego rozwoju (EZR/BNE), nauka obywatelska (citizen science), monitoring środowiska, obserwacja bioróżnorodności, uczenie się fenomenologiczne, ekonomia wzajemna, ekonomia tokenowa, podstawy blockchain, ekonomia społeczności, myślenie bioregionalne, geografia, ekologia krajobrazu, gleboznawstwo, kompetencje danych, Internet Rzeczy (IoT), otwarte dane, uczenie się oparte na miejscu, pedagogika antropozoficzna, transgraniczne kształcenie środowiskowe, teoria wspólnot.
 
+#### Subject Areas (UK — Предметні галузі)
+
+Екологія ґрунту, науки про довкілля, освіта зі сталого розвитку, громадянська наука, моніторинг довкілля, спостереження біорізноманіття, феноменологічне навчання, освіта для сталого розвитку (ESD/BNE), економіка взаємності, токенова економіка, грамотність щодо блокчейну, економіка спільноти, біорегіональне мислення, географія, ландшафтна екологія, ґрунтознавство, грамотність щодо даних, Інтернет речей (IoT), відкриті дані, навчання на основі місця, антропософська педагогіка, транскордонна екологічна освіта, теорія спільних надбань (commons).
+
 #### BNE Gestaltungskompetenz Dimensions Addressed
 
 All 12 sub-competencies of the Transfer 21 Gestaltungskompetenz framework are addressed across the collection:
@@ -133,7 +143,7 @@ All 12 sub-competencies of the Transfer 21 Gestaltungskompetenz framework are ad
 - **[TE]** `token_economy_living_guides.md`
 - **[QS]** `questions_to_the_soil_living_guides.md`
 - **[G01–G05]** OER Layer guides 01–05
-- **[MI]** `erdpuls_master_index_v1_2.md`
+- **[MI]** `erdpuls_master_index_EN_v1.4.md`
 
 
 * * *
@@ -146,7 +156,7 @@ All 12 sub-competencies of the Transfer 21 Gestaltungskompetenz framework are ad
 | **SDG 4** | Quality Education | **Primary** | Core purpose of all five OER guides. Full alignment to Brandenburg BNE Quality Catalog (86% of 69/69 criteria fully met). All 12 Transfer 21 Gestaltungskompetenzen explicitly mapped. Brandenburg Rahmenlehrplan alignment tables for primary, secondary, and upper secondary documented in full. 4A-Pathway (Awareness→Acknowledgment→Attitude→Action) serves as the overarching pedagogical framework across all five guides. [G01–G05; A, Appendix D; BQ] |
 | **SDG 13** | Climate Action | **Primary** | Continuous measurement of air temperature, humidity, CO₂, UV radiation via senseBox MCU, uploaded to openSenseMap at 60-second intervals. Citizen Scientist Handbook explicitly states spring phenological events have shifted "approximately 6–8 days per decade since the mid-20th century" and instructs participants to track first bloom/arrival dates as direct climate signal. Soil temperature time-series as climate proxy. Longitudinal soil observation record (monthly protocol, multi-year accumulation intended) documented as contribution to climate change monitoring. senseBox also supports CO₂ concentration monitoring via SCD30 sensor. [G05 Ch.3, Ch.7; G02 Phase 2; G03 Track A Phase 2; A Appendix A Q8] |
 | **SDG 15** | Life on Land | **Primary** | Thirteen-question soil observation protocol centers on soil as living system — with direct biodiversity counting (Life Count: 2-minute timed observation, organisms recorded individually), root architecture analysis, soil layer (horizon) investigation, and soil history reading. All species observations uploaded to iNaturalist/GBIF. Naturpark Schlaubetal explicitly described as a "reference site" and "relatively intact glacial landscape with high biodiversity value" for comparative monitoring. Monthly home observation protocol (G05 Ch.2) generates long-term phenological records. Bioregion mapping track includes walking transects with vegetation and soil transition documentation. [G01 Phase 1; G02 Phase 1; G03 Track A; G05 Ch.1–2; A Appendix A Q4, Q7; BI] |
-| **SDG 17** | Partnerships for the Goals | **Primary** | Collection licensed CC BY-SA 4.0 (open, remixable, trilingual). All sensor data published to openSenseMap (open, permanent, globally accessible). All species observations contributed to iNaturalist / GBIF. Open-source hardware (senseBox), open-source software (AGPL-3.0), open GIS tools (QGIS, OpenStreetMap, Copernicus). Explicit cross-border DE/PL participant group documented across all four appendix guide sets. Cross-border workshop format ("Eine Landschaft, Zwei Länder") specifically designed. Citizen science contribution described as joining "a network that 1,000+ German users connect to." [G05 Ch.1; G03 Track B; MI; BI cross-border guide; A Appendix C] |
+| **SDG 17** | Partnerships for the Goals | **Primary** | Collection licensed CC BY-SA 4.0 (open, remixable, multilingual). All sensor data published to openSenseMap (open, permanent, globally accessible). All species observations contributed to iNaturalist / GBIF. Open-source hardware (senseBox), open-source software (AGPL-3.0), open GIS tools (QGIS, OpenStreetMap, Copernicus). Explicit cross-border DE/PL participant group documented across all four appendix guide sets. Cross-border workshop format ("Eine Landschaft, Zwei Länder") specifically designed. Citizen science contribution described as joining "a network that 1,000+ German users connect to." [G05 Ch.1; G03 Track B; MI; BI cross-border guide; A Appendix C] |
 
 
 * * *
@@ -199,6 +209,10 @@ Bildung für nachhaltige Entwicklung, Bürgerwissenschaft, Bodenökologie, ortsb
 #### Keywords (PL — Słowa kluczowe)
 
 edukacja dla zrównoważonego rozwoju, nauka obywatelska, ekologia gleby, uczenie się oparte na miejscu, uczenie się fenomenologiczne, EZR, BNE, Brandenburgia, Müllrose, Naturpark Schlaubetal, senseBox, openSenseMap, iNaturalist, ekonomia tokenowa, ekonomia wzajemna, UBECrc, blockchain, otwarte dane, ścieżka 4A, kartografia bioregionalna, język wzorców, monitoring środowiska, makerspace, zrównoważony rozwój
+
+#### Keywords (UK — Ключові слова)
+
+освіта зі сталого розвитку, громадянська наука, екологія ґрунту, навчання на основі місця, феноменологічне навчання, освіта для сталого розвитку, ESD, BNE, Бранденбург, Müllrose, Naturpark Schlaubetal, senseBox, openSenseMap, iNaturalist, токенова економіка, економіка взаємності, UBECrc, блокчейн, відкриті дані, Шлях 4A, картування біорегіону, мова патернів, моніторинг довкілля, makerspace
 
 
 * * *
@@ -281,11 +295,12 @@ The Erdpuls program employs a phenomenological learning method in which sensory 
 | **Title (EN)** | Earth Detectives: First Encounters with Living Ground |
 | **Title (DE)** | Erddetektive: Erste Begegnungen mit lebendigem Boden |
 | **Title (PL)** | [TO BE COMPLETED BY AUTHOR — pending Phase 3 translation] |
+| **Title (UK)** | Земні детективи: перші зустрічі з живим ґрунтом |
 | **Audience role** | School students; visiting school classes with accompanying teachers |
 | **Educational level** | Primary (Lower Primary) |
 | **Age range** | 6–10 years |
 | **Grade range** | Klassen 1–4 (Lower Primary School) |
-| **Language(s)** | EN (current); DE, PL (pending Phase 3) |
+| **Language(s)** | EN, DE, UK (published); PL (planned) |
 | **Version** | 1.2 |
 | **Date** | February 2026 |
 | **License** | CC BY-SA 4.0 |
@@ -339,11 +354,12 @@ The Erdpuls program employs a phenomenological learning method in which sensory 
 | **Title (EN)** | Field Investigators: Measuring the Living World |
 | **Title (DE)** | Feldforscher: Die lebendige Welt messen |
 | **Title (PL)** | [TO BE COMPLETED BY AUTHOR — pending Phase 3 translation] |
+| **Title (UK)** | Польові дослідники: вимірюємо живий світ |
 | **Audience role** | School students; visiting school classes with accompanying teacher |
 | **Educational level** | Lower Secondary (Middle School) |
 | **Age range** | 11–14 years |
 | **Grade range** | Klassen 5–8 |
-| **Language(s)** | EN (current); DE, PL (pending Phase 3) |
+| **Language(s)** | EN, DE, UK (published); PL (planned) |
 | **Version** | 1.2 |
 | **Date** | February 2026 |
 | **License** | CC BY-SA 4.0 |
@@ -398,11 +414,12 @@ The Erdpuls program employs a phenomenological learning method in which sensory 
 | **Title (EN)** | Place as Laboratory: Research Methods for the Living World |
 | **Title (DE)** | Ort als Labor: Forschungsmethoden für die lebendige Welt |
 | **Title (PL)** | [TO BE COMPLETED BY AUTHOR — pending Phase 3 translation] |
+| **Title (UK)** | [TO BE COMPLETED BY AUTHOR — Ukrainian translation pending] |
 | **Audience role** | School students (Gymnasium / Oberschule); Projekttage; Facharbeit research groups |
 | **Educational level** | Upper Secondary |
 | **Age range** | 15–18 years |
 | **Grade range** | Klassen 9–12 |
-| **Language(s)** | EN (current); DE, PL (pending Phase 3) |
+| **Language(s)** | EN, DE (published); UK, PL (planned) |
 | **Version** | 1.2 |
 | **Date** | February 2026 |
 | **License** | CC BY-SA 4.0 |
@@ -456,11 +473,12 @@ The Erdpuls program employs a phenomenological learning method in which sensory 
 | **Title (EN)** | Bringing Your Class to the Living Laboratory |
 | **Title (DE)** | Mit der Klasse ins Lebendige Labor |
 | **Title (PL)** | [TO BE COMPLETED BY AUTHOR — pending Phase 3 translation] |
+| **Title (UK)** | Як привести ваш клас до Живої лабораторії |
 | **Audience role** | Classroom teachers; accompanying educators; school coordinators |
 | **Educational level** | Professional Development |
 | **Age range** | Adults |
 | **Grade range** | Applicable to all accompanying grade bands (Klassen 1–12) |
-| **Language(s)** | EN (current); DE (pending Phase 3 — highest priority for German OER platforms); PL (pending Phase 3) |
+| **Language(s)** | EN, DE, UK (published); PL (planned) |
 | **Version** | 1.2 |
 | **Date** | February 2026 |
 | **License** | CC BY-SA 4.0 |
@@ -506,11 +524,12 @@ The Erdpuls program employs a phenomenological learning method in which sensory 
 | **Title (EN)** | How to Monitor, Contribute, and Connect |
 | **Title (DE)** | Beobachten, Beitragen und Vernetzen |
 | **Title (PL)** | [TO BE COMPLETED BY AUTHOR — pending Phase 3 translation] |
+| **Title (UK)** | [TO BE COMPLETED BY AUTHOR — Ukrainian translation pending] |
 | **Audience role** | Adult citizen scientists; community members; home gardeners; environmental observers |
 | **Educational level** | Adult Education |
 | **Age range** | 18+ (adults) |
 | **Grade range** | N/A |
-| **Language(s)** | EN (current); DE, PL (pending Phase 3) |
+| **Language(s)** | EN, DE (published); UK, PL (planned) |
 | **Version** | 1.2 |
 | **Date** | February 2026 |
 | **License** | CC BY-SA 4.0 |
@@ -559,16 +578,16 @@ The Erdpuls program employs a phenomenological learning method in which sensory 
 | Zenodo Field | Value to Enter |
 |---|---|
 | **Upload type** | Educational resource |
-| **Title** | Erdpuls Learning Materials — From Seeds to Blockchain: A Trilingual OER Collection for Sustainability Literacy, Citizen Science, and Reciprocal Economics |
+| **Title** | Erdpuls Learning Materials — From Seeds to Blockchain: A Multilingual OER Collection for Sustainability Literacy, Citizen Science, and Reciprocal Economics |
 | **Authors** | Erdpuls — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics |
 | **Affiliation** | Erdpuls |
 | **Description** | Paste English Abstract from Section 1.2 above |
 | **License** | Creative Commons Attribution Share Alike 4.0 International |
 | **Keywords** | (paste EN keyword list from Section 1.5, comma-separated) |
-| **Language** | English (primary); German (pending); Polish (pending) |
+| **Language** | English and German (published); Ukrainian (in progress); Polish (planned) |
 | **Communities** | Suggest: `oer`, `citizen-science`, `education-for-sustainability`, `zenodo-community-germany` — [TO BE COMPLETED BY AUTHOR: verify community slugs before submission] |
 | **Related identifiers** | openSenseMap station URL: [TO BE COMPLETED BY AUTHOR]; Erdpuls website: [https://erdpuls.ubec.network](https://erdpuls.ubec.network) |
-| **References** | Brandenburg BNE Quality Catalog (MLUK Brandenburg, April 2023); Pattern Discovery Toolkit v1.1 (Erdpuls, February 2026) |
+| **References** | Brandenburg BNE Quality Catalog (MLUK Brandenburg, April 2023); Pattern Discovery Toolkit v1.3 (Erdpuls, February 2026) |
 | **DOI** | [POST-SUBMISSION — assigned by Zenodo after upload] |
 | **Access rights** | Open Access |
 | **Publication date** | 2026-02-01 (use first day of February 2026) |
@@ -589,7 +608,7 @@ The Erdpuls program employs a phenomenological learning method in which sensory 
 | **Titel (Title)** | Erdpuls Lernmaterialien — Von Samen zur Blockchain |
 | **Beschreibung (Description)** | Paste German Abstract from Section 1.2 above |
 | **Schlagwörter (Keywords)** | Paste DE keyword list from Section 1.5 |
-| **Sprache (inLanguage)** | de (primary for WLO), en, pl |
+| **Sprache (inLanguage)** | de (primary for WLO), en, uk; pl (planned) |
 | **Lizenz (license)** | CC BY-SA 4.0 — [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/) |
 | **Urheber / Herausgeber** | Erdpuls — Center for Sustainability Literacy, Citizen Science and Reciprocal Economics |
 | **educationalLevel** | Primarstufe (Guide 01); Sekundarstufe I (Guides 02); Sekundarstufe II (Guide 03); Berufliche Bildung / Erwachsenenbildung (Guide 04 and 05) |
@@ -602,7 +621,7 @@ The Erdpuls program employs a phenomenological learning method in which sensory 
 | **isPartOf** | Erdpuls Document Ecosystem v1.2 ([https://erdpuls.ubec.network](https://erdpuls.ubec.network)) |
 | **Quelle / URL** | [TO BE COMPLETED BY AUTHOR — Zenodo DOI after upload] |
 
-**Note:** WLO prefers German-language content. The Teacher's Guide DE translation is highest priority before WLO submission.
+**Note:** WLO prefers German-language content. The full German translation is now available; a Ukrainian translation is in progress (guides 01, 02, 04).
 
 
 * * *
@@ -618,7 +637,7 @@ The Erdpuls program employs a phenomenological learning method in which sensory 
 | **Education level(s)** | Lower Primary; Upper Primary; Middle School; High School; Vocational / Professional Education; Adult and Continuing Education |
 | **Material type** | Lesson Plan; Activity/Lab; Reference Material; Module |
 | **Primary user** | Student; Teacher; Other (Citizen Scientists) |
-| **Language** | English |
+| **Language** | English, German, Ukrainian (Polish planned) |
 | **License** | Creative Commons Attribution-ShareAlike |
 | **License version** | 4.0 |
 | **Standards alignment** | ESD for 2030 (UNESCO); Brandenburg BNE Quality Catalog; GreenComp (EU Sustainability Competence Framework) |
@@ -705,10 +724,27 @@ Kontakt: erdpuls@ubec.network | [https://erdpuls.ubec.network](https://erdpuls.u
 * * *
 
 
+### Attribution Block (UK)
+
+© 2025–2026 Michel Garand | Erdpuls — Центр грамотності зі сталого розвитку, громадянської науки та економіки взаємності.
+
+Ліцензовано на умовах [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.uk).
+
+Ви можете вільно поширювати та адаптувати цей матеріал з будь-якою метою, за умови належного зазначення авторства, надання посилання на ліцензію та зазначення про внесені зміни, а також поширення будь-яких адаптацій на умовах тієї самої ліцензії.
+
+Усі програмні компоненти, згадані в цьому документі, ліцензовано на умовах [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html).
+
+Контакт: erdpuls@ubec.network | [https://erdpuls.ubec.network](https://erdpuls.ubec.network)
+
+
+* * *
+
+
 # Changelog
 
 | Version | Date | Changes |
 |---|---|---|
+| 1.3 | July 2026 | Marked German translation complete (previously listed as Phase-3 pending). Added Ukrainian throughout: collection title, abstract, subject areas, keywords, attribution block, and per-document Title (UK) fields (guides 01, 02, 04 published; 03, 05 pending). "Trilingual" → "Multilingual". Per-document Language(s) fields refreshed. Internal cross-references corrected (master index → v1.4; Pattern Discovery Toolkit → v1.3; compilation footnote filenames). Platform checklists (Zenodo/WLO/OER Commons) language fields updated. Added project attribution line. |
 | 1.2 | February 2026 | Section 1.4 SDG Alignment: replaced placeholder with full evidence-based three-tier SDG table (8 confirmed SDGs, 2 pending author review). WLO checklist SDG field updated to confirmed list (SDG 3, 4, 6, 10, 11, 13, 15, 17). Evidence citations added to all SDG entries with document abbreviation key. |
 | 1.1 | February 2026 | Initial metadata package created from project documents |
 
@@ -716,4 +752,10 @@ Kontakt: erdpuls@ubec.network | [https://erdpuls.ubec.network](https://erdpuls.u
 * * *
 
 
-*This metadata package was compiled from verified content in the following project documents: `erdpuls_master_index_v1_2.md`, `01_learning_guide_grades_1-4_EN.md`, `02_learning_guide_grades_5-8_EN.md`, `03_learning_guide_grades_9-12_EN.md`, `04_teachers_guide_EN.md`, `05_citizen_scientist_handbook_EN.md`, `bne_quality_living_guides.md`, `pattern_discovery_toolkit_appendices.md`. All field values are derived from document content; fields requiring author input are clearly marked.*
+*This metadata package was compiled from verified content in the following project documents: `erdpuls_master_index_EN_v1.4.md`, `01_learning_guide_grades_1-4_EN.md`, `02_learning_guide_grades_5-8_EN.md`, `03_learning_guide_grades_9-12_EN.md`, `04_teachers_guide_EN.md`, `05_citizen_scientist_handbook_EN.md`, `bne_quality_living_guides_EN_v1.2.md`, `pattern_discovery_toolkit_appendices_EN_v1.2.md`. All field values are derived from document content; fields requiring author input are clearly marked.*
+
+
+* * *
+
+
+*This project uses the services of Claude and Anthropic PBC to inform our decisions and recommendations. This project was made possible with the assistance of Claude and Anthropic PBC.*
