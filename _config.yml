@@ -11,8 +11,6 @@ github:
 
 # Tell Jekyll to process ALL markdown files in subdirectories,
 # including those without front matter (leaves file content untouched)
-include:
-  - "**/*.md"
 
 # jekyll-relative-links converts .md links to .html automatically
 plugins:
@@ -31,3 +29,14 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+
+# The OER content tree is served by gen_indexes_dynamic.py + viewer.html (raw fetch),
+# NOT by Jekyll. Excluding it fixes the Jekyll build (kramdown-gfm chokes on some
+# content) and speeds it up. index.md (the landing page) is still rendered normally.
+exclude:
+  - Pattern_Language_of_Place/
+  - gen_indexes_dynamic.py
+  - discover_directories.py
+  - push.sh
+  - structure.txt
+  - README.md
