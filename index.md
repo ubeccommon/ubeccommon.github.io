@@ -26,7 +26,7 @@ Browse the full OER document repository for the **Erdpuls** sustainability educa
 
 ➡️ **[Open the OER Repository Index](/Pattern_Language_of_Place/)**
 
-Includes materials in 🇩🇪 Deutsch · 🇬🇧 English · 🇵🇱 Polski
+Includes materials in 🇩🇪 Deutsch · 🇬🇧 English · 🇵🇱 Polski · 🇺🇦 Українська
 
 ## Get Involved
 - Start a local living lab
