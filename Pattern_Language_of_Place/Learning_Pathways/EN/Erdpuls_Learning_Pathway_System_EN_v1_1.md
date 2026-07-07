@@ -5,7 +5,7 @@ author: "Michel Garand"
 date: "February 2026"
 version: "1.1"
 lang: en
-license: "CC BY-NC-SA 4.0"
+license: "CC BY-SA 4.0"
 project: "Erdpuls OER Collection"
 status: "Concept Document — for review and programme development"
 ---
@@ -19,7 +19,7 @@ status: "Concept Document — for review and programme development"
 | **Version** | 1.1 — February 2026 |
 | **Status** | Concept Document — for review and programme development |
 | **Author** | Erdpuls |
-| **License** | CC BY-NC-SA 4.0 |
+| **License** | CC BY-SA 4.0 |
 | **Contact** | erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network) |
 | **Mission** | *Ein Ort, um wieder Mensch zu werden. / A place to become human again.* |
 
@@ -783,9 +783,9 @@ The cross-group convergence zones are the programme's highest-value learning mom
 
 © 2025–2026 Michel Garand | Erdpuls — Center for Sustainability Literacy, Citizen Science & Reciprocal Economics
 
-Licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-You are free to share and adapt this material for non-commercial purposes, provided you give appropriate credit, provide a link to the license, indicate if changes were made, and distribute any adaptations under the same license.
+You are free to share and adapt this material, provided you give appropriate credit, provide a link to the license, indicate if changes were made, and distribute any adaptations under the same license.
 
 All software components referenced in this document are licensed under the [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html)
 

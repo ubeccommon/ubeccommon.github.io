@@ -5,7 +5,7 @@ author: "Michel Garand"
 date: "Luty 2026"
 version: "1.1"
 lang: pl
-license: "CC BY-NC-SA 4.0"
+license: "CC BY-SA 4.0"
 project: "Erdpuls OER Collection"
 status: "Dokument koncepcyjny — do przeglądu i opracowania programu"
 ---
@@ -19,7 +19,7 @@ status: "Dokument koncepcyjny — do przeglądu i opracowania programu"
 | **Wersja** | 1.1 — Luty 2026 |
 | **Status** | Dokument koncepcyjny — do przeglądu i opracowania programu |
 | **Autor** | Erdpuls |
-| **Licencja** | CC BY-NC-SA 4.0 |
+| **Licencja** | CC BY-SA 4.0 |
 | **Kontakt** | erdpuls@ubec.network · [https://erdpuls.ubec.network](https://erdpuls.ubec.network) |
 | **Misja** | *Ein Ort, um wieder Mensch zu werden. / A place to become human again. / Miejsce, by znów stać się człowiekiem.* |
 
@@ -778,9 +778,9 @@ Strefy zbieżności między grupami są momentami uczenia się o najwyższej war
 
 © 2025–2026 Michel Garand | Erdpuls — Centrum Edukacji na rzecz Zrównoważonego Rozwoju, Nauki Obywatelskiej i Wzajemnej Ekonomii
 
-Licencjonowane na warunkach [Creative Commons Uznanie autorstwa-Użycie niekomercyjne-Na tych samych warunkach 4.0 Międzynarodowe (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Licencjonowane na warunkach [Creative Commons Uznanie autorstwa-Na tych samych warunkach 4.0 Międzynarodowe (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Możesz swobodnie udostępniać i adaptować ten materiał do celów niekomercyjnych, pod warunkiem właściwego przypisania autorstwa, podania linku do licencji, wskazania wprowadzonych zmian i dystrybucji adaptacji na tej samej licencji.
+Możesz swobodnie udostępniać i adaptować ten materiał, pod warunkiem właściwego przypisania autorstwa, podania linku do licencji, wskazania wprowadzonych zmian i dystrybucji adaptacji na tej samej licencji.
 
 Wszystkie komponenty oprogramowania, do których odnosi się niniejszy dokument, są licencjonowane na warunkach [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html)
 
