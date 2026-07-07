@@ -1,1 +1,3 @@
 *.bak.*
+*.PARTIAL_*.md
+write_*.sh
