@@ -617,7 +617,7 @@ export default function LearningPathwayMaps() {
 
         {/* Footer */}
         <div className="text-center text-xs text-gray-400 pb-4">
-          <div>© 2025–2026 Erdpuls · CC BY-NC-SA 4.0</div>
+          <div>© 2025–2026 Erdpuls · CC BY-SA 4.0</div>
           <div className="mt-0.5">erdpuls@ubec.network · https://erdpuls.ubec.network</div>
         </div>
       </div>
