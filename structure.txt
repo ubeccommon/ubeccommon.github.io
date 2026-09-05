@@ -1,6 +1,6 @@
 Project Structure: oer/
-Generated:         2026-09-05 18:36:48
-Directories: 40  |  Files: 199
+Generated:         2026-09-05 18:47:34
+Directories: 42  |  Files: 206
 ============================================================
 
 oer/
@@ -48,6 +48,12 @@ oer/
 │   │   │   │   ├── DE
 │   │   │   │   │   └── .gitkeep
 │   │   │   │   ├── EN
+│   │   │   │   │   ├── pdf
+│   │   │   │   │   │   ├── advocacy_case_history_resonance_EN_v0_4.pdf
+│   │   │   │   │   │   ├── advocacy_guide_trimtabs_EN_v0_5.pdf
+│   │   │   │   │   │   ├── advocacy_method_trimtab_EN_v0_4.pdf
+│   │   │   │   │   │   ├── advocacy_pattern_language_EN_v0_1.pdf
+│   │   │   │   │   │   └── advocacy_reference_methods_record_EN_v0_4.pdf
 │   │   │   │   │   ├── advocacy_case_history_resonance_EN_v0_4.md
 │   │   │   │   │   ├── advocacy_guide_trimtabs_EN_v0_5.md
 │   │   │   │   │   ├── advocacy_method_trimtab_EN_v0_4.md
@@ -56,6 +62,9 @@ oer/
 │   │   │   │   ├── PL
 │   │   │   │   │   └── .gitkeep
 │   │   │   │   └── UK
+│   │   │   │       ├── pdf
+│   │   │   │       │   ├── advocacy_guide_trimtabs_UK_v0_5.pdf
+│   │   │   │       │   └── advocacy_pattern_language_UK_v0_2.pdf
 │   │   │   │       ├── advocacy_guide_trimtabs_UK_v0_5.md
 │   │   │   │       └── advocacy_pattern_language_UK_v0_2.md
 │   │   │   ├── audit
