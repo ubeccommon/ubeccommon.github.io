@@ -1,6 +1,6 @@
 Project Structure: oer/
-Generated:         2026-09-05 18:47:34
-Directories: 42  |  Files: 206
+Generated:         2026-09-05 19:05:27
+Directories: 42  |  Files: 210
 ============================================================
 
 oer/
@@ -63,9 +63,13 @@ oer/
 │   │   │   │   │   └── .gitkeep
 │   │   │   │   └── UK
 │   │   │   │       ├── pdf
+│   │   │   │       │   ├── advocacy_case_history_resonance_UK_v0_1.pdf
 │   │   │   │       │   ├── advocacy_guide_trimtabs_UK_v0_5.pdf
+│   │   │   │       │   ├── advocacy_method_trimtab_UK_v0_1.pdf
 │   │   │   │       │   └── advocacy_pattern_language_UK_v0_2.pdf
+│   │   │   │       ├── advocacy_case_history_resonance_UK_v0_1.md
 │   │   │   │       ├── advocacy_guide_trimtabs_UK_v0_5.md
+│   │   │   │       ├── advocacy_method_trimtab_UK_v0_1.md
 │   │   │   │       └── advocacy_pattern_language_UK_v0_2.md
 │   │   │   ├── audit
 │   │   │   │   └── index.html
