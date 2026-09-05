@@ -12,6 +12,7 @@ Called automatically by GitHub Actions on every push.
 
 Version: 1.1.0
 Changelog:
+    1.2.2 - Added 'advocacy' to DIR_LABELS (advocacy strand under oer/docs).
     1.2.1 - Renamed site logo/footer text "Erdpuls" -> "Erdpuls".
     1.2.0 - Added language switcher + hreflang alternates + per-directory
             <html lang> for directories inside a language subtree.
@@ -25,7 +26,7 @@ decisions and recommendations. This project was made possible with the
 assistance of Claude and Anthropic PBC.
 """
 
-__version__ = "1.2.1"
+__version__ = "1.2.2"
 
 import os
 import argparse
@@ -69,6 +70,7 @@ DIR_LABELS = {
     'soil_art':                 '🎨 Soil Art',
     'soil_questions':           '❓ Soil Questions',
     'soil':                     '🌱 Soil',
+    'advocacy':                 '📣 Advocacy',
     'audit':                    '✅ Audit',
     'pdf':                      '📕 PDF',
     'docs':                     '📚 Docs',

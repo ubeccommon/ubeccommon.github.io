@@ -1,12 +1,14 @@
-Project Structure: ubeccommon.github.io/
-Generated:         2026-03-01 06:26:24
-Directories: 30  |  Files: 153
+Project Structure: oer/
+Generated:         2026-09-05 16:56:45
+Directories: 36  |  Files: 195
 ============================================================
 
-ubeccommon.github.io/
+oer/
 ├── .github
 │   └── workflows
 │       └── generate-indexes.yml
+├── __pycache__
+│   └── gen_indexes_dynamic.cpython-312.pyc
 ├── Pattern_Language_of_Place
 │   ├── Learning_Pathways
 │   │   ├── DE
@@ -25,10 +27,29 @@ ubeccommon.github.io/
 │   │   │   ├── Erdpuls_Learning_Pathway_System_EN_v1_1.md
 │   │   │   └── index.html
 │   │   ├── PL
+│   │   │   ├── pdf
+│   │   │   │   ├── Erdpuls_Learning_Pathway_System_PL_v1_1.pdf
+│   │   │   │   └── index.html
+│   │   │   ├── Erdpuls_Learning_Pathway_Maps_PL.html
+│   │   │   ├── Erdpuls_Learning_Pathway_System_PL_v1_1.md
+│   │   │   └── index.html
+│   │   ├── UK
+│   │   │   ├── pdf
+│   │   │   │   ├── Erdpuls_Learning_Pathway_System_UK_v1_1.pdf
+│   │   │   │   └── index.html
+│   │   │   ├── Erdpuls_Learning_Pathway_Maps_UK.html
+│   │   │   ├── Erdpuls_Learning_Pathway_Maps_UK.jsx
+│   │   │   ├── Erdpuls_Learning_Pathway_System_UK_v1_1.md
 │   │   │   └── index.html
 │   │   └── index.html
 │   ├── oer
 │   │   ├── docs
+│   │   │   ├── advocacy
+│   │   │   │   ├── advocacy_case_history_resonance_EN_v0_4.md
+│   │   │   │   ├── advocacy_guide_trimtabs_UK_EN_v0_5.md
+│   │   │   │   ├── advocacy_method_trimtab_EN_v0_4.md
+│   │   │   │   ├── advocacy_pattern_language_EN_v0_1.md
+│   │   │   │   └── advocacy_reference_methods_record_EN_v0_4.md
 │   │   │   ├── audit
 │   │   │   │   └── index.html
 │   │   │   ├── DE
@@ -70,7 +91,7 @@ ubeccommon.github.io/
 │   │   │   │   │   │   └── index.html
 │   │   │   │   │   ├── Erdpuls_Lernpfadkarten_DE.html
 │   │   │   │   │   └── index.html
-│   │   │   │   ├── 00_METADATA_PACKAGE_DE_v1_2.md
+│   │   │   │   ├── 00_METADATA_PACKAGE_DE_v1_3.md
 │   │   │   │   ├── 01_learning_guide_grades_1-4_DE.md
 │   │   │   │   ├── 02_learning_guide_grades_5-8_DE.md
 │   │   │   │   ├── 03_learning_guide_grades_9-12_DE.md
@@ -125,7 +146,7 @@ ubeccommon.github.io/
 │   │   │   │   │   │   ├── appendix_a_questions_to_the_soil_guide_05_crossborder_EN_v1.2.md
 │   │   │   │   │   │   └── index.html
 │   │   │   │   │   └── index.html
-│   │   │   │   ├── 00_METADATA_PACKAGE_EN_v1_2.md
+│   │   │   │   ├── 00_METADATA_PACKAGE_EN_v1_3.md
 │   │   │   │   ├── 01_learning_guide_grades_1-4_EN.md
 │   │   │   │   ├── 02_learning_guide_grades_5-8_EN.md
 │   │   │   │   ├── 03_learning_guide_grades_9-12_EN.md
@@ -163,10 +184,28 @@ ubeccommon.github.io/
 │   │   │   │   ├── munsell_bodenfarben.xlsx
 │   │   │   │   ├── Soil_Art_Painting.pdf
 │   │   │   │   └── SoilPigments_PhysicsConcept_EN.md
+│   │   │   ├── UK
+│   │   │   │   ├── 00_METADATA_PACKAGE_UK_v1_3.md
+│   │   │   │   ├── 01_learning_guide_grades_1-4_UK.md
+│   │   │   │   ├── 02_learning_guide_grades_5-8_UK.md
+│   │   │   │   ├── 03_learning_guide_grades_9-12_UK.md
+│   │   │   │   ├── 04_teachers_guide_UK.md
+│   │   │   │   ├── 05_citizen_scientist_handbook_UK.md
+│   │   │   │   ├── bioregion_mapping_living_guides_UK_v1.2.md
+│   │   │   │   ├── bne_quality_living_guides_UK_v1.2.md
+│   │   │   │   ├── erdpuls_master_index_UK_v1.4.md
+│   │   │   │   ├── facilitator_implementation_handbook_UK_v1.2.md
+│   │   │   │   ├── index.html
+│   │   │   │   ├── pattern_discovery_toolkit_appendices_UK_v1.2.md
+│   │   │   │   ├── pattern_discovery_toolkit_UK_v1_3.md
+│   │   │   │   ├── pattern_language_assembly_guide_UK_v1.2.md
+│   │   │   │   ├── proxemic_integration_UK_v1.2.md
+│   │   │   │   ├── questions_to_the_soil_living_guides_UK_v1.2.md
+│   │   │   │   └── token_economy_living_guides_UK_v1.2.md
 │   │   │   └── index.html
 │   │   ├── standards
 │   │   │   ├── ERDPULS_CLAUDE_PROMPT_v1_2.md
-│   │   │   ├── ERDPULS_MARKDOWN_STANDARD_v1_2.md
+│   │   │   ├── ERDPULS_MARKDOWN_STANDARD_v1_3.md
 │   │   │   ├── fix_erdpuls_markdown.py
 │   │   │   ├── index.html
 │   │   │   └── md_to_pdf.py
@@ -178,6 +217,7 @@ ubeccommon.github.io/
 │   │   ├── Erdpuls_Status_Report_Feb2026.md
 │   │   └── index.html
 │   └── index.html
+├── .gitignore
 ├── _config.yml
 ├── discover_directories.py
 ├── gen_indexes_dynamic.py
@@ -185,5 +225,13 @@ ubeccommon.github.io/
 ├── index_md_addition.md
 ├── LICENSE
 ├── push.sh
+├── relicense_learning_pathway_v1.py
 ├── structure.txt
-└── viewer.html
+├── viewer.html
+├── write_appendices_UK.sh
+├── write_bio_UK.sh
+├── write_bne_UK.sh
+├── write_pattern_discovery_toolkit_UK.sh
+├── write_proxemic_UK.sh
+├── write_soil_UK.sh
+└── write_tok_UK.sh
