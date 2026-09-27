@@ -10,8 +10,12 @@ Usage:
 
 Called automatically by GitHub Actions on every push.
 
-Version: 1.3.0
+Version: 1.3.1
 Changelog:
+    1.3.1 - Carpathian OER Commons: label for the seventh module group,
+            settlement, shown as "Open Hamlet"; labels for the
+            patterns/ and narrative/ folders of the place's pattern
+            language.
     1.3.0 - Per-collection branding: pages under Carpathian_OER_Commons/
             carry "Soil and Peace" in title, logo, and footer; all other
             pages keep "Erdpuls". Added DIR_LABELS for the Carpathian OER
@@ -31,7 +35,7 @@ decisions and recommendations. This project was made possible with the
 assistance of Claude and Anthropic PBC.
 """
 
-__version__ = "1.3.0"
+__version__ = "1.3.1"
 
 import os
 import argparse
@@ -94,6 +98,9 @@ DIR_LABELS = {
     'land':                     '🌳 Land, Forest, Food',
     'programme':                '🧭 Programme',
     'organisation':             '🤝 Organisation',
+    'settlement':               '🏘️ Open Hamlet',
+    'patterns':                 '🧵 Patterns',
+    'narrative':                '📜 Narrative',
 }
 
 # Per-collection branding: first path segment -> (brand, subtitle, icon).
