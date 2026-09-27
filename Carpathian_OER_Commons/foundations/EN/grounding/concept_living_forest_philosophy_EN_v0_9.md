@@ -3,7 +3,7 @@ title: "The Eco-Spiritual Philosophy of the Living Forest"
 subtitle: "Forest School Concept — Co-Created — 2026"
 author: "Michel Garand with the host household"
 date: "2026-09-27"
-version: "v0.8"
+version: "v0.9"
 lang: "en"
 license: "CC BY-SA 4.0"
 project: "Carpathian OER Commons"
@@ -18,8 +18,14 @@ named, dated, counted, or placed; all programme description is
 standing-format and undated. Points of Hutsul practice are marked [for the
 elders]: they wait on the elders to confirm, correct, or withhold them.*
 
-*v0.8, 2026-09-27: prepared for publication — Hutsul points marked for the
-elders; the opening line of Section VI removed.*
+*v0.9, 2026-09-27: after the source check and stress tests of the
+companion survey — the peoples of the Urals and Siberia named by their own
+lands and held as company, not blood kin; the Khanty and Mansi bear
+festival no longer placed in the valley's own world; the Japanese way and
+the teaching of the generations to come stated as the sources give them;
+three words that read as ritual practice made plain. v0.8: prepared for
+publication — Hutsul points marked for the elders; the opening line of
+Section VI removed.*
 
 *This concept is co-created, and so is this text. Its Hutsul heart — the
 worldview, the grief-forms, the tenets' deepest roots — comes from the
@@ -84,39 +90,38 @@ defeated. From this the school draws its boldest medicine: grief
 transformed through archaic games, polyphonic singing, ritual dance, and
 the celebration of the eternal cycle of life. [for the elders]
 
-**The ways of the Indigenous peoples of Turtle Island** — the many nations
-of North America, each distinct, whose publicly shared teachings the
-school receives with gratitude and by name. From the Haudenosaunee: the
-Thanksgiving Address, words of gratitude spoken before all else until the
-minds of the gathered are one, and the Seventh Generation principle, every
-decision weighed for the children of children not yet born. From the
+**The ways of the Indigenous nations of North America** — many nations,
+each distinct, whose publicly shared teachings the school receives with
+gratitude and by name. From the Haudenosaunee: the Thanksgiving Address,
+words of gratitude spoken before all else until the minds of the gathered
+are one, and decisions weighed for the generations yet unborn. From the
 Lakota: *mitákuye oyás'iŋ* — all my relations — the whole living world
-named as family. From the Potawatomi teaching of the Honourable Harvest:
-never take the first, never take more than half, ask permission, use
-everything taken, give a gift in return. What the school draws: its
-morning circle of gratitude, its planting for children who will never meet
-the planters, its refusal of the word "wilderness," and its ethic for
-every act of taking all stand in deep kinship with these ways — a kinship
-the school names openly and with respect. The companion survey, *The
-Forest in the World's Wisdom*, holds the fuller account.
+named as family. From the Honourable Harvest, as taught by the Potawatomi
+botanist Robin Wall Kimmerer: never take the first, never take more than
+half, ask permission, use everything taken, give a gift in return. What
+the school draws: its morning circle of gratitude, its planting for
+children who will never meet the planters, its refusal of the word
+"wilderness," and its ethic for every act of taking stand beside these
+ways, credited to them — a debt the school names openly and with respect.
+The companion survey, *The Forest in the World's Wisdom*, holds the fuller
+account.
 
-**The old ways of Europe's north and east, and the peoples of the Urals
-and beyond** stand nearest of all in blood and fate. The Baltic peoples
-kept a whole cosmology alive in song — the dainas — and in living memory
-faced down an empire singing; the Mari of the middle Volga still hold
-Europe's last openly practised grove-faith; the Khanty and Mansi, far kin
-of the Finns and Hungarians, answer the gravest occasions with nights of
-songs, stories, and games — the same deep shape as the valley's own
-vigils, arising at the other end of the Finno-Ugric world; and in the
-Bashkir epic the hero gives the water of life to the land itself, his body
-become the Ural Mountains. These are named as peoples, never empires —
-many survived the same power Ukraine resists — and the companion survey
-holds their full account.
+**The old ways of Europe's north and east, and of the peoples of the Urals
+and Siberia,** stand beside the valley as company. The Baltic peoples kept
+a whole cosmology alive in song — the dainas — and in living memory sang
+their way back to independence; the Mari of Mari El still keep their
+sacred groves in the open; the Khanty and Mansi of the Ob answer the
+killing of a bear with days and nights of sacred song and story, a
+resemblance to the valley's own vigils; and in the Bashkir epic of
+Bashkortostan the hero gives the water of life to the land itself, and the
+stones heaped on his grave became the Ural Mountains. These are named as
+peoples, in their own lands, never as an empire, and the companion survey
+holds their fuller account.
 
-**The Japanese forest way** — nature as sacred space, and shinrin-yoku,
-forest bathing, as cleansing of body and mind — gives the school its
-practice of sensory immersion: silent meditative walks, trees met as
-living, feeling beings capable of absorbing pain.
+**The Japanese forest way** — nature as sacred space, alive with kami,
+and, since 1982, shinrin-yoku, forest bathing, quiet time among trees —
+gives the school its practice of sensory immersion: silent walks, the
+trees met as living beings.
 
 **The Daoist way** — the living flow of things, naturalness, action
 through non-striving — gives the school its manner: learning through
@@ -223,12 +228,12 @@ each child in their own hands, at their own pace, on native soil.
 
 The highlands know something the clinics are only now learning: grief that
 stays in the body must leave through the body. And the valley is not alone
-in knowing it: at the far end of the Finno-Ugric world, the bear festival
-of the Khanty and Mansi answers awe and grief with nights of games and
-song, and in living memory the Baltic peoples faced down an empire singing
-— and won. From the ancestral tradition in which community defied despair
-together through night-long vigil, game, and song [for the elders], the
-school draws its forms for releasing trauma rather than suppressing it:
+in knowing it: among the Khanty and Mansi of the Ob, the bear festival
+answers awe and death with days and nights of sacred song and story, and
+in living memory the Baltic peoples sang their way back to independence.
+From the ancestral tradition in which community defied despair together
+through night-long vigil, game, and song [for the elders], the school
+draws its forms for releasing trauma rather than suppressing it:
 
 - **Singing out the pain.** Polyphonic singing and traditional lament let
   trapped grief and terror leave the body through breath and shared
@@ -237,11 +242,11 @@ school draws its forms for releasing trauma rather than suppressing it:
   what war froze into the muscles, restoring the body's power and joy in
   movement.
 - **Songs that bless.** Sessions close with bright, rising traditional
-  songs — the old incantations of destiny turned toward life, joy, and the
-  child's own future.
-- **The triumph of life.** As the ancestors defied death around the ritual
-  fire, the children learn in their bones what the tradition always
-  taught: darkness passes; life endures.
+  songs — old songs of blessing turned toward life, joy, and the child's
+  own future.
+- **The triumph of life.** As the ancestors defied death around the fire,
+  the children learn in their bones what the tradition always taught:
+  darkness passes; life endures.
 
 Two hands hold these forms together, always: the tradition-bearers of the
 valley, who carry the songs, dances, and games and judge their fitting
@@ -320,17 +325,19 @@ any belief, or none, walks the same forest and is equally received. What
 it keeps of religion is what religion itself once drew from the forest:
 reverence, threshold, community, song, and the practice of belonging to
 something greater and living. It is a faith measured only in action — and
-its only sacrament is care.
+its first duty is care.
 
 * * *
 
 ## Release record
 
 - **Gate 1:** 2026-09-27, the household, as the second hand of this text,
-  recorded by Michel Garand — for publication online as a working draft,
-  open to co-creation and to change.
+  recorded by Michel Garand — v0.9, revised after the stress tests, for
+  publication online as a working draft, open to co-creation and to
+  change.
 - **Wartime review:** 2026-09-27, Michel Garand — names Soil and Peace and
-  no place; programme described in standing format only; accepted.
+  no place; programme described in standing format only; the peoples of
+  the Urals and Siberia named by their own lands; accepted.
 
 * * *
 
