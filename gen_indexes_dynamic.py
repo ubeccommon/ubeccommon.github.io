@@ -10,8 +10,10 @@ Usage:
 
 Called automatically by GitHub Actions on every push.
 
-Version: 1.3.1
+Version: 1.3.2
 Changelog:
+    1.3.2 - Carpathian OER Commons: label for the foundations/ folder,
+            which holds the foundations paper of the collection.
     1.3.1 - Carpathian OER Commons: label for the seventh module group,
             settlement, shown as "Open Hamlet"; labels for the
             patterns/ and narrative/ folders of the place's pattern
@@ -35,7 +37,7 @@ decisions and recommendations. This project was made possible with the
 assistance of Claude and Anthropic PBC.
 """
 
-__version__ = "1.3.1"
+__version__ = "1.3.2"
 
 import os
 import argparse
@@ -89,6 +91,7 @@ DIR_LABELS = {
     'Learning_Pathways':        '🗺️ Learning Pathways',
     'Pattern_Language_of_Place':'🏛️ Pattern Language of Place',
     'Carpathian_OER_Commons':   '🌲 Carpathian OER Commons',
+    'foundations':              '🌿 Foundations',
     'modules':                  '🧩 Modules',
     'drawings':                 '✏️ Drawings',
     'data':                     '📈 Data',
