@@ -3,7 +3,7 @@ title: "Carpathian OER Commons — Foundations"
 subtitle: "Background, Philosophy, and Concept of the Commons"
 author: "Michel Garand"
 date: "2026-09-27"
-version: "v0.2"
+version: "v0.3"
 lang: "en"
 license: "CC BY-SA 4.0"
 project: "Carpathian OER Commons"
@@ -25,13 +25,10 @@ front of all three and replaces none of them. It is published as a working
 draft, so that it can be changed in the open by the people it describes
 and the people who use it; nothing in it is carved in stone.*
 
-*Two kinds of sentence run through it and are kept apart. Some state a
-conviction — the ground the work stands on. Others state what has been
-built, measured, or checked. A conviction is never offered here as a
-result. Section 3 says where the line runs; Section 8 says where each
-conviction stands against the evidence today.* *v0.2, 2026-09-27: the
-grounding documents are published beside this paper, in grounding/;
-Sections 3 and 6 say so.*
+*v0.3, 2026-09-27: Section 6 names the survey's traditions as those the
+practice here learns from, in line with the survey after its source check.
+v0.2: the grounding documents are published beside this paper, in
+grounding/; Sections 3 and 6 say so.*
 
 * * *
 
@@ -453,9 +450,9 @@ those passages are marked for the elders and wait on their word; nothing
 in them is stated as confirmed until the elders have spoken.
 
 **The world's traditions.** The comparative survey behind the philosophy
-names traditions from the Baltic to Aotearoa as kin to the practice here.
-The commons names a tradition by its people, never practises it as its
-own, and never uses it as evidence. That a shape recurs across many
+names traditions from the Baltic to Aotearoa that the practice here learns
+from. The commons names a tradition by its people, never practises it as
+its own, and never uses it as evidence. That a shape recurs across many
 traditions says something about people. It does not show that a method
 works.
 
@@ -546,9 +543,10 @@ same way, with both lines below dated again.
 
 - **Gate 1:** 2026-09-27, the household, recorded by Michel Garand — for
   publication online as a working draft, open to co-creation and to
-  change; v0.2 with the grounding documents published beside it.
+  change; v0.3, one wording in Section 6 aligned with the survey.
 - **Wartime review:** 2026-09-27, Michel Garand — the paper names Michel
-  Garand, Soil and Peace, UBEC, and Erdpuls, and no place; accepted.
+  Garand, Soil and Peace, UBEC, and Erdpuls, and no place; accepted for
+  v0.3.
 
 * * *
 
