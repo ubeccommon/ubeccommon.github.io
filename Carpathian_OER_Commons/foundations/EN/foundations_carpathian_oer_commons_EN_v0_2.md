@@ -3,7 +3,7 @@ title: "Carpathian OER Commons — Foundations"
 subtitle: "Background, Philosophy, and Concept of the Commons"
 author: "Michel Garand"
 date: "2026-09-27"
-version: "v0.1"
+version: "v0.2"
 lang: "en"
 license: "CC BY-SA 4.0"
 project: "Carpathian OER Commons"
@@ -29,7 +29,9 @@ and the people who use it; nothing in it is carved in stone.*
 conviction — the ground the work stands on. Others state what has been
 built, measured, or checked. A conviction is never offered here as a
 result. Section 3 says where the line runs; Section 8 says where each
-conviction stands against the evidence today.*
+conviction stands against the evidence today.* *v0.2, 2026-09-27: the
+grounding documents are published beside this paper, in grounding/;
+Sections 3 and 6 say so.*
 
 * * *
 
@@ -150,10 +152,10 @@ on — and the honesty to name where each one grew.
 The documents this paper draws on speak in two registers. The grounding
 documents — a philosophy of the living forest, written by Michel Garand
 with the host household; a comparative survey of spiritual traditions; the
-programme proposal — speak from conviction. They are held in the project's
-knowledge, pending the household's Gate 1, and none of them is published.
-The guide speaks from measurement. The commons needs both, and neither may
-borrow the other's authority.
+programme proposal — speak from conviction. They are published beside this
+paper, in grounding/, as working drafts open to co-creation. The guide
+speaks from measurement. The commons needs both, and neither may borrow
+the other's authority.
 
 **Held as ground.** Four convictions, stated as convictions:
 
@@ -447,8 +449,8 @@ enclosed homestead (ґражда) and the outlying group of homesteads (кут),
 the polonyna and its season, the local sense of toloka, songs, dances, and
 the customs of mourning are for the elders to confirm, correct, or
 withhold [for the elders]. Where the grounding documents draw on them,
-those passages wait on the elders' consent and do not enter the guide
-before it.
+those passages are marked for the elders and wait on their word; nothing
+in them is stated as confirmed until the elders have spoken.
 
 **The world's traditions.** The comparative survey behind the philosophy
 names traditions from the Baltic to Aotearoa as kin to the practice here.
@@ -538,12 +540,13 @@ ownership before anyone lives on the site.
 ## 10. Release record
 
 This paper is released with the guide, from foundations/, as a working
-draft. It is changed as the work goes on, in the open, and each new
-version is released the same way, with both lines below dated again.
+draft, with the grounding documents beside it in grounding/. It is changed
+as the work goes on, in the open, and each new version is released the
+same way, with both lines below dated again.
 
 - **Gate 1:** 2026-09-27, the household, recorded by Michel Garand — for
   publication online as a working draft, open to co-creation and to
-  change.
+  change; v0.2 with the grounding documents published beside it.
 - **Wartime review:** 2026-09-27, Michel Garand — the paper names Michel
   Garand, Soil and Peace, UBEC, and Erdpuls, and no place; accepted.
 
