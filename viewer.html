@@ -515,7 +515,7 @@
 <body>
 
 <header class="header">
-  <a href="https://ubeccommon.github.io/" class="header-logo">🌱 Erdpuls — Open Educational Resources</a>
+  <a href="https://ubeccommon.github.io/" class="header-logo" id="headerLogo">🌱 Erdpuls — Open Educational Resources</a>
   <div class="header-divider"></div>
   <div class="header-filepath" id="headerPath">Select a document to view</div>
   <div class="header-actions">
@@ -662,7 +662,13 @@ async function loadDocument(filePath) {
   const dirPart = parts.join(' › ');
   document.getElementById('headerPath').innerHTML =
     `<span style="opacity:0.45">${dirPart} › </span><span>${fname}</span>`;
-  document.title = `${fname} — Erdpuls OER`;
+  // Per-collection branding (mirrors COLLECTION_BRANDS in gen_indexes_dynamic.py)
+  const brand = filePath.startsWith('Carpathian_OER_Commons/')
+    ? { name: 'Soil and Peace', sub: 'Carpathian OER Commons', icon: '🌲' }
+    : { name: 'Erdpuls', sub: 'Open Educational Resources', icon: '🌱' };
+  document.getElementById('headerLogo').textContent =
+    `${brand.icon} ${brand.name} — ${brand.sub}`;
+  document.title = `${fname} — ${brand.name} · ${brand.sub}`;
 
   // Back button: go to the directory index
   const dirPath = parts.join('/');

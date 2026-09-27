@@ -10,8 +10,13 @@ Usage:
 
 Called automatically by GitHub Actions on every push.
 
-Version: 1.1.0
+Version: 1.3.0
 Changelog:
+    1.3.0 - Per-collection branding: pages under Carpathian_OER_Commons/
+            carry "Soil and Peace" in title, logo, and footer; all other
+            pages keep "Erdpuls". Added DIR_LABELS for the Carpathian OER
+            Commons collection, its six module groups, and modules,
+            drawings, and data folders.
     1.2.2 - Added 'advocacy' to DIR_LABELS (advocacy strand under oer/docs).
     1.2.1 - Renamed site logo/footer text "Erdpuls" -> "Erdpuls".
     1.2.0 - Added language switcher + hreflang alternates + per-directory
@@ -26,7 +31,7 @@ decisions and recommendations. This project was made possible with the
 assistance of Claude and Anthropic PBC.
 """
 
-__version__ = "1.2.2"
+__version__ = "1.3.0"
 
 import os
 import argparse
@@ -79,7 +84,31 @@ DIR_LABELS = {
     'reports':                  '📊 Reports',
     'Learning_Pathways':        '🗺️ Learning Pathways',
     'Pattern_Language_of_Place':'🏛️ Pattern Language of Place',
+    'Carpathian_OER_Commons':   '🌲 Carpathian OER Commons',
+    'modules':                  '🧩 Modules',
+    'drawings':                 '✏️ Drawings',
+    'data':                     '📈 Data',
+    'ground':                   '🛡️ Ground and Safety',
+    'utilities':                '💧 Utilities',
+    'buildings':                '🏠 Buildings',
+    'land':                     '🌳 Land, Forest, Food',
+    'programme':                '🧭 Programme',
+    'organisation':             '🤝 Organisation',
 }
+
+# Per-collection branding: first path segment -> (brand, subtitle, icon).
+# Anything not listed carries the default Erdpuls branding.
+DEFAULT_BRAND = ('Erdpuls', 'Open Educational Resources', '🌱')
+COLLECTION_BRANDS = {
+    'Carpathian_OER_Commons': ('Soil and Peace', 'Carpathian OER Commons', '🌲'),
+}
+
+
+def collection_brand(rel_path):
+    parts = list(rel_path.parts)
+    if parts and parts[0] in COLLECTION_BRANDS:
+        return COLLECTION_BRANDS[parts[0]]
+    return DEFAULT_BRAND
 
 # Language directory codes (keys of DIR_LABELS that denote a content language)
 # mapped to their BCP 47 code used in <html lang> / hreflang.
@@ -186,6 +215,7 @@ def generate_html(rel_path, subdirs, files, repo_root):
         parent_url = BASE_URL + ('/' + str(parent).replace('\\','/') if str(parent) != '.' else '') + '/'
 
     breadcrumbs = build_breadcrumb(rel_path)
+    brand, brand_sub, brand_icon = collection_brand(rel_path)
 
     # Language switch context (only inside a language subtree)
     current_code, available = lang_context(rel_path, repo_root)
@@ -274,7 +304,7 @@ def generate_html(rel_path, subdirs, files, repo_root):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{dir_name} — Erdpuls OER Repository</title>
+<title>{dir_name} — {brand} · {brand_sub}</title>
 {hreflang_html}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
@@ -515,7 +545,7 @@ def generate_html(rel_path, subdirs, files, repo_root):
 <body>
 <header class="header">
   <div class="header-inner">
-    <a href="{BASE_URL}/" class="site-logo">🌱 Erdpuls — Open Educational Resources</a>
+    <a href="{BASE_URL}/" class="site-logo">{brand_icon} {brand} — {brand_sub}</a>
     <div class="header-divider"></div>
     <nav class="breadcrumb">{bc_html}</nav>
   </div>
@@ -535,7 +565,7 @@ def generate_html(rel_path, subdirs, files, repo_root):
   {empty_html}
 </main>
 <footer class="footer">
-  Erdpuls · Open Educational Resources · ubeccommon.github.io
+  {brand} · {brand_sub} · ubeccommon.github.io
 </footer>
 </body>
 </html>'''
