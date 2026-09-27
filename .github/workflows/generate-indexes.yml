@@ -44,7 +44,9 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet; then
+          # --porcelain also sees new, untracked index.html files, which
+          # git diff --quiet misses when a new collection first appears.
+          if [ -z "$(git status --porcelain)" ]; then
             echo "No index changes to commit."
           else
             git add -A

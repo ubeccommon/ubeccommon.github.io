@@ -17,5 +17,7 @@ relative_links:
 defaults:
   - scope: { path: "Pattern_Language_of_Place" }
     values: { layout: none, sitemap: false }
+  - scope: { path: "Carpathian_OER_Commons" }
+    values: { layout: none, sitemap: false }
   - scope: { path: "", type: "pages" }
     values: { layout: "default" }
