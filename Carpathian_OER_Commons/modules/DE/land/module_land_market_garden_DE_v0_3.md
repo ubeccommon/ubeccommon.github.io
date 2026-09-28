@@ -3,16 +3,16 @@ title: "Marktgarten: Beete, Fruchtfolge, die Saison"
 subtitle: "Carpathian OER Commons — Modul Land, Wald, Ernährung"
 author: "Michel Garand"
 date: "2026-09-28"
-version: "v0.2"
+version: "v0.3"
 lang: "de"
 license: "CC BY-SA 4.0"
 project: "Carpathian OER Commons"
-status: "L0 — marked draft: sized and designed, not fully costed; machine translation from EN v0.2, to be reviewed"
-translated_from: "module_land_market_garden_EN_v0_2.md"
+status: "L0 — marked draft: sized and designed, not fully costed; machine translation from EN v0.3, to be reviewed"
+translated_from: "module_land_market_garden_EN_v0_3.md"
 ---
 
 *Dies ist eine maschinelle Übersetzung des englischen Originals, EN
-v0.2, erstellt am 2026-09-28. Sie ist vorläufig, bis eine Person mit
+v0.3, erstellt am 2026-09-28. Sie ist vorläufig, bis eine Person mit
 Deutsch als Muttersprache sie durchgesehen hat. Wo die Fassungen
 voneinander abweichen, ist der englische Text maßgeblich.*
 
@@ -46,6 +46,9 @@ Fortiers eigenem Programm; der Bewässerungsbedarf ergänzt und von einem
 kleinen Teich getragen, den der Bach ständig nachfüllt, entschieden am
 2026-09-28.*
 
+*v0.3, 2026-09-28: der Garten heißt ökologisch orientiert, nicht
+biologisch; eine Zertifizierung wird vorerst nicht angestrebt.*
+
 * * *
 
 ## 1. Zweck
@@ -58,15 +61,17 @@ an das Modul Lebensmittellagerung; was der Weiler nicht braucht,
 sobald er versorgt ist, geht an die Vereinigung.
 
 **Fünf Regeln.** Der Weiler isst zuerst: die Region erhält nur einen
-gemessenen Überschuss. Zwei Nährstoffströme bleiben getrennt: der
-Strom aus den Toiletten versorgt Bäume; nur der eigene Strom des
-Gartens erreicht die Beete. Die Gärtnerin wird bezahlt: die Arbeit im
-Garten ist eine Kostenzeile, nie ein Beitrag, und Toloka ist nicht der
-Name für Arbeit, von der der Garten abhängt. Nichts wird als
-biologisch bezeichnet: die Methoden werden beschrieben, die Erzeugnisse
-nicht gekennzeichnet. Quellwasser ist für Menschen: der Garten wird
-nie aus der Quelle bewässert, sondern aus einem kleinen Teich, den der
-Bach nachfüllt.
+gemessenen Überschuss. Zwei Nährstoffströme bleiben getrennt: der Strom
+aus den Toiletten versorgt Bäume; nur der eigene Strom des Gartens
+erreicht die Beete. Die Gärtnerin wird bezahlt: die Arbeit im Garten ist
+eine Kostenzeile, nie ein Beitrag, und Toloka ist nicht der Name für
+Arbeit, von der der Garten abhängt. Ökologisch orientiert, nicht
+zertifiziert: der Garten beschreibt seine Praxis als ökologisch
+orientiert und strebt vorerst keine Zertifizierung an; seine Erzeugnisse
+werden nicht als biologisch, bio oder öko gekennzeichnet — das
+ukrainische Recht behält diese Wörter zertifizierten Erzeugnissen vor.
+Quellwasser ist für Menschen: der Garten wird nie aus der Quelle
+bewässert, sondern aus einem kleinen Teich, den der Bach nachfüllt.
 
 **Verbindungen.** Hängt ab von: dem Gang über das Gelände in Phase 1,
 einer Bodenanalyse und der Saison, gemessen oder von der nächsten
@@ -640,9 +645,9 @@ eine andere Form wachsen.
 - **Zeichnungen und Entwürfe:** [Hardwarelizenz — offene Entscheidung]
 - **Messdaten:** noch keine
 - **Gate 1:** Entscheidung des Haushalts, 2026-09-28, erfasst von
-  Michel Garand — v0.2 darf so, wie sie ist, als gekennzeichneter
+  Michel Garand — v0.3 darf so, wie sie ist, als gekennzeichneter
   Entwurf veröffentlicht werden, auf Englisch, Ukrainisch und Deutsch
-- **Wartime review:** 2026-09-28, Michel Garand — v0.2 gelesen gegen
+- **Wartime review:** 2026-09-28, Michel Garand — v0.3 gelesen gegen
   Abschnitt 2 des Kompendiums; nichts verortet den Standort;
   angenommen
 

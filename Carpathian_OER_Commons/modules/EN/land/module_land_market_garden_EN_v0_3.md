@@ -3,7 +3,7 @@ title: "Market Garden: Beds, Rotation, the Season"
 subtitle: "Carpathian OER Commons — Land, Forest, Food Module"
 author: "Michel Garand"
 date: "2026-09-28"
-version: "v0.2"
+version: "v0.3"
 lang: "en"
 license: "CC BY-SA 4.0"
 project: "Carpathian OER Commons"
@@ -35,6 +35,9 @@ Gardener, 2014, cited by page. Six plots of sixteen beds; compost from
 Fortier's own programme; irrigation demand added, and carried by a
 small pond that the stream refills, decided 2026-09-28.*
 
+*v0.3, 2026-09-28: the garden is called ecologically oriented, not
+organic; no certification is sought for now.*
+
 * * *
 
 ## 1. Purpose
@@ -49,10 +52,12 @@ the association.
 measured surplus. Two nutrient streams kept apart: the toilet stream
 feeds trees; only the garden's own stream reaches the beds. The grower
 is paid: the garden's work is a cost line, never a contribution, and
-toloka is not the name for work the garden depends on. Nothing is
-called organic: the methods are described, the produce is not
-labelled. Spring water is for people: the garden is never irrigated
-from the spring, but from a small pond the stream refills.
+toloka is not the name for work the garden depends on. Ecologically
+oriented, not certified: the garden describes its practice as
+ecologically oriented and seeks no certification for now; its produce is
+not labelled organic, bio, or eco, words Ukrainian law keeps for
+certified produce. Spring water is for people: the garden is never
+irrigated from the spring, but from a small pond the stream refills.
 
 **Connections.** Depends on: the Phase 1 walk of the ground, a soil
 analysis, and the season measured or taken from the nearest station; the
@@ -591,9 +596,9 @@ form from it.
 - **Drawings and designs:** [hardware licence — open decision]
 - **Measurement data:** none yet
 - **Gate 1:** household decision, 2026-09-28, recorded by Michel
-  Garand — v0.2 may be published as it stands, as a marked draft, in
+  Garand — v0.3 may be published as it stands, as a marked draft, in
   English, Ukrainian, and German
-- **Wartime review:** 2026-09-28, Michel Garand — v0.2 read against
+- **Wartime review:** 2026-09-28, Michel Garand — v0.3 read against
   compendium Section 2; nothing places the site; accepted
 
 * * *
