@@ -501,8 +501,8 @@ faithfully, its own.
 
 Done 2026-09-27, by readers who had not seen the text being written.
 
-**Source check.** Eighty-five factual claims tested against published
-sources: fifty-two confirmed, six wrong, eighteen overstated, five
+**Source check.** Eighty-three factual claims tested against published
+sources: fifty-two confirmed, six wrong, twenty overstated, five
 unverified. The wrong ones: the Hutsuls placed in the Finno-Ugric world;
 the Khanty and Mansi as the closest kin of Finnish and Estonian; the law
 on fruit trees dated three thousand years back; every ogham letter a tree;
