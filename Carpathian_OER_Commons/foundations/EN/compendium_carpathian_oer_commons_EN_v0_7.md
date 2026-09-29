@@ -3,11 +3,11 @@ title: "Carpathian OER Commons — Compendium"
 subtitle: "Philosophy, Pathway, and Structure in One Document"
 author: "Michel Garand"
 date: "2026-09-29"
-version: "v0.6"
+version: "v0.7"
 lang: "en"
 license: "CC BY-SA 4.0"
 project: "Carpathian OER Commons"
-status: "released 2026-09-29 as a working draft, v0.6 — open to co-creation"
+status: "released 2026-09-29 as a working draft, v0.7 — open to co-creation"
 ---
 
 *The compendium of the Carpathian OER Commons: one document that says why
@@ -43,6 +43,10 @@ sanitation toilets module published at L1. Sections 3, 4, 31, 33, and
 
 *v0.6, 2026-09-29: the greywater, reed bed, and pond module published
 at L1, with the soakaway as the outflow and the pond as the option.
+Sections 3, 4, 31, 33, and 34 changed; nothing else.*
+
+*v0.7, 2026-09-29: the rainwater and nursery irrigation module
+published at L1, and with it the water paper is fully converted.
 Sections 3, 4, 31, 33, and 34 changed; nothing else.*
 
 *Section 2 governs everything here and everything the commons publishes.
@@ -265,7 +269,8 @@ public site, and the workshop keeps its history.
 **Where the work stands, 2026-09-29.** Phase 0 is largely done: the
 module template, the pattern card template, the repository conventions,
 the site parameters, the checker, and the release script. Of the three
-working-paper guides, water is converted into its module, at L1, and
+working-paper guides, water is fully converted, into its water module
+and its rainwater and nursery irrigation module, both at L1, and
 published in English, Ukrainian, and German; sanitation is converted in
 part — its terra preta and biochar rows are modules at L1, published in
 the same three languages, with their PDFs, and so are its toilets row
@@ -343,8 +348,10 @@ beside them.
   untested, with a plumbed fallback if bucket toilets are refused for
   the children's side; Greywater, reed bed, pond, v0.1, at L1,
   designed and costed from estimates, untested, draining to a soakaway,
-  with the pond as the option where permitted. The other thirty-five
-  are listed in Section 16.
+  with the pond as the option where permitted; Rainwater and nursery
+  irrigation, v0.1, at L1, designed and costed from estimates,
+  untested, a roof, a buried cistern, and a hand pump for the tree
+  nursery. The other thirty-four are listed in Section 16.
 - **The module template** and **the pattern card template** — standards/,
   published in English, Ukrainian, and German, so that a module or a card
   may be written in any language.
@@ -1853,6 +1860,15 @@ are named pattern_[name]_[LANG]_v[major]_[minor].md.
   authorities allow it, since the sewerage code sets 200 m between a
   biological pond and housing, and any discharge to a water body needs
   a special water-use permit.
+- **The rainwater module:** Rainwater and nursery irrigation, v0.1,
+  published at L1, converted from the water paper, which is now fully
+  converted — a roof of about 100 m², a first-flush diverter on each
+  downpipe, the paper's buried cistern of 4.2 m³ beside the seedbeds,
+  and a hand pump, with a plastic tank as the cheaper alternative;
+  roof water never joins the spring's, and in a long drought the
+  nursery is watered from the market garden's pond. The case in which
+  rainwater takes the flushing of the two flush toilets, if the spring
+  measures between its thresholds, is sized and not costed.
 
 * * *
 
@@ -1962,8 +1978,11 @@ it by accident (Section 4); the sanitation toilets module published
 (Sections 3, 4, 31, 34).
 
 **v0.6, 2026-09-29.** The greywater, reed bed, and pond module
-published (Sections 3, 4, 31, 34). The pathway and open hamlet
-papers still carry
+published (Sections 3, 4, 31, 34).
+
+**v0.7, 2026-09-29.** The rainwater and nursery irrigation module
+published, and the water paper fully converted (Sections 3, 4, 31,
+34). The pathway and open hamlet papers still carry
 the forty-module map; they are brought into line in their next
 versions, and until then the compendium holds.
 
@@ -1977,10 +1996,13 @@ work goes on, in the open, and each new version is released the same way,
 with both lines below dated again.
 
 - **Gate 1:** household decision, 2026-09-29, recorded by Michel
-  Garand — v0.6 may be released as it stands, as a working draft.
-- **Wartime review:** 2026-09-29, Michel Garand — v0.6 read against
+  Garand — v0.7 may be released as it stands, as a working draft.
+- **Wartime review:** 2026-09-29, Michel Garand — v0.7 read against
   Section 2; names no place; the new rows name no authority, place, or
   day; accepted.
+
+Version 0.6 was released on 2026-09-29 with the household's Gate 1 and
+a wartime review, both recorded by Michel Garand.
 
 Version 0.5 was released on 2026-09-29 with the household's Gate 1 and
 a wartime review, both recorded by Michel Garand.
