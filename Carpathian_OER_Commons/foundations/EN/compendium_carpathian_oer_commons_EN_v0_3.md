@@ -3,11 +3,11 @@ title: "Carpathian OER Commons — Compendium"
 subtitle: "Philosophy, Pathway, and Structure in One Document"
 author: "Michel Garand"
 date: "2026-09-29"
-version: "v0.2"
+version: "v0.3"
 lang: "en"
 license: "CC BY-SA 4.0"
 project: "Carpathian OER Commons"
-status: "released 2026-09-29 as a working draft, v0.2 — open to co-creation"
+status: "released 2026-09-29 as a working draft, v0.3 — open to co-creation"
 ---
 
 *The compendium of the Carpathian OER Commons: one document that says why
@@ -26,6 +26,11 @@ forty-two modules. The compost row becomes the garden stream, and the
 terra preta row carries the whole toilet stream, and the compost module
 is published at L0 as a marked draft. Sections 1, 3, 4, 14, 15, 16, 18,
 25, 26.2, 26.5, 31, 33, and 34 changed; nothing else.*
+
+*v0.3, 2026-09-29: the toilet stream decided as one stream; the terra
+preta and biochar modules published at L1, converted from the
+sanitation paper, and the market garden at v0.4. Sections 3, 4, 31, 33,
+and 34 changed; nothing else.*
 
 *Section 2 governs everything here and everything the commons publishes.
 No child appears in any form; the programme is described in standing
@@ -248,9 +253,12 @@ public site, and the workshop keeps its history.
 module template, the pattern card template, the repository conventions,
 the site parameters, the checker, and the release script. Of the three
 working-paper guides, water is converted into its module, at L1, and
-published in English, Ukrainian, and German; energy and sanitation are
-not yet converted. The market garden, the first module of the open
-hamlet, is published at L0 as a marked draft, v0.3, in English,
+published in English, Ukrainian, and German; sanitation is converted in
+part — its terra preta and biochar rows are modules at L1, published in
+the same three languages, with their PDFs, while its toilets, greywater,
+washroom, and wood heat rows are not; energy is not yet converted. The
+market garden, the first module of the open hamlet, is published at L0
+as a marked draft, v0.4, in English,
 Ukrainian, and German, with its PDFs; the compost module, which feeds
 it, is published beside it at L0 as a marked draft, v0.1, in the same
 three languages, with its PDFs. Phase 1 has not begun: the
@@ -309,11 +317,15 @@ beside them.
 
 - **Modules** — modules/, by language and group. Published: Water: spring,
   cistern, treatment, v0.2, at L1, designed and costed from estimates,
-  untested; Market garden: beds, rotation, the season, v0.3, at L0 as a
+  untested; Market garden: beds, rotation, the season, v0.4, at L0 as a
   marked draft, sized for about 3,000 m² and not fully costed; Compost:
   the garden stream to the beds, v0.1, at L0 as a marked draft, sized
-  from the market garden's need, with the bought-in share priced. The
-  other thirty-nine are listed in Section 16.
+  from the market garden's need, with the bought-in share priced; Terra
+  preta: fermentation to soil, v0.1, at L1, designed and costed from
+  estimates, untested, and not to be built before the sanitary
+  service's written answer; Biochar: kiln, quality, storage, v0.1, at
+  L1, designed and costed from estimates, untested. The other
+  thirty-seven are listed in Section 16.
 - **The module template** and **the pattern card template** — standards/,
   published in English, Ukrainian, and German, so that a module or a card
   may be written in any language.
@@ -1770,6 +1782,31 @@ are named pattern_[name]_[LANG]_v[major]_[minor].md.
 - **Twelve rows:** the three working-paper guides feed twelve rows of
   the map, not eleven, now that the compost row no longer draws on the
   sanitation guide (Sections 14 and 18).
+- **One toilet stream:** nothing is separated. Urine is not diverted,
+  as the sanitation paper holds; the buckets and the kitchen's cooked
+  food, plate waste, and grease-trap solids go into the same sealed
+  vessels. The terra preta module takes what comes and is sized for
+  it, with a smaller case if plumbed units are required for the
+  children's side.
+- **The toilet stream, as designed:** a carbon cover — sawdust, dry
+  leaves, or shredded straw — at the seat beside the char, since char
+  alone cannot hold the urine; the worm beds fed fermented material
+  layered with bulking and finished vermicompost, with grease-trap
+  solids a small share; each bay filled as a batch and closed, its year
+  counted from the last addition; use on trees, hedgerows, windbreaks,
+  and nursery stock only, and nothing in the month before a fruit
+  harvest. No vessel, store, bed, or bay is bought or built before a
+  written answer from the sanitary service on MOH Order No. 145, point
+  2.21.
+- **The kiln:** a flame-curtain cone of the Kon-Tiki type, welded
+  locally from 3 mm steel to the published design, with a soil pit as
+  the alternative; dry wood only, at the fire distances, quenched from
+  the pond or rainwater, never the spring; no certificate claimed.
+- **Three modules published:** terra preta, v0.1, and biochar, v0.1,
+  at L1, converted from the sanitation paper and recalculated at
+  capacity, and the market garden at v0.4, with the compost priced and
+  its beds, bays, and heap kept out of the Water Code's protective
+  strip; in English, Ukrainian, and German, with their PDFs.
 
 * * *
 
@@ -1863,10 +1900,14 @@ in Section 31; the compost row made the garden stream, and the terra
 preta row the whole toilet stream (Sections 1, 16, 26.2, 26.5, 31).
 On 2026-09-29 the compost module was published beside the market
 garden, and the count of rows the three guides feed corrected to
-twelve (Sections 1, 3, 4, 14, 16, 18, 26.5, 31, 34). The pathway and
-open hamlet
-papers still carry the forty-module map; they are brought into line in
-their next versions, and until then the compendium holds.
+twelve (Sections 1, 3, 4, 14, 16, 18, 26.5, 31, 34).
+
+**v0.3, 2026-09-29.** The toilet stream decided as one stream, and the
+toilet stream and kiln as designed (Section 31); the terra preta and
+biochar modules published at L1, and the market garden at v0.4
+(Sections 3, 4, 31, 34). The pathway and open hamlet papers still carry
+the forty-module map; they are brought into line in their next
+versions, and until then the compendium holds.
 
 * * *
 
@@ -1878,11 +1919,14 @@ work goes on, in the open, and each new version is released the same way,
 with both lines below dated again.
 
 - **Gate 1:** household decision, 2026-09-29, recorded by Michel
-  Garand — v0.2 may be released as it stands, as a working draft.
-- **Wartime review:** 2026-09-29, Michel Garand — v0.2 read against
-  Section 2; names no place; the new rows name no market, no town, no
-  buyer, no supplier, and no day; every site plan relationships only;
-  accepted.
+  Garand — v0.3 may be released as it stands, as a working draft.
+- **Wartime review:** 2026-09-29, Michel Garand — v0.3 read against
+  Section 2; names no place; the new decisions name no market, no town,
+  no buyer, no supplier, and no day; every site plan relationships
+  only; accepted.
+
+Version 0.2 was released on 2026-09-29 with the household's Gate 1 and
+a wartime review, both recorded by Michel Garand.
 
 Version 0.1 was released on 2026-09-28 with the household's Gate 1,
 recorded by Michel Garand, and a wartime review by Michel Garand: names no

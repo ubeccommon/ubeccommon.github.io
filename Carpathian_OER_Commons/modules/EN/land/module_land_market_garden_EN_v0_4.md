@@ -2,8 +2,8 @@
 title: "Market Garden: Beds, Rotation, the Season"
 subtitle: "Carpathian OER Commons — Land, Forest, Food Module"
 author: "Michel Garand"
-date: "2026-09-28"
-version: "v0.3"
+date: "2026-09-29"
+version: "v0.4"
 lang: "en"
 license: "CC BY-SA 4.0"
 project: "Carpathian OER Commons"
@@ -12,8 +12,8 @@ status: "L0 — marked draft: sized and designed, not fully costed"
 
 *Maturity: **L0**, a marked draft — sized and designed, not yet fully
 costed, and published so that it can be read and changed in the open.
-The establishment compost, the seed, the tarps, the hoops, the pond,
-and its pump are not priced, and nothing has been grown. Read
+The seed, the tarps, the hoops, the pond, its pump, and the carriage of
+the bought compost are not priced, and nothing has been grown. Read
 every figure below at this level and no higher. The module moves to L1
 when every line in Section 6 carries a dated cost and its basis.*
 
@@ -38,6 +38,12 @@ small pond that the stream refills, decided 2026-09-28.*
 *v0.3, 2026-09-28: the garden is called ecologically oriented, not
 organic; no certification is sought for now.*
 
+*v0.4, 2026-09-29: the establishment compost priced from the compost
+module; the beds, the compost bays, and the manure heap kept out of the
+Water Code's protective strip along the stream and around the pond;
+the connections brought into line with the two streams and with the
+compost, terra preta, and biochar modules.*
+
 * * *
 
 ## 1. Purpose
@@ -61,19 +67,20 @@ irrigated from the spring, but from a small pond the stream refills.
 
 **Connections.** Depends on: the Phase 1 walk of the ground, a soil
 analysis, and the season measured or taken from the nearest station; the
-compost and site nutrient cycle module for the garden's own stream, kept
-apart from the toilet stream, and the biochar module for char charged in
-that stream; a small pond, always refilled by the stream, as its
-irrigation source, decided 2026-09-28 — the rainwater and nursery
+compost module for the garden's own stream, kept apart from the toilet
+stream, and for the compost bought in; the biochar module for the char
+charged in that stream; a small pond, always refilled by the stream, as
+its irrigation source, decided 2026-09-28 — the rainwater and nursery
 irrigation module keeps the nursery; the energy module for the pump on
 the essential or seasonal circuit; the water module for washing produce
 in spring water; the legal form decision, since the garden is a
 registered capacity of the operator that runs the kitchen. Feeds: the
 kitchen and dining module; the food storage module, whose cold room the
 garden needs from the first harvest that is not eaten the same day; the
-growers' and eaters' association, with its measured surplus only. The
-terra preta module does not feed the beds; its product goes to trees, as
-the sanitation working paper holds.
+growers' and eaters' association, with its measured surplus only; the
+compost module, with the residues that leave the beds. The terra preta
+module does not feed the beds; its soil goes to trees, as decided on
+2026-09-28.
 
 **Patterns.** Grows from: not yet named. Where vegetables were grown in
 this valley relative to the house, the hayfield, and the slope; how that
@@ -107,6 +114,7 @@ is reached through an association of growers and eaters, not a market.
 | Aspect | south to south-east; not in a frost pocket |
 | Soil | acidic; limed to the analysis before the first bed |
 | Water | about 50 m³ a dry week, from a pond the stream refills |
+| Protective strip | beds 25 m from stream and pond, 50 m on slopes |
 | Group size | capacity: 34 people, the example below |
 | Days of demand | use_days_per_year: 120, the example below |
 
@@ -210,10 +218,15 @@ of compost at each application. To build his beds he added about 7
 wheelbarrows of a compost mix to each bed, about 4.3 cm (p. 45). Charles
 Dowding's no-dig figures are higher: 5 cm to start, 3 cm a year after,
 which would be about 72 m³ and 43 m³ here. Fortier advises beginning
-growers to buy their compost rather than make it (p. 62). The garden's
-own residues and the kitchen's scraps will not make 62 m³ in the first
-year; the difference is bought in or built up over seasons, and the
-compost module says how.
+growers to buy their compost rather than make it (p. 62). The compost
+module sizes the garden's own stream against this need: the beds are
+built from bought rotted manure, all of it, since nothing the site
+makes is finished before the first beds are dug; after that the site
+makes between a twenty-fifth and a half of what the beds take, and
+about 11 to 21 m³ is bought every year while the garden runs at this
+size and no animals are kept. Built in stages, the sixty beds the
+demand needs take about 39 m³ in the first year and the other
+thirty-six about 23 m³ the next.
 
 **The water.** Fortier gives most crops about 1¼ inches of water a
 week, about 32 mm (p. 39), and advises a pond, lake, or river once more
@@ -234,7 +247,14 @@ since pumps push well and pull badly; fit a sediment filter so the
 emitters do not clog; and give the main line a relief valve (p. 39).
 Because children are on the site, the pond is fenced with a gate and
 shallow at its edges, as the sanitation working paper fences its own;
-it is a reservoir, not a swimming pond.
+it is a reservoir, not a swimming pond. The Water Code keeps vegetable
+growing, fertiliser, and manure stores out of a protective strip 25 m
+wide along the stream and around a pond under 3 ha, doubled where the
+bank slopes more than 3° (Section 10): no bed, compost bay, or manure
+heap stands within it, measured from the stream and from the pond's
+own edge. The pond and the beds are therefore placed apart, with the
+main line crossing the strip; whether the pond and its intake may be
+dug inside the stream's strip is asked in the written enquiry.
 
 The dolomite rate is 400 g per m², from a retailer's guide for loam at
 pH 4.5 to 5.0; an agronomic table gives 4 to 5.5 t of lime a hectare,
@@ -269,7 +289,7 @@ design; none is yet known to work here.
 |---|---|---|
 | Soil analysis | 3 samples, [set] | none named |
 | Dolomite flour | 24 bags of 25 kg | lime to the analysis |
-| Compost or manure | about 62 m³, first year | built up over seasons |
+| Rotted manure | about 62 m³, first year | compost; two stages |
 | Drip tape, 20 cm emitters | 3,840 m, 2 lines a bed | micro-sprinklers |
 | Main line, PE 32 mm | about 120 m, [assumed] | none named |
 | Start connectors | 192 | none named |
@@ -315,7 +335,11 @@ poorer ground at one side, as near the plots as the ground allows —
 Fortier puts the tool shed, washing, and cold room at the centre of
 the gardens, so that no plot is far from them (p. 31); the wicket
 toward the kitchen and the double gate toward the track for
-deliveries. Drawn as relationships only; the walk sets the rest.
+deliveries. Every bed, bay, and heap outside the Water Code's strip
+along the stream and around the pond; the bays and the heap also at
+the compost module's distances — at least 50 m from the spring and
+never upslope of it, 20 m from dwellings and places where children
+are. Drawn as relationships only; the walk sets the rest.
 
 * * *
 
@@ -359,8 +383,9 @@ mid-September 2026 rate, rounded.
 |---|---|---|---|
 | Soil analysis, 3 samples | 2,989 | 57 | estimated, institute's list |
 | Dolomite flour, 24 bags of 25 kg | 6,000 | 115 | estimated, listing |
-| Compost or rotted manure, about 62 m³ | [set] | [set] | not priced |
-| Subtotal, priced lines | 8,989 | 173 | |
+| Rotted manure, 62 m³, about 55.8 t | 39,060 | 751 | estimated, listing |
+| Carriage of the manure | [set] | [set] | not priced |
+| Subtotal, priced lines | 48,049 | 924 | |
 
 ### 6.2 Irrigation
 
@@ -431,20 +456,24 @@ for it until one is made or bought, [set].
 
 | Section | UAH | EUR |
 |---|---|---|
-| Ground, priced lines | 8,989 | 173 |
+| Ground, priced lines | 48,049 | 924 |
 | Irrigation, priced lines | 18,854 | 363 |
 | Tunnel | 104,500 | 2,010 |
 | Fence | 130,648 | 2,512 |
 | Covers, priced lines | 19,503 | 375 |
 | Tools | 15,749 | 303 |
 | Bays and store | 29,800 | 573 |
-| Construction subtotal | 328,043 | 6,309 |
-| Design check, 8 percent | 26,200 | 504 |
-| Contingency, 20 percent | 65,600 | 1,262 |
-| **Total external cost, priced lines** | **419,843** | **8,074** |
+| Construction subtotal | 367,103 | 7,060 |
+| Design check, 8 percent | 29,400 | 565 |
+| Contingency, 20 percent | 73,400 | 1,412 |
+| **Total external cost, priced lines** | **469,903** | **9,037** |
 
-The total leaves out the first year's compost, the seed, the hoops, the
-tarps, the pond, its intake, pump, and fence, which are not priced. It
+The manure line is the compost module's: 700 UAH a tonne for rotted
+cattle manure, Kyiv region, seen 2026-09-28, at 900 kg per m³; no bulk
+listing was found in western Ukraine, and a local, delivered quotation
+replaces it. The total leaves out the manure's carriage, the seed, the
+hoops, the tarps, the pond, its intake, pump, and fence, which are not
+priced. It
 is not the garden's cost until they are. The percentages are the working
 papers' own. For comparison only, Fortier lists start-up costs of 39,000
 Canadian dollars for a garden of under two acres, including a heated
@@ -465,7 +494,10 @@ Seed, [set]. Tunnel film, rated for six seasons: about 22 m of 12 m
 film at a listed 640 UAH a metre, 14,080 UAH, length [assumed], about
 2,350 UAH a season. Row cover, about three seasons in Fortier's use
 (p. 122). Soil analysis every few years; lime once in six to eight
-years. Drip tape replacement, [from L2].
+years. Drip tape replacement, [from L2]. Bought compost, about 11 to 21
+m³ a year, 7,056 to 13,356 UAH at the same listing, carriage not
+included, from the compost module — the largest recurring line the
+garden's ground has.
 
 * * *
 
@@ -552,7 +584,16 @@ the first harvest reaches the kitchen. Taking water from the stream
 into a pond for irrigation may need a water-use permit, one of the
 written enquiries the compendium already names for the first year
 (Section 18); the pond's distance from the spring and its protection
-zone are asked in the same enquiry.
+zone are asked in the same enquiry. Water Code, No. 213/95-ВР of
+06.06.1995, Arts. 88–89: a coastal protective strip of 25 m along small
+streams and ponds under 3 ha, doubled where the bank slopes more than
+3°, in which vegetable growing, storing or applying fertiliser, and
+manure stores are not allowed; found 2026-09-28, read on secondary
+copies, not checked. Whether the strip applies around the garden's own
+pond, and whether the pond may be dug inside the stream's strip, are
+asked in the same enquiry. A new law on organic production, No.
+4921-IX of 30.06.2026, most of it in force from 2029, is noted and not
+yet read.
 
 * * *
 
@@ -589,17 +630,20 @@ form from it.
   areas; the rational norm of vegetable consumption and Cabinet
   Resolution No. 305 for demand; a Ukrainian agricultural guide of 2025
   for yields; a retailer's guide and an agronomic table for liming;
-  Ukrainian retail and service listings of 2026-09-28 for prices.
+  the compost module for the compost bought in; Ukrainian retail and
+  service listings of 2026-09-28 for prices.
 - **Traditional knowledge:** none. Where vegetables were grown, how the
   ground was fed, what was grown, and whose seed, are for the elders.
 - **Text:** CC BY-SA 4.0
 - **Drawings and designs:** [hardware licence — open decision]
 - **Measurement data:** none yet
-- **Gate 1:** household decision, 2026-09-28, recorded by Michel
-  Garand — v0.3 may be published as it stands, as a marked draft, in
+- **Gate 1:** household decision, 2026-09-29, recorded by Michel
+  Garand — v0.4 may be published as it stands, as a marked draft, in
   English, Ukrainian, and German
-- **Wartime review:** 2026-09-28, Michel Garand — v0.3 read against
-  compendium Section 2; nothing places the site; accepted
+- **Wartime review:** 2026-09-29, Michel Garand — v0.4 read against
+  compendium Section 2; nothing places the site; no market, town,
+  buyer, supplier, or day named; the strip's widths are the Water
+  Code's, not measurements of the site; accepted
 
 * * *
 
@@ -611,9 +655,13 @@ form from it.
   set from it; the water-use permit; the pump, its power, and its
   circuit with the energy module. Until the flow is measured, the
   garden is sized by its water, not by its ground.
-- **Establishment compost** — a dated price for about 62 m³ of compost
-  or rotted manure, or the garden's own nutrient stream designed to
-  supply it over seasons.
+- **Establishment compost** — a local, delivered quotation for about
+  62 m³ of rotted manure or compost, replacing the Kyiv-region listing,
+  and its carriage.
+- **The protective strip** — the stream's low-water line and the
+  pond's edge marked on the walk, the bank slopes measured to settle 25
+  or 50 m; the beds, bays, and heap placed outside it; the enquiry on
+  the pond.
 - **Seed, hoops, and tarps** — priced from a crop plan and the bed
   length.
 - **The season** — frost_free_days from the nearest station, then the

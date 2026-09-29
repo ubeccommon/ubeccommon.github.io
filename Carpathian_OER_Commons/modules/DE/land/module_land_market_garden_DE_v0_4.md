@@ -2,25 +2,25 @@
 title: "Marktgarten: Beete, Fruchtfolge, die Saison"
 subtitle: "Carpathian OER Commons — Modul Land, Wald, Ernährung"
 author: "Michel Garand"
-date: "2026-09-28"
-version: "v0.3"
+date: "2026-09-29"
+version: "v0.4"
 lang: "de"
 license: "CC BY-SA 4.0"
 project: "Carpathian OER Commons"
-status: "L0 — marked draft: sized and designed, not fully costed; machine translation from EN v0.3, to be reviewed"
-translated_from: "module_land_market_garden_EN_v0_3.md"
+status: "L0 — marked draft: sized and designed, not fully costed; machine translation from EN v0.4, to be reviewed"
+translated_from: "module_land_market_garden_EN_v0_4.md"
 ---
 
 *Dies ist eine maschinelle Übersetzung des englischen Originals, EN
-v0.3, erstellt am 2026-09-28. Sie ist vorläufig, bis eine Person mit
+v0.4, erstellt am 2026-09-29. Sie ist vorläufig, bis eine Person mit
 Deutsch als Muttersprache sie durchgesehen hat. Wo die Fassungen
 voneinander abweichen, ist der englische Text maßgeblich.*
 
 *Reifegrad: **L0**, gekennzeichneter Entwurf — bemessen und entworfen,
 noch nicht vollständig kalkuliert, und veröffentlicht, damit er offen
-gelesen und verändert werden kann. Der Kompost für die Anlage, das
-Saatgut, die Abdeckplanen, die Bögen, der Teich und seine Pumpe sind
-nicht bepreist, und noch ist nichts angebaut worden. Jede Zahl unten
+gelesen und verändert werden kann. Das Saatgut, die Abdeckplanen, die
+Bögen, der Teich, seine Pumpe und der Transport des gekauften Komposts
+sind nicht bepreist, und noch ist nichts angebaut worden. Jede Zahl unten
 ist auf dieser Stufe zu lesen und auf keiner höheren. Das Modul steigt
 auf L1, wenn jede Zeile in Abschnitt 6 datierte Kosten und ihre
 Grundlage trägt.*
@@ -49,6 +49,12 @@ kleinen Teich getragen, den der Bach ständig nachfüllt, entschieden am
 *v0.3, 2026-09-28: der Garten heißt ökologisch orientiert, nicht
 biologisch; eine Zertifizierung wird vorerst nicht angestrebt.*
 
+*v0.4, 2026-09-29: der Kompost für die Anlage nach dem Modul Kompost
+bepreist; die Beete, die Kompostboxen und der Misthaufen aus dem
+Schutzstreifen des Wasserkodex entlang des Bachs und um den Teich
+herausgehalten; die Verbindungen an die beiden Ströme und an die Module
+Kompost, Terra preta und Pflanzenkohle angeglichen.*
+
 * * *
 
 ## 1. Zweck
@@ -75,10 +81,10 @@ bewässert, sondern aus einem kleinen Teich, den der Bach nachfüllt.
 
 **Verbindungen.** Hängt ab von: dem Gang über das Gelände in Phase 1,
 einer Bodenanalyse und der Saison, gemessen oder von der nächsten
-Wetterstation übernommen; dem Modul Kompost und Nährstoffkreislauf des
-Standorts für den eigenen Strom des Gartens, getrennt vom Strom aus den
-Toiletten, und dem Modul Pflanzenkohle für die in diesem Strom
-aufgeladene Kohle; einem kleinen Teich, den der Bach ständig
+Wetterstation übernommen; dem Modul Kompost für den eigenen Strom des
+Gartens, getrennt vom Strom aus den Toiletten, und für den zugekauften
+Kompost; dem Modul Pflanzenkohle für die in diesem Strom aufgeladene
+Kohle; einem kleinen Teich, den der Bach ständig
 nachfüllt, als Bewässerungsquelle, entschieden am 2026-09-28 — das
 Modul Regenwasser und Bewässerung der Baumschule bleibt bei der
 Baumschule; dem Modul Energie für die Pumpe am Grund- oder
@@ -88,9 +94,10 @@ registrierte Kapazität des Betreibers ist, der die Küche führt.
 Versorgt: das Modul Küche und Speisesaal; das Modul
 Lebensmittellagerung, dessen Kühlraum der Garten ab der ersten Ernte
 braucht, die nicht am selben Tag gegessen wird; die Vereinigung von
-Gärtnern und Essenden, nur mit gemessenem Überschuss. Das Modul Terra
-preta versorgt die Beete nicht; sein Erzeugnis geht an Bäume, wie das
-Arbeitspapier Sanitär festhält.
+Gärtnern und Essenden, nur mit gemessenem Überschuss; das Modul
+Kompost, mit den Resten, die die Beete verlassen. Das Modul Terra preta
+versorgt die Beete nicht; seine Erde geht an Bäume, wie am 2026-09-28
+entschieden.
 
 **Muster.** Wächst aus: noch nicht benannt. Wo in diesem Tal Gemüse im
 Verhältnis zu Haus, Heuwiese und Hang angebaut wurde, wie dieser Boden
@@ -127,6 +134,7 @@ Markt.
 | Ausrichtung | Süd bis Südost; nicht in einem Frostloch |
 | Boden | sauer; vor dem ersten Beet nach Analyse gekalkt |
 | Wasser | etwa 50 m³ je Trockenwoche, aus einem Teich am Bach |
+| Schutzstreifen | Beete 25 m von Bach und Teich, 50 m am Hang |
 | Gruppengröße | Kapazität: 34 Personen, das Beispiel unten |
 | Bedarfstage | use_days_per_year: 120, das Beispiel unten |
 
@@ -234,9 +242,16 @@ Schubkarren einer Kompostmischung auf jedes Beet, etwa 4.3 cm (S. 45).
 Charles Dowdings Zahlen ohne Umgraben liegen höher: 5 cm zu Beginn,
 danach 3 cm im Jahr, was hier etwa 72 m³ und 43 m³ wären. Fortier rät
 Anfängern, ihren Kompost zu kaufen, statt ihn selbst herzustellen
-(S. 62). Die eigenen Reste des Gartens und die Küchenabfälle ergeben
-im ersten Jahr keine 62 m³; die Differenz wird zugekauft oder über
-Jahre aufgebaut, und das Modul Kompost sagt, wie.
+(S. 62). Das Modul Kompost bemisst den eigenen Strom des Gartens an
+diesem Bedarf: die Beete werden aus gekauftem verrottetem Mist
+angelegt, vollständig, da nichts, was der Standort herstellt, fertig
+ist, bevor die ersten Beete angelegt werden; danach stellt der Standort
+zwischen einem Fünfundzwanzigstel und der Hälfte dessen her, was die
+Beete brauchen, und etwa 11 bis 21 m³ werden jedes Jahr gekauft,
+solange der Garten in dieser Größe läuft und keine Tiere gehalten
+werden. In Stufen angelegt, brauchen die sechzig Beete, die der Bedarf
+verlangt, im ersten Jahr etwa 39 m³ und die anderen sechsunddreißig im
+Jahr darauf etwa 23 m³.
 
 **Das Wasser.** Fortier gibt den meisten Kulturen etwa 1¼ Zoll Wasser
 in der Woche, etwa 32 mm (S. 39), und rät zu Teich, See oder Fluss,
@@ -260,7 +275,15 @@ Sedimentfilter einbauen, damit die Tropfer nicht verstopfen; und der
 Hauptleitung ein Überdruckventil geben (S. 39). Weil Kinder auf dem
 Gelände sind, wird der Teich mit einem Tor eingezäunt und an den
 Rändern flach angelegt, wie das Arbeitspapier Sanitär seinen eigenen
-einzäunt; er ist ein Speicher, kein Badeteich.
+einzäunt; er ist ein Speicher, kein Badeteich. Der Wasserkodex hält
+Gemüsebau, Düngemittel und Mistlager aus einem Schutzstreifen von 25 m
+Breite entlang des Bachs und um einen Teich unter 3 ha heraus,
+verdoppelt, wo das Ufer mehr als 3° geneigt ist (Abschnitt 10): kein
+Beet, keine Kompostbox und kein Misthaufen steht darin, gemessen vom
+Bach und vom eigenen Rand des Teichs. Teich und Beete liegen deshalb
+auseinander, und die Hauptleitung quert den Streifen; ob der Teich und
+seine Entnahme im Streifen des Bachs gegraben werden dürfen, wird in
+der schriftlichen Anfrage geklärt.
 
 Die Dolomitmenge beträgt 400 g je m², aus dem Leitfaden eines Händlers
 für Lehm bei pH 4.5 bis 5.0; eine agronomische Tabelle nennt 4 bis 5.5
@@ -297,7 +320,7 @@ Entwurf genannt; von keiner ist bekannt, dass sie hier funktioniert.
 |---|---|---|
 | Bodenanalyse | 3 Proben, [set] | keine genannt |
 | Dolomitmehl | 24 Säcke zu 25 kg | Kalk nach Analyse |
-| Kompost oder Mist | etwa 62 m³, erstes Jahr | über Jahre aufgebaut |
+| Verrotteter Mist | etwa 62 m³, erstes Jahr | Kompost; zwei Stufen |
 | Tropfband, alle 20 cm | 3,840 m, 2 Linien je Beet | Mikroregner |
 | Hauptleitung, PE 32 mm | etwa 120 m, [assumed] | keine genannt |
 | Startverbinder | 192 | keine genannt |
@@ -312,7 +335,7 @@ Entwurf genannt; von keiner ist bekannt, dass sie hier funktioniert.
 | Pforte und Doppeltor | je 1 | keine genannt |
 | Vlies, 17 g/m², 3.2 m | 48 Rollen zu 10 m, halbe Beete | keine |
 | Bögen für das Vlies | [set] | Draht, PVC, Rohr |
-| Insektennetz | 7 Rollen, 10 Beete, [set] | keine genannt |
+| Insektennetz | 7 Rollen 1.2 × 30 m, 10 Beete, [set] | keine genannt |
 | Schwarze Planen | [set], für eine Parzelle | keine genannt |
 | Geräte | Radhacke, Sämaschine, 2 Hacken, 2 Karren u. a. | Broadfork |
 | Kompostboxen | 3 Boxen, 3 × 3 × 1.2 m, [set] | keine genannt |
@@ -344,8 +367,12 @@ auf dem schlechteren Boden an einer Seite, so nahe an den Parzellen,
 wie das Gelände es zulässt — Fortier setzt Geräteschuppen, Waschplatz
 und Kühlraum in die Mitte der Gärten, damit keine Parzelle weit von
 ihnen entfernt ist (S. 31); die Pforte zur Küche hin und das Doppeltor
-zum Weg für Anlieferungen. Nur als Beziehungen gezeichnet; der Gang
-über das Gelände legt den Rest fest.
+zum Weg für Anlieferungen. Jedes Beet, jede Box und jeder Haufen
+außerhalb des Streifens des Wasserkodex entlang des Bachs und um den
+Teich; die Boxen und der Haufen zudem in den Abständen des Moduls
+Kompost — mindestens 50 m von der Quelle und nie hangaufwärts von ihr,
+20 m von Wohnungen und von Orten, an denen Kinder sind. Nur als
+Beziehungen gezeichnet; der Gang über das Gelände legt den Rest fest.
 
 * * *
 
@@ -391,8 +418,9 @@ gerundet.
 |---|---|---|---|
 | Bodenanalyse, 3 Proben | 2,989 | 57 | geschätzt, Preisliste |
 | Dolomitmehl, 24 Säcke zu 25 kg | 6,000 | 115 | geschätzt, Listung |
-| Kompost oder Mist, etwa 62 m³ | [set] | [set] | nicht bepreist |
-| Zwischensumme, bepreiste Zeilen | 8,989 | 173 | |
+| Rottemist, 62 m³, etwa 55.8 t | 39,060 | 751 | geschätzt, Listung |
+| Transport des Mists | [set] | [set] | nicht bepreist |
+| Zwischensumme, bepreiste Zeilen | 48,049 | 924 | |
 
 ### 6.2 Bewässerung
 
@@ -419,7 +447,7 @@ gerundet.
 
 | Posten | UAH | EUR | Grundlage |
 |---|---|---|---|
-| Schweißgitter, 9 Rollen | 20,797 | 400 | geschätzt, Listung |
+| Schweißgitter, 2 m, 9 Rollen 25 m | 20,797 | 400 | geschätzt, Listung |
 | Pfosten, 2.5 m, 89 | 38,715 | 745 | geschätzt; Abstand [assumed] |
 | Pforte, 1.0 × 2.0 m | 10,801 | 208 | geschätzt, Listung |
 | Doppeltor, 3 × 2.0 m | 17,135 | 330 | geschätzt, Listung |
@@ -432,7 +460,7 @@ gerundet.
 | Posten | UAH | EUR | Grundlage |
 |---|---|---|---|
 | Vlies, 48 Rollen 3.2 × 10 m | 8,352 | 161 | geschätzt, Listung |
-| Insektennetz, 7 Rollen | 11,151 | 214 | geschätzt, Listung |
+| Insektennetz, 7 Rollen 1.2 × 30 m | 11,151 | 214 | geschätzt, Listung |
 | Bögen | [set] | [set] | nicht bepreist |
 | Schwarze Planen | [set] | [set] | nicht bepreist |
 | Zwischensumme, bepreiste Zeilen | 19,503 | 375 | |
@@ -464,21 +492,25 @@ Hebellockerer ersetzt sie, bis eine angefertigt oder gekauft ist,
 
 | Abschnitt | UAH | EUR |
 |---|---|---|
-| Boden, bepreiste Zeilen | 8,989 | 173 |
+| Boden, bepreiste Zeilen | 48,049 | 924 |
 | Bewässerung, bepreiste Zeilen | 18,854 | 363 |
 | Tunnel | 104,500 | 2,010 |
 | Zaun | 130,648 | 2,512 |
 | Abdeckungen, bepreiste Zeilen | 19,503 | 375 |
 | Geräte | 15,749 | 303 |
 | Boxen und Schuppen | 29,800 | 573 |
-| Zwischensumme Bau | 328,043 | 6,309 |
-| Planungsprüfung, 8 Prozent | 26,200 | 504 |
-| Reserve, 20 Prozent | 65,600 | 1,262 |
-| **Externe Kosten gesamt, bepreiste Zeilen** | **419,843** | **8,074** |
+| Zwischensumme Bau | 367,103 | 7,060 |
+| Planungsprüfung, 8 Prozent | 29,400 | 565 |
+| Reserve, 20 Prozent | 73,400 | 1,412 |
+| **Externe Kosten gesamt, bepreiste Zeilen** | **469,903** | **9,037** |
 
-Die Summe lässt Kompost des ersten Jahres, Saatgut, Bögen, Planen,
-den Teich, die Entnahme, die Pumpe und den Teichzaun aus, die nicht
-bepreist sind. Sie ist nicht die Kosten des Gartens, bis diese
+Die Zeile für Mist ist die des Moduls Kompost: 700 UAH je Tonne
+verrotteten Rindermists, Region Kyjiw, eingesehen am 2026-09-28, bei
+900 kg je m³; in der Westukraine wurde keine Listung für lose Ware
+gefunden, und ein örtliches Angebot mit Lieferung ersetzt sie. Die
+Summe lässt den Transport des Mists, Saatgut, Bögen, Planen, den Teich,
+die Entnahme, die Pumpe und den Teichzaun aus, die nicht bepreist
+sind. Sie ist nicht die Kosten des Gartens, bis diese
 bepreist sind. Die Prozentsätze sind die der Arbeitspapiere. Nur zum
 Vergleich: Fortier nennt Anlaufkosten von 39,000 kanadischen Dollar
 für einen Garten unter zwei Acre, einschließlich eines beheizten
@@ -501,7 +533,10 @@ Tunnelfolie, ausgelegt auf sechs Saisons: etwa 22 m Folie zu 12 m
 Breite zum angegebenen Preis von 640 UAH je Meter, 14,080 UAH, Länge
 [assumed], etwa 2,350 UAH je Saison. Vlies, bei Fortier etwa drei
 Saisons (S. 122). Bodenanalyse alle paar Jahre; Kalk einmal in sechs
-bis acht Jahren. Ersatz des Tropfbands, [from L2].
+bis acht Jahren. Ersatz des Tropfbands, [from L2]. Gekaufter Kompost,
+etwa 11 bis 21 m³ im Jahr, 7,056 bis 13,356 UAH zur selben Listung,
+ohne Transport, aus dem Modul Kompost — die größte wiederkehrende
+Zeile, die der Boden des Gartens hat.
 
 * * *
 
@@ -596,7 +631,16 @@ in einen Teich zur Bewässerung kann eine Genehmigung zur
 Wassernutzung verlangen, eine der schriftlichen Anfragen, die das
 Kompendium schon für das erste Jahr nennt (Abschnitt 18); der Abstand
 des Teichs zur Quelle und ihre Schutzzone werden in derselben Anfrage
-geklärt.
+geklärt. Wasserkodex, Nr. 213/95-ВР vom 06.06.1995, Art. 88–89: ein
+Uferschutzstreifen von 25 m entlang kleiner Bäche und Teiche unter
+3 ha, verdoppelt, wo das Ufer mehr als 3° geneigt ist, in dem Gemüsebau,
+Lagerung oder Ausbringung von Düngemitteln und Mistlager nicht erlaubt
+sind; gefunden 2026-09-28, in Sekundärkopien gelesen, nicht geprüft.
+Ob der Streifen um den eigenen Teich des Gartens gilt und ob der Teich
+im Streifen des Bachs gegraben werden darf, wird in derselben Anfrage
+geklärt. Ein neues Gesetz über ökologische Erzeugung, Nr. 4921-IX vom
+30.06.2026, größtenteils ab 2029 in Kraft, ist vermerkt und noch nicht
+gelesen.
 
 * * *
 
@@ -636,20 +680,22 @@ eine andere Form wachsen.
   Gemüseverbrauchs und die Kabinettsverordnung Nr. 305 für den Bedarf;
   ein ukrainischer Landbauleitfaden von 2025 für die Erträge; der
   Leitfaden eines Händlers und eine agronomische Tabelle für die
-  Kalkung; ukrainische Händler- und Dienstleistungsangebote vom
-  2026-09-28 für die Preise.
+  Kalkung; das Modul Kompost für den zugekauften Kompost; ukrainische
+  Händler- und Dienstleistungsangebote vom 2026-09-28 für die Preise.
 - **Traditionelles Wissen:** keines. Wo Gemüse angebaut wurde, wie der
   Boden versorgt wurde, was angebaut wurde und wessen Saatgut es war,
   gehört den Ältesten.
 - **Text:** CC BY-SA 4.0
 - **Zeichnungen und Entwürfe:** [Hardwarelizenz — offene Entscheidung]
 - **Messdaten:** noch keine
-- **Gate 1:** Entscheidung des Haushalts, 2026-09-28, erfasst von
-  Michel Garand — v0.3 darf so, wie sie ist, als gekennzeichneter
+- **Gate 1:** Entscheidung des Haushalts, 2026-09-29, erfasst von
+  Michel Garand — v0.4 darf so, wie sie ist, als gekennzeichneter
   Entwurf veröffentlicht werden, auf Englisch, Ukrainisch und Deutsch
-- **Wartime review:** 2026-09-28, Michel Garand — v0.3 gelesen gegen
-  Abschnitt 2 des Kompendiums; nichts verortet den Standort;
-  angenommen
+- **Wartime review:** 2026-09-29, Michel Garand — v0.4 gelesen gegen
+  Abschnitt 2 des Kompendiums; nichts verortet den Standort; kein
+  Markt, keine Stadt, kein Abnehmer, kein Lieferant und kein Tag wird
+  genannt; die Breiten des Streifens sind die des Wasserkodex, keine
+  Messungen am Standort; angenommen
 
 * * *
 
@@ -662,9 +708,13 @@ eine andere Form wachsen.
   Pumpe, ihre Leistung und ihr Stromkreis mit dem Modul Energie.
   Solange die Schüttung nicht gemessen ist, bemisst das Wasser den
   Garten, nicht der Boden.
-- **Kompost für die Anlage** — ein datierter Preis für etwa 62 m³
-  Kompost oder verrotteten Mist, oder der eigene Nährstoffstrom des
-  Gartens so entworfen, dass er ihn über Jahre liefert.
+- **Kompost für die Anlage** — ein örtliches Angebot mit Lieferung für
+  etwa 62 m³ verrotteten Mist oder Kompost, das die Listung aus der
+  Region Kyjiw ersetzt, und sein Transport.
+- **Der Schutzstreifen** — die Niedrigwasserlinie des Bachs und der
+  Rand des Teichs beim Gang markiert, die Neigung der Ufer gemessen, um
+  25 oder 50 m festzulegen; Beete, Boxen und Haufen außerhalb davon
+  platziert; die Anfrage zum Teich.
 - **Saatgut, Bögen und Planen** — nach einem Anbauplan und der
   Beetlänge bepreist.
 - **Die Saison** — frost_free_days von der nächsten Station, dann die
