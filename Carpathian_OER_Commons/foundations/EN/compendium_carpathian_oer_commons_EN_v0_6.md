@@ -3,11 +3,11 @@ title: "Carpathian OER Commons — Compendium"
 subtitle: "Philosophy, Pathway, and Structure in One Document"
 author: "Michel Garand"
 date: "2026-09-29"
-version: "v0.5"
+version: "v0.6"
 lang: "en"
 license: "CC BY-SA 4.0"
 project: "Carpathian OER Commons"
-status: "released 2026-09-29 as a working draft, v0.5 — open to co-creation"
+status: "released 2026-09-29 as a working draft, v0.6 — open to co-creation"
 ---
 
 *The compendium of the Carpathian OER Commons: one document that says why
@@ -40,6 +40,10 @@ rules at its head, and the module template with it. Sections 3, 4, 8.6,
 check's list of held terms does not match it by accident; and the
 sanitation toilets module published at L1. Sections 3, 4, 31, 33, and
 34 changed; nothing else.*
+
+*v0.6, 2026-09-29: the greywater, reed bed, and pond module published
+at L1, with the soakaway as the outflow and the pond as the option.
+Sections 3, 4, 31, 33, and 34 changed; nothing else.*
 
 *Section 2 governs everything here and everything the commons publishes.
 No child appears in any form; the programme is described in standing
@@ -264,9 +268,9 @@ the site parameters, the checker, and the release script. Of the three
 working-paper guides, water is converted into its module, at L1, and
 published in English, Ukrainian, and German; sanitation is converted in
 part — its terra preta and biochar rows are modules at L1, published in
-the same three languages, with their PDFs, and so is its toilets row,
-while its greywater, washroom, and wood heat rows are not; energy is not
-yet converted. The
+the same three languages, with their PDFs, and so are its toilets row
+and its greywater, reed bed, and pond row, while its washroom and wood
+heat rows are not; energy is not yet converted. The
 market garden, the first module of the open hamlet, is published at L0
 as a marked draft, v0.5, in English,
 Ukrainian, and German, with its PDFs; the compost module, which feeds
@@ -337,7 +341,10 @@ beside them.
   L1, designed and costed from estimates, untested; Sanitation: terra
   preta toilets, v0.1, at L1, designed and costed from estimates,
   untested, with a plumbed fallback if bucket toilets are refused for
-  the children's side. The other thirty-six are listed in Section 16.
+  the children's side; Greywater, reed bed, pond, v0.1, at L1,
+  designed and costed from estimates, untested, draining to a soakaway,
+  with the pond as the option where permitted. The other thirty-five
+  are listed in Section 16.
 - **The module template** and **the pattern card template** — standards/,
   published in English, Ukrainian, and German, so that a module or a card
   may be written in any language.
@@ -1838,6 +1845,14 @@ are named pattern_[name]_[LANG]_v[major]_[minor].md.
   the accessibility code, cleaning twice a day; no rule was found that
   explicitly allows or forbids an indoor bucket toilet, and the plumbed
   fallback is carried in full.
+- **The greywater module:** Greywater, reed bed, pond, v0.1, published
+  at L1, converted from the sanitation paper — all used water settles
+  in a septic tank of three days' flow before a lined reed bed of 5 m²
+  a person, and the bed drains to a soakaway sized by a percolation
+  test; the paper's pond is kept as the option, built only where the
+  authorities allow it, since the sewerage code sets 200 m between a
+  biological pond and housing, and any discharge to a water body needs
+  a special water-use permit.
 
 * * *
 
@@ -1944,7 +1959,10 @@ modules' new versions (Sections 3, 4, 34).
 
 **v0.5, 2026-09-29.** One word reworded after the release check matched
 it by accident (Section 4); the sanitation toilets module published
-(Sections 3, 4, 31, 34). The pathway and open hamlet
+(Sections 3, 4, 31, 34).
+
+**v0.6, 2026-09-29.** The greywater, reed bed, and pond module
+published (Sections 3, 4, 31, 34). The pathway and open hamlet
 papers still carry
 the forty-module map; they are brought into line in their next
 versions, and until then the compendium holds.
@@ -1959,11 +1977,13 @@ work goes on, in the open, and each new version is released the same way,
 with both lines below dated again.
 
 - **Gate 1:** household decision, 2026-09-29, recorded by Michel
-  Garand — v0.5 may be released as it stands, as a working draft.
-- **Wartime review:** 2026-09-29, Michel Garand — v0.5 read against
-  Section 2; names no place; one word reworded after the release check
-  matched it by accident; the toilets module's rows count no one;
-  accepted.
+  Garand — v0.6 may be released as it stands, as a working draft.
+- **Wartime review:** 2026-09-29, Michel Garand — v0.6 read against
+  Section 2; names no place; the new rows name no authority, place, or
+  day; accepted.
+
+Version 0.5 was released on 2026-09-29 with the household's Gate 1 and
+a wartime review, both recorded by Michel Garand.
 
 Version 0.4 was released on 2026-09-29 and withdrawn the same day, when
 the release check matched a held term inside an ordinary word; nothing
