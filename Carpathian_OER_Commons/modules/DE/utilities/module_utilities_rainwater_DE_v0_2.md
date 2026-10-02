@@ -2,17 +2,17 @@
 title: "Regenwasser und Bewässerung der Baumschule"
 subtitle: "Carpathian OER Commons — Modul Versorgung"
 author: "Michel Garand"
-date: "2026-09-29"
-version: "v0.1"
+date: "2026-10-02"
+version: "v0.2"
 lang: "de"
 license: "CC BY-SA 4.0"
 project: "Carpathian OER Commons"
-status: "L1 — designed, costed from estimates, untested; machine translation from EN v0.1, to be reviewed"
-translated_from: "module_utilities_rainwater_EN_v0_1.md"
+status: "L1 — designed, costed from estimates, untested; machine translation from EN v0.2, to be reviewed"
+translated_from: "module_utilities_rainwater_EN_v0_2.md"
 ---
 
-*Dies ist eine maschinelle Übersetzung des englischen Originals, EN v0.1,
-erstellt am 2026-09-29. Sie ist vorläufig, bis eine Person mit Deutsch als
+*Dies ist eine maschinelle Übersetzung des englischen Originals, EN v0.2,
+erstellt am 2026-10-02. Sie ist vorläufig, bis eine Person mit Deutsch als
 Muttersprache sie durchgesehen hat. Wo die Fassungen voneinander
 abweichen, ist der englische Text maßgeblich.*
 
@@ -40,6 +40,11 @@ die Handpumpe ist nach einer Listung bepreist; und der Fall, den das
 Modul Wasser übergibt — Regenwasser übernimmt die Nutzungen außer
 Trinkwasser, wenn die Quelle zwischen ihre Schwellenwerte fällt —, wird
 hier bemessen, nicht kalkuliert.*
+
+*v0.2, 2026-10-02: Der Haushalt hat die gemauerte Zisterne gewählt,
+nicht den Kunststofftank. Der Tank bleibt als Alternative für einen
+Standort, der ihn braucht, im Entwurf. Die Abschnitte 4, 6, 7, 11, 12
+und 13 sind geändert; sonst nichts.*
 
 *Genehmigungen und örtliche Vorschriften. Dieses Modul ist ein Leitfaden,
 der in verschiedenen Regionen und Ländern unter unterschiedlichem Recht
@@ -259,7 +264,9 @@ Erdüberdeckung; ein abschließbarer Einstiegsschacht; ein Zulauf über
 die Abscheider, ein hangabwärts weggeführter Überlauf, eine Entleerung
 und eine Lüftung mit Gitter.
 
-**Der Kunststofftank als Alternative.** Ein oberirdischer Tank von
+**Der Kunststofftank als Alternative anderswo.** An diesem Standort
+nicht gewählt: Der Haushalt hat am 2026-10-02 die gemauerte Zisterne
+gewählt. Für einen Standort, der ihn braucht: ein oberirdischer Tank von
 5,000 L, lichtundurchlässig, auf einem ebenen Kiesbett, per Schwerkraft
 über einen Hahn an seinem Fuß entnommen, sodass keine Pumpe nötig ist;
 vor dem Frost geleert und zum Entwässern offen gelassen, [set]. Er
@@ -366,11 +373,12 @@ Papiers; die Reserve wird auf die Zwischensumme Bau gerechnet, wie in
 den Modulen Land und Sanitär, während das Modul Wasser sie, wie das
 Papier, auf Zwischensumme und Planung zusammen rechnet.
 
-**Der Kunststofftank stattdessen.** Ein Tank von 5,000 L kostet in
-Listungen aus der Westukraine 38,000 UAH, stehend, und 38,500 UAH,
-liegend; mit dem liegenden Tank und einem Hahn, nicht bepreist,
-anstelle der Pumpe läge die Zwischensumme Bau bei etwa 52,500 UAH und
-die Summe bei etwa 67,200 UAH. Das Kiesbett ist nicht bepreist.
+**Der Kunststofftank, hier nicht gewählt.** Für einen Standort, der ihn
+wählen würde: Ein Tank von 5,000 L kostet in Listungen aus der
+Westukraine 38,000 UAH, stehend, und 38,500 UAH, liegend; mit dem
+liegenden Tank und einem Hahn, nicht bepreist, anstelle der Pumpe läge
+die Zwischensumme Bau bei etwa 52,500 UAH und die Summe bei etwa 67,200
+UAH. Das Kiesbett ist nicht bepreist.
 
 **Beitrag, nicht in der Summe.** Bruchstein für die Zisterne vom
 Standort oder aus dem Tal, mit Erlaubnis der Grundeigentümer, im
@@ -398,7 +406,7 @@ Vertretung — [from L2].
 - **Frühjahr und Herbst:** Dachrinnen und Abscheider von Laub und
   Nadeln geräumt.
 - **Vor dem Frost:** die Pumpe entleert; die Kappen der Abscheider
-  geöffnet; ein Kunststofftank, falls gewählt, geleert.
+  geöffnet; ein Kunststofftank, wo er stattdessen dient, geleert.
 - **Jährlich:** die Zisterne kontrolliert; gereinigt, wenn sich
   Sediment zeigt; das Schloss des Einstiegsschachts geprüft.
 
@@ -488,6 +496,8 @@ eine andere Form wachsen.
 - **Eine größere Baumschule:** die Zisterne wächst mit den
   Trockenwochen, die sie tragen muss; eine Tropfleitung von einem
   Hochbehälter spart Wasser und Arbeit.
+- **Ein kleineres Budget:** der Kunststofftank aus Abschnitt 4, zu etwa
+  der Hälfte der Kosten, jeden Winter geleert.
 - **Kein Dach nahe der Baumschule:** ein Kunststofftank unter dem
   nächsten Dach und ein Schlauch, oder die Beete zum Dach verlegt.
 - **Ein Ziegeldach:** runoff_factor um bis zu ein Zehntel gesenkt.
@@ -512,10 +522,11 @@ eine andere Form wachsen.
 - **Text:** CC BY-SA 4.0
 - **Zeichnungen und Entwürfe:** [Hardwarelizenz — offene Entscheidung]
 - **Messdaten:** noch keine
-- **Gate 1:** Entscheidung des Haushalts, 2026-09-29, erfasst von
-  Michel Garand — v0.1 darf so, wie sie ist, veröffentlicht werden, auf
-  L1, auf Englisch, Ukrainisch und Deutsch
-- **Wartime review:** 2026-09-29, Michel Garand — v0.1 gelesen gegen
+- **Gate 1:** Entscheidung des Haushalts, 2026-10-02, erfasst von
+  Michel Garand — v0.2 darf so, wie sie ist, veröffentlicht werden, auf
+  L1, auf Englisch, Ukrainisch und Deutsch; v0.1 wurde am 2026-09-29
+  veröffentlicht
+- **Wartime review:** 2026-10-02, Michel Garand — v0.2 gelesen gegen
   Abschnitt 2 des Kompendiums; nichts verortet den Standort; der
   Niederschlag ist in der Auflösung der ganzen Spanne angegeben;
   angenommen
@@ -537,8 +548,8 @@ eine andere Form wachsen.
   Baumschule, dann aus den Bewässerungsaufzeichnungen.
 - **Die Erstspülung** — first_flush an der Farbe des Wassers nach den
   ersten Regenfällen erprobt.
-- **Die Zisterne oder der Tank** — die Wahl des Haushalts; ein Angebot
-  statt der 55 Prozent des Papiers.
+- **Die Zisterne** — gemauert, gewählt am 2026-10-02; das Angebot eines
+  Maurers statt der 55 Prozent des Papiers.
 - **Die Dachrinnen** — die gelisteten Preise, aus den Längen des Dachs
   zu einem Angebot gemacht.
 - **Die Handpumpe** — ein Verkäufer in der Westukraine.

@@ -2,12 +2,12 @@
 title: "Carpathian OER Commons — Compendium"
 subtitle: "Philosophy, Pathway, and Structure in One Document"
 author: "Michel Garand"
-date: "2026-09-29"
-version: "v0.7"
+date: "2026-10-02"
+version: "v0.8"
 lang: "en"
 license: "CC BY-SA 4.0"
 project: "Carpathian OER Commons"
-status: "released 2026-09-29 as a working draft, v0.7 — open to co-creation"
+status: "released 2026-10-02 as a working draft, v0.8 — open to co-creation"
 ---
 
 *The compendium of the Carpathian OER Commons: one document that says why
@@ -48,6 +48,10 @@ Sections 3, 4, 31, 33, and 34 changed; nothing else.*
 *v0.7, 2026-09-29: the rainwater and nursery irrigation module
 published at L1, and with it the water paper is fully converted.
 Sections 3, 4, 31, 33, and 34 changed; nothing else.*
+
+*v0.8, 2026-10-02: the rainwater cistern decided as masonry, with the
+rainwater module at v0.2. Sections 4, 31, 33, and 34 changed; nothing
+else.*
 
 *Section 2 governs everything here and everything the commons publishes.
 No child appears in any form; the programme is described in standing
@@ -349,9 +353,9 @@ beside them.
   the children's side; Greywater, reed bed, pond, v0.1, at L1,
   designed and costed from estimates, untested, draining to a soakaway,
   with the pond as the option where permitted; Rainwater and nursery
-  irrigation, v0.1, at L1, designed and costed from estimates,
-  untested, a roof, a buried cistern, and a hand pump for the tree
-  nursery. The other thirty-four are listed in Section 16.
+  irrigation, v0.2, at L1, designed and costed from estimates,
+  untested, a roof, a buried masonry cistern, and a hand pump for the
+  tree nursery. The other thirty-four are listed in Section 16.
 - **The module template** and **the pattern card template** — standards/,
   published in English, Ukrainian, and German, so that a module or a card
   may be written in any language.
@@ -1869,6 +1873,10 @@ are named pattern_[name]_[LANG]_v[major]_[minor].md.
   nursery is watered from the market garden's pond. The case in which
   rainwater takes the flushing of the two flush toilets, if the spring
   measures between its thresholds, is sized and not costed.
+- **The rainwater cistern,** 2026-10-02: masonry, buried below the
+  frost line, as the module designs it, not the plastic tank; the tank
+  stays in the module, v0.2, as the alternative for a site that needs
+  it.
 
 * * *
 
@@ -1986,6 +1994,9 @@ published, and the water paper fully converted (Sections 3, 4, 31,
 the forty-module map; they are brought into line in their next
 versions, and until then the compendium holds.
 
+**v0.8, 2026-10-02.** The rainwater cistern decided as masonry, and the
+rainwater module at v0.2 (Sections 4, 31, 34).
+
 * * *
 
 ### 34. Release record
@@ -1995,11 +2006,14 @@ working draft, beside the three papers it gathers. It is changed as the
 work goes on, in the open, and each new version is released the same way,
 with both lines below dated again.
 
-- **Gate 1:** household decision, 2026-09-29, recorded by Michel
-  Garand — v0.7 may be released as it stands, as a working draft.
-- **Wartime review:** 2026-09-29, Michel Garand — v0.7 read against
+- **Gate 1:** household decision, 2026-10-02, recorded by Michel
+  Garand — v0.8 may be released as it stands, as a working draft.
+- **Wartime review:** 2026-10-02, Michel Garand — v0.8 read against
   Section 2; names no place; the new rows name no authority, place, or
   day; accepted.
+
+Version 0.7 was released on 2026-09-29 with the household's Gate 1 and
+a wartime review, both recorded by Michel Garand.
 
 Version 0.6 was released on 2026-09-29 with the household's Gate 1 and
 a wartime review, both recorded by Michel Garand.

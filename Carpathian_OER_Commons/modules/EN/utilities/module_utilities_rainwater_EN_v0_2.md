@@ -2,8 +2,8 @@
 title: "Rainwater and Nursery Irrigation"
 subtitle: "Carpathian OER Commons — Utilities Module"
 author: "Michel Garand"
-date: "2026-09-29"
-version: "v0.1"
+date: "2026-10-02"
+version: "v0.2"
 lang: "en"
 license: "CC BY-SA 4.0"
 project: "Carpathian OER Commons"
@@ -30,6 +30,11 @@ read against forestry nursery guidance, which asks more at sowing; the
 hand pump is priced from a listing; and the case the water module hands
 over — rainwater taking non-drinking uses when the spring falls between
 its thresholds — is sized here, not costed.*
+
+*v0.2, 2026-10-02: the household chose the masonry cistern over the
+plastic tank. The tank stays in the design as the alternative for a
+site that needs it. Sections 4, 6, 7, 11, 12, and 13 changed; nothing
+else.*
 
 *Permits and local rules. This module is a guide, used in different
 regions and countries under different laws and guidelines. Depending on
@@ -231,7 +236,9 @@ cement mortar; a reinforced floor and roof slab; at least 1 m of earth
 cover; one lockable manhole; an inlet through the diverters, an
 overflow led away downslope, a washout, and a screened vent.
 
-**The plastic tank, as the alternative.** A 5,000 L tank above ground,
+**The plastic tank, as the alternative elsewhere.** Not chosen at this
+site: the household chose the masonry cistern on 2026-10-02. For a
+site that needs it: a 5,000 L tank above ground,
 opaque, on a level gravel base, drawn by gravity from a tap at its
 base, so that no pump is needed; emptied before the frost and left
 open to drain, [set]. It costs about half the masonry cistern and lasts
@@ -335,7 +342,8 @@ taken on the construction subtotal, as in the land and sanitation
 modules, where the water module takes it on the subtotal and the design
 together, as the paper does.
 
-**The plastic tank instead.** A 5,000 L tank is listed at 38,000 UAH,
+**The plastic tank, not chosen here.** For a site that would choose
+it: a 5,000 L tank is listed at 38,000 UAH,
 vertical, and 38,500 UAH, horizontal, in western Ukrainian listings;
 with the horizontal tank, and a tap, not priced, in place of the pump,
 the construction subtotal would be about 52,500 UAH, and the total
@@ -364,7 +372,7 @@ Responsible: one named adult, paid, with a deputy — [from L2].
 - **Spring and autumn:** gutters and diverters cleared of leaves and
   needles.
 - **Before the frost:** the pump drained; the diverters' caps opened;
-  a plastic tank, if chosen, emptied.
+  a plastic tank, where one is used instead, emptied.
 - **Yearly:** the cistern inspected; cleaned when silt shows; the
   manhole's lock checked.
 
@@ -447,6 +455,8 @@ form from it.
   a small insulated housing, or drained all winter.
 - **A larger nursery:** the cistern scales with the dry weeks it must
   carry; a drip line from a header tank saves water and work.
+- **A smaller budget:** the plastic tank of Section 4, at about half
+  the cost, emptied each winter.
 - **No roof near the nursery:** a plastic tank under the nearest roof,
   and a hose, or the beds moved to the roof.
 - **A tile roof:** runoff_factor lowered by up to a tenth.
@@ -471,10 +481,10 @@ form from it.
 - **Text:** CC BY-SA 4.0
 - **Drawings and designs:** [hardware licence — open decision]
 - **Measurement data:** none yet
-- **Gate 1:** household decision, 2026-09-29, recorded by Michel
-  Garand — v0.1 may be published as it stands, at L1, in English,
-  Ukrainian, and German
-- **Wartime review:** 2026-09-29, Michel Garand — v0.1 read against
+- **Gate 1:** household decision, 2026-10-02, recorded by Michel
+  Garand — v0.2 may be published as it stands, at L1, in English,
+  Ukrainian, and German; v0.1 was published on 2026-09-29
+- **Wartime review:** 2026-10-02, Michel Garand — v0.2 read against
   compendium Section 2; nothing places the site; the rainfall is given
   at the resolution of the whole range; accepted
 
@@ -494,7 +504,7 @@ form from it.
   nursery module, then from the watering record.
 - **The first flush** — first_flush tried against the water's colour
   after the first rains.
-- **The cistern or the tank** — the household's choice; a quotation
+- **The cistern** — masonry, chosen 2026-10-02; a mason's quotation
   replacing the paper's 55 percent.
 - **The gutters** — the listed prices turned into a quotation from the
   roof's lengths.
