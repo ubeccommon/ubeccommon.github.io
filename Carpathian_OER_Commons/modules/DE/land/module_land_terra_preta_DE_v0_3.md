@@ -2,17 +2,17 @@
 title: "Terra Preta: Von der Fermentation zum Boden"
 subtitle: "Carpathian OER Commons — Modul Land, Wald, Ernährung"
 author: "Michel Garand"
-date: "2026-09-29"
-version: "v0.2"
+date: "2026-10-02"
+version: "v0.3"
 lang: "de"
 license: "CC BY-SA 4.0"
 project: "Carpathian OER Commons"
-status: "L1 — designed, costed from estimates, untested; machine translation from EN v0.2, to be reviewed"
-translated_from: "module_land_terra_preta_EN_v0_2.md"
+status: "L1 — designed, costed from estimates, untested; machine translation from EN v0.3, to be reviewed"
+translated_from: "module_land_terra_preta_EN_v0_3.md"
 ---
 
-*Dies ist eine maschinelle Übersetzung des englischen Originals, EN v0.2,
-erstellt am 2026-09-29. Sie ist vorläufig, bis eine Person mit Deutsch als
+*Dies ist eine maschinelle Übersetzung des englischen Originals, EN v0.3,
+erstellt am 2026-10-02. Sie ist vorläufig, bis eine Person mit Deutsch als
 Muttersprache sie durchgesehen hat. Wo die Fassungen voneinander
 abweichen, ist der englische Text maßgeblich.*
 
@@ -56,6 +56,12 @@ nichts hier ersetzt das.*
 
 *v0.2, 2026-09-29: am Anfang des Moduls ein Hinweis zu Genehmigungen und
 örtlichen Vorschriften ergänzt; sonst nichts geändert.*
+
+*v0.3, 2026-10-02: zwei offene Punkte vom Haushalt entschieden — 36
+Behälter, nicht die Verdopplung des Papiers auf 72; und die 50 m von
+Schlafgebäuden und Speisesaal für das Lager, die Wurmbeete und die
+Boxen beibehalten. Die Abschnitte 3, 4, 12 und 13 sind geändert; sonst
+nichts.*
 
 * * *
 
@@ -223,14 +229,17 @@ Kollegen, 2019).
 | Jede Box, Erde für 6 Monate | halbes Jahr Ausgang | etwa 1.4–3.8 m³ |
 
 **Die Behälter.** Ein Behälter wird frühestens sechs Wochen nach dem
-Versiegeln geöffnet (Papier, Abschnitt 10). Die Spitze sind
-Durchgänge, die direkt aufeinander folgen: sechs Wochen der oberen
-Zahl sind etwa 3.6 m³, also 36 Behälter zu 100 L. Die Regel des
-Papiers ist, doppelt so viele zu kaufen, wie die Rechnung nahelegt,
-damit nichts zu früh geöffnet wird; 36 erfüllen sie, wenn die
-Durchgänge nicht direkt aufeinander folgen, und sind das Minimum, wenn
-sie es tun. Vergorenes Material behält sein Volumen (Papier,
-Abschnitt 4).
+Versiegeln geöffnet (Papier, Abschnitt 10). Die Spitze sind Durchgänge,
+die direkt aufeinander folgen: sechs Wochen der oberen Zahl sind etwa
+3.6 m³, also 36 Behälter zu 100 L. Die Regel des Papiers ist, doppelt so
+viele zu kaufen, wie die Rechnung nahelegt, damit nichts zu früh
+geöffnet wird; 36 erfüllen sie, wenn die Durchgänge nicht direkt
+aufeinander folgen, und sind das Minimum, wenn sie es tun. Entschieden
+am 2026-10-02: 36 Behälter, nicht 72. Die Sechs-Wochen-Regel steht über
+der Zahl: Zeigen die Etikettendaten, dass ein Durchgang einen Behälter
+bräuchte, bevor einer frei ist, werden vor diesem Durchgang weitere
+gekauft, und keiner wird zu früh geöffnet. Vergorenes Material behält
+sein Volumen (Papier, Abschnitt 4).
 
 **Die Wurmbeete.** Drei, im Wechsel, wie das Papier sie vorsieht; jedes
 nimmt etwa vier Monate des Ausgangs der Behälter auf, 2.9 bis 3.4 m³
@@ -315,9 +324,12 @@ Gelände gemessen, bevor etwas gebaut wird; noch keiner ist gemessen.
 | zu jedem Ort, an dem Kinder sind | 20 m |
 | zur Küche | 20 m |
 
-Die 50 m von Schlafgebäuden und Speisesaal folgen der Hygieneordnung
-für Kindereinrichtungen, wie sie für Außentoiletten wiedergegeben
-wird; die Anfrage klärt, ob sie für ein Lager gilt.
+Die 50 m von Schlafgebäuden und Speisesaal folgen der Hygieneordnung für
+Kindereinrichtungen, wie sie für Außentoiletten wiedergegeben wird.
+Entschieden am 2026-10-02: Das Lager, die Wurmbeete und die Boxen
+halten sie ein, auch wenn die Anfrage ergibt, dass die Ordnung ein Lager
+nicht erfasst; ein größerer Abstand, den die Anfrage verlangt, tritt an
+ihre Stelle.
 
 **Das Lager, wie entworfen.** Schattig, belüftet, abschließbar, gegen
 Frost gedämmt, die Behälter auf einem ebenen Boden und mit Platz, um
@@ -597,12 +609,13 @@ eine andere Form wachsen.
 - **Text:** CC BY-SA 4.0
 - **Zeichnungen und Entwürfe:** [Hardwarelizenz — offene Entscheidung]
 - **Messdaten:** noch keine
-- **Gate 1:** Entscheidung des Haushalts, 2026-09-29, erfasst von Michel
-  Garand — v0.2 darf so, wie sie ist, veröffentlicht werden, auf Englisch,
+- **Gate 1:** Entscheidung des Haushalts, 2026-10-02, erfasst von Michel
+  Garand — v0.3 darf so, wie sie ist, veröffentlicht werden, auf Englisch,
   Ukrainisch und Deutsch
-- **Wartime review:** 2026-09-29, Michel Garand — v0.2 gelesen gegen
-  Abschnitt 2 des Kompendiums; nichts verortet den Standort; der Hinweis
-  zu Genehmigungen und örtlichen Vorschriften ergänzt; angenommen
+- **Wartime review:** 2026-10-02, Michel Garand — v0.3 gelesen gegen
+  Abschnitt 2 des Kompendiums; nichts verortet den Standort; die zwei
+  Entscheidungen nennen keinen Ort und keinen am Standort gemessenen
+  Abstand; angenommen
 
 * * *
 
@@ -611,7 +624,11 @@ eine andere Form wachsen.
 - **Die schriftliche Antwort** des Hygienedienstes des Bezirks, bevor
   etwas gekauft wird: Punkt 2.21, Verordnung Nr. 377, die Abstände.
 - **Die Abstände** — jede Zeile der Lagetabelle, mit dem Maßband beim
-  Gang gemessen; die Neigung neben Bach und Teich.
+  Gang gemessen; die Neigung neben Bach und Teich; die 50 m von
+  Schlafgebäuden und Speisesaal, entschieden am 2026-10-02.
+- **Die Zahl der Behälter** — die Etikettendaten gegen den Plan der
+  Durchgänge, damit weitere gekauft werden, bevor einer zu früh geöffnet
+  werden müsste.
 - **bucket_share** — die Benutzungen, die die Eimer tragen, aus den
   ersten Durchgängen; und der Fall der Spültoiletten, falls er kommt.
 - **cover_at_seat** — die Abdeckstreu, die eine Benutzung braucht, aus

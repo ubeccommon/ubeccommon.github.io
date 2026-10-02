@@ -3,11 +3,11 @@ title: "Carpathian OER Commons — Compendium"
 subtitle: "Philosophy, Pathway, and Structure in One Document"
 author: "Michel Garand"
 date: "2026-10-02"
-version: "v0.8"
+version: "v0.9"
 lang: "en"
 license: "CC BY-SA 4.0"
 project: "Carpathian OER Commons"
-status: "released 2026-10-02 as a working draft, v0.8 — open to co-creation"
+status: "released 2026-10-02 as a working draft, v0.9 — open to co-creation"
 ---
 
 *The compendium of the Carpathian OER Commons: one document that says why
@@ -52,6 +52,10 @@ Sections 3, 4, 31, 33, and 34 changed; nothing else.*
 *v0.8, 2026-10-02: the rainwater cistern decided as masonry, with the
 rainwater module at v0.2. Sections 4, 31, 33, and 34 changed; nothing
 else.*
+
+*v0.9, 2026-10-02: the terra preta module's two open points decided,
+with the module at v0.3; and the release check's held terms matched as
+whole words. Sections 4, 31, 33, and 34 changed; nothing else.*
 
 *Section 2 governs everything here and everything the commons publishes.
 No child appears in any form; the programme is described in standing
@@ -344,7 +348,7 @@ beside them.
   marked draft, sized for about 3,000 m² and not fully costed; Compost:
   the garden stream to the beds, v0.2, at L0 as a marked draft, sized
   from the market garden's need, with the bought-in share priced; Terra
-  preta: fermentation to soil, v0.2, at L1, designed and costed from
+  preta: fermentation to soil, v0.3, at L1, designed and costed from
   estimates, untested, and not to be built before the sanitary
   service's written answer; Biochar: kiln, quality, storage, v0.2, at
   L1, designed and costed from estimates, untested; Sanitation: terra
@@ -1877,6 +1881,18 @@ are named pattern_[name]_[LANG]_v[major]_[minor].md.
   frost line, as the module designs it, not the plastic tank; the tank
   stays in the module, v0.2, as the alternative for a site that needs
   it.
+- **The terra preta vessels and store,** 2026-10-02: 36 vessels of 100
+  L, not the paper's doubling to 72, with the six-week rule over the
+  count — more are bought before a session would need one early, and
+  none is opened early; and the 50 m from sleeping buildings and the
+  dining hall kept for the store, the worm beds, and the bays, whatever
+  the enquiry finds of the regulation's reach, unless it asks more. The
+  module is at v0.3.
+- **The release check,** 2026-10-02: the held terms on the list kept
+  outside both repositories match whole words only, after one matched
+  inside an ordinary word (Section 34); a term ending in * matches every
+  word that begins with it, so that a Ukrainian or German name is held
+  in all its case forms. The repository conventions record it.
 
 * * *
 
@@ -1997,6 +2013,10 @@ versions, and until then the compendium holds.
 **v0.8, 2026-10-02.** The rainwater cistern decided as masonry, and the
 rainwater module at v0.2 (Sections 4, 31, 34).
 
+**v0.9, 2026-10-02.** The terra preta vessels and store decided, with
+the module at v0.3, and the release check's matching recorded
+(Sections 4, 31, 34).
+
 * * *
 
 ### 34. Release record
@@ -2007,10 +2027,13 @@ work goes on, in the open, and each new version is released the same way,
 with both lines below dated again.
 
 - **Gate 1:** household decision, 2026-10-02, recorded by Michel
-  Garand — v0.8 may be released as it stands, as a working draft.
-- **Wartime review:** 2026-10-02, Michel Garand — v0.8 read against
+  Garand — v0.9 may be released as it stands, as a working draft.
+- **Wartime review:** 2026-10-02, Michel Garand — v0.9 read against
   Section 2; names no place; the new rows name no authority, place, or
   day; accepted.
+
+Version 0.8 was released on 2026-10-02 with the household's Gate 1 and
+a wartime review, both recorded by Michel Garand.
 
 Version 0.7 was released on 2026-09-29 with the household's Gate 1 and
 a wartime review, both recorded by Michel Garand.

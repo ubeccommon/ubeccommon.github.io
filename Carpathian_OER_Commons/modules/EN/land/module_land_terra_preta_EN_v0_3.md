@@ -2,8 +2,8 @@
 title: "Terra Preta: Fermentation to Soil"
 subtitle: "Carpathian OER Commons — Land, Forest, Food Module"
 author: "Michel Garand"
-date: "2026-09-29"
-version: "v0.2"
+date: "2026-10-02"
+version: "v0.3"
 lang: "en"
 license: "CC BY-SA 4.0"
 project: "Carpathian OER Commons"
@@ -45,6 +45,11 @@ nothing here replaces that.*
 
 *v0.2, 2026-09-29: a note on permits and local rules added at the head of
 the module; nothing else changed.*
+
+*v0.3, 2026-10-02: two open points decided by the household — 36
+vessels, not the paper's doubling to 72; and the 50 m from sleeping
+buildings and the dining hall kept for the store, the worm beds, and
+the bays. Sections 3, 4, 12, and 13 changed; nothing else.*
 
 * * *
 
@@ -205,8 +210,11 @@ is sealed (paper, Section 10). The peak is sessions back to back: six
 weeks of the upper figure is about 3.6 m³, which is 36 vessels of 100 L.
 The paper's rule is to buy twice as many as the arithmetic suggests, so
 that nothing is opened early; 36 meets it when sessions do not run back
-to back, and is the minimum when they do. Fermented material keeps its
-volume (paper, Section 4).
+to back, and is the minimum when they do. Decided 2026-10-02: 36
+vessels, not 72. The six-week rule stands over the count: if the label
+dates show that a session would need a vessel before one is free, more
+vessels are bought before that session, and none is opened early.
+Fermented material keeps its volume (paper, Section 4).
 
 **The worm beds.** Three, in rotation, as the paper has them; each
 takes about four months of the vessels' output, 2.9 to 3.4 m³ before
@@ -288,8 +296,10 @@ ground before anything is built; none has been measured yet.
 | The kitchen | 20 m |
 
 The 50 m from sleeping buildings and the dining hall follows the
-children's-establishment regulation as reported for outdoor toilets;
-the enquiry settles whether it applies to a store.
+children's-establishment regulation as reported for outdoor toilets.
+Decided 2026-10-02: the store, the worm beds, and the bays keep it even
+if the enquiry finds that the regulation does not reach a store; a
+larger distance asked by the enquiry takes its place.
 
 **The store, as designed.** Shaded, ventilated, lockable, lined against
 frost, with the vessels on a level floor and room to open one without
@@ -548,11 +558,11 @@ form from it.
 - **Text:** CC BY-SA 4.0
 - **Drawings and designs:** [hardware licence — open decision]
 - **Measurement data:** none yet
-- **Gate 1:** household decision, 2026-09-29, recorded by Michel Garand —
-  v0.2 may be published as it stands, in English, Ukrainian, and German
-- **Wartime review:** 2026-09-29, Michel Garand — v0.2 read against
-  compendium Section 2; nothing places the site; the note on permits and
-  local rules added; accepted
+- **Gate 1:** household decision, 2026-10-02, recorded by Michel Garand —
+  v0.3 may be published as it stands, in English, Ukrainian, and German
+- **Wartime review:** 2026-10-02, Michel Garand — v0.3 read against
+  compendium Section 2; nothing places the site; the two decisions name
+  no place and no distance measured on the site; accepted
 
 * * *
 
@@ -561,7 +571,10 @@ form from it.
 - **The written answer** of the district sanitary service, before
   anything is bought: point 2.21, Order No. 377, the distances.
 - **The distances** — every row of the siting table, measured with a
-  tape on the walk; the slope beside the stream and the pond.
+  tape on the walk; the slope beside the stream and the pond; the 50 m
+  from sleeping buildings and the dining hall, decided 2026-10-02.
+- **The vessel count** — the label dates against the session plan, so
+  that more vessels are bought before any would be opened early.
 - **bucket_share** — the uses the buckets carry, from the first
   sessions; and the plumbed-units case, if it comes.
 - **cover_at_seat** — the cover a use takes, from the first week.
