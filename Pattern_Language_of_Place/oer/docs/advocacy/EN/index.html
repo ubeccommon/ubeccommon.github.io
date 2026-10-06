@@ -226,6 +226,7 @@
     vertical-align: middle;
     font-family: "DM Mono", monospace;
   }
+  .footer-link { color: var(--leaf); }
   .empty-state { text-align: center; padding: 4rem 2rem; color: var(--text-muted); }
   .empty-icon { font-size: 3rem; margin-bottom: 1rem; }
   .footer {
@@ -242,6 +243,9 @@
     .dir-title { font-size: 1.6rem; }
     .main { padding: 1.5rem 1rem 3rem; }
     .site-logo { font-size: 0.85rem; }
+    .header-inner { height: auto; min-height: 60px; flex-wrap: wrap; padding: 0.6rem 0; gap: 0.3rem 1rem; }
+    .header-divider { display: none; }
+    .breadcrumb { width: 100%; }
   }
 </style>
 </head>
@@ -316,7 +320,7 @@
   
 </main>
 <footer class="footer">
-  Erdpuls · Open Educational Resources · ubeccommon.github.io
+  Erdpuls · Open Educational Resources · ubeccommon.github.io · <a href="https://ubeccommon.github.io/resources/" class="footer-link">Resource catalogue</a>
 </footer>
 </body>
 </html>
