@@ -3769,9 +3769,9 @@
         "@type": "Person",
         "name": "Michel Garand"
       },
-      "version": "0.10",
-      "datePublished": "2026-10-03",
-      "creativeWorkStatus": "released 2026-10-03 as a working draft, v0.10 — open to co-creation",
+      "version": "0.11",
+      "datePublished": "2026-10-06",
+      "creativeWorkStatus": "released 2026-10-07 as a working draft, v0.11 — open to co-creation",
       "isPartOf": {
         "@type": "Collection",
         "name": "Carpathian OER Commons",
@@ -3780,12 +3780,12 @@
       "encoding": [
         {
           "@type": "MediaObject",
-          "contentUrl": "https://raw.githubusercontent.com/ubeccommon/ubeccommon.github.io/main/Carpathian_OER_Commons/foundations/EN/compendium_carpathian_oer_commons_EN_v0_10.md",
+          "contentUrl": "https://raw.githubusercontent.com/ubeccommon/ubeccommon.github.io/main/Carpathian_OER_Commons/foundations/EN/compendium_carpathian_oer_commons_EN_v0_11.md",
           "encodingFormat": "text/markdown"
         },
         {
           "@type": "MediaObject",
-          "contentUrl": "https://ubeccommon.github.io/Carpathian_OER_Commons/foundations/EN/pdf/compendium_carpathian_oer_commons_EN_v0_10.pdf",
+          "contentUrl": "https://ubeccommon.github.io/Carpathian_OER_Commons/foundations/EN/pdf/compendium_carpathian_oer_commons_EN_v0_11.pdf",
           "encodingFormat": "application/pdf"
         }
       ]
@@ -4172,6 +4172,134 @@
       ],
       "translationOfWork": {
         "@id": "https://ubeccommon.github.io/resources/carpathian/foundations-carpathian-oer-commons/en/"
+      }
+    },
+    {
+      "@type": [
+        "LearningResource",
+        "CreativeWork"
+      ],
+      "@id": "https://ubeccommon.github.io/resources/carpathian/module-buildings-earthship/en/",
+      "url": "https://ubeccommon.github.io/resources/carpathian/module-buildings-earthship/en/",
+      "identifier": "carpathian/module-buildings-earthship/en",
+      "name": "Carpathian Earthship: Shelter, Food Store, Co-working",
+      "inLanguage": "en",
+      "isAccessibleForFree": true,
+      "alternativeHeadline": "Carpathian OER Commons — Buildings Module",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": {
+        "@type": "Person",
+        "name": "Michel Garand"
+      },
+      "version": "0.1",
+      "datePublished": "2026-10-06",
+      "creativeWorkStatus": "L0 — marked draft: concept design, not engineered",
+      "isPartOf": {
+        "@type": "Collection",
+        "name": "Carpathian OER Commons",
+        "url": "https://ubeccommon.github.io/resources/carpathian/"
+      },
+      "encoding": [
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://raw.githubusercontent.com/ubeccommon/ubeccommon.github.io/main/Carpathian_OER_Commons/modules/EN/buildings/module_buildings_earthship_EN_v0_1.md",
+          "encodingFormat": "text/markdown"
+        },
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://ubeccommon.github.io/Carpathian_OER_Commons/modules/EN/pdf/module_buildings_earthship_EN_v0_1.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ],
+      "workTranslation": [
+        {
+          "@id": "https://ubeccommon.github.io/resources/carpathian/module-buildings-earthship/de/"
+        },
+        {
+          "@id": "https://ubeccommon.github.io/resources/carpathian/module-buildings-earthship/uk/"
+        }
+      ]
+    },
+    {
+      "@type": [
+        "LearningResource",
+        "CreativeWork"
+      ],
+      "@id": "https://ubeccommon.github.io/resources/carpathian/module-buildings-earthship/de/",
+      "url": "https://ubeccommon.github.io/resources/carpathian/module-buildings-earthship/de/",
+      "identifier": "carpathian/module-buildings-earthship/de",
+      "name": "Carpathian Earthship: Schutzraum, Lebensmittellager, Co-Working",
+      "inLanguage": "de",
+      "isAccessibleForFree": true,
+      "alternativeHeadline": "Carpathian OER Commons — Modul Gebäude",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": {
+        "@type": "Person",
+        "name": "Michel Garand"
+      },
+      "version": "0.1",
+      "datePublished": "2026-10-06",
+      "creativeWorkStatus": "L0 — marked draft: concept design, not engineered; machine translation from EN v0.1, to be reviewed",
+      "isPartOf": {
+        "@type": "Collection",
+        "name": "Carpathian OER Commons",
+        "url": "https://ubeccommon.github.io/resources/carpathian/"
+      },
+      "encoding": [
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://raw.githubusercontent.com/ubeccommon/ubeccommon.github.io/main/Carpathian_OER_Commons/modules/DE/buildings/module_buildings_earthship_DE_v0_1.md",
+          "encodingFormat": "text/markdown"
+        },
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://ubeccommon.github.io/Carpathian_OER_Commons/modules/DE/pdf/module_buildings_earthship_DE_v0_1.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ],
+      "translationOfWork": {
+        "@id": "https://ubeccommon.github.io/resources/carpathian/module-buildings-earthship/en/"
+      }
+    },
+    {
+      "@type": [
+        "LearningResource",
+        "CreativeWork"
+      ],
+      "@id": "https://ubeccommon.github.io/resources/carpathian/module-buildings-earthship/uk/",
+      "url": "https://ubeccommon.github.io/resources/carpathian/module-buildings-earthship/uk/",
+      "identifier": "carpathian/module-buildings-earthship/uk",
+      "name": "Carpathian Earthship: укриття, склад продуктів, коворкінг",
+      "inLanguage": "uk",
+      "isAccessibleForFree": true,
+      "alternativeHeadline": "Carpathian OER Commons — модуль будівель",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": {
+        "@type": "Person",
+        "name": "Michel Garand"
+      },
+      "version": "0.1",
+      "datePublished": "2026-10-06",
+      "creativeWorkStatus": "L0 — marked draft: concept design, not engineered; machine translation from EN v0.1, to be reviewed",
+      "isPartOf": {
+        "@type": "Collection",
+        "name": "Carpathian OER Commons",
+        "url": "https://ubeccommon.github.io/resources/carpathian/"
+      },
+      "encoding": [
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://raw.githubusercontent.com/ubeccommon/ubeccommon.github.io/main/Carpathian_OER_Commons/modules/UK/buildings/module_buildings_earthship_UK_v0_1.md",
+          "encodingFormat": "text/markdown"
+        },
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://ubeccommon.github.io/Carpathian_OER_Commons/modules/UK/pdf/module_buildings_earthship_UK_v0_1.pdf",
+          "encodingFormat": "application/pdf"
+        }
+      ],
+      "translationOfWork": {
+        "@id": "https://ubeccommon.github.io/resources/carpathian/module-buildings-earthship/en/"
       }
     },
     {
