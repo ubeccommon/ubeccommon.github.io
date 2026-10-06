@@ -2,12 +2,12 @@
 title: "Carpathian OER Commons — Compendium"
 subtitle: "Philosophy, Pathway, and Structure in One Document"
 author: "Michel Garand"
-date: "2026-10-03"
-version: "v0.10"
+date: "2026-10-06"
+version: "v0.11"
 lang: "en"
 license: "CC BY-SA 4.0"
 project: "Carpathian OER Commons"
-status: "released 2026-10-03 as a working draft, v0.10 — open to co-creation"
+status: "released 2026-10-07 as a working draft, v0.11 — open to co-creation"
 ---
 
 *The compendium of the Carpathian OER Commons: one document that says why
@@ -66,6 +66,13 @@ wood heat at L0 as marked drafts, with the water module at v0.4 and the
 template at v0.3. Sections 1, 2, 3, 4, 16, 26, 31, 33, and 34 changed;
 nothing else.*
 
+*v0.11, 2026-10-06: the Carpathian Earthship enters the map as a row
+of its own in Buildings — one earth-sheltered building holding the
+shelter's structure, the food store's cellar, a wellness room, and a
+working room — published at L0 as a marked draft, in English,
+Ukrainian, and German, with its PDFs and four drawings; forty-three
+modules. Sections 1, 3, 4, 16, 31, 33, and 34 changed; nothing else.*
+
 *Section 2 governs everything here and everything the commons publishes.
 No child appears in any form; the programme is described in standing
 format only. The site is not named, and nothing here places it; every site
@@ -91,13 +98,14 @@ education for adults, and a small settlement growing around them — a
 hamlet, присілок, the working term until the elders give theirs
 [for the elders].
 
-The guide is written as modules, forty-two of them, each with the same
+The guide is written as modules, forty-three of them, each with the same
 shape and each carrying a maturity level that states what may be claimed
 from it. Beside the modules it carries the place's own pattern language,
 discovered and not imposed. Today two modules stand at a level the site's
-own experience backs, fifteen are at design stage, four — the market
-garden, the compost, micro-hydro, and wood heat — are published at L0
-as marked drafts, and twenty-one are empty rows, left visibly empty.
+own experience backs, fifteen are at design stage, five — the market
+garden, the compost, micro-hydro, wood heat, and the Carpathian
+Earthship — are published at L0 as marked drafts, and twenty-one are
+empty rows, left visibly empty.
 
 **The initiative.** The commons grows out of Soil and Peace, a co-created
 community regeneration practice based on one conviction: that the hand
@@ -287,7 +295,7 @@ holding, until a native reader has reviewed them.
 matter. A change of content steps the version; the older file leaves the
 public site, and the workshop keeps its history.
 
-**Where the work stands, 2026-10-03.** Phase 0 is largely done: the
+**Where the work stands, 2026-10-06.** Phase 0 is largely done: the
 module template, the pattern card template, the repository conventions,
 the site parameters, the checker, and the release script. Of the three
 working-paper guides, water is fully converted, into its water module
@@ -306,7 +314,9 @@ Ukrainian, and German, with its PDFs; the compost module, which feeds
 it, is published beside it at L0 as a marked draft, v0.2, in the same
 three languages, with its PDFs. Phase 1 has not begun: the
 baseline has not been walked, and the pattern record has not been
-started.
+started. The first buildings module, the Carpathian Earthship, is
+published at L0 as a marked draft, v0.1, in English, Ukrainian, and
+German, with its PDFs and four sheets of drawings.
 
 * * *
 
@@ -383,8 +393,10 @@ beside them.
   sized and designed, with the permit, the impact assessment, the fish,
   and the residual flow set out, and nothing measured or asked; Wood
   heat and hot water, v0.1, at L0 as a marked draft, a sizing method
-  and a design, the buildings not yet surveyed. The other thirty-one are
-  listed in Section 16.
+  and a design, the buildings not yet surveyed; Carpathian Earthship:
+  shelter, food store, co-working, v0.1, at L0 as a marked draft, a
+  concept design with orientation costs, not engineered, its four
+  drawings beside it. The other thirty-one are listed in Section 16.
 - **The module template** and **the pattern card template** — standards/,
   published in English, Ukrainian, and German, so that a module or a card
   may be written in any language.
@@ -1060,6 +1072,7 @@ modules draw.
 | Covered gathering place and hearth | L0 | — |
 | Workshop and tool store | L0 | — |
 | Insulation and mountain building practice | L0 | — |
+| Carpathian Earthship: shelter, store, work | L0, marked draft | — |
 
 #### 16.4 Land, forest, food
 
@@ -1110,10 +1123,10 @@ Self-governance is designed threefold (Section 25). The growers' and
 eaters' association is its economic sphere, and the first part of it to
 be designed: the hamlet first, the region only once the hamlet is fed.
 
-Forty-two modules. Two at a level where the site's own experience backs
-them, fifteen at design stage, four marked drafts at L0, twenty-one
-untouched. Naming the empty rows is more useful than filling them with
-prose.
+Forty-three modules. Two at a level where the site's own experience
+backs them, fifteen at design stage, five marked drafts at L0,
+twenty-one untouched. Naming the empty rows is more useful than
+filling them with prose.
 
 Across all seven groups runs a pattern layer — the place's own patterns,
 discovered, not imposed — carried in the pattern record and in each
@@ -1144,6 +1157,18 @@ dump load. Firewood is a priced running cost; the forest strand yields
 none, and wood from the household's own woodland enters only through a
 permitted felling by paid hands, shown as material contribution beside
 the price.
+
+Where the Carpathian Earthship meets the other rows. The Earthship row
+holds one building dug into a slope, with its turf carried on over the
+roof: the structure of a protective shelter, the food store's pantry
+and root cellar, a winter garden at the entrance with a wellness room
+and sauna, and a working room above. The shelter row keeps the
+standard, the siting, and the certification, and the food storage row
+the keeping and preserving; the wood heat row holds the building's
+stoves, flues, and hot water, and the energy row the shelter's fan and
+light on the essential circuit. The shelter is described in standing
+format there as everywhere: what it must do and how it is sized, never
+where it stands, and its own supply without its figures.
 
 * * *
 
@@ -2043,6 +2068,35 @@ are named pattern_[name]_[LANG]_v[major]_[minor].md.
   The energy paper is fully converted; the sanitation paper waits only
   on its washroom row.
 
+**2026-10-06**
+
+- **The Carpathian Earthship:** a row of its own in Buildings, drafted
+  at L0 as a marked draft — one earth-sheltered building with the
+  shelter's structure, the food store's cellar, a wellness room, and a
+  working room, costed from dated listings as an orientation only. The
+  name is kept, with its source named — the Earthship of Michael
+  Reynolds and Earthship Biotecture — and what is changed: no tyres,
+  reinforced concrete where the earth pushes, wood as the winter heat,
+  drainage first. Forty-three modules.
+- **Doors that pass people:** at least 0.9 by 2.0 m clear on every main
+  route, round doors included — a round door is a circle whose centre
+  stands above the floor, so that the floor cuts it; the Earthship's
+  main door is 2.5 m across and its other two round doors 2.3 m.
+- **The shelter's drawings:** its supply figures are kept out of them,
+  as Section 2 holds; the concept image made on photographs of the
+  slope stays out of both repositories.
+- **The exchange rate:** kept at 52 UAH to the euro in the site
+  parameters until they are next reviewed, so that every module moves
+  together; the National Bank's rate on 2026-10-06 was 50.53, as read
+  on a secondary copy.
+
+**2026-10-07**
+
+- **Published:** the Carpathian Earthship, v0.1, at L0 as a marked
+  draft, in English, Ukrainian, and German, with its PDFs and its four
+  drawings as SVG; the compendium, v0.11, with it. The drawings' PNG
+  exports and the script that draws them stay in the workshop.
+
 * * *
 
 ### 32. Reviews and stress tests
@@ -2173,6 +2227,10 @@ added, still to be walked, and the energy, micro-hydro, and wood heat
 modules published, with the water module at v0.4 (Sections 1, 3, 4,
 16, 26, 31, 34).
 
+**v0.11, 2026-10-06.** The Carpathian Earthship enters the map as a
+row of its own, published at L0 as a marked draft, and the decisions it
+asked for are recorded (Sections 1, 3, 4, 16, 31, 34).
+
 * * *
 
 ### 34. Release record
@@ -2182,12 +2240,14 @@ working draft, beside the three papers it gathers. It is changed as the
 work goes on, in the open, and each new version is released the same way,
 with both lines below dated again.
 
-- **Gate 1:** household decision, 2026-10-03, recorded by Michel
-  Garand — v0.10 may be released as it stands, as a working draft.
-- **Wartime review:** 2026-10-03, Michel Garand — v0.10 read against
-  Section 2; names no place; the shelter, the safety link, the battery,
-  the generator, and the fuel store in standing format; the new rows
-  name no authority, place, or day; accepted.
+- **Gate 1:** household decision, 2026-10-07, recorded by Michel Garand —
+  v0.11 may be released as it stands, as a working draft.
+- **Wartime review:** 2026-10-07, Michel Garand — v0.11 read against
+  Section 2; names no place; the Earthship row and its shelter in
+  standing format; accepted.
+
+Version 0.10 was released on 2026-10-03 with the household's Gate 1
+and a wartime review, both recorded by Michel Garand.
 
 Version 0.9 was released on 2026-10-02 with the household's Gate 1 and
 a wartime review, both recorded by Michel Garand.
