@@ -9,6 +9,9 @@ on:
     paths-ignore:
       - '**/index.html'
       - '.github/**'
+      - 'catalogue/**'
+      - 'sitemap.xml'
+      - 'robots.txt'
   # Manual trigger — run this from the Actions tab to force a rebuild + redeploy
   # of whatever is currently on main (used to un-stick a stale Pages deployment).
   workflow_dispatch:
@@ -37,8 +40,20 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Regenerate directory indexes
-        run: python gen_indexes_dynamic.py --repo-root .
+      # The generator has a built-in front-matter reader; PyYAML is the
+      # reference parser and is preferred when available.
+      - name: Install PyYAML
+        run: pip install pyyaml
+
+      - name: Regenerate directory indexes and OER landing pages
+        run: python gen_indexes_dynamic.py --repo-root . --report "$RUNNER_TEMP/oer_gaps.csv"
+
+      - name: Keep the OER metadata gap report
+        uses: actions/upload-artifact@v4
+        with:
+          name: oer-metadata-gaps
+          path: ${{ runner.temp }}/oer_gaps.csv
+          if-no-files-found: ignore
 
       - name: Commit regenerated indexes (only if changed)
         run: |
