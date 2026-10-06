@@ -19,5 +19,11 @@ defaults:
     values: { layout: none, sitemap: false }
   - scope: { path: "Carpathian_OER_Commons" }
     values: { layout: none, sitemap: false }
+  # Landing pages and catalogue files written by gen_indexes_dynamic.py, which
+  # also writes /sitemap.xml listing the landing pages.
+  - scope: { path: "resources" }
+    values: { layout: none, sitemap: false }
+  - scope: { path: "catalogue" }
+    values: { layout: none, sitemap: false }
   - scope: { path: "", type: "pages" }
     values: { layout: "default" }
