@@ -3117,6 +3117,158 @@
         "LearningResource",
         "CreativeWork"
       ],
+      "@id": "https://ubeccommon.github.io/resources/erdpuls/seasonal-table-beginners-guide/en/",
+      "url": "https://ubeccommon.github.io/resources/erdpuls/seasonal-table-beginners-guide/en/",
+      "identifier": "erdpuls/seasonal-table-beginners-guide/en",
+      "name": "Seasonal Tables for Beginners",
+      "inLanguage": "en",
+      "isAccessibleForFree": true,
+      "alternativeHeadline": "A Window onto the Year — A Guide from the Hutsul Heartland for Families, Schools and Citizen Science",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": {
+        "@type": "Person",
+        "name": "Michel Garand"
+      },
+      "version": "1.1",
+      "datePublished": "2026-10",
+      "creativeWorkStatus": "Concept Document — for review and programme development",
+      "isPartOf": {
+        "@type": "Collection",
+        "name": "Erdpuls OER Collection",
+        "url": "https://ubeccommon.github.io/resources/erdpuls/"
+      },
+      "encoding": [
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://raw.githubusercontent.com/ubeccommon/ubeccommon.github.io/main/Pattern_Language_of_Place/oer/docs/EN/seasonal_table_beginners_guide_EN_v1_1.md",
+          "encodingFormat": "text/markdown"
+        }
+      ],
+      "workTranslation": [
+        {
+          "@id": "https://ubeccommon.github.io/resources/erdpuls/seasonal-table-beginners-guide/de/"
+        },
+        {
+          "@id": "https://ubeccommon.github.io/resources/erdpuls/seasonal-table-beginners-guide/uk/"
+        },
+        {
+          "@id": "https://ubeccommon.github.io/resources/erdpuls/seasonal-table-beginners-guide/pl/"
+        }
+      ]
+    },
+    {
+      "@type": [
+        "LearningResource",
+        "CreativeWork"
+      ],
+      "@id": "https://ubeccommon.github.io/resources/erdpuls/seasonal-table-beginners-guide/de/",
+      "url": "https://ubeccommon.github.io/resources/erdpuls/seasonal-table-beginners-guide/de/",
+      "identifier": "erdpuls/seasonal-table-beginners-guide/de",
+      "name": "Jahreszeitentische für Anfänger",
+      "inLanguage": "de",
+      "isAccessibleForFree": true,
+      "alternativeHeadline": "Ein Fenster zum Jahr — Ein Leitfaden aus dem Huzulenland für Familien, Schulen und Bürgerwissenschaft",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": {
+        "@type": "Person",
+        "name": "Michel Garand"
+      },
+      "version": "1.1",
+      "datePublished": "2026-10",
+      "creativeWorkStatus": "Konzeptdokument — zur Prüfung und Programmentwicklung",
+      "isPartOf": {
+        "@type": "Collection",
+        "name": "Erdpuls OER Collection",
+        "url": "https://ubeccommon.github.io/resources/erdpuls/"
+      },
+      "encoding": [
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://raw.githubusercontent.com/ubeccommon/ubeccommon.github.io/main/Pattern_Language_of_Place/oer/docs/DE/seasonal_table_beginners_guide_DE_v1_1.md",
+          "encodingFormat": "text/markdown"
+        }
+      ],
+      "translationOfWork": {
+        "@id": "https://ubeccommon.github.io/resources/erdpuls/seasonal-table-beginners-guide/en/"
+      }
+    },
+    {
+      "@type": [
+        "LearningResource",
+        "CreativeWork"
+      ],
+      "@id": "https://ubeccommon.github.io/resources/erdpuls/seasonal-table-beginners-guide/uk/",
+      "url": "https://ubeccommon.github.io/resources/erdpuls/seasonal-table-beginners-guide/uk/",
+      "identifier": "erdpuls/seasonal-table-beginners-guide/uk",
+      "name": "Сезонний стіл для початківців",
+      "inLanguage": "uk",
+      "isAccessibleForFree": true,
+      "alternativeHeadline": "Вікно в рік — посібник із серця Гуцульщини для родин, шкіл і громадянської науки",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": {
+        "@type": "Person",
+        "name": "Michel Garand"
+      },
+      "version": "1.1",
+      "datePublished": "2026-10",
+      "creativeWorkStatus": "Концептуальний документ — для розгляду та розвитку програми",
+      "isPartOf": {
+        "@type": "Collection",
+        "name": "Erdpuls OER Collection",
+        "url": "https://ubeccommon.github.io/resources/erdpuls/"
+      },
+      "encoding": [
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://raw.githubusercontent.com/ubeccommon/ubeccommon.github.io/main/Pattern_Language_of_Place/oer/docs/UK/seasonal_table_beginners_guide_UK_v1_1.md",
+          "encodingFormat": "text/markdown"
+        }
+      ],
+      "translationOfWork": {
+        "@id": "https://ubeccommon.github.io/resources/erdpuls/seasonal-table-beginners-guide/en/"
+      }
+    },
+    {
+      "@type": [
+        "LearningResource",
+        "CreativeWork"
+      ],
+      "@id": "https://ubeccommon.github.io/resources/erdpuls/seasonal-table-beginners-guide/pl/",
+      "url": "https://ubeccommon.github.io/resources/erdpuls/seasonal-table-beginners-guide/pl/",
+      "identifier": "erdpuls/seasonal-table-beginners-guide/pl",
+      "name": "Stół pór roku dla początkujących",
+      "inLanguage": "pl",
+      "isAccessibleForFree": true,
+      "alternativeHeadline": "Okno na rok — przewodnik z Huculszczyzny dla rodzin, szkół i nauki obywatelskiej",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": {
+        "@type": "Person",
+        "name": "Michel Garand"
+      },
+      "version": "1.1",
+      "datePublished": "2026-10",
+      "creativeWorkStatus": "Dokument koncepcyjny — do przeglądu i rozwoju programu",
+      "isPartOf": {
+        "@type": "Collection",
+        "name": "Erdpuls OER Collection",
+        "url": "https://ubeccommon.github.io/resources/erdpuls/"
+      },
+      "encoding": [
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://raw.githubusercontent.com/ubeccommon/ubeccommon.github.io/main/Pattern_Language_of_Place/oer/docs/PL/seasonal_table_beginners_guide_PL_v1_1.md",
+          "encodingFormat": "text/markdown"
+        }
+      ],
+      "translationOfWork": {
+        "@id": "https://ubeccommon.github.io/resources/erdpuls/seasonal-table-beginners-guide/en/"
+      }
+    },
+    {
+      "@type": [
+        "LearningResource",
+        "CreativeWork"
+      ],
       "@id": "https://ubeccommon.github.io/resources/erdpuls/soilpigments-physics-framework/en/",
       "url": "https://ubeccommon.github.io/resources/erdpuls/soilpigments-physics-framework/en/",
       "identifier": "erdpuls/soilpigments-physics-framework/en",
