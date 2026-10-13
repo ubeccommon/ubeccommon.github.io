@@ -24,7 +24,7 @@ translated_from: "seasonal_table_beginners_guide_EN_v1_1.md"
 | **Wymiary zrównoważonego rozwoju** | Ekologiczny (fenologia, znajomość gatunków, wysokość nad poziomem morza), społeczny (wspólne tworzenie ponad pokoleniami; wiedza starszych), ekonomiczny (wystarczalność: to, co znalezione, zamiast tego, co kupione; wymiana miejscowej wełny i nasion), kulturowy (huculski rok pasterski; wielojęzyczne nazewnictwo) |
 | **Powiązania z SDG** | SDG 4 (edukacja: całościowe uczenie się oparte na doświadczeniu), SDG 13 (klimat: uwidocznienie przesuwających się pór roku), SDG 15 (życie na lądzie: znajomość gatunków, rośliny chronione, uważne zbieranie) |
 | **Powiązania z podstawą programową** | Edukacja przyrodnicza i przedmiot „Poznaję świat” (klasy początkowe); nauka STEAM poprzez obserwację, pomiar i dokumentowanie; plastyka i projektowanie; historia regionu i kultura ludowa |
-| **Podstawy metodyczne** | Obserwacja goetheańska (*delikatna empiria*), fenomenologia, język wzorców według Alexandra, proksemika według Halla, pedagogika waldorfska (rytm roku), fenologia, tradycyjna wiedza fenologiczna (Traditional Phenological Knowledge) |
+| **Podstawy metodyczne** | Obserwacja goetheańska (*zarte Empirie*, „delikatna empiria”), fenomenologia, język wzorców według Alexandra, proksemika według Halla, pedagogika waldorfska (rytm roku), fenologia, tradycyjna wiedza fenologiczna (Traditional Phenological Knowledge) |
 | **Wymagania wstępne** | Brak. Wystarczy chusta, koszyk i spacer. |
 
 * * *
@@ -42,8 +42,9 @@ translated_from: "seasonal_table_beginners_guide_EN_v1_1.md"
 
 Stół pór roku to małe, starannie zaaranżowane miejsce w domu, przedszkolu lub klasie, w którym to, co właśnie dzieje się na zewnątrz, staje się widoczne w spokojnej i pięknej formie. Nie wymaga ani wiedzy specjalistycznej, ani pieniędzy. Wymaga uwagi.
 
-Ten przewodnik splata cztery wątki, o których rzadko myśli się razem:
+Ten przewodnik splata pięć wątków, o których rzadko myśli się razem:
 
+- **Obserwacja goetheańska i fenomenologia** — *zarte Empirie* Goethego („delikatna empiria”): pozwolić zjawisku ukazać się dzięki uważnej, zmysłowej obserwacji, zanim cokolwiek zostanie wyjaśnione, i traktować własne ciało jako instrument obok czujnika.
 - **Waldorfski stół pór roku**, który za pomocą koloru, nastroju i motywów świątecznych tworzy *obraz* zmieniającego się roku.
 - **Kącik przyrody w przedszkolach Europy Wschodniej** — po polsku *kącik przyrody*, po ukraińsku *куточок природи* — który stawia na *obserwację, pielęgnację i kalendarz przyrody*.
 - **Fenologia**, czyli nauka o tym, kiedy co dzieje się w przyrodzie: pierwsze kwiaty, rozwój liści, dojrzewanie owoców, opadanie liści. W Karpatach podtrzymuje ją *Літопис природи* (Kronika przyrody), prowadzona przez rezerwaty przyrody.

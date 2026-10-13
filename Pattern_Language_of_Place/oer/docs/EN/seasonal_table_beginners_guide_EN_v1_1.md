@@ -23,7 +23,7 @@ part_of: "Pattern Language of Place — Carpathian Hub Initiative"
 | **Sustainability Dimensions** | Ecological (phenology, species knowledge, altitude), social (shared making across generations; elders' knowledge), economic (sufficiency: found rather than bought; local wool and seed exchange), cultural (Hutsul pastoral year; multilingual naming) |
 | **SDG Links** | SDG 4 (education: holistic, experiential learning), SDG 13 (climate: making shifting seasons visible), SDG 15 (life on land: species knowledge, protected plants, careful collecting) |
 | **Curriculum Links** | Nature studies and "I explore the world" (primary); STEAM learning through observing, measuring, recording; art and design; local history and folk culture |
-| **Methodological Foundations** | Goethean observation (*delicate empiricism*), phenomenology, Alexander's pattern language, Hall's proxemics, Waldorf pedagogy (rhythm of the year), phenology, Traditional Phenological Knowledge |
+| **Methodological Foundations** | Goethean observation (*zarte Empirie*, "delicate empiricism"), phenomenology, Alexander's pattern language, Hall's proxemics, Waldorf pedagogy (rhythm of the year), phenology, Traditional Phenological Knowledge |
 | **Prerequisites** | None. A cloth, a basket and a walk are enough. |
 
 * * *
@@ -41,8 +41,9 @@ part_of: "Pattern Language of Place — Carpathian Hub Initiative"
 
 A seasonal table is a small, carefully arranged place in a home, kindergarten or classroom where what is happening outside becomes visible in a calm and beautiful form. It needs neither expertise nor money. It needs attention.
 
-This guide brings together four strands that are rarely thought of together:
+This guide brings together five strands that are rarely thought of together:
 
+- **Goethean observation and phenomenology** — Goethe's *zarte Empirie* ("delicate empiricism"): letting a phenomenon show itself through careful, sense-based attention before anything is explained, and treating one's own body as an instrument alongside the sensor.
 - **The Waldorf seasonal table**, which uses colour, mood and festival motifs to create a *picture* of the turning year.
 - **The nature corner of Eastern European kindergartens** — Ukrainian *куточок природи*, Polish *kącik przyrody* — which relies on *observation, care and a nature calendar*.
 - **Phenology**, the science of when things happen in nature: first flowers, leafing, ripening, leaf fall. In the Carpathians it is kept alive by the *Літопис природи* (Chronicle of Nature) of the nature reserves.

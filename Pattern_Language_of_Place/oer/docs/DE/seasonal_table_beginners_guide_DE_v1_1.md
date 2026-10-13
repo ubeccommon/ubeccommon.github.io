@@ -42,8 +42,9 @@ translated_from: "seasonal_table_beginners_guide_EN_v1_1.md"
 
 Ein Jahreszeitentisch ist ein kleiner, sorgfältig gestalteter Ort im Haus, im Kindergarten oder im Klassenzimmer, an dem das, was draußen gerade geschieht, in ruhiger und schöner Form sichtbar wird. Er braucht weder Fachwissen noch Geld. Er braucht Aufmerksamkeit.
 
-Dieser Leitfaden verbindet vier Stränge, die selten zusammen gedacht werden:
+Dieser Leitfaden verbindet fünf Stränge, die selten zusammen gedacht werden:
 
+- **Die Goethesche Beobachtung und die Phänomenologie** — Goethes *zarte Empirie*: ein Phänomen durch sorgfältige, sinnliche Aufmerksamkeit sich selbst zeigen lassen, bevor etwas erklärt wird, und den eigenen Leib als Instrument neben dem Sensor ernst nehmen.
 - **Den Waldorf-Jahreszeitentisch**, der mit Farbe, Stimmung und Festmotiven ein *Bild* des sich wandelnden Jahres schafft.
 - **Die Naturecke osteuropäischer Kindergärten** — ukrainisch *куточок природи*, polnisch *kącik przyrody* — die auf *Beobachtung, Pflege und Naturkalender* setzt.
 - **Die Phänologie**, die Wissenschaft davon, wann in der Natur etwas geschieht: erste Blüten, Blattaustrieb, Reife, Laubfall. In den Karpaten halten sie die Naturschutzgebiete mit ihrer *Літопис природи*, der Chronik der Natur, lebendig.
