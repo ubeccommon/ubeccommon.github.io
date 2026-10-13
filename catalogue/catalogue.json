@@ -3142,6 +3142,11 @@
           "@type": "MediaObject",
           "contentUrl": "https://raw.githubusercontent.com/ubeccommon/ubeccommon.github.io/main/Pattern_Language_of_Place/oer/docs/EN/seasonal_table_beginners_guide_EN_v1_1.md",
           "encodingFormat": "text/markdown"
+        },
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://ubeccommon.github.io/Pattern_Language_of_Place/oer/docs/EN/pdf/seasonal_table_beginners_guide_EN_v1_1.pdf",
+          "encodingFormat": "application/pdf"
         }
       ],
       "workTranslation": [
@@ -3186,6 +3191,11 @@
           "@type": "MediaObject",
           "contentUrl": "https://raw.githubusercontent.com/ubeccommon/ubeccommon.github.io/main/Pattern_Language_of_Place/oer/docs/DE/seasonal_table_beginners_guide_DE_v1_1.md",
           "encodingFormat": "text/markdown"
+        },
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://ubeccommon.github.io/Pattern_Language_of_Place/oer/docs/DE/pdf/seasonal_table_beginners_guide_DE_v1_1.pdf",
+          "encodingFormat": "application/pdf"
         }
       ],
       "translationOfWork": {
@@ -3222,6 +3232,11 @@
           "@type": "MediaObject",
           "contentUrl": "https://raw.githubusercontent.com/ubeccommon/ubeccommon.github.io/main/Pattern_Language_of_Place/oer/docs/UK/seasonal_table_beginners_guide_UK_v1_1.md",
           "encodingFormat": "text/markdown"
+        },
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://ubeccommon.github.io/Pattern_Language_of_Place/oer/docs/UK/pdf/seasonal_table_beginners_guide_UK_v1_1.pdf",
+          "encodingFormat": "application/pdf"
         }
       ],
       "translationOfWork": {
@@ -3258,6 +3273,11 @@
           "@type": "MediaObject",
           "contentUrl": "https://raw.githubusercontent.com/ubeccommon/ubeccommon.github.io/main/Pattern_Language_of_Place/oer/docs/PL/seasonal_table_beginners_guide_PL_v1_1.md",
           "encodingFormat": "text/markdown"
+        },
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://ubeccommon.github.io/Pattern_Language_of_Place/oer/docs/PL/pdf/seasonal_table_beginners_guide_PL_v1_1.pdf",
+          "encodingFormat": "application/pdf"
         }
       ],
       "translationOfWork": {
